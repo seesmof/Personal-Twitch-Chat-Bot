@@ -13,7 +13,7 @@ import math
 import random
 
 # Set up the OpenAI API key and model ID
-openai.api_key = "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"
+openai.api_key = "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"
 model_id = "text-davinci-003"
 
 
