@@ -13,7 +13,7 @@ import math
 import random
 
 # Set up the OpenAI API key and model ID
-openai.api_key = "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"
+openai.api_key = "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"
 model_id = "text-davinci-003"
 
 
@@ -21,7 +21,7 @@ def generate_response(input_text):
     response = openai.Completion.create(
         engine=model_id,
         prompt=input_text,
-        max_tokens=200,
+        max_tokens=150,
         n=1,
         stop=None,
         temperature=0.5,
@@ -106,7 +106,10 @@ async def telegram_show(ctx):
 
 @bot.command(name='єнот')
 async def give_raccoon(ctx):
-    await ctx.send(f"@{ctx.author.name}, на єнота RaccAttack")
+    username = ctx.content[5:]
+    if "@" not in username:
+        username = '@' + ctx.author.name
+    await ctx.send(f"{username}, на єнота RaccAttack")
 
 
 @bot.command(name='гпт')
