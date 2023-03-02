@@ -13,7 +13,7 @@ import math
 import random
 
 # Set up the OpenAI API key and model ID
-openai.api_key = "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"
+openai.api_key = "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"
 model_id = "text-davinci-003"
 
 
@@ -21,7 +21,7 @@ def generate_response(input_text):
     response = openai.Completion.create(
         engine=model_id,
         prompt=input_text,
-        max_tokens=150,
+        max_tokens=400,
         n=1,
         stop=None,
         temperature=0.5,
@@ -91,12 +91,12 @@ async def event_message(ctx):
     letters = ["э", "ы", "ё", "ъ"]
     if check_for_letters(text, letters):
         print("DETECTION")
-        await ctx.channel.send(f"@{ctx.author.name}, йой, козаче, кацапська заборонена в цьому чаті cmonBruh")
+        await ctx.channel.send(f"@{ctx.author.name}, йой, козаче, міняй розкладку бо зара бан отримаєш cmonBruh")
 
 
 @bot.command(name='інфа')
 async def show_info(ctx):
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!дн @нік\", \"!hi @нік\", \"!окса\", \"!єнот\", \"!щіщ\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще. Щоб використати ChatGPT, просто тегніть @wuyodo і Ви отримаєте відповідь на питання GlitchCat")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!hi\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн @нік\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @bot.command(name='тг')
@@ -117,11 +117,6 @@ async def gpt_instruction(ctx):
     await ctx.send(f"@{ctx.author.name}, для того, щоб отримати відповідь від ChatGPT, просто почніть Ваше повідомлення з @wuyodo і продовжіть Вашим питанням. Через деякий час ви отримаєте відповідь, згенеровану ботом ChatGPT :)")
 
 
-@bot.command(name='щіщ')
-async def say_sheesh(ctx):
-    await ctx.send(f"ЩІІІІЩ")
-
-
 @bot.command(name='окса')
 async def say_hi_to_oxa(ctx):
     await ctx.send(f"Оксано, привіт!")
@@ -140,6 +135,25 @@ async def telegram_show(ctx):
     greetings = ["Здоров!", "Привіт!", "Вітаю!",
                  "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
     await ctx.send(f"{username}, {random.choice(greetings)}")
+
+
+@bot.command(name='гам')
+async def telegram_show(ctx):
+    username = ctx.content[4:]
+    if "@" not in username:
+        username = '@' + ctx.author.name
+    shenanigans = ["Гамно", "гамно", "ГАМНО", "ГАМНООО",
+                   "ГАМНОО", "ГАМНОООО", "Лайно", "лайно", "ЛАЙНО", "ЛАЙНОО", "ЛАЙНООО", "ЛАЙНОООО", "Гівно", "гівно", "ГІВНО", "ГІВНОО", "ГІВНООО", "ГІВНОООО"]
+    await ctx.send(f"{username}, {random.choice(shenanigans)}")
+
+
+@bot.command(name='щіщ')
+async def telegram_show(ctx):
+    username = ctx.content[4:]
+    if "@" not in username:
+        username = '@' + ctx.author.name
+    shenanigans = ["щіщ", "ЩІЩ", "ЩІІЩ", "ЩІІІЩ", "ЩІІІІЩ"]
+    await ctx.send(f"{username}, {random.choice(shenanigans)}")
 
 
 @bot.command(name='дн')
