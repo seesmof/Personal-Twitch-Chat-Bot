@@ -20,20 +20,16 @@ openai.api_key = "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"
 model_engine = "gpt-3.5-turbo"
 
 
-def generate_response(input_text):
-    # Send an API request and get a response, note that the interface and parameters have changed compared to the old model
+def generate_response(message_log):
     response = openai.ChatCompletion.create(
         model=model_engine,
-        messages=[{"role": "system", "content": "Ти - бот в чаті Твіч стрімера, якого звати Федя, він же Василь, Піксельний Федя або Піксельний. Твоя задача - допомагати користувачам чату. Ти спілкуєшся лише Українською та Англійською мовами. Якщо користувач звертається до тебе російською, реагуй виключно негативно і відмовляйся спілкуватись з ним."}, {
-            "role": "user", "content": input_text}],
+        messages=message_log,
         max_tokens=150,
         temperature=0.7,
         top_p=1,
         frequency_penalty=0.0,
         presence_penalty=0.0,
     )
-
-    # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
 
@@ -82,9 +78,16 @@ async def event_message(ctx):
         print(f"\nBOT: {ctx.content}")
         return
 
+    message_log = [{"role": "system", "content": "Ти - бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."}]
+    message_log.append(
+        {"role": "assistant", "content": "Ти - бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."})
     if ctx.content.startswith("@wuyodo"):
         input_text = ctx.content[len("@wuyodo"):].strip()
-        output_text = generate_response(input_text)
+        message_log.append({"role": "user", "content": input_text})
+
+        output_text = generate_response(message_log)
+        message_log.append({"role": "assistant", "content": output_text})
+
         try:
             await ctx.channel.send("@" + ctx.author.name + ", " + output_text)
         except Exception as e:
@@ -104,17 +107,17 @@ async def event_message(ctx):
     print(f"\n{ctx.author.name}: {ctx.content}")
 
 
-@bot.command(name='інфа')
+@ bot.command(name='інфа')
 async def show_info(ctx):
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн @нік\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
-@bot.command(name='тг')
+@ bot.command(name='тг')
 async def telegram_show(ctx):
     await ctx.send(f"@{ctx.author.name}, аби не пропускати стріми Піксельного, підписуйтесь на наш Телеграм канал за посиланням @pixelfedya в пошуку Телеграму TehePelo")
 
 
-@bot.command(name='єнот')
+@ bot.command(name='єнот')
 async def give_raccoon(ctx):
     username = ctx.content[5:]
     if "@" not in username:
@@ -122,22 +125,22 @@ async def give_raccoon(ctx):
     await ctx.send(f"{username}, на єнота RaccAttack")
 
 
-@bot.command(name='гпт')
+@ bot.command(name='гпт')
 async def gpt_instruction(ctx):
     await ctx.send(f"@{ctx.author.name}, для того, щоб отримати відповідь від ChatGPT, просто почніть Ваше повідомлення з @wuyodo і продовжіть Вашим питанням. Через деякий час ви отримаєте відповідь, згенеровану ботом ChatGPT :)")
 
 
-@bot.command(name='окса')
+@ bot.command(name='окса')
 async def say_hi_to_oxa(ctx):
     await ctx.send(f"Оксано, привіт!")
 
 
-@bot.command(name='додай')
+@ bot.command(name='додай')
 async def add_feature(ctx):
     await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
 
 
-@bot.command(name='пр')
+@ bot.command(name='пр')
 async def telegram_show(ctx):
     username = ctx.content[3:]
     if "@" not in username:
@@ -147,7 +150,7 @@ async def telegram_show(ctx):
     await ctx.send(f"{username}, {random.choice(greetings)}")
 
 
-@bot.command(name='hi')
+@ bot.command(name='hi')
 async def telegram_show(ctx):
     username = ctx.content[3:]
     if "@" not in username:
@@ -157,7 +160,7 @@ async def telegram_show(ctx):
     await ctx.send(f"{username}, {random.choice(greetings)}")
 
 
-@bot.command(name='гам')
+@ bot.command(name='гам')
 async def telegram_show(ctx):
     username = ctx.content[4:]
     if "@" not in username:
@@ -167,7 +170,7 @@ async def telegram_show(ctx):
     await ctx.send(f"{username}, {random.choice(shenanigans)}")
 
 
-@bot.command(name='щіщ')
+@ bot.command(name='щіщ')
 async def telegram_show(ctx):
     username = ctx.content[4:]
     if "@" not in username:
@@ -176,7 +179,7 @@ async def telegram_show(ctx):
     await ctx.send(f"{username}, {random.choice(shenanigans)}")
 
 
-@bot.command(name='дн')
+@ bot.command(name='дн')
 async def birthday_congrats(ctx):
     username = ctx.content[3:]
     # Congratulate the user
@@ -185,7 +188,7 @@ async def birthday_congrats(ctx):
     await ctx.send(f'{username}, {random.choice(greetings)}')
 
 
-@bot.command(name='шанс')
+@ bot.command(name='шанс')
 async def give_chance(ctx):
     chance = random.randint(1, 100)
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
