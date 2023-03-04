@@ -1,37 +1,47 @@
+# include necessary libraries/files
 import os
 import json
-
 from pathlib import Path
 from dotenv import load_dotenv
 from os.path import join, dirname
 from twitchio.ext import commands
-
 import time
 import asyncio
 import openai
 import math
 import random
+from playsound import playsound
 
-# Set up the OpenAI API key and model ID
+# for handling sound file location
+sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
+# for handling OpenAI API key
 openai.api_key = "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"
-model_id = "text-davinci-003"
+# Then, you can call the "gpt-3.5-turbo" model
+model_engine = "gpt-3.5-turbo"
 
 
 def generate_response(input_text):
-    response = openai.Completion.create(
-        engine=model_id,
-        prompt=input_text,
-        max_tokens=400,
-        n=1,
-        stop=None,
-        temperature=0.5,
+    # Send an API request and get a response, note that the interface and parameters have changed compared to the old model
+    response = openai.ChatCompletion.create(
+        model=model_engine,
+        messages=[{"role": "system", "content": "Ти - бот в чаті Твіч стрімера, якого звати Федя, він же Василь, Піксельний Федя або Піксельний. Твоя задача - допомагати користувачам чату. Ти спілкуєшся лише Українською та Англійською мовами. Якщо користувач звертається до тебе російською, реагуй виключно негативно і відмовляйся спілкуватись з ним."}, {
+            "role": "user", "content": input_text}],
+        max_tokens=150,
+        temperature=0.7,
+        top_p=1,
+        frequency_penalty=0.0,
+        presence_penalty=0.0,
     )
-    text = response.choices[0].text.strip()
-    return text
+
+    # Parse the response and output the result
+    output_text = response['choices'][0]['message']['content']
+    return output_text
 
 
 def check_for_letters(text, letters):
+    # for each letter in letters list
     for letter in letters:
+        # check if letter is in the list
         if letter in text:
             return True
     return False
@@ -73,30 +83,30 @@ async def event_message(ctx):
         return
 
     if ctx.content.startswith("@wuyodo"):
-        # Strip out the "!гпт" command and pass the remaining text to the GPT-3 model
         input_text = ctx.content[len("@wuyodo"):].strip()
-        input_text += " Дай просту відповідь Українською"
         output_text = generate_response(input_text)
         try:
             await ctx.channel.send("@" + ctx.author.name + ", " + output_text)
         except Exception as e:
-            await ctx.channel.send("@" + ctx.author.name + ", Ой-ой... Моє повідомлення не вмістилось в чат. Спробуйте трохи пізніши або змініть свій запит.")
+            await ctx.channel.send("@" + ctx.author.name + ", Ой-ой... Моє повідомлення не вмістилось в чат. Спробуйте трохи пізніши або змініть свій запит")
+
+    names = ["seesmof", "сісмуф", "сісмоф", "seesmoff", "олег"]
+    if check_for_letters(ctx.content.lower(), names):
+        playsound(sound_path)
+
+    letters = ["э", "ы", "ё", "ъ"]
+    if check_for_letters(ctx.content.lower(), letters):
+        await ctx.channel.send(f"@{ctx.author.name}, йой, козаче, міняй розкладку бо зара бан отримаєш cmonBruh")
 
     # relay message to command callbacks
     await bot.handle_commands(ctx)
 
     print(f"\n{ctx.author.name}: {ctx.content}")
 
-    text = ctx.content
-    letters = ["э", "ы", "ё", "ъ"]
-    if check_for_letters(text, letters):
-        print("DETECTION")
-        await ctx.channel.send(f"@{ctx.author.name}, йой, козаче, міняй розкладку бо зара бан отримаєш cmonBruh")
-
 
 @bot.command(name='інфа')
 async def show_info(ctx):
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!hi\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн @нік\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн @нік\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @bot.command(name='тг')
@@ -127,13 +137,23 @@ async def add_feature(ctx):
     await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
 
 
-@bot.command(name='hi')
+@bot.command(name='пр')
 async def telegram_show(ctx):
     username = ctx.content[3:]
     if "@" not in username:
         username = '@' + ctx.author.name
     greetings = ["Здоров!", "Привіт!", "Вітаю!",
                  "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
+    await ctx.send(f"{username}, {random.choice(greetings)}")
+
+
+@bot.command(name='hi')
+async def telegram_show(ctx):
+    username = ctx.content[3:]
+    if "@" not in username:
+        username = '@' + ctx.author.name
+    greetings = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
+                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
     await ctx.send(f"{username}, {random.choice(greetings)}")
 
 
