@@ -7,8 +7,8 @@ from playsound import playsound
 
 import openai
 import random
-import os
 import datetime
+import os
 
 # for handling sound file location
 sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
@@ -60,6 +60,10 @@ CLIENT_ID = os.environ.get('CLIENT_ID')
 BOT_NICK = os.environ.get('BOT_NICK')
 BOT_PREFIX = os.environ.get('BOT_PREFIX')
 CHANNEL = os.environ.get('CHANNEL')
+# for handling logging messages in an appropriate folder
+log_dir = 'logs'
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -76,7 +80,7 @@ async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
     # log the start message
-    write_to_log(f"is online at {CHANNEL}", "BOT")
+    write_to_log(f"is online at {CHANNEL}", "    BOT")
 
 
 @bot.event
@@ -85,7 +89,7 @@ async def event_message(ctx):
     if ctx.author.name.lower() == BOT_NICK.lower():
         # print out bot's message to log
         print(f"\nBOT: {ctx.content}")
-        write_to_log(ctx.content, "    BOT")
+        write_to_log(ctx.content, "BOT")
         return
 
     # for handling ChatGPT requests from chat
@@ -128,8 +132,10 @@ def write_to_log(message, author):
     now = datetime.datetime.now()
     # for handling the file name
     file_name = "log_" + now.strftime("%d-%m-%Y") + ".txt"
+    # for handling the file path
+    file_path = os.path.join(log_dir, file_name)
     # open file with appropriate decoding
-    with open(file_name, "a", encoding="utf-8") as log_file:
+    with open(file_path, "a", encoding="utf-8") as log_file:
         # declare and output timestamp before message
         timestamp = datetime.datetime.now().strftime('%H:%M:%S')
         log_file.write(timestamp)
