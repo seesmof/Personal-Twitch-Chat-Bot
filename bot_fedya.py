@@ -25,12 +25,23 @@ bot = commands.Bot(
     initial_channels=[CHANNEL]
 )
 
-
-@bot.event
-async def event_stream_online(self, stream):
-    channel = await self.get_channel(CHANNEL)
-    bot.run()
-    await channel.send("Всім привіт!")
+# for handling logging messages in an appropriate folder
+log_dir = "D:\GitHub\python-twitchio-chat-bot\logs"
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+# for handling sound file location
+sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
+# for handling OpenAI API key
+openai.api_key = "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"
+# for handling OpenAI model name
+model_engine = "gpt-3.5-turbo"
+# create a list of greetings
+greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
+                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
+# create a list of greetings
+greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
+                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
+last_message_time = {}
 
 
 @bot.event
@@ -39,14 +50,6 @@ async def event_ready():
     print(f"{BOT_NICK} is online at {CHANNEL}!")
     # log the start message
     write_to_log(f"is online at {CHANNEL}", "    BOT")
-
-# create a list of greetings
-greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
-                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-# create a list of greetings
-greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
-                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
-last_message_time = {}
 
 
 @bot.event
