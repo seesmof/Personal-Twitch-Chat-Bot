@@ -10,60 +10,31 @@ import openai
 import random
 import os
 
+# for handling logging messages in an appropriate folder
+log_dir = "D:\GitHub\python-twitchio-chat-bot\logs"
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
 # for handling sound file location
 sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
 # for handling OpenAI API key
 openai.api_key = "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"
 # for handling OpenAI model name
 model_engine = "gpt-3.5-turbo"
-
-
-def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Ти - Олекса, бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."
-    forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
-    forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
-
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=100,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-
-
-def check_for_letters(text, letters):
-    # for each letter in letters list
-    for letter in letters:
-        # check if letter is in the list
-        if letter in text:
-            return True
-    return False
+# create a list of greetings
+greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
+                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
+# create a list of greetings
+greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
+                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
+last_message_time = {}
 
 
 # handle the .env file and get content from it
-dir_path = os.path.dirname(os.path.realpath(__file__))
-dotenv_path = join(dir_path, '.env')
-load_dotenv(dotenv_path)
-TMI_TOKEN = os.environ.get('TMI_TOKEN')
-CLIENT_ID = os.environ.get('CLIENT_ID')
-BOT_NICK = os.environ.get('BOT_NICK')
-BOT_PREFIX = os.environ.get('BOT_PREFIX')
-CHANNEL = os.environ.get('CHANNEL')
-# for handling logging messages in an appropriate folder
-log_dir = 'logs'
-if not os.path.exists(log_dir):
-    os.makedirs(log_dir)
+TMI_TOKEN = "oauth:0purffc2ao53hdg254j26okkj1fh76"
+CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
+BOT_NICK = "wuyodo"
+BOT_PREFIX = "!"
+CHANNEL = input("\nChannel: ")
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -76,26 +47,11 @@ bot = commands.Bot(
 
 
 @bot.event
-async def event_stream_online(self, stream):
-    channel = await self.get_channel(CHANNEL)
-    bot.run()
-    await channel.send("Всім привіт!")
-
-
-@bot.event
 async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
     # log the start message
     write_to_log(f"is online at {CHANNEL}", "    BOT")
-
-# create a list of greetings
-greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
-                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-# create a list of greetings
-greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
-                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
-last_message_time = {}
 
 
 @bot.event
@@ -157,11 +113,42 @@ async def event_message(ctx):
     write_to_log(ctx.content, ctx.author.name)
 
 
+def generate_response(input_text):
+    # parameters list
+    forPixelFedya = "Ти - Олекса, бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."
+    forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
+    forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
+    # generate a response message with the following parameters
+    response = openai.ChatCompletion.create(
+        # model was specified before
+        model=model_engine,
+        # message information for model to process and create upon
+        messages=[{"role": "system", "content": forPixelFedya}, {
+            "role": "user", "content": input_text}],
+        # maximum number of tokens to return
+        max_tokens=100,
+        # model's temperature or its creativeness
+        temperature=0.7,
+    )
+    # Parse the response and output the result
+    output_text = response['choices'][0]['message']['content']
+    return output_text
+
+
+def check_for_letters(text, letters):
+    # for each letter in letters list
+    for letter in letters:
+        # check if letter is in the list
+        if letter in text:
+            return True
+    return False
+
+
 def write_to_log(message, author):
     # for handling current time
     now = datetime.now()
     # for handling the file name
-    file_name = "log_" + now.strftime("%d-%m-%Y") + ".txt"
+    file_name = CHANNEL + "_log_" + now.strftime("%d-%m-%Y") + ".txt"
     # for handling the file path
     file_path = os.path.join(log_dir, file_name)
     # open file with appropriate decoding
@@ -258,8 +245,12 @@ async def telegram_show(ctx):
 
 @bot.command(name='дн')
 async def birthday_congrats(ctx):
-    # get username from the message
+    # get username from message
     username = ctx.content[3:]
+    # if not user was mentioned
+    if "@" not in username:
+        # then set username to user who sent the message
+        username = '@' + ctx.author.name
     # create a list of random greetings
     greetings = ['З днем народження! Сьогодні день, коли здійснюються Ваші мрії і виконуються Ваші бажання. У цей особливий день я бажаю Вам щастя та успіху на все життя. Нехай благополуччя, радість і любов оточують Вас сьогодні і завжди. Всього найкращого в цей особливий день!', 'З Днем народження! Це Ваш особливий день, і я бажаю Вам щасливого святкування! Нехай цей день буде наповнений радістю, міцним здоров`ям і великою удачею. Нехай наступний рік буде сповнений успіхом та щастям. Насолоджуйтесь особливими моментами свого дня народження та цінуйте любов і тепло своїх близьких. Нехай наступний рік буде найкращим!',
                  'З Днем народження! Нехай цей особливий день буде наповнений радістю і сміхом. Нехай Ваше серце буде переповнене щастям, а дні будуть сповнені чудовими моментами. Бажаємо удачі та успіхів у всіх Ваших починаннях. Фантастичного дня!!', 'З Днем народження! Нехай цей особливий день буде наповнений радістю та світлими почуттями. Бажаємо Вам всього найкращого в житті, нехай здійсняться всі Ваші мрії та прагнення. Нехай наступний рік буде надзвичайно успішним!', 'Вітаємо з днем народження у цей особливий день! Нехай цей рік принесе Вам багато позитиву, радості та успіху. Бажаю Вам всього найкращого в житті, і нехай всі Ваші мрії здійсняться. Гарного дня та чудового наступного року!', 'Вітаємо з днем народження! Нехай цей особливий день буде наповнений морем веселощів, любові та сміху. Бажаю, щоб цей рік був чудовим і щоб Ви досягли всіх своїх цілей. Бажаю прекрасного життя, сповненого благословень. З днем народження!']
