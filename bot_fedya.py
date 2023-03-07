@@ -4,10 +4,10 @@ from dotenv import load_dotenv
 from os.path import join, dirname
 from twitchio.ext import commands
 from playsound import playsound
-from datetime import datetime
 
 import openai
 import random
+import datetime
 import os
 
 TMI_TOKEN = "oauth:0purffc2ao53hdg254j26okkj1fh76"
@@ -60,21 +60,6 @@ async def event_message(ctx):
         print(f"\nBOT: {ctx.content}")
         write_to_log(ctx.content, "BOT")
         return
-
-    global last_message_time
-    user = ctx.author.name
-    if user not in last_message_time:
-        # user is sending the first message of the day
-        last_message_time[user] = datetime.now()
-        await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо KonCha")
-    else:
-        # user has sent a message before
-        last_time = last_message_time[user]
-        today = datetime.now().date()
-        if last_time.date() < today:
-            # user is sending the first message of the day
-            last_message_time[user] = datetime.now()
-            await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо KonCha")
 
     # for handling ChatGPT requests from chat
     if ctx.content.startswith("@wuyodo"):
@@ -144,7 +129,7 @@ def check_for_letters(text, letters):
 
 def write_to_log(message, author):
     # for handling current time
-    now = datetime.now()
+    now = datetime.datetime.now()
     # for handling the file name
     file_name = "fedya_log_" + now.strftime("%d-%m-%Y") + ".txt"
     # for handling the file path
@@ -152,7 +137,7 @@ def write_to_log(message, author):
     # open file with appropriate decoding
     with open(file_path, "a", encoding="utf-8") as log_file:
         # declare and output timestamp before message
-        timestamp = datetime.now().strftime('%H:%M:%S')
+        timestamp = datetime.datetime.now().strftime('%H:%M:%S')
         log_file.write(timestamp)
         # output message with author name to log
         log_file.write(f"\n{author}: {message}\n\n")
@@ -208,8 +193,11 @@ async def say_hi_Ukrainian(ctx):
     if "@" not in username:
         # then set username to user who sent the message
         username = '@' + ctx.author.name
+    # create a list of greetings
+    greetings = ["Здоров!", "Привіт!", "Вітаю!",
+                 "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(greetings_ua)}")
+    await ctx.send(f"{username}, {random.choice(greetings)}")
 
 
 @bot.command(name='hi')
@@ -220,8 +208,11 @@ async def say_hi_English(ctx):
     if "@" not in username:
         # if not set username to the user who sent the message
         username = '@' + ctx.author.name
+    # create a list of greetings
+    greetings = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
+                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(greetings_en)}")
+    await ctx.send(f"{username}, {random.choice(greetings)}")
 
 
 @bot.command(name='гам')
