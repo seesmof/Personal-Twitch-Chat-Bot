@@ -166,3 +166,9 @@ seesmof: BOP
 16:35:11
 BOT: @seesmof, Вітання! Ласкаво просимо KonCha
 
+16:45:11
+streamelements: Вся інфа про стріми тут - https://t.me/pixelfedya
+
+16:45:11
+BOT: @streamelements, Радий бачити! Ласкаво просимо KonCha
+
