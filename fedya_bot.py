@@ -65,10 +65,12 @@ async def event_message(ctx):
 
     global last_message_time
     user = ctx.author.name
+    greetings_emotes = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWan", "Poooound",
+                        "GivePLZ", "DxCat", "bleedPurple", "RitzMitz", "<3", "VoHiYo", "RaccAttack", "GlitchCat", "HeyGuys"]
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
-        await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо KonCha")
+        await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
     else:
         # user has sent a message before
         last_time = last_message_time[user]
@@ -76,7 +78,7 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
-            await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо KonCha")
+            await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
 
     # for handling ChatGPT requests from chat
     if ctx.content.startswith("@wuyodo"):
