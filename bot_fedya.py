@@ -10,64 +10,11 @@ import openai
 import random
 import os
 
-# for handling sound file location
-sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
-# for handling OpenAI API key
-openai.api_key = "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"
-# for handling OpenAI model name
-model_engine = "gpt-3.5-turbo"
-
-
-async def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Ти - Олекса, бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."
-    forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
-    forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
-
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=100,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-    if response.choices[0].text == "flagged":
-        # Do something here if the message is flagged
-        warning_message = "Ваше повідомлення було позначено як неприйнятне. Будь ласка, утримайтеся від використання образливих висловлювань у майбутньому."
-        return warning_message
-
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-
-
-def check_for_letters(text, letters):
-    # for each letter in letters list
-    for letter in letters:
-        # check if letter is in the list
-        if letter in text:
-            return True
-    return False
-
-
-# handle the .env file and get content from it
-dir_path = os.path.dirname(os.path.realpath(__file__))
-dotenv_path = join(dir_path, '.env')
-load_dotenv(dotenv_path)
-TMI_TOKEN = os.environ.get('TMI_TOKEN')
-CLIENT_ID = os.environ.get('CLIENT_ID')
-BOT_NICK = os.environ.get('BOT_NICK')
-BOT_PREFIX = os.environ.get('BOT_PREFIX')
-CHANNEL = os.environ.get('CHANNEL')
-# for handling logging messages in an appropriate folder
-log_dir = "D:\GitHub\python-twitchio-chat-bot\logs"
-if not os.path.exists(log_dir):
-    os.makedirs(log_dir)
+TMI_TOKEN = "oauth:0purffc2ao53hdg254j26okkj1fh76"
+CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
+BOT_NICK = "wuyodo"
+BOT_PREFIX = "!"
+CHANNEL = "PixelFedya"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -78,12 +25,23 @@ bot = commands.Bot(
     initial_channels=[CHANNEL]
 )
 
-
-@bot.event
-async def event_stream_online(self, stream):
-    channel = await self.get_channel(CHANNEL)
-    bot.run()
-    await channel.send("Всім привіт!")
+# for handling logging messages in an appropriate folder
+log_dir = "D:\GitHub\python-twitchio-chat-bot\logs"
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+# for handling sound file location
+sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
+# for handling OpenAI API key
+openai.api_key = "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"
+# for handling OpenAI model name
+model_engine = "gpt-3.5-turbo"
+# create a list of greetings
+greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
+                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
+# create a list of greetings
+greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
+                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
+last_message_time = {}
 
 
 @bot.event
@@ -92,14 +50,6 @@ async def event_ready():
     print(f"{BOT_NICK} is online at {CHANNEL}!")
     # log the start message
     write_to_log(f"is online at {CHANNEL}", "    BOT")
-
-# create a list of greetings
-greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
-                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-# create a list of greetings
-greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
-                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
-last_message_time = {}
 
 
 @bot.event
@@ -161,6 +111,37 @@ async def event_message(ctx):
     write_to_log(ctx.content, ctx.author.name)
 
 
+async def generate_response(input_text):
+    # generate a response message with the following parameters
+    response = openai.ChatCompletion.create(
+        # model was specified before
+        model=model_engine,
+        # message information for model to process and create upon
+        messages=[{"role": "system", "content": "Ти - Олекса, бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."}, {
+            "role": "user", "content": input_text}],
+        # maximum number of tokens to return
+        max_tokens=100,
+        # model's temperature or its creativeness
+        temperature=0.7,
+    )
+    if response.choices[0].text == "flagged":
+        # Do something here if the message is flagged
+        warning_message = "Ваше повідомлення було позначено як неприйнятне. Будь ласка, утримайтеся від використання образливих висловлювань у майбутньому."
+        return warning_message
+    # Parse the response and output the result
+    output_text = response['choices'][0]['message']['content']
+    return output_text
+
+
+def check_for_letters(text, letters):
+    # for each letter in letters list
+    for letter in letters:
+        # check if letter is in the list
+        if letter in text:
+            return True
+    return False
+
+
 def write_to_log(message, author):
     # for handling current time
     now = datetime.now()
@@ -180,7 +161,7 @@ def write_to_log(message, author):
 @bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн @нік\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @bot.command(name='тг')
