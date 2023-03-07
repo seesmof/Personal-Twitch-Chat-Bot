@@ -143,7 +143,7 @@ def write_to_log(message, author):
     # for handling current time
     now = datetime.now()
     # for handling the file name
-    file_name = "mike_log_" + now.strftime("%d-%m-%Y") + ".txt"
+    file_name = "log_" + now.strftime("%d-%m-%Y") + ".txt"
     # for handling the file path
     file_path = os.path.join(log_dir, file_name)
     # open file with appropriate decoding
