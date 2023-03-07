@@ -18,7 +18,7 @@ openai.api_key = "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"
 model_engine = "gpt-3.5-turbo"
 
 
-def generate_response(input_text):
+async def generate_response(input_text):
     # parameters list
     forPixelFedya = "Ти - Олекса, бот в чаті Твіч стрімера, якого звати Піксельний Федя. Твоя задача - допомагати користувачам чату. Ти не спілкуєшся російською."
     forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
@@ -36,6 +36,10 @@ def generate_response(input_text):
         # model's temperature or its creativeness
         temperature=0.7,
     )
+    if response.choices[0].text == "flagged":
+        # Do something here if the message is flagged
+        warning_message = "Ваше повідомлення було позначено як неприйнятне. Будь ласка, утримайтеся від використання образливих висловлювань у майбутньому."
+        return warning_message
 
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
@@ -61,7 +65,7 @@ BOT_NICK = os.environ.get('BOT_NICK')
 BOT_PREFIX = os.environ.get('BOT_PREFIX')
 CHANNEL = os.environ.get('CHANNEL')
 # for handling logging messages in an appropriate folder
-log_dir = 'logs'
+log_dir = "D:\GitHub\python-twitchio-chat-bot\logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
