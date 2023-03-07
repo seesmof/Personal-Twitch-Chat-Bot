@@ -48,8 +48,6 @@ last_message_time = {}
 async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
-    # log the start message
-    write_to_log(f"is online at {CHANNEL}", "    BOT")
 
 
 @bot.event
@@ -58,7 +56,6 @@ async def event_message(ctx):
     if ctx.author.name.lower() == BOT_NICK.lower():
         # print out bot's message to log
         print(f"\nBOT: {ctx.content}")
-        write_to_log(ctx.content, "BOT")
         return
 
     global last_message_time
@@ -108,7 +105,6 @@ async def event_message(ctx):
 
     # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
-    write_to_log(ctx.content, ctx.author.name)
 
 
 async def generate_response(input_text):
@@ -140,22 +136,6 @@ def check_for_letters(text, letters):
         if letter in text:
             return True
     return False
-
-
-def write_to_log(message, author):
-    # for handling current time
-    now = datetime.now()
-    # for handling the file name
-    file_name = "log_" + now.strftime("%d-%m-%Y") + ".txt"
-    # for handling the file path
-    file_path = os.path.join(log_dir, file_name)
-    # open file with appropriate decoding
-    with open(file_path, "a", encoding="utf-8") as log_file:
-        # declare and output timestamp before message
-        timestamp = datetime.now().strftime('%H:%M:%S')
-        log_file.write(timestamp)
-        # output message with author name to log
-        log_file.write(f"\n{author}: {message}\n\n")
 
 
 @bot.command(name='інфа')
