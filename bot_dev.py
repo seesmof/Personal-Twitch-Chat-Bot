@@ -120,10 +120,6 @@ async def generate_response(input_text):
         # model's temperature or its creativeness
         temperature=0.7,
     )
-    if response.choices[0].text == "flagged":
-        # Do something here if the message is flagged
-        warning_message = "Ваше повідомлення було позначено як неприйнятне. Будь ласка, утримайтеся від використання образливих висловлювань у майбутньому."
-        return warning_message
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
