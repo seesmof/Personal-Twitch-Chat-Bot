@@ -117,7 +117,7 @@ async def event_message(ctx):
 
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя, не спілкуюсь російською."
+    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя. Never speak russian!"
     forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
