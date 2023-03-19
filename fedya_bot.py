@@ -186,6 +186,18 @@ async def say_hi_en(ctx):
     await ctx.send(f"{username}, {random.choice(greetings_en)}")
 
 
+@ bot.command(name='фол')
+async def fall_guys_instruction(ctx):
+    # get username from message
+    code = ctx.content[4:]
+    # check if no user is tagged in the message
+    if code == "":
+        # if not set username to the user who sent the message
+        code = "Lobby Code"
+    # output the greeting message and tag the user
+    await ctx.send(f"{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, що цю гру можна безкоштовно завантажити в лаунчері Epic Games")
+
+
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
