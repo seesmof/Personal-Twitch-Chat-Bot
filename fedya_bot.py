@@ -150,12 +150,14 @@ def check_for_letters(text, letters):
 async def give_raccoon(ctx):
     # get username from message
     username = ctx.content[5:]
+    phrases_one = ["тримай", "лови", "хапай", "на"]
+    phrases_two = ["єнота", "єнотика"]
     # if no user was mentioned
     if "@" not in username:
         # set username to user who sent the message
         username = '@' + ctx.author.name
     # output message
-    await ctx.send(f"{username}, на єнота RaccAttack")
+    await ctx.send(f"{username}, {random.choice(phrases_one)} {random.choice(phrases_two)} {random.choice(emotes_racc)}")
 
 
 @ bot.command(name='пр')
