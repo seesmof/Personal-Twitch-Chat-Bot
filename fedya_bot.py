@@ -108,7 +108,7 @@ async def event_message(ctx):
     # check if message contains such letters
     if check_for_letters(ctx.content.lower(), letters):
         # output error message to user
-        await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату {random.choice()}")
+        await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату SMOrc російська заборонена в чаті")
 
     # relay message to command callbacks
     await bot.handle_commands(ctx)
