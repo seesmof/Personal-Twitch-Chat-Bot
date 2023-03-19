@@ -28,6 +28,10 @@ greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!"
                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
 last_message_time = {}
 
+# add lists with emtoes
+emotes_greet = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWan", "Poooound",
+                "GivePLZ", "DxCat", "bleedPurple", "RitzMitz", "<3", "VoHiYo", "RaccAttack", "GlitchCat", "HeyGuys"]
+
 
 # handle the .env file and get content from it
 TMI_TOKEN = "oauth:0purffc2ao53hdg254j26okkj1fh76"
@@ -62,12 +66,10 @@ async def event_message(ctx):
 
     global last_message_time
     user = ctx.author.name
-    greetings_emotes = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWan", "Poooound",
-                        "GivePLZ", "DxCat", "bleedPurple", "RitzMitz", "<3", "VoHiYo", "RaccAttack", "GlitchCat", "HeyGuys"]
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
-        await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
+        # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
     else:
         # user has sent a message before
         last_time = last_message_time[user]
@@ -75,7 +77,7 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
-            await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
+            # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
 
     # for handling ChatGPT requests from chat
     if ctx.content.startswith("@wuyodo"):
@@ -102,7 +104,7 @@ async def event_message(ctx):
     # check if message contains such letters
     if check_for_letters(ctx.content.lower(), letters):
         # output error message to user
-        await ctx.channel.send(f"@{ctx.author.name}, йой, козаче, міняй розкладку бо зара бан отримаєш cmonBruh")
+        await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату {random.choice()}")
 
     # relay message to command callbacks
     await bot.handle_commands(ctx)
