@@ -73,7 +73,7 @@ async def event_message(ctx):
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
-        # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
+        # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     else:
         # user has sent a message before
         last_time = last_message_time[user]
@@ -81,7 +81,7 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
-            # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
+            # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
     # for handling ChatGPT requests from chat
     if ctx.content.startswith("@wuyodo"):
@@ -171,7 +171,7 @@ async def say_hi_ua(ctx):
         # then set username to user who sent the message
         username = '@' + ctx.author.name
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(greetings_ua)}")
+    await ctx.send(f"{username}, {random.choice(greetings_ua)} {random.choice(emotes_greet + emotes_hand)}")
 
 
 @ bot.command(name='hi')
@@ -183,7 +183,7 @@ async def say_hi_en(ctx):
         # if not set username to the user who sent the message
         username = '@' + ctx.author.name
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(greetings_en)}")
+    await ctx.send(f"{username}, {random.choice(greetings_en)} {random.choice(emotes_greet + emotes_hand)}")
 
 
 @ bot.command(name='фол')
