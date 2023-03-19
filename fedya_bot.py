@@ -15,7 +15,7 @@ log_dir = "D:/repos/python-twitchio-chat-bot/logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 # for handling sound file location
-sound_path = "D:\GitHub\python-twitchio-chat-bot\sound.mp3"
+sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
 # for handling OpenAI API key
 openai.api_key = "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"
 # for handling OpenAI model name
