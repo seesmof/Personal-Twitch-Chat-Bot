@@ -82,7 +82,7 @@ async def event_message(ctx):
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо {random.choice(greetings_emotes)}")
 
     # for handling ChatGPT requests from chat
-    if check_for_letters(ctx.content, "wuyodo"):
+    if ctx.content.startswith("@wuyodo"):
         # get user's query from the message
         input_text = ctx.content[len("@wuyodo"):].strip()
         # generate the output text using a corresponding functions
