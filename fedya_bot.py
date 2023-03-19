@@ -58,7 +58,7 @@ bot = commands.Bot(
 async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
-    write_to_log(f" is online at {CHANNEL}!", " BOT")
+    write_to_log(f"is online at {CHANNEL}!", " BOT")
 
 
 @ bot.event
