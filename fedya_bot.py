@@ -36,6 +36,7 @@ emotes_racc = ["RaccAttack", "🦝"]
 emotes_nose = ["👃", "🐽", "👃🏻", "👃🏿", "👃🏽", "👃🏼", "👃🏾", "👺"]
 emotes_tongue = ["👅", "😛", "😜", "😝", "👻", "🥵", "🤪", "😋"]
 emotes_shy = ["🤗", "👐", "🤭", "😄", "🥰", "😼", "😙", "😍", "😻", "😅"]
+emotes_fart = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
 
 
 # handle the .env file and get content from it
@@ -265,21 +266,21 @@ async def smell_someone(ctx):
 async def touch_someone(ctx):
     # get username from message
     username = ctx.content[4:]
-    phrases = ["понюхав", "обнюхав", "нюх-нюх"]
+    phrases = ["помацав", "обмацав", "полапав", "облапав", "*мацає*"]
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_nose)}")
+    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_shy)}")
 
 
 @ bot.command(name='пук')
 async def fart_someone(ctx):
     # get username from message
     username = ctx.content[4:]
-    phrases = ["понюхав", "обнюхав", "нюх-нюх"]
+    phrases = ["пукнув на", "зіпсував повітря для", "*пук* у бік"]
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
