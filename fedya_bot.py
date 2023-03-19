@@ -140,7 +140,7 @@ def write_to_log(message, author):
 
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя. Never speak russian!"
+    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя. Я ніколи не спікуюсь російською!"
     forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
@@ -266,14 +266,14 @@ async def smell_someone(ctx):
 async def touch_someone(ctx):
     # get username from message
     username = ctx.content[4:]
-    phrases = ["помацав", "обмацав", "полапав", "облапав", "*мацає*"]
+    phrases = ["Помацав", "Обмацав", "Полапав", "Облапав", "*Мацає*"]
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_shy)}")
+    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_shy)}")
 
 
 @ bot.command(name='пук')
@@ -287,7 +287,7 @@ async def fart_someone(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_nose)}")
+    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_fart)}")
 
 
 @ bot.command(name='інфа')
