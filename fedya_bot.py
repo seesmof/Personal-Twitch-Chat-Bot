@@ -222,7 +222,7 @@ async def fall_guys_instruction(ctx):
 
 
 @ bot.command(name='о')
-async def fall_guys_instruction(ctx):
+async def give_shoutout(ctx):
     # get username from message
     username = ctx.content[2:]
     # check if no user is tagged in the message
@@ -234,7 +234,7 @@ async def fall_guys_instruction(ctx):
 
 
 @ bot.command(name='лиз')
-async def fall_guys_instruction(ctx):
+async def lick_someone(ctx):
     # get username from message
     username = ctx.content[4:]
     phrases = ["облизав", "лизнув", "лизь"]
@@ -248,7 +248,35 @@ async def fall_guys_instruction(ctx):
 
 
 @ bot.command(name='нюх')
-async def fall_guys_instruction(ctx):
+async def smell_someone(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    phrases = ["понюхав", "обнюхав", "нюх-нюх"]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # output the greeting message and tag the user
+    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_nose)}")
+
+
+@ bot.command(name='мац')
+async def touch_someone(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    phrases = ["понюхав", "обнюхав", "нюх-нюх"]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # output the greeting message and tag the user
+    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_nose)}")
+
+
+@ bot.command(name='пук')
+async def fart_someone(ctx):
     # get username from message
     username = ctx.content[4:]
     phrases = ["понюхав", "обнюхав", "нюх-нюх"]
