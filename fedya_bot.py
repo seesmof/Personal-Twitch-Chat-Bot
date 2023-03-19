@@ -195,7 +195,7 @@ async def fall_guys_instruction(ctx):
         # if not set username to the user who sent the message
         code = "Lobby Code"
     # output the greeting message and tag the user
-    await ctx.send(f"{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, що цю гру можна безкоштовно завантажити в лаунчері Epic Games")
+    await ctx.send(f"{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games")
 
 
 @ bot.command(name='о')
@@ -205,7 +205,7 @@ async def fall_guys_instruction(ctx):
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
-        username = "PixelFedya"
+        username = "@PixelFedya"
     # output the greeting message and tag the user
     await ctx.send(f"Підписуйтесь на файнюцького стрімера {username}!")
 
@@ -218,7 +218,7 @@ async def fall_guys_instruction(ctx):
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
-        username = ctx.author.name
+        username = "@" + ctx.author.name
     # output the greeting message and tag the user
     await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_tongue)}")
 
@@ -231,7 +231,7 @@ async def fall_guys_instruction(ctx):
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
-        username = ctx.author.name
+        username = "@" + ctx.author.name
     # output the greeting message and tag the user
     await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_nose)}")
 
