@@ -37,6 +37,8 @@ emotes_nose = ["👃", "🐽", "👃🏻", "👃🏿", "👃🏽", "👃🏼", "
 emotes_tongue = ["👅", "😛", "😜", "😝", "👻", "🥵", "🤪", "😋"]
 emotes_shy = ["🤗", "👐", "🤭", "😄", "🥰", "😼", "😙", "😍", "😻", "😅"]
 emotes_fart = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
+emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
+              "GlitchNRG", "BabyRage", "💩", "🐽"]
 
 
 # handle the .env file and get content from it
@@ -290,6 +292,38 @@ async def fart_someone(ctx):
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_fart)}")
 
 
+@ bot.command(name='гам')
+async def say_gam(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    # create a list of shenanigans
+    shenanigans = ["гамно", "ГАМНО", "ГАМНООО", "ГАМНОО", "ГАМНОООО", "лайно", "ЛАЙНО",
+                   "ЛАЙНОО", "ЛАЙНООО", "ЛАЙНОООО", "гівно", "ГІВНО", "ГІВНОО", "ГІВНООО", "ГІВНОООО"]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # output a random shenanigan to the user
+    await ctx.send(f"@{username}, лови {random.choice(shenanigans)} {random.choice(emotes_poo + emotes_shy)}")
+
+
+@ bot.command(name='цьом')
+async def say_gam(ctx):
+    # get username from message
+    username = ctx.content[5:]
+    # create a list of shenanigans
+    shenanigans = ["Цьомнув", "Поцьомав",
+                   "*Надсилає цьомчика*", "*Цьомає*", "Цьом"]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # output a random shenanigan to the user
+    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_fart)}")
+
+
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
@@ -324,15 +358,6 @@ async def hi_oxa(ctx):
 async def add_feature(ctx):
     # tag me and tell to add the proposed function
     await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
-
-
-@ bot.command(name='гам')
-async def say_gam(ctx):
-    # create a list of shenanigans
-    shenanigans = ["Гамно", "гамно", "ГАМНО", "ГАМНООО",
-                   "ГАМНОО", "ГАМНОООО", "Лайно", "лайно", "ЛАЙНО", "ЛАЙНОО", "ЛАЙНООО", "ЛАЙНОООО", "Гівно", "гівно", "ГІВНО", "ГІВНОО", "ГІВНООО", "ГІВНОООО"]
-    # output a random shenanigan to the user
-    await ctx.send(f"@{ctx.author.name}, {random.choice(shenanigans)}")
 
 
 @ bot.command(name='щіщ')
