@@ -34,6 +34,7 @@ emotes_greet = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWa
 emotes_hand = ["✋", "✌️", "👐", "👋", "🤚", "🤙"]
 emotes_racc = ["RaccAttack", "🦝"]
 emotes_nose = ["👃", "🐽", "👃🏻", "👃🏿", "👃🏽", "👃🏼", "👃🏾", "👺"]
+emotes_tongue = ["👅", "😛", "😜", "😝", "👻", "🥵", "🤪", "😋"]
 
 
 # handle the .env file and get content from it
