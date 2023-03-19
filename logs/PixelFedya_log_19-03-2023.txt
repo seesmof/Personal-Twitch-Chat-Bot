@@ -3856,3 +3856,6 @@ abso1ut3xd: спробуй ацепт нажати
 20:57:39
 abso1ut3xd: спробуй ацепт нажати
 
+20:59:00
+ BOT: is online at PixelFedya!
+
