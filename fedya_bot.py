@@ -210,6 +210,19 @@ async def fall_guys_instruction(ctx):
     await ctx.send(f"Підписуйтесь на файнюцького стрімера {username}!")
 
 
+@ bot.command(name='нюх')
+async def fall_guys_instruction(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    phrases = ["облизав", "лизнув", "лизь"]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        username = ctx.author.name
+    # output the greeting message and tag the user
+    await ctx.send(f"{ctx.author.name} {random.choice(phrases)} {username}")
+
+
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
