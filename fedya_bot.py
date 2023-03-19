@@ -280,14 +280,14 @@ async def touch_someone(ctx):
 async def fart_someone(ctx):
     # get username from message
     username = ctx.content[4:]
-    phrases = ["пукнув на", "зіпсував повітря для", "*пук* у бік"]
+    phrases = ["Пукнув на", "Зіпсував повітря для", "*Пук* у бік"]
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output the greeting message and tag the user
-    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_fart)}")
+    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_fart)}")
 
 
 @ bot.command(name='інфа')
