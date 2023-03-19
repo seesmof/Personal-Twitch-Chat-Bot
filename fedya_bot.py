@@ -210,7 +210,7 @@ async def fall_guys_instruction(ctx):
     await ctx.send(f"Підписуйтесь на файнюцького стрімера {username}!")
 
 
-@ bot.command(name='нюх')
+@ bot.command(name='лиз')
 async def fall_guys_instruction(ctx):
     # get username from message
     username = ctx.content[4:]
@@ -220,13 +220,26 @@ async def fall_guys_instruction(ctx):
         # if not set username to the user who sent the message
         username = ctx.author.name
     # output the greeting message and tag the user
-    await ctx.send(f"{ctx.author.name} {random.choice(phrases)} {username}")
+    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_tongue)}")
+
+
+@ bot.command(name='нюх')
+async def fall_guys_instruction(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    phrases = ["понюхав", "обнюхав", "нюх-нюх"]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        username = ctx.author.name
+    # output the greeting message and tag the user
+    await ctx.send(f"{username}, {random.choice(phrases)} {random.choice(emotes_nose)}")
 
 
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='тг')
