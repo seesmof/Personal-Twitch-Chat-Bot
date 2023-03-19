@@ -39,6 +39,7 @@ emotes_shy = ["🤗", "👐", "🤭", "😄", "🥰", "😼", "😙", "😍", "�
 emotes_fart = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
 emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
               "GlitchNRG", "BabyRage", "💩", "🐽"]
+emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
 
 
 # handle the .env file and get content from it
@@ -313,15 +314,15 @@ async def say_gam(ctx):
     # get username from message
     username = ctx.content[5:]
     # create a list of shenanigans
-    shenanigans = ["Цьомнув", "Поцьомав",
-                   "*Надсилає цьомчика*", "*Цьомає*", "Цьом"]
+    phrases = ["Цьомнув", "Поцьомав",
+               "*Надсилає цьомчика*", "*Цьомає*", "Цьом"]
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output a random shenanigan to the user
-    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_fart)}")
+    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_kiss)}")
 
 
 @ bot.command(name='інфа')
