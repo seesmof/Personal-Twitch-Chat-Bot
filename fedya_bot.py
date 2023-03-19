@@ -306,7 +306,7 @@ async def say_gam(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output a random shenanigan to the user
-    await ctx.send(f"@{username}, лови {random.choice(shenanigans)} {random.choice(emotes_poo + emotes_shy)}")
+    await ctx.send(f"{username}, лови {random.choice(shenanigans)} {random.choice(emotes_poo + emotes_shy)}")
 
 
 @ bot.command(name='цьом')
