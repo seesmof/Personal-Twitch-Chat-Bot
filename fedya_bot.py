@@ -234,7 +234,7 @@ async def give_shoutout(ctx):
         # if not set username to the user who sent the message
         username = "@PixelFedya"
     # output the greeting message and tag the user
-    await ctx.send(f"Підписуйтесь на файнюцького стрімера {username}!")
+    await ctx.send(f"Підписуйтесь на файнюцького стрімера {username}! {random.choice(emotes_kiss)}")
 
 
 @ bot.command(name='лиз')
