@@ -117,6 +117,27 @@ async def event_message(ctx):
         # output error message to user
         await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату SMOrc російська заборонена в чаті")
 
+    # for handling fine patriots
+    letters = ["слава україні"]
+    # check if message contains such letters
+    if check_for_letters(ctx.content.lower(), letters):
+        # output error message to user
+        await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
+
+    # for handling fine patriots
+    letters = ["слава нації"]
+    # check if message contains such letters
+    if check_for_letters(ctx.content.lower(), letters):
+        # output error message to user
+        await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
+
+    # for handling fine patriots
+    letters = ["путін"]
+    # check if message contains such letters
+    if check_for_letters(ctx.content.lower(), letters):
+        # output error message to user
+        await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
+
     # relay message to command callbacks
     await bot.handle_commands(ctx)
 
