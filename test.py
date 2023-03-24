@@ -9,7 +9,6 @@ from datetime import datetime
 import openai
 import random
 import os
-import twitchio.ext
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
