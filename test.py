@@ -23,9 +23,11 @@ model_engine = "gpt-3.5-turbo"
 # create a list of greetings
 greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
                 "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-# create a list of greetings
+# create a list of greetings!гам
 greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
+goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
+              "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
 last_message_time = {}
 
 # add lists with emtoes
@@ -36,7 +38,7 @@ emotes_racc = ["RaccAttack", "🦝"]
 emotes_nose = ["👃", "🐽", "👃🏻", "👃🏿", "👃🏽", "👃🏼", "👃🏾", "👺"]
 emotes_tongue = ["👅", "😛", "😜", "😝", "👻", "🥵", "🤪", "😋"]
 emotes_shy = ["🤗", "👐", "🤭", "😄", "🥰", "😼", "😙", "😍", "😻", "😅"]
-emotes_fart = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
+emotes_laugh = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
 emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
               "GlitchNRG", "BabyRage", "💩", "🐽"]
 emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
@@ -311,7 +313,7 @@ async def fart_someone(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output the greeting message and tag the user
-    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_fart)}")
+    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='гам')
@@ -328,6 +330,24 @@ async def say_gam(ctx):
         username = '@' + random.choice(list(last_message_time))
     # output a random shenanigan to the user
     await ctx.send(f"{username}, лови {random.choice(shenanigans)} {random.choice(emotes_poo + emotes_shy)}")
+
+
+@ bot.command(name='бан')
+async def ban_user(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    # create a list of shenanigans
+    one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
+    two = ["", "на цьому каналі", "на даному каналі",
+           "на каналі PixelFedya", "на поточному каналі"]
+    global goodbye_ua
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # output a random shenanigan to the user
+    await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='цьом')
@@ -352,6 +372,12 @@ async def show_info(ctx):
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
+@ bot.command(name='додай')
+async def add_feature(ctx):
+    # tag me and tell to add the proposed function
+    await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
+
+
 @ bot.command(name='тг')
 async def telegram_show(ctx):
     # output Telegram information
@@ -374,12 +400,6 @@ async def gpt_instruction_en(ctx):
 async def hi_oxa(ctx):
     # say hi to Oksana
     await ctx.send(f"Оксано, привіт!")
-
-
-@ bot.command(name='додай')
-async def add_feature(ctx):
-    # tag me and tell to add the proposed function
-    await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
 
 
 @ bot.command(name='щіщ')

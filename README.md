@@ -1,67 +1,49 @@
-<h1 align="center">Twitch Chat Bot</h1>
+# Twitch Chatbot with ChatGPT
 
-<div align="center">
+This project is a Twitch chatbot that uses OpenAI's GPT-3.5 model to generate responses to user queries. The bot can respond to various types of input, from simple questions to more complex requests.
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/seesmof/The-Documentation-Compendium.svg)](https://github.com/seesmof/university/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/seesmof/The-Documentation-Compendium.svg)](https://github.com/seesmof/university/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+## Installation
 
-</div>
+To run this bot, you will need to install the following libraries:
 
-## Table of Contents <a name = "content"></a>
+- `pathlib`
+- `dotenv`
+- `twitchio`
+- `playsound`
+- `datetime`
+- `openai`
 
-- [Table of Contents ](#table-of-contents-)
-- [About ](#about-)
-- [Features](#features)
-- [Getting Started ](#getting-started-)
-- [Commands ](#commands-)
-- [ChatGPT Integration ](#chatgpt-integration-)
-- [Conclusion ](#conclusion-)
+You will also need to create a `.env` file with the following content:
 
-## About <a name = "about"></a>
+```lua
+TMI_TOKEN=<your Twitch bot's token>
+CLIENT_ID=<your Twitch bot's client ID>
+log_dir=<folder path for log files>
+```
 
-The Twitch Chat Bot is a Python-based Ukrainian bot designed to interact with users in Twitch chat and provide some useful functions. It has a number of built-in commands, as well as an integration with ChatGPT, an AI language model for generating text.
+Additionally, you will need to provide your OpenAI API key and the name of the GPT-3.5 model you want to use.
 
-## Features
+## Usage
 
-- Customizable command system
-- ChatGPT integration for generating text responses
-- Easy-to-use setup and configuration
-- Bunch of useful commands and features
+To start the bot, run the `twitch_chatbot.py` file. The bot will then be ready to respond to user messages in the Twitch chat.
 
-## Getting Started <a name = "getting-started"></a>
+The bot will respond to messages that begin with "@wuyodo". If a user sends a message without this prefix, the bot will not respond.
 
-To get started with the Twitch Chat Bot, follow these steps:
+The bot will greet users once per day. If a user sends a message multiple times in a day, the bot will not greet them again.
 
-1. Clone the repository to your local machine
-2. Install the required packages using `pip install -r requirements.txt`
-3. Set up a Twitch account for the bot
-4. Generate a Twitch API token and set it in the config.py file
-5. Configure the bot settings in the `bot.py` file
-6. Run the bot using `python bot.py`
+The bot can also respond to various types of input, from simple questions to more complex requests. To make a request to the bot, type "@wuyodo" followed by your query.
 
-## Commands <a name = "commands"></a>
+## Emotes
 
-The Twitch Chat Bot has a number of built-in commands that can be used in Twitch chat. These include:
+The bot can also respond with a variety of emotes. Here are some examples of the emotes the bot can use:
 
-- !інфа: Output general information about the bot and the existing commands
-- !тг: Output message with a link to Telegram chat
-- !єнот: Gives out a raccoon to chat users
-- !гпт: Outputs information about how to use ChatGPT integration
-- !щіщ: Outputs a funny message
-- !окса: Greets with Oksana
-- !додай: Requests to add a new feature to the bot
-- !пр: Greets a mentioned user to chat
-- !дн: Congratulates a mentioned user with birthday
-- !шанс: Outputs a random chance for some event
+- Hand gestures: ✋, ✌️, 👐, 👋, 🤚, 🤙
+- Nose: 👃, 🐽, 👃🏻, 👃🏿, 👃🏽, 👃🏼, 👃🏾, 👺
+- Tongue: 👅, 😛, 😜, 😝, 👻, 🥵, 🤪, 😋
+- Shy: 🤗, 👐, 🤭, 😄, 🥰, 😼, 😙, 😍, 😻, 😅
+- Laugh: 🍑, 🤣, 😂, 💀, ☠️, 😹, 😆, 🙈, 😈, 👽
+- Kiss: 👄, 💋, 😘, 😚, 😙, 😽
 
-Users can also add their own custom commands by editing the bot.py file.
+## Contributing
 
-## ChatGPT Integration <a name = "integration"></a>
-
-The ChatGPT integration allows the Twitch Chat Bot to generate text responses using ChatGPT. To use this feature, simply enter the `@wuyodo` at the beginning of your message in Twitch chat. The bot will then generate an answer using ChatGPT and display it in chat.
-
-## Conclusion <a name = "conclusion"></a>
-
-The Twitch Chat Bot is an easy-to-use, customizable bot for Twitch chat. With built-in commands and a ChatGPT integration, it can provide an engaging and interactive experience for viewers.
+If you would like to contribute to this project, please open a pull request.
