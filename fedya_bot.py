@@ -142,7 +142,6 @@ async def event_message(ctx):
 
     # relay message to command callbacks
     await bot.handle_commands(ctx)
-
     # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
     write_to_log(ctx.content, ctx.author.name)
