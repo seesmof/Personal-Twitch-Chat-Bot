@@ -337,8 +337,8 @@ async def ban_user(ctx):
     username = ctx.content[4:]
     # create a list of shenanigans
     one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
-    two = ["", "на цьому каналі", "на даному каналі",
-           "на каналі PixelFedya", "на поточному каналі", "на файному каналі"]
+    two = ["", "на цьому каналі", "на каналі PixelFedya",
+           "на поточному каналі", "на файному каналі"]
     global goodbye_ua
     # check if no user is tagged in the message
     if "@" not in username:
