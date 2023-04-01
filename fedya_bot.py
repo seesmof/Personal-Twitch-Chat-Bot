@@ -335,15 +335,14 @@ async def give_bob(ctx):
     # check if no user is tagged in the message
     if "@" not in username:
         # if not set username to the user who sent the message
-        global last_message_time
-        username = '@' + random.choice(list(last_message_time))
+        username = '@' + ctx.author.name
     # get a random percentage using
-    chance = random.randint(3, 30)
+    chance = random.randint(-5, 30)
     phrases = ["ого", "йой", "чоловіче"]
-    bob = ["бобика", "анаконду", "балумбу",
-           "зміюку", "апарат", "шиликало", "шиликалку"]
+    bob = ["бобика", "анаконду", "балумбу", "зміюку", "апарата",
+           "шиликало", "списа", "кабачка", "банана", "патика", "шампура"]
     # output the percentage to user
-    await ctx.send(f"@{ctx.author.name}, {random.choice(phrases)}, маєш {random.choice(bob)} у {chance} см! {random.choice(emotes_laugh)}")
+    await ctx.send(f"{username}, {random.choice(phrases)}, маєш {random.choice(bob)} у {chance} см! {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='гам')
@@ -399,7 +398,7 @@ async def say_gam(ctx):
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='додай')
@@ -438,6 +437,12 @@ async def say_sheesh_ua(ctx):
     shenanigans = ["щіщ", "ЩІЩ", "ЩІІЩ", "ЩІІІЩ", "ЩІІІІЩ"]
     # output a random shenanigan to the user
     await ctx.send(f"@{ctx.author.name}, {random.choice(shenanigans)}")
+
+
+@ bot.command(name='зріст')
+async def give_height(ctx):
+    # output the percentage to user
+    await ctx.send(f"@{ctx.author.name}, зріст стрімера приблизно становить 182 см")
 
 
 @ bot.command(name='she')
