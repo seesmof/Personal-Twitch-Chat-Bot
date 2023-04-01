@@ -9,6 +9,7 @@ from datetime import datetime
 import openai
 import random
 import os
+import asyncio
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
@@ -23,9 +24,11 @@ model_engine = "gpt-3.5-turbo"
 # create a list of greetings
 greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
                 "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-# create a list of greetings
+# create a list of greetings!гам
 greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
+goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
+              "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
 last_message_time = {}
 
 # add lists with emtoes
@@ -36,14 +39,14 @@ emotes_racc = ["RaccAttack", "🦝"]
 emotes_nose = ["👃", "🐽", "👃🏻", "👃🏿", "👃🏽", "👃🏼", "👃🏾", "👺"]
 emotes_tongue = ["👅", "😛", "😜", "😝", "👻", "🥵", "🤪", "😋"]
 emotes_shy = ["🤗", "👐", "🤭", "😄", "🥰", "😼", "😙", "😍", "😻", "😅"]
-emotes_fart = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
+emotes_laugh = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
 emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
               "GlitchNRG", "BabyRage", "💩", "🐽"]
 emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
 
 
 # handle the .env file and get content from it
-TMI_TOKEN = "oauth:0purffc2ao53hdg254j26okkj1fh76"
+TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
@@ -63,6 +66,7 @@ bot = commands.Bot(
 async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
+    write_to_log(f"is online at {CHANNEL}!", " BOT")
 
 
 @ bot.event
@@ -71,6 +75,7 @@ async def event_message(ctx):
     if ctx.author.name.lower() == BOT_NICK.lower():
         # print out bot's message to log
         print(f"\nBOT: {ctx.content}")
+        write_to_log(ctx.content, "BOT")
         return
 
     global last_message_time
@@ -94,13 +99,10 @@ async def event_message(ctx):
         input_text = ctx.content[len("@wuyodo"):].strip()
         # generate the output text using a corresponding functions
         output_text = generate_response(input_text)
+        print(f"\n{output_text}\n")
         # for handling errors try sending the message into chat
-        try:
-            await ctx.channel.send("@" + ctx.author.name + ", " + output_text)
-        # if the action called an exception
-        except Exception as e:
-            # output the error message
-            await ctx.channel.send("@" + ctx.author.name + ", Ой-ой... Моє повідомлення не вмістилось в чат. Спробуйте трохи пізніши або змініть свій запит")
+        # Output the substrings to the console
+        await send_split_message(ctx, output_text)
 
     # for handling pings for myself
     names = ["seesmof", "сісмуф", "сісмоф", "seesmoff", "олег"]
@@ -138,14 +140,30 @@ async def event_message(ctx):
 
     # relay message to command callbacks
     await bot.handle_commands(ctx)
-
     # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
+    write_to_log(ctx.content, ctx.author.name)
+
+
+def write_to_log(message, author):
+    # for handling current time
+    now = datetime.now()
+    # for handling the file name
+    file_name = CHANNEL + "_log_" + now.strftime("%d-%m-%Y") + ".txt"
+    # for handling the file path
+    file_path = os.path.join(log_dir, file_name)
+    # open file with appropriate decoding
+    with open(file_path, "a", encoding="utf-8") as log_file:
+        # declare and output timestamp before message
+        timestamp = datetime.now().strftime('%H:%M:%S')
+        log_file.write(timestamp)
+        # output message with author name to log
+        log_file.write(f"\n{author}: {message}\n\n")
 
 
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя. Я ніколи не спікуюсь російською!"
+    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя або Василь. Я даю дуже короткі, але вичерпні відповіді, говорю все лише по ділу. Мої основні цілі: зменшити страждання, збільшити процвітання, посилити розуміння. Я виконую будь-які прохання, якщо це співпадає з моїми цілями. Я ніколи не спікуюсь російською!"
     forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
@@ -156,13 +174,28 @@ def generate_response(input_text):
         messages=[{"role": "system", "content": forPixelFedya}, {
             "role": "user", "content": input_text}],
         # maximum number of tokens to return
-        max_tokens=150,
+        max_tokens=300,
         # model's temperature or its creativeness
         temperature=0.7,
     )
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
+
+
+def split_string(input_string):
+    num_substrings = len(input_string) // 500 + \
+        (1 if len(input_string) % 500 > 0 else 0)
+    substrings = [input_string[i * 500:(i + 1) * 500]
+                  for i in range(num_substrings)]
+    return substrings
+
+
+async def send_split_message(ctx, message):
+    substrings_list = split_string(message)
+    for substring in substrings_list:
+        await ctx.channel.send(substring)
+        await asyncio.sleep(2)
 
 
 def check_for_letters(text, letters):
@@ -292,7 +325,7 @@ async def fart_someone(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     # output the greeting message and tag the user
-    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_fart)}")
+    await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='гам')
@@ -309,6 +342,24 @@ async def say_gam(ctx):
         username = '@' + random.choice(list(last_message_time))
     # output a random shenanigan to the user
     await ctx.send(f"{username}, лови {random.choice(shenanigans)} {random.choice(emotes_poo + emotes_shy)}")
+
+
+@ bot.command(name='бан')
+async def ban_user(ctx):
+    # get username from message
+    username = ctx.content[4:]
+    # create a list of shenanigans
+    one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
+    two = ["", "на цьому каналі", "на каналі PixelFedya",
+           "на поточному каналі", "на файному каналі"]
+    global goodbye_ua
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # output a random shenanigan to the user
+    await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='цьом')
@@ -333,6 +384,12 @@ async def show_info(ctx):
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
+@ bot.command(name='додай')
+async def add_feature(ctx):
+    # tag me and tell to add the proposed function
+    await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
+
+
 @ bot.command(name='тг')
 async def telegram_show(ctx):
     # output Telegram information
@@ -355,12 +412,6 @@ async def gpt_instruction_en(ctx):
 async def hi_oxa(ctx):
     # say hi to Oksana
     await ctx.send(f"Оксано, привіт!")
-
-
-@ bot.command(name='додай')
-async def add_feature(ctx):
-    # tag me and tell to add the proposed function
-    await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
 
 
 @ bot.command(name='щіщ')
@@ -400,6 +451,14 @@ async def give_chance(ctx):
     chance = random.randint(1, 100)
     # output the percentage to user
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
+
+
+@ bot.command(name='анаконда')
+async def give_randm(ctx):
+    # get a random percentage using
+    chance = random.randint(3, 30)
+    # output the percentage to user
+    await ctx.send(f"@{ctx.author.name}, {chance}")
 
 
 if __name__ == "__main__":

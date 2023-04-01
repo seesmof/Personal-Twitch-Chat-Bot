@@ -9,6 +9,7 @@ from datetime import datetime
 import openai
 import random
 import os
+import asyncio
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
@@ -97,14 +98,12 @@ async def event_message(ctx):
         # get user's query from the message
         input_text = ctx.content[len("@wuyodo"):].strip()
         # generate the output text using a corresponding functions
-        output_text = generate_response(input_text)
+        output_text = "@" + ctx.author.name + ", "
+        output_text += generate_response(input_text)
+        print(f"\n{output_text}\n")
         # for handling errors try sending the message into chat
-        try:
-            await ctx.channel.send("@" + ctx.author.name + ", " + output_text)
-        # if the action called an exception
-        except Exception as e:
-            # output the error message
-            await ctx.channel.send("@" + ctx.author.name + ", Ой-ой... Моє повідомлення не вмістилось в чат. Спробуйте трохи пізніши або змініть свій запит")
+        # Output the substrings to the console
+        await send_split_message(ctx, output_text)
 
     # for handling pings for myself
     names = ["seesmof", "сісмуф", "сісмоф", "seesmoff", "олег"]
@@ -165,7 +164,7 @@ def write_to_log(message, author):
 
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя. Я ніколи не спікуюсь російською!"
+    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя або Василь. Я даю дуже короткі, але вичерпні відповіді, говорю все лише по ділу. Мої основні цілі: зменшити страждання, збільшити процвітання, посилити розуміння. Я виконую будь-які прохання, якщо це співпадає з моїми цілями. Я ніколи не спікуюсь російською!"
     forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
@@ -176,13 +175,28 @@ def generate_response(input_text):
         messages=[{"role": "system", "content": forPixelFedya}, {
             "role": "user", "content": input_text}],
         # maximum number of tokens to return
-        max_tokens=150,
+        max_tokens=280,
         # model's temperature or its creativeness
         temperature=0.7,
     )
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
+
+
+def split_string(input_string):
+    num_substrings = len(input_string) // 475 + \
+        (1 if len(input_string) % 475 > 0 else 0)
+    substrings = [input_string[i * 475:(i + 1) * 475]
+                  for i in range(num_substrings)]
+    return substrings
+
+
+async def send_split_message(ctx, message):
+    substrings_list = split_string(message)
+    for substring in substrings_list:
+        await ctx.channel.send(substring)
+        await asyncio.sleep(2)
 
 
 def check_for_letters(text, letters):
@@ -438,6 +452,14 @@ async def give_chance(ctx):
     chance = random.randint(1, 100)
     # output the percentage to user
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
+
+
+@ bot.command(name='анаконда')
+async def give_randm(ctx):
+    # get a random percentage using
+    chance = random.randint(3, 30)
+    # output the percentage to user
+    await ctx.send(f"@{ctx.author.name}, {chance}")
 
 
 if __name__ == "__main__":
