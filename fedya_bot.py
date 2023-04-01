@@ -105,12 +105,6 @@ async def event_message(ctx):
         # Output the substrings to the console
         await send_split_message(ctx, output_text)
 
-    # for handling pings for myself
-    names = ["seesmof", "сісмуф", "сісмоф", "seesmoff", "олег"]
-    # check if message contains my name and play a ping sound if so
-    if check_for_letters(ctx.content.lower(), names):
-        playsound(sound_path)
-
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
     # check if message contains such letters
