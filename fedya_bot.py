@@ -329,6 +329,23 @@ async def fart_someone(ctx):
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
+@ bot.command(name='боб')
+async def give_bob(ctx):
+    username = ctx.content[4:]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    # get a random percentage using
+    chance = random.randint(3, 30)
+    phrases = ["ого", "йой", "чоловіче"]
+    bob = ["бобика", "анаконду", "балумбу",
+           "зміюку", "апарат", "шиликало", "шиликалку"]
+    # output the percentage to user
+    await ctx.send(f"@{ctx.author.name}, {random.choice(phrases)}, маєш {random.choice(bob)} у {chance} см! {random.choice(emotes_laugh)}")
+
+
 @ bot.command(name='гам')
 async def say_gam(ctx):
     # get username from message
@@ -452,14 +469,6 @@ async def give_chance(ctx):
     chance = random.randint(1, 100)
     # output the percentage to user
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
-
-
-@ bot.command(name='анаконда')
-async def give_randm(ctx):
-    # get a random percentage using
-    chance = random.randint(3, 30)
-    # output the percentage to user
-    await ctx.send(f"@{ctx.author.name}, {chance}")
 
 
 if __name__ == "__main__":
