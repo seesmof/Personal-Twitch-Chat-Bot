@@ -1,5 +1,6 @@
-import random
+import pyautogui
+import time
 
-for i in range(10):
-    chance = random.randint(-5, 40)
-    print(chance)
+while True:
+    pyautogui.press('f5')
+    time.sleep(5)
