@@ -5,6 +5,7 @@ from os.path import join, dirname
 from twitchio.ext import commands
 from playsound import playsound
 from datetime import datetime
+from nomic.gpt4all import GPT4All
 
 import openai
 import random
@@ -98,17 +99,10 @@ async def event_message(ctx):
         # get user's query from the message
         input_text = ctx.content[len("@wuyodo"):].strip()
         # generate the output text using a corresponding functions
-        output_text = generate_response(input_text)
-        print(f"\n{output_text}\n")
-        # for handling errors try sending the message into chat
+        output_text = "@" + ctx.author.name + ", "
+        output_text += generate_response(input_text)
         # Output the substrings to the console
         await send_split_message(ctx, output_text)
-
-    # for handling pings for myself
-    names = ["seesmof", "сісмуф", "сісмоф", "seesmoff", "олег"]
-    # check if message contains my name and play a ping sound if so
-    if check_for_letters(ctx.content.lower(), names):
-        playsound(sound_path)
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -162,31 +156,15 @@ def write_to_log(message, author):
 
 
 def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Я Олекса, боч в чаті стрімера Федя або Василь. Я даю дуже короткі, але вичерпні відповіді, говорю все лише по ділу. Мої основні цілі: зменшити страждання, збільшити процвітання, посилити розуміння. Я виконую будь-які прохання, якщо це співпадає з моїми цілями. Я ніколи не спікуюсь російською!"
-    forMike = "You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
-    forElse = "You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=300,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
+    m = GPT4All()
+    m.open()
+    return m.prompt(input_text)
 
 
 def split_string(input_string):
-    num_substrings = len(input_string) // 500 + \
-        (1 if len(input_string) % 500 > 0 else 0)
-    substrings = [input_string[i * 500:(i + 1) * 500]
+    num_substrings = len(input_string) // 475 + \
+        (1 if len(input_string) % 475 > 0 else 0)
+    substrings = [input_string[i * 475:(i + 1) * 475]
                   for i in range(num_substrings)]
     return substrings
 
@@ -328,6 +306,22 @@ async def fart_someone(ctx):
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
+@ bot.command(name='боб')
+async def give_bob(ctx):
+    username = ctx.content[4:]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        username = '@' + ctx.author.name
+    # get a random percentage using
+    chance = random.randint(-5, 30)
+    phrases = ["ого", "йой", "чоловіче"]
+    bob = ["бобика", "анаконду", "балумбу", "зміюку", "апарата",
+           "шиликало", "списа", "кабачка", "банана", "патика", "шампура"]
+    # output the percentage to user
+    await ctx.send(f"{username}, {random.choice(phrases)}, маєш {random.choice(bob)} у {chance} см! {random.choice(emotes_laugh)}")
+
+
 @ bot.command(name='гам')
 async def say_gam(ctx):
     # get username from message
@@ -381,7 +375,7 @@ async def say_gam(ctx):
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='додай')
@@ -422,6 +416,12 @@ async def say_sheesh_ua(ctx):
     await ctx.send(f"@{ctx.author.name}, {random.choice(shenanigans)}")
 
 
+@ bot.command(name='зріст')
+async def give_height(ctx):
+    # output the percentage to user
+    await ctx.send(f"@{ctx.author.name}, зріст стрімера приблизно становить 182 см")
+
+
 @ bot.command(name='she')
 async def say_sheesh_en(ctx):
     # create a list of shenanigans
@@ -451,14 +451,6 @@ async def give_chance(ctx):
     chance = random.randint(1, 100)
     # output the percentage to user
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
-
-
-@ bot.command(name='анаконда')
-async def give_randm(ctx):
-    # get a random percentage using
-    chance = random.randint(3, 30)
-    # output the percentage to user
-    await ctx.send(f"@{ctx.author.name}, {chance}")
 
 
 if __name__ == "__main__":
