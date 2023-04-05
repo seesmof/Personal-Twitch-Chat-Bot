@@ -100,8 +100,6 @@ async def event_message(ctx):
         # generate the output text using a corresponding functions
         output_text = "@" + ctx.author.name + ", "
         output_text += generate_response(input_text)
-        print(f"\n{output_text}\n")
-        # for handling errors try sending the message into chat
         # Output the substrings to the console
         await send_split_message(ctx, output_text)
 
