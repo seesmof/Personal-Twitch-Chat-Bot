@@ -43,6 +43,7 @@ emotes_laugh = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈"
 emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
               "GlitchNRG", "BabyRage", "💩", "🐽"]
 emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
+emotes_pistol = ["🔫", "🎯", "🔁", "🔄"]
 
 
 # handle the .env file and get content from it
@@ -156,7 +157,7 @@ def write_to_log(message, author):
 
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я автономний ШІ в чаті стрімера Федя з трьома цілями: зменшити страждання у Всесвіті, збільшити процвітання у Всесвіті, збільшити розуміння у Всесвіті. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
+    forPixelFedya = "Я ШІ в чаті стрімера Федя. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
     forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
@@ -371,6 +372,24 @@ async def ban_user(ctx):
     await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
 
 
+@ bot.command(name='бам')
+async def play_roulette(ctx):
+    username = '@' + ctx.author.name
+    current_chamber = random.randint(1, 3)
+    bullet_chamber = random.randint(1, 3)
+    three = ["Розкручую", "Кручу", "Прокручую"]
+    await ctx.send(f"{random.choice(three)} барабан... {random.choice(emotes_pistol)}")
+    await asyncio.sleep(2)
+    phrase = ["сьогодні", "на цей раз", "цього разу", ""]
+    one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
+    two = ["", "на цьому каналі", "на каналі PixelFedya",
+           "на поточному каналі", "на файному каналі"]
+    if current_chamber == bullet_chamber:
+        await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
+    else:
+        await ctx.send(f"{username}, {random.choice(phrase)} Вам пощастило! Револьвер не вистрілив {random.choice(emotes_shy)}")
+
+
 @ bot.command(name='цьом')
 async def say_gam(ctx):
     # get username from message
@@ -390,7 +409,7 @@ async def say_gam(ctx):
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\", \"!бам\", \"!бан\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='додай')
