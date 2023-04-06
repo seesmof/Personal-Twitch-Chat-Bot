@@ -72,6 +72,8 @@ async def event_ready():
 
 @ bot.event
 async def event_message(ctx):
+    await asyncio.sleep(2)
+
     # the bot should not react to itself
     if ctx.author.name.lower() == BOT_NICK.lower():
         # print out bot's message to log
@@ -377,9 +379,6 @@ async def play_roulette(ctx):
     username = '@' + ctx.author.name
     current_chamber = random.randint(1, 3)
     bullet_chamber = random.randint(1, 3)
-    three = ["Розкручую", "Кручу", "Прокручую"]
-    await ctx.send(f"{random.choice(three)} барабан... {random.choice(emotes_pistol)}")
-    await asyncio.sleep(2)
     phrase = ["сьогодні", "на цей раз", "цього разу", ""]
     one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
     two = ["", "на цьому каналі", "на каналі PixelFedya",
