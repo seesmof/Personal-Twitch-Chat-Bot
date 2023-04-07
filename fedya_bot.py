@@ -137,7 +137,7 @@ async def event_ready():
 @ bot.event
 async def event_message(ctx):
     # add delay to prevent spamming and shadow banning
-    await asyncio.sleep(2)
+    # await asyncio.sleep(2)
 
     # handle situations with messages from a bot itself
     if ctx.author.name.lower() == BOT_NICK.lower():
