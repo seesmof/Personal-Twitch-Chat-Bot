@@ -107,15 +107,19 @@ async def event_message(ctx):
 
     # for handling ChatGPT requests from chat
     letters = ["@wuyodo"]
-    # check if message contains such letters
+    # check if message contains bot mention
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # replace the tag with nothingness
         input_text = ctx.content.replace("@wuyodo", "")
+        # avoid any excessive whtiespaces
         input_text = " ".join(input_text.split())
-        # generate the output text using a corresponding functions
+
+        # add user name to the output and tag them
         output_text = "@" + ctx.author.name + ", "
+        # generate the output text using a corresponding functions
         output_text += generate_response(input_text)
-        # Output the substrings to the console
+
+        # output the generated message to chat
         await send_split_message(ctx, output_text)
 
     # for handling kacaps
