@@ -237,6 +237,12 @@ def check_for_letters(text, letters):
     return False
 
 
+@ bot.command(name='інфа')
+async def show_info(ctx):
+    # output bot information
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\". Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+
+
 @ bot.command(name='єнот')
 async def give_raccoon(ctx):
     # get username from message
@@ -437,12 +443,6 @@ async def say_gam(ctx):
         username = '@' + random.choice(list(last_message_time))
     # output a random shenanigan to the user
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_kiss)}")
-
-
-@ bot.command(name='інфа')
-async def show_info(ctx):
-    # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\", \"!бам\", \"!бан\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='додай')
