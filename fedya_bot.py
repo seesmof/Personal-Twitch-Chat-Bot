@@ -19,11 +19,6 @@ if not os.path.exists(log_dir):
 # OUTDATED for handling sound file location
 # sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
 
-# for handling OpenAI API key
-openai.api_key = "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"
-# for handling OpenAI model name
-model_engine = "gpt-3.5-turbo"
-
 # declare global lists
 greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
                 "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
@@ -49,13 +44,16 @@ emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
 emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
 emotes_pistol = ["🔫", "🎯", "🔁", "🔄"]
 
-
-# handle the .env file and get content from it
+# for handling bot setup
 TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
+# for handling OpenAI API key
+openai.api_key = "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"
+# for handling OpenAI model name
+model_engine = "gpt-3.5-turbo"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -67,10 +65,12 @@ bot = commands.Bot(
 )
 
 
+# declare bot event when bot is ready
 @ bot.event
 async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
+    # log it
     write_to_log(f"is online at {CHANNEL}!", " BOT")
 
 
