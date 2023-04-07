@@ -80,18 +80,20 @@ async def event_message(ctx):
     # add delay to prevent spamming and shadow banning
     await asyncio.sleep(2)
 
-    # the bot should not react to itself
+    # handle situations with messages from a bot itself
     if ctx.author.name.lower() == BOT_NICK.lower():
-        # print out bot's message to log
+        # log the message and move on
         print(f"\nBOT: {ctx.content}")
         write_to_log(ctx.content, "BOT")
         return
 
+    # for handling users in chat
     global last_message_time
     user = ctx.author.name
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
+        # OUTDATED greet the user with a random greeting
         # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     else:
         # user has sent a message before
@@ -100,12 +102,16 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
+            # OUTDATED greet the user with a random greeting
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
     # for handling ChatGPT requests from chat
-    if ctx.content.startswith("@wuyodo"):
-        # get user's query from the message
-        input_text = ctx.content[len("@wuyodo"):].strip()
+    letters = ["@wuyodo"]
+    # check if message contains such letters
+    if check_for_letters(ctx.content.lower(), letters):
+        # output error message to user
+        input_text = ctx.content.replace("@wuyodo", "")
+        input_text = " ".join(input_text.split())
         # generate the output text using a corresponding functions
         output_text = "@" + ctx.author.name + ", "
         output_text += generate_response(input_text)

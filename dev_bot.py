@@ -15,23 +15,22 @@ import asyncio
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
-# for handling sound file location
-sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
-# for handling OpenAI API key
-openai.api_key = "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"
-# for handling OpenAI model name
-model_engine = "gpt-3.5-turbo"
-# create a list of greetings
+
+# OUTDATED for handling sound file location
+# sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
+
+# declare global lists
 greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
                 "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-# create a list of greetings!гам
 greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
 goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
               "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
+
+# for processing messages from user
 last_message_time = {}
 
-# add lists with emtoes
+# declare global emotes lists
 emotes_greet = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWan", "Poooound",
                 "GivePLZ", "DxCat", "bleedPurple", "RitzMitz", "<3", "VoHiYo", "RaccAttack", "GlitchCat", "HeyGuys"]
 emotes_hand = ["✋", "✌️", "👐", "👋", "🤚", "🤙"]
@@ -45,13 +44,16 @@ emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
 emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
 emotes_pistol = ["🔫", "🎯", "🔁", "🔄"]
 
-
-# handle the .env file and get content from it
+# for handling bot setup
 TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
+# for handling OpenAI API key
+openai.api_key = "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"
+# for handling OpenAI model name
+model_engine = "gpt-3.5-turbo"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -63,27 +65,35 @@ bot = commands.Bot(
 )
 
 
+# declare bot event when bot is ready
 @ bot.event
 async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
+    # log it
     write_to_log(f"is online at {CHANNEL}!", " BOT")
 
 
+# declare bot event on every message
 @ bot.event
 async def event_message(ctx):
-    # the bot should not react to itself
+    # add delay to prevent spamming and shadow banning
+    await asyncio.sleep(2)
+
+    # handle situations with messages from a bot itself
     if ctx.author.name.lower() == BOT_NICK.lower():
-        # print out bot's message to log
+        # log the message and move on
         print(f"\nBOT: {ctx.content}")
         write_to_log(ctx.content, "BOT")
         return
 
+    # for handling users in chat
     global last_message_time
     user = ctx.author.name
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
+        # OUTDATED greet the user with a random greeting
         # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     else:
         # user has sent a message before
@@ -92,12 +102,16 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
+            # OUTDATED greet the user with a random greeting
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
     # for handling ChatGPT requests from chat
-    if ctx.content.startswith("@wuyodo"):
-        # get user's query from the message
-        input_text = ctx.content[len("@wuyodo"):].strip()
+    letters = ["@wuyodo"]
+    # check if message contains such letters
+    if check_for_letters(ctx.content.lower(), letters):
+        # output error message to user
+        input_text = ctx.content.replace("@wuyodo", "")
+        input_text = " ".join(input_text.split())
         # generate the output text using a corresponding functions
         output_text = "@" + ctx.author.name + ", "
         output_text += generate_response(input_text)
@@ -158,8 +172,8 @@ def write_to_log(message, author):
 def generate_response(input_text):
     # parameters list
     forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
-    forMike = "I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
-    forElse = "I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
+    forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
+    forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
     response = openai.ChatCompletion.create(
         # model was specified before
@@ -375,11 +389,8 @@ async def ban_user(ctx):
 @ bot.command(name='бам')
 async def play_roulette(ctx):
     username = '@' + ctx.author.name
-    current_chamber = random.randint(1, 6)
-    bullet_chamber = random.randint(1, 6)
-    three = ["Розкручую", "Кручу", "Прокручую"]
-    await ctx.send(f"{random.choice(three)} барабан... {random.choice(emotes_pistol)}")
-    await asyncio.sleep(2)
+    current_chamber = random.randint(1, 3)
+    bullet_chamber = random.randint(1, 3)
     phrase = ["сьогодні", "на цей раз", "цього разу", ""]
     one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
     two = ["", "на цьому каналі", "на каналі PixelFedya",
@@ -409,7 +420,7 @@ async def say_gam(ctx):
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\", \"!бам\", \"!бан\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='додай')
