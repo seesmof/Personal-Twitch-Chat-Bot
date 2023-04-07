@@ -166,6 +166,7 @@ async def event_message(ctx):
             # OUTDATED greet the user with a random greeting
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
+    ''' Temporarily disabled
     # for handling ChatGPT requests from chat
     letters = ["@wuyodo"]
     # check if message contains bot mention
@@ -182,7 +183,8 @@ async def event_message(ctx):
 
         # output the generated message(s) to chat
         await send_split_message(ctx, output_text)
-        asyncio.sleep(3)
+        await asyncio.sleep(3)
+    '''
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -213,7 +215,7 @@ async def event_message(ctx):
         await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
 
     # for handling greetings
-    letters = ["дороу", "привіт", "здороу", "здоров", "доров", "хай", "hi", "буено", "вітаю", "доброго вечора",
+    letters = ["дороу", "привіт", "здороу", "здоров", "доров", "хай", "буено", "вітаю", "доброго вечора",
                "добрий вечір", "вітамба", "доброго дня", "добрий день", "доброго ранку", "добрий ранок", "вітання", "як ся маєш", "як воно", "бажаю здоров'я", "радий вітати", "радий бачити", "як справи", "як здоров'я", "hey", "hello", "hiya"]
     # check if message contains the greeting
     if check_for_letters(ctx.content.lower(), letters):
