@@ -15,8 +15,10 @@ import asyncio
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
-# for handling sound file location
-sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
+
+# OUTDATED for handling sound file location
+# sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
+
 # for handling OpenAI API key
 openai.api_key = "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"
 # for handling OpenAI model name
@@ -159,7 +161,7 @@ def write_to_log(message, author):
 
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
+    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
     forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
     # generate a response message with the following parameters
