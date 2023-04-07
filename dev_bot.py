@@ -65,6 +65,65 @@ bot = commands.Bot(
 )
 
 
+# declare a function for handling long bot outputs
+def split_string(input_string):
+    # split the string
+    num_substrings = len(input_string) // 475 + \
+        (1 if len(input_string) % 475 > 0 else 0)
+    substrings = [input_string[i * 475:(i + 1) * 475]
+                  for i in range(num_substrings)]
+
+    # return the splitted string
+    return substrings
+
+
+# declare a function for sending split messages to chat
+async def send_split_message(ctx, message):
+    # split the given message
+    substrings_list = split_string(message)
+
+    # send each message
+    for substring in substrings_list:
+        await ctx.channel.send(substring)
+        # add delay between each message
+        await asyncio.sleep(2)
+
+
+# declare a function for checking the message for input
+def check_for_letters(text, letters):
+    # for each letter in letters list
+    for letter in letters:
+        # check if letter is in the list
+        if letter in text:
+            return True
+    return False
+
+
+# declare a function for generating output from ChatGPT
+def generate_response(input_text):
+    # parameters list
+    forPixelFedya = "Я бот в чаті стрімера Федя. Я ніколи не спікуюсь російською!"
+    forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
+    forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
+
+    # generate a response message with the following parameters
+    response = openai.ChatCompletion.create(
+        # model was specified before
+        model=model_engine,
+        # message information for model to process and create upon
+        messages=[{"role": "system", "content": forPixelFedya}, {
+            "role": "user", "content": input_text}],
+        # maximum number of tokens to return
+        max_tokens=250,
+        # model's temperature or its creativeness
+        temperature=0.7,
+    )
+
+    # Parse the response and output the result
+    output_text = response['choices'][0]['message']['content']
+    return output_text
+
+
 # declare bot event when bot is ready
 @ bot.event
 async def event_ready():
@@ -78,7 +137,7 @@ async def event_ready():
 @ bot.event
 async def event_message(ctx):
     # add delay to prevent spamming and shadow banning
-    await asyncio.sleep(2)
+    # await asyncio.sleep(2)
 
     # handle situations with messages from a bot itself
     if ctx.author.name.lower() == BOT_NICK.lower():
@@ -122,7 +181,8 @@ async def event_message(ctx):
         output_text += generate_response(input_text)
 
         # output the generated message(s) to chat
-        await send_split_message(ctx, output_text)
+        await ctx.channel.send(output_text)
+        # await send_split_message(ctx, output_text)
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -152,6 +212,16 @@ async def event_message(ctx):
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
 
+    ''' Temporarily disabled
+    # for handling greetings
+    letters = ["дороу", "привіт", "здороу", "здоров", "доров", "хай", "буено", "вітаю", "доброго вечора",
+               "добрий вечір", "вітамба", "доброго дня", "добрий день", "доброго ранку", "добрий ранок", "вітання", "як ся маєш", "як воно", "бажаю здоров'я", "радий вітати", "радий бачити", "як справи", "як здоров'я", "hey", "hello", "hiya"]
+    # check if message contains the greeting
+    if check_for_letters(ctx.content.lower(), letters):
+        # greet the user
+        await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
+    '''
+
     # handle any commands if found
     await bot.handle_commands(ctx)
 
@@ -178,75 +248,18 @@ def write_to_log(message, author):
         log_file.write(f"\n{author}: {message}\n\n")
 
 
-# declare a function for generating output from ChatGPT
-def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
-    forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
-    forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
-
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=280,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-
-
-# declare a function for handling long bot outputs
-def split_string(input_string):
-    # split the string
-    num_substrings = len(input_string) // 475 + \
-        (1 if len(input_string) % 475 > 0 else 0)
-    substrings = [input_string[i * 475:(i + 1) * 475]
-                  for i in range(num_substrings)]
-
-    # return the splitted string
-    return substrings
-
-
-# declare a function for sending split messages to chat
-async def send_split_message(ctx, message):
-    # split the given message
-    substrings_list = split_string(message)
-
-    # send each message
-    for substring in substrings_list:
-        await ctx.channel.send(substring)
-        # add delay between each message
-        await asyncio.sleep(2)
-
-
-# declare a function for checking the message for input
-def check_for_letters(text, letters):
-    # for each letter in letters list
-    for letter in letters:
-        # check if letter is in the list
-        if letter in text:
-            return True
-    return False
-
-
+# declare a function for showing information about bot
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний ШІ-помічник в чаті Піксельного. Ви можете поставити мені будь-яке питання, просто додавши \"@wuyodo\" до свого повідомлення. Також, щоб подивитись мої існуючі команди, напишіть \"!коми\" в чат. Якщо Ви маєте ідеї стосовно мого покращення, будь ласка, напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
+# declare a function for showing commands
 @ bot.command(name='коми')
 async def show_commands(ctx):
-    # output bot information
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\"")
+    # output current commands
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\"")
 
 
 @ bot.command(name='єнот')
@@ -429,10 +442,11 @@ async def play_roulette(ctx):
     one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
     two = ["", "на цьому каналі", "на каналі PixelFedya",
            "на поточному каналі", "на файному каналі"]
+    roll = ["Розкручую", "Кручу", "Прокручую"]
     if current_chamber == bullet_chamber:
-        await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
+        await ctx.send(f"{random.choice(roll)} барабан... {random.choice(emotes_pistol)} {username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
     else:
-        await ctx.send(f"{username}, {random.choice(phrase)} Вам пощастило! Револьвер не вистрілив {random.choice(emotes_shy)}")
+        await ctx.send(f"{random.choice(roll)} барабан... {random.choice(emotes_pistol)} {username}, {random.choice(phrase)} Вам пощастило! Револьвер не вистрілив {random.choice(emotes_shy)}")
 
 
 @ bot.command(name='цьом')
@@ -533,6 +547,12 @@ async def print_random_emoji(ctx):
         emotes_poo + emotes_kiss + emotes_pistol
     # output a random shenanigan to the user
     await ctx.send(random.choice(global_emotes_list))
+
+
+@ bot.command(name='пк')
+async def show_pc_specs(ctx):
+    # output a random shenanigan to the user
+    await ctx.send(f"@{ctx.author.name}, процесор - i7-13700K, камера - Logitech BRIO 4K")
 
 
 if __name__ == "__main__":
