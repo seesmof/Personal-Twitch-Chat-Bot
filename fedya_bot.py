@@ -93,6 +93,7 @@ async def event_message(ctx):
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
+
         # OUTDATED greet the user with a random greeting
         # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     else:
@@ -102,6 +103,7 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
+
             # OUTDATED greet the user with a random greeting
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
@@ -131,21 +133,21 @@ async def event_message(ctx):
 
     # for handling fine patriots
     letters = ["слава україні"]
-    # check if message contains such letters
+    # check if message contains the text
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
 
     # for handling fine patriots
     letters = ["слава нації"]
-    # check if message contains such letters
+    # check if message contains the text
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
 
-    # for handling fine patriots
+    # for handling some dickhead
     letters = ["путін"]
-    # check if message contains such letters
+    # check if message contains this nonsense
     if check_for_letters(ctx.content.lower(), letters):
         # output error message to user
         await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
