@@ -149,16 +149,18 @@ async def event_message(ctx):
     letters = ["путін"]
     # check if message contains this nonsense
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
 
-    # relay message to command callbacks
+    # handle any commands if found
     await bot.handle_commands(ctx)
+
     # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
     write_to_log(ctx.content, ctx.author.name)
 
 
+# declare a function for writing messages to log
 def write_to_log(message, author):
     # for handling current time
     now = datetime.now()
@@ -166,6 +168,7 @@ def write_to_log(message, author):
     file_name = CHANNEL + "_log_" + now.strftime("%d-%m-%Y") + ".txt"
     # for handling the file path
     file_path = os.path.join(log_dir, file_name)
+
     # open file with appropriate decoding
     with open(file_path, "a", encoding="utf-8") as log_file:
         # declare and output timestamp before message
