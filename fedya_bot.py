@@ -248,7 +248,7 @@ async def show_info(ctx):
 @ bot.command(name='коми')
 async def show_commands(ctx):
     # output current commands
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\"")
 
 
 @ bot.command(name='єнот')
@@ -530,7 +530,9 @@ async def give_chance(ctx):
 
 @ bot.command(name='ем')
 async def print_random_emoji(ctx):
-    global_emotes_list = emotes_greet + emotes_hand + emotes_racc + emotes_nose + emotes_tongue + emotes_shy + emotes_laugh + emotes_poo + emotes_kiss + emotes_pistol
+    global_emotes_list = emotes_greet + emotes_hand + emotes_racc + emotes_nose + \
+        emotes_tongue + emotes_shy + emotes_laugh + \
+        emotes_poo + emotes_kiss + emotes_pistol
     # output a random shenanigan to the user
     await ctx.send(random.choice(global_emotes_list))
 
