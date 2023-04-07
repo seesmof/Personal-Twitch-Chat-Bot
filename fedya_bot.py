@@ -74,8 +74,10 @@ async def event_ready():
     write_to_log(f"is online at {CHANNEL}!", " BOT")
 
 
+# declare bot event on every message
 @ bot.event
 async def event_message(ctx):
+    # add delay to prevent spamming and shadow banning
     await asyncio.sleep(2)
 
     # the bot should not react to itself
