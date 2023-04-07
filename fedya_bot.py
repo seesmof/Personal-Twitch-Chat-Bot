@@ -182,6 +182,7 @@ async def event_message(ctx):
 
         # output the generated message(s) to chat
         await send_split_message(ctx, output_text)
+        asyncio.sleep(3)
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -210,6 +211,14 @@ async def event_message(ctx):
     if check_for_letters(ctx.content.lower(), letters):
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
+
+    # for handling greetings
+    letters = ["дороу", "привіт", "здороу", "здоров", "доров", "хай", "hi", "буено", "вітаю", "доброго вечора",
+               "добрий вечір", "вітамба", "доброго дня", "добрий день", "доброго ранку", "добрий ранок"]
+    # check if message contains the greeting
+    if check_for_letters(ctx.content.lower(), letters):
+        # greet the user
+        await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
     # handle any commands if found
     await bot.handle_commands(ctx)
@@ -248,7 +257,7 @@ async def show_info(ctx):
 @ bot.command(name='коми')
 async def show_commands(ctx):
     # output current commands
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\"")
 
 
 @ bot.command(name='єнот')
@@ -536,6 +545,12 @@ async def print_random_emoji(ctx):
         emotes_poo + emotes_kiss + emotes_pistol
     # output a random shenanigan to the user
     await ctx.send(random.choice(global_emotes_list))
+
+
+@ bot.command(name='пк')
+async def show_pc_specs(ctx):
+    # output a random shenanigan to the user
+    await ctx.send(f"@{ctx.author.name}, процесор - i7-13700K, камера - Logitech BRIO 4K")
 
 
 if __name__ == "__main__":
