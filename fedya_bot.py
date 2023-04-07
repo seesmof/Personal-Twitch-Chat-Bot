@@ -431,10 +431,11 @@ async def play_roulette(ctx):
     one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
     two = ["", "на цьому каналі", "на каналі PixelFedya",
            "на поточному каналі", "на файному каналі"]
+    roll = ["Розкручую", "Кручу", "Прокручую"]
     if current_chamber == bullet_chamber:
-        await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
+        await ctx.send(f"{random.choice(roll)} барабан... {random.choice(emotes_pistol)} {username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
     else:
-        await ctx.send(f"{username}, {random.choice(phrase)} Вам пощастило! Револьвер не вистрілив {random.choice(emotes_shy)}")
+        await ctx.send(f"{random.choice(roll)} барабан... {random.choice(emotes_pistol)} {username}, {random.choice(phrase)} Вам пощастило! Револьвер не вистрілив {random.choice(emotes_shy)}")
 
 
 @ bot.command(name='цьом')
