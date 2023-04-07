@@ -526,6 +526,15 @@ async def give_chance(ctx):
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
 
 
+@ bot.command(name='ем')
+async def print_random_emoji(ctx):
+    global_emotes_list = emotes_greet + emotes_hand + emotes_racc + emotes_nose + \
+        emotes_tongue + emotes_shy + emotes_laugh + \
+        emotes_poo + emotes_kiss + emotes_pistol
+    # output a random shenanigan to the user
+    await ctx.send(random.choice(global_emotes_list))
+
+
 if __name__ == "__main__":
     # launch bot
     bot.run()

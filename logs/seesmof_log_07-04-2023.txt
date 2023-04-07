@@ -91,3 +91,21 @@ seesmof: тест
 10:32:47
  BOT: is online at seesmof!
 
+10:40:41
+ BOT: is online at seesmof!
+
+10:40:46
+seesmof: !ем
+
+10:42:02
+ BOT: is online at seesmof!
+
+10:42:05
+seesmof: ntcn
+
+10:42:08
+seesmof: !ем
+
+10:42:10
+BOT: 👺
+
