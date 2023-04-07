@@ -93,6 +93,7 @@ async def event_message(ctx):
     if user not in last_message_time:
         # user is sending the first message of the day
         last_message_time[user] = datetime.now()
+
         # OUTDATED greet the user with a random greeting
         # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     else:
@@ -102,20 +103,25 @@ async def event_message(ctx):
         if last_time.date() < today:
             # user is sending the first message of the day
             last_message_time[user] = datetime.now()
+
             # OUTDATED greet the user with a random greeting
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
 
     # for handling ChatGPT requests from chat
     letters = ["@wuyodo"]
-    # check if message contains such letters
+    # check if message contains bot mention
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # replace the tag with nothingness
         input_text = ctx.content.replace("@wuyodo", "")
+        # avoid any excessive whtiespaces
         input_text = " ".join(input_text.split())
-        # generate the output text using a corresponding functions
+
+        # add user name to the output and tag them
         output_text = "@" + ctx.author.name + ", "
+        # generate the output text using a corresponding functions
         output_text += generate_response(input_text)
-        # Output the substrings to the console
+
+        # output the generated message(s) to chat
         await send_split_message(ctx, output_text)
 
     # for handling kacaps
@@ -127,32 +133,34 @@ async def event_message(ctx):
 
     # for handling fine patriots
     letters = ["слава україні"]
-    # check if message contains such letters
+    # check if message contains the text
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
 
     # for handling fine patriots
     letters = ["слава нації"]
-    # check if message contains such letters
+    # check if message contains the text
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
 
-    # for handling fine patriots
+    # for handling some dickhead
     letters = ["путін"]
-    # check if message contains such letters
+    # check if message contains this nonsense
     if check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
+        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
 
-    # relay message to command callbacks
+    # handle any commands if found
     await bot.handle_commands(ctx)
+
     # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
     write_to_log(ctx.content, ctx.author.name)
 
 
+# declare a function for writing messages to log
 def write_to_log(message, author):
     # for handling current time
     now = datetime.now()
@@ -160,6 +168,7 @@ def write_to_log(message, author):
     file_name = CHANNEL + "_log_" + now.strftime("%d-%m-%Y") + ".txt"
     # for handling the file path
     file_path = os.path.join(log_dir, file_name)
+
     # open file with appropriate decoding
     with open(file_path, "a", encoding="utf-8") as log_file:
         # declare and output timestamp before message
@@ -169,11 +178,13 @@ def write_to_log(message, author):
         log_file.write(f"\n{author}: {message}\n\n")
 
 
+# declare a function for generating output from ChatGPT
 def generate_response(input_text):
     # parameters list
     forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
     forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
+
     # generate a response message with the following parameters
     response = openai.ChatCompletion.create(
         # model was specified before
@@ -186,26 +197,37 @@ def generate_response(input_text):
         # model's temperature or its creativeness
         temperature=0.7,
     )
+
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
 
 
+# declare a function for handling long bot outputs
 def split_string(input_string):
+    # split the string
     num_substrings = len(input_string) // 475 + \
         (1 if len(input_string) % 475 > 0 else 0)
     substrings = [input_string[i * 475:(i + 1) * 475]
                   for i in range(num_substrings)]
+
+    # return the splitted string
     return substrings
 
 
+# declare a function for sending split messages to chat
 async def send_split_message(ctx, message):
+    # split the given message
     substrings_list = split_string(message)
+
+    # send each message
     for substring in substrings_list:
         await ctx.channel.send(substring)
+        # add delay between each message
         await asyncio.sleep(2)
 
 
+# declare a function for checking the message for input
 def check_for_letters(text, letters):
     # for each letter in letters list
     for letter in letters:
@@ -213,6 +235,18 @@ def check_for_letters(text, letters):
         if letter in text:
             return True
     return False
+
+
+@ bot.command(name='інфа')
+async def show_info(ctx):
+    # output bot information
+    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний ШІ-помічник в чаті Піксельного. Ви можете поставити мені будь-яке питання, просто додавши \"@wuyodo\" до свого повідомлення. Також, щоб подивитись мої існуючі команди, напишіть \"!коми\" в чат. Якщо Ви маєте ідеї стосовно мого покращення, будь ласка, напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
+
+
+@ bot.command(name='коми')
+async def show_commands(ctx):
+    # output bot information
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\"")
 
 
 @ bot.command(name='єнот')
@@ -415,12 +449,6 @@ async def say_gam(ctx):
         username = '@' + random.choice(list(last_message_time))
     # output a random shenanigan to the user
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_kiss)}")
-
-
-@ bot.command(name='інфа')
-async def show_info(ctx):
-    # output bot information
-    await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот або Олекса і я Ваш персональний помічник в чаті Піксельного. Наявні команди: \"!гпт\", \"!тг\", \"!шанс\", \"!пр\", \"!окса\", \"!єнот\", \"!щіщ\", \"!гам\", \"!дн\", \"!o\", \"!нюх\", \"!лиз\", \"!фол\", \"!мац\", \"!пук\", \"!цьом\", \"!боб\", \"!бам\", \"!бан\"! Якщо Ви маєте ідеї стосовно мого покращення, будь ласка напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
 @ bot.command(name='додай')

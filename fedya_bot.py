@@ -65,6 +65,65 @@ bot = commands.Bot(
 )
 
 
+# declare a function for handling long bot outputs
+def split_string(input_string):
+    # split the string
+    num_substrings = len(input_string) // 475 + \
+        (1 if len(input_string) % 475 > 0 else 0)
+    substrings = [input_string[i * 475:(i + 1) * 475]
+                  for i in range(num_substrings)]
+
+    # return the splitted string
+    return substrings
+
+
+# declare a function for sending split messages to chat
+async def send_split_message(ctx, message):
+    # split the given message
+    substrings_list = split_string(message)
+
+    # send each message
+    for substring in substrings_list:
+        await ctx.channel.send(substring)
+        # add delay between each message
+        await asyncio.sleep(2)
+
+
+# declare a function for checking the message for input
+def check_for_letters(text, letters):
+    # for each letter in letters list
+    for letter in letters:
+        # check if letter is in the list
+        if letter in text:
+            return True
+    return False
+
+
+# declare a function for generating output from ChatGPT
+def generate_response(input_text):
+    # parameters list
+    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
+    forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
+    forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
+
+    # generate a response message with the following parameters
+    response = openai.ChatCompletion.create(
+        # model was specified before
+        model=model_engine,
+        # message information for model to process and create upon
+        messages=[{"role": "system", "content": forPixelFedya}, {
+            "role": "user", "content": input_text}],
+        # maximum number of tokens to return
+        max_tokens=280,
+        # model's temperature or its creativeness
+        temperature=0.7,
+    )
+
+    # Parse the response and output the result
+    output_text = response['choices'][0]['message']['content']
+    return output_text
+
+
 # declare bot event when bot is ready
 @ bot.event
 async def event_ready():
@@ -176,65 +235,6 @@ def write_to_log(message, author):
         log_file.write(timestamp)
         # output message with author name to log
         log_file.write(f"\n{author}: {message}\n\n")
-
-
-# declare a function for generating output from ChatGPT
-def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я ніколи не спікуюсь російською!"
-    forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
-    forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
-
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=280,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-
-
-# declare a function for handling long bot outputs
-def split_string(input_string):
-    # split the string
-    num_substrings = len(input_string) // 475 + \
-        (1 if len(input_string) % 475 > 0 else 0)
-    substrings = [input_string[i * 475:(i + 1) * 475]
-                  for i in range(num_substrings)]
-
-    # return the splitted string
-    return substrings
-
-
-# declare a function for sending split messages to chat
-async def send_split_message(ctx, message):
-    # split the given message
-    substrings_list = split_string(message)
-
-    # send each message
-    for substring in substrings_list:
-        await ctx.channel.send(substring)
-        # add delay between each message
-        await asyncio.sleep(2)
-
-
-# declare a function for checking the message for input
-def check_for_letters(text, letters):
-    # for each letter in letters list
-    for letter in letters:
-        # check if letter is in the list
-        if letter in text:
-            return True
-    return False
 
 
 @ bot.command(name='інфа')
