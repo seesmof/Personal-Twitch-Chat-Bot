@@ -1,16 +1,9 @@
-import requests
+import pyautogui
+import pygetwindow as gw
 
-# Make a GET request to the Twitch API endpoint for emotes
-response = requests.get('https://api.twitch.tv/helix/chat/emotes')
+# Display the alert
+pyautogui.alert('This is an alert', "Check Chat!", timeout=None)
 
-# Extract the emote names from the response
-emotes = [emote['name'] for emote in response.json()['data']]
-
-# Format the emote names as a string
-formatted_emotes = '", "'.join(emotes)
-
-# Wrap the formatted emotes in brackets and backticks
-formatted_emotes = f"[`\"{formatted_emotes}\"`]"
-
-# Print the formatted emotes
-print(formatted_emotes)
+# Find the alert window and bring it to the front
+alert_window = gw.getWindowsWithTitle('Чуваче, диви чат!')[0]
+alert_window.activate()
