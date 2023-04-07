@@ -237,15 +237,17 @@ def write_to_log(message, author):
         log_file.write(f"\n{author}: {message}\n\n")
 
 
+# declare a function for showing information about bot
 @ bot.command(name='інфа')
 async def show_info(ctx):
     # output bot information
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний ШІ-помічник в чаті Піксельного. Ви можете поставити мені будь-яке питання, просто додавши \"@wuyodo\" до свого повідомлення. Також, щоб подивитись мої існуючі команди, напишіть \"!коми\" в чат. Якщо Ви маєте ідеї стосовно мого покращення, будь ласка, напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
+# declare a function for showing commands
 @ bot.command(name='коми')
 async def show_commands(ctx):
-    # output bot information
+    # output current commands
     await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\"")
 
 
