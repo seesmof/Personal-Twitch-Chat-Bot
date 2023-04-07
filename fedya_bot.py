@@ -121,7 +121,7 @@ async def event_message(ctx):
         # generate the output text using a corresponding functions
         output_text += generate_response(input_text)
 
-        # output the generated message to chat
+        # output the generated message(s) to chat
         await send_split_message(ctx, output_text)
 
     # for handling kacaps
@@ -219,11 +219,15 @@ def split_string(input_string):
 async def send_split_message(ctx, message):
     # split the given message
     substrings_list = split_string(message)
+
+    # send each message
     for substring in substrings_list:
         await ctx.channel.send(substring)
+        # add delay between each message
         await asyncio.sleep(2)
 
 
+# declare a function for checking the message for input
 def check_for_letters(text, letters):
     # for each letter in letters list
     for letter in letters:
