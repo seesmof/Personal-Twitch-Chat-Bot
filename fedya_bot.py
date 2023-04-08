@@ -629,6 +629,11 @@ async def act_slug(ctx):
 async def who_is_he(ctx):
     await ctx.send(f"@{ctx.author.name}, стрімера звати Василь, але він має прізвище Фединяк, тому друзі називають його Федя. Ви можете називати його як вам завгодно :)")
 
+
+@ bot.command(name='де')
+async def where_from(ctx):
+    await ctx.send(f"@{ctx.author.name}, стрімер родом з Івано-Франківської області, але наразі перебуває в Англії :)")
+
 if __name__ == "__main__":
     # launch bot
     bot.run()
