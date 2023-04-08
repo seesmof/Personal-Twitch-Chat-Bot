@@ -269,7 +269,7 @@ async def show_info(ctx):
 @ bot.command(name='коми')
 async def show_commands(ctx):
     # output current commands
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\"")
 
 
 @ bot.command(name='єнот')
@@ -624,6 +624,10 @@ async def act_slug(ctx):
     # output a random shenanigan to the user
     await ctx.send(f"@{ctx.author.name}, {random.choice(phrases)} {random.choice(emotes_slug)}")
 
+
+@ bot.command(name='чого')
+async def who_is_he(ctx):
+    await ctx.send(f"@{ctx.author.name}, стрімера звати Василь, але він має прізвище Фединяк, тому друзі називають його Федя. Ви можете називати його як вам завгодно :)")
 
 if __name__ == "__main__":
     # launch bot
