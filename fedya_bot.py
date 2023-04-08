@@ -69,22 +69,41 @@ bot = commands.Bot(
 
 
 # declare a function for handling long bot outputs
-def split_string(input_string):
+def split_long_gpt(input_string):
     # split the string
     num_substrings = len(input_string) // 475 + \
         (1 if len(input_string) % 475 > 0 else 0)
     substrings = [input_string[i * 475:(i + 1) * 475]
                   for i in range(num_substrings)]
-
     # return the splitted string
     return substrings
+
+
+def split_long_message(input_string):
+    words = input_string.split()
+    # create a list to hold the resulting strings
+    result = []
+    # loop through the words, adding each group of six to the result list
+    for i in range(0, len(words), 10):
+        result.append(" ".join(words[i:i+10]))
+    return result
 
 
 # declare a function for sending split messages to chat
 async def send_split_message(ctx, message):
     # split the given message
-    substrings_list = split_string(message)
+    substrings_list = split_long_message(message)
+    # send each message
+    for substring in substrings_list:
+        await ctx.channel.send(substring)
+        # add delay between each message
+        await asyncio.sleep(2)
 
+
+# declare a function for sending split messages to chat
+async def send_split_gpt(ctx, message):
+    # split the given message
+    substrings_list = split_long_gpt(message)
     # send each message
     for substring in substrings_list:
         await ctx.channel.send(substring)
@@ -105,7 +124,7 @@ def check_for_letters(text, letters):
 # declare a function for generating output from ChatGPT
 def generate_response(input_text):
     # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. Я не знаю російської мови і ніколи не спікуюсь російською! I don't know and never speak russian language!"
+    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. I must never speak russian! My main language is Ukrainian."
     forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
 
@@ -184,8 +203,7 @@ async def event_message(ctx):
         output_text += generate_response(input_text)
 
         # output the generated message(s) to chat
-        await send_split_message(ctx, output_text)
-        await asyncio.sleep(3)
+        await send_split_gpt(ctx, output_text)
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -269,7 +287,7 @@ async def show_info(ctx):
 @ bot.command(name='коми')
 async def show_commands(ctx):
     # output current commands
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\"")
 
 
 @ bot.command(name='єнот')
@@ -322,7 +340,7 @@ async def fall_guys_instruction(ctx):
         # if not set username to the user who sent the message
         code = "Lobby Code"
     # output the greeting message and tag the user
-    await ctx.send(f"@{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games")
+    await ctx.send(f"@{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона 5,42ГБ")
 
 
 @ bot.command(name='о')
@@ -633,6 +651,17 @@ async def who_is_he(ctx):
 @ bot.command(name='де')
 async def where_from(ctx):
     await ctx.send(f"@{ctx.author.name}, стрімер родом з Івано-Франківської області, але наразі перебуває в Англії :)")
+
+
+@ bot.command(name='блін')
+async def where_from(ctx):
+    await ctx.send(f"@PixelFedya")
+    await asyncio.sleep(2)
+    input_txt = ctx.content[5:]
+    await send_split_message(ctx, input_txt)
+    await asyncio.sleep(2)
+    await ctx.send(f"@PixelFedya")
+
 
 if __name__ == "__main__":
     # launch bot

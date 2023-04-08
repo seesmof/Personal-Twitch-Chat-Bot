@@ -1,9 +1,13 @@
-import pyautogui
-import pygetwindow as gw
+def split_string(string):
+    words = string.split()
+    # create a list to hold the resulting strings
+    result = []
+    # loop through the words, adding each group of six to the result list
+    for i in range(0, len(words), 6):
+        result.append(" ".join(words[i:i+6]))
+    return result
 
-# Display the alert
-pyautogui.alert('This is an alert', "Check Chat!", timeout=None)
 
-# Find the alert window and bring it to the front
-alert_window = gw.getWindowsWithTitle('Чуваче, диви чат!')[0]
-alert_window.activate()
+string = "This is a test string that we will use to demonstrate the function."
+result = split_string(string)
+print(result)
