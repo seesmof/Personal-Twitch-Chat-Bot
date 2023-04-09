@@ -114,7 +114,7 @@ async def event_message(ctx):
             print("\nGenerating a message...")
             # replace the tag with nothingness
             input_text = ctx.content.replace("@wuyodo", "")
-            # avoid any excessive whtiespaces
+            # avoid any excessive whitespaces
             input_text = " ".join(input_text.split())
 
             # add user name to the output and tag them
