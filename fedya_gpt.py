@@ -111,6 +111,7 @@ async def event_message(ctx):
     # check if message contains bot mention
     if check_for_letters(ctx.content.lower(), letters):
         if ctx.author.name.lower() != "pawrop":
+            print("\nGenerating a message...\n")
             # replace the tag with nothingness
             input_text = ctx.content.replace("@wuyodo", "")
             # avoid any excessive whtiespaces
