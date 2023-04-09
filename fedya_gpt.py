@@ -110,18 +110,19 @@ async def event_message(ctx):
     letters = ["@wuyodo"]
     # check if message contains bot mention
     if check_for_letters(ctx.content.lower(), letters):
-        # replace the tag with nothingness
-        input_text = ctx.content.replace("@wuyodo", "")
-        # avoid any excessive whtiespaces
-        input_text = " ".join(input_text.split())
+        if ctx.author.name.lower() != "pawrop":
+            # replace the tag with nothingness
+            input_text = ctx.content.replace("@wuyodo", "")
+            # avoid any excessive whtiespaces
+            input_text = " ".join(input_text.split())
 
-        # add user name to the output and tag them
-        output_text = "@" + ctx.author.name + ", "
-        # generate the output text using a corresponding functions
-        output_text += generate_response(input_text)
+            # add user name to the output and tag them
+            output_text = "@" + ctx.author.name + ", "
+            # generate the output text using a corresponding functions
+            output_text += generate_response(input_text)
 
-        # output the generated message(s) to chat
-        await send_split_gpt(ctx, output_text)
+            # output the generated message(s) to chat
+            await send_split_gpt(ctx, output_text)
 
 
 # declare a function for writing messages to log
