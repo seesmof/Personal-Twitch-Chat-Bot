@@ -33,6 +33,8 @@ goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
 last_message_time = {}
 
 # declare global emotes lists
+emotes_all_twitch = [";p", ";)", ":O", ":p", "\:-?\)", "ANELE", "ArgieB8", "B-?\)", "BCWarrior", "BegWan", "BibleThump", "bleedPurple", "BloodTrail", "BOP", "BrainSlug", "BrokeBack", "BuddhaBar", "CarlSmile", "CaitlynS", "ChefFrank", "cmonBruh", "CoolCat", "CoolStoryBob", "CorgiDerp", "CrreamAwk", "DxCat", "DoritosChip", "FallWinning", "FallCry", "FallHalp", "FrankerZ", "GivePLZ", "GlitchLit", "GlitchNRG", "GunRun", "HolidayCookie", "HassaanChop", "Jebaited", "Kappa", "KappaClaus", "KappaPride", "KappaRoss", "KappaWealth", "Keepo", "KevinTurtle", "Kippa", "KomodoHype", "KonCha", "Kreygasm",
+                     "LUL", "Lechonk", "MrDestructoid", "NotATK", "NotLikeThis", "NinjaGrumpy", "MVGame", "MorphinTime", "MyAvatar", "OSFrog", "OpieOP", "O_o", "OhMyDog", "Poooound", "PopCorn", "PogBones", "PotFriend", "PunchTrees", "RaccAttack", "RalpherZ", "ResidentSleeper", "RitzMitz", "RlyTho", "ShazBotstix", "SabaPing", "SMOrc", "SSSsss", "StinkyCheese", "StinkyGlitch", "StrawBeary", "SUBprise", "SuperVinlin", "SwiftRage", "TakeNRG", "TBAngel", "TearGlove", "TehePelo", "TF2John", "TheIlluminati", "TheTarFu", "TPFufun", "TriHard", "UnSane", "UWot", "VoHiYo", "WTRuck", "WutFace", "YouDontSay", "YouWHY"]
 emotes_greet = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWan", "Poooound",
                 "GivePLZ", "DxCat", "bleedPurple", "RitzMitz", "<3", "VoHiYo", "RaccAttack", "GlitchCat", "HeyGuys"]
 emotes_hand = ["✋", "✌️", "👐", "👋", "🤚", "🤙"]
@@ -570,7 +572,7 @@ async def give_chance(ctx):
 
 @ bot.command(name='ем')
 async def print_random_emoji(ctx):
-    global_emotes_list = emotes_greet + emotes_poo
+    global_emotes_list = emotes_all_twitch
     # output a random shenanigan to the user
     await ctx.send(random.choice(global_emotes_list))
 
