@@ -130,22 +130,24 @@ async def generate_response(input_text):
     forMike = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Yoshi, a personal chat bot for a Twitch streamer Mike. You are from Ukraine, a patriot and Ukrainian is your native language. Your task is to help chat users. You never speak russian!"
     forElse = "My main objectives are reduce suffering in the universe, increase prosperity in the universe, increase understanding in the universe. You are Alex, a friendly helper for anyone in chat. You are from Ukraine, a patriot and Ukrainian is your native language. You don't speak russian!"
 
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=280,
-        # model's temperature or its creativeness
-        temperature=0.7,
+    response = await asyncio.create_task(
+        # generate a response message with the following parameters
+        response=openai.ChatCompletion.create(
+            # model was specified before
+            model=model_engine,
+            # message information for model to process and create upon
+            messages=[{"role": "system", "content": forPixelFedya}, {
+                "role": "user", "content": input_text}],
+            # maximum number of tokens to return
+            max_tokens=280,
+            # model's temperature or its creativeness
+            temperature=0.7,
+        )
     )
 
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
-    return output_text
+    await send_split_gpt(output_text)
 
 
 # declare bot event when bot is ready
@@ -202,10 +204,9 @@ async def event_message(ctx):
         # add user name to the output and tag them
         output_text = "@" + ctx.author.name + ", "
         # generate the output text using a corresponding functions
-        output_text += asyncio.create_task(generate_response(input_text))
+        output_text += generate_response(input_text)
 
         # output the generated message(s) to chat
-        await send_split_gpt(ctx, output_text)
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -253,7 +254,6 @@ async def event_message(ctx):
     '''
 
     # handle any commands if found
-    await asyncio.sleep(1)
     await bot.handle_commands(ctx)
 
     # print out the chat message to console and log it
