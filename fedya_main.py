@@ -31,6 +31,7 @@ goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
 
 # for processing messages from user
 last_message_time = {}
+messages_tracker = {}
 
 # declare global emotes lists
 emotes_all_twitch = [";p", ";)", ":O", ":p", "\:-?\)", "ANELE", "ArgieB8", "B-?\)", "BCWarrior", "BegWan", "BibleThump", "bleedPurple", "BloodTrail", "BOP", "BrainSlug", "BrokeBack", "BuddhaBar", "CarlSmile", "CaitlynS", "ChefFrank", "cmonBruh", "CoolCat", "CoolStoryBob", "CorgiDerp", "CrreamAwk", "DxCat", "DoritosChip", "FallWinning", "FallCry", "FallHalp", "FrankerZ", "GivePLZ", "GlitchLit", "GlitchNRG", "GunRun", "HolidayCookie", "HassaanChop", "Jebaited", "Kappa", "KappaClaus", "KappaPride", "KappaRoss", "KappaWealth", "Keepo", "KevinTurtle", "Kippa", "KomodoHype", "KonCha", "Kreygasm",
@@ -129,6 +130,7 @@ CLIENT_ID = "y6rcb4jxi1usz9x0zhhx1q4yta5hxl"
 BOT_NICK = "pawrop"
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
+# CHANNEL = "seesmof"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -216,6 +218,10 @@ async def event_message(ctx):
 
             # OUTDATED greet the user with a random greeting
             # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
+
+    if ctx.author.name not in messages_tracker:
+        messages_tracker[ctx.author.name] = []
+    messages_tracker[ctx.author.name].append(ctx.content)
 
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
@@ -691,8 +697,12 @@ def replace_characters(string, char_dict):
 
 @ bot.command(name='ой')
 async def oh_no_my_keyboard(ctx):
-    input_txt = ctx.content[3:]
-    output_text = replace_characters(input_txt, letters_dict)
+    input_user = ctx.author.name
+
+    message = messages_tracker[ctx.author.name][-2]
+    print(message)
+
+    output_text = replace_characters(message, letters_dict)
     await ctx.send(f"@{ctx.author.name}, {output_text}")
 
 
