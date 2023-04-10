@@ -48,13 +48,87 @@ emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
 emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
 emotes_pistol = ["🔫", "🎯", "🔁", "🔄"]
 emotes_slug = ["🐌", "🐛", "🐌🍄", "🐌🌳", "🐌🌱", "🐌🐚", "🐌🏠", "🐌🍽️", "🐌🌧️"]
+letters_dict = {
+    'q': 'й',
+    'w': 'ц',
+    'e': 'у',
+    'r': 'к',
+    't': 'е',
+    'y': 'н',
+    'u': 'г',
+    'i': 'ш',
+    'o': 'щ',
+    'p': 'з',
+    '[': 'х',
+    ']': 'ї',
+    'a': 'а',
+    's': 'і',
+    'd': 'в',
+    'f': 'а',
+    'g': 'п',
+    'h': 'р',
+    'j': 'о',
+    'k': 'л',
+    'l': 'д',
+    ';': 'ж',
+    "'": 'є',
+    'z': 'я',
+    'x': 'ч',
+    'c': 'с',
+    'v': 'м',
+    'b': 'и',
+    'n': 'т',
+    'm': 'ь',
+    ',': 'б',
+    '.': 'ю',
+    '/': '.',
+    'Q': 'Й',
+    'W': 'Ц',
+    'E': 'У',
+    'R': 'К',
+    'T': 'Е',
+    'Y': 'Н',
+    'U': 'Г',
+    'I': 'Ш',
+    'O': 'Щ',
+    'P': 'З',
+    '[': 'Х',
+    ']': 'Ї',
+    'A': 'Ф',
+    'S': 'І',
+    'D': 'В',
+    'F': 'А',
+    'G': 'П',
+    'H': 'Р',
+    'J': 'О',
+    'K': 'Л',
+    'L': 'Д',
+    ':': 'Ж',
+    '"': 'Є',
+    'Z': 'Я',
+    'X': 'Ч',
+    'C': 'С',
+    'V': 'М',
+    'B': 'И',
+    'N': 'Т',
+    'M': 'Ь',
+    '<': 'Б',
+    '>': 'Ю',
+    '?': ',',
+    '@': '"',
+    '#': '№',
+    '$': ';',
+    '^': ':',
+    '&': '?'
+}
+
 
 # for handling bot setup
 TMI_TOKEN = "oauth:9267z36swbnmh2apun2fnz7d0ly939"
 CLIENT_ID = "y6rcb4jxi1usz9x0zhhx1q4yta5hxl"
-BOT_NICK = "pawrop"
+BOT_NICK = "seesmof"
 BOT_PREFIX = "!"
-CHANNEL = "seesmof"
+CHANNEL = "PixelFedya"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -170,8 +244,8 @@ async def event_message(ctx):
     if check_for_letters(ctx.content.lower(), letters):
         letterX = ["x", "х", "ẋ"]
         letterY = ["y", "у", "ẙ"]
-        letterO = ["о", "o", "ø", "ǿ", "ö", "ȫ", "ó", "ò", "ô", "ố", "ȱ", "ȯ", "ȏ", "ŏ",
-                   "ő", "ǒ", "ộ", "ỗ", "ổ", "ồ", "ọ", "ơ", "ỏ", "ở", "ợ", "ỡ", "ờ", "ớ", "ᴏ", "ᴑ"]
+        letterO = ["о", "o", "ø", "ǿ", "ö", "ȫ", "ó", "ò", "ô",
+                   "ố", "ȱ", "ȯ", "ȏ", "ŏ", "ő", "ǒ", "ộ", "ỗ", "ổ", "ồ", "ọ", "ơ", "ỏ", "ở", "ợ", "ỡ", "ờ", "ớ", "ᴏ", "ᴑ"]
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(letterX)}{random.choice(letterY)}йл{random.choice(letterO)}!")
 
@@ -229,7 +303,7 @@ async def show_info(ctx):
 @ bot.command(name='коми')
 async def show_commands(ctx):
     # output current commands
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\"")
 
 
 @ bot.command(name='єнот')
@@ -596,13 +670,30 @@ async def where_from(ctx):
 
 
 @ bot.command(name='блін')
-async def where_from(ctx):
+async def no_ignore_please(ctx):
     await ctx.send(f"@PixelFedya")
     await asyncio.sleep(2)
     input_txt = ctx.content[5:]
     await send_split_message(ctx, input_txt)
     await asyncio.sleep(2)
     await ctx.send(f"@PixelFedya")
+
+
+def replace_characters(string, char_dict):
+    new_string = ""
+    for char in string:
+        if char in char_dict:
+            new_string += char_dict[char]
+        else:
+            new_string += char
+    return new_string
+
+
+@ bot.command(name='ой')
+async def oh_no_my_keyboard(ctx):
+    input_txt = ctx.content[3:]
+    output_text = replace_characters(input_txt, letters_dict)
+    await ctx.send(f"@{ctx.author.name}, {output_text}")
 
 
 if __name__ == "__main__":
