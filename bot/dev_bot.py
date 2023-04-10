@@ -118,6 +118,10 @@ async def event_message(ctx):
         print(f"\nBOT: {ctx.content}")
         write_to_log(ctx.content, "BOT")
         return
+    elif ctx.author.name.lower() == "streamelements":
+        # log the message and move on
+        print(f"\nBOT: {ctx.content}")
+        return
 
     # for handling users in chat
     global last_message_time
