@@ -164,8 +164,12 @@ async def event_message(ctx):
     letters = ["путін"]
     # check if message contains this nonsense
     if check_for_letters(ctx.content.lower(), letters):
+        letterX = ["x", "х", "ẋ"]
+        letterY = ["y", "у", "ẙ"]
+        letterO = ["о", "o", "ø", "ǿ", "ö", "ȫ", "ó", "ò", "ô",
+                   "ố", "ȱ", "ȯ", "ȏ", "ŏ", "ő", "ǒ", "ộ", "ỗ", "ổ", "ồ", "ọ", "ơ", "ỏ", "ở", "ợ", "ỡ", "ờ", "ớ", "ᴏ", "ᴑ"]
         # output message to user
-        await ctx.channel.send(f"@{ctx.author.name}, хуйло!")
+        await ctx.channel.send(f"@{ctx.author.name}, {random.choice(letterX)}{random.choice(letterY)}йл{random.choice(letterO)}!")
 
     # for handling some dickhead
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф", "сіс"]
