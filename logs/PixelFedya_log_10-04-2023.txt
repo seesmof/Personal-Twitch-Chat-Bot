@@ -67,3 +67,6 @@ streamelements: Вся інфа про стріми тут - https://t.me/pixelf
 13:33:11
 streamelements: Вся інфа про стріми тут - https://t.me/pixelfedya
 
+13:40:43
+ BOT: is online at PixelFedya!
+
