@@ -7,3 +7,27 @@ seesmof: тест
 08:53:24
 seesmof: атіватівлоа
 
+08:54:45
+ BOT: is online at seesmof!
+
+08:54:52
+seesmof: тест
+
+08:54:54
+seesmof: алоівда
+
+08:55:03
+ BOT: is online at seesmof!
+
+08:55:06
+seesmof: тест
+
+08:55:08
+seesmof: алівовад
+
+08:59:46
+ BOT: is online at seesmof!
+
+09:15:30
+ BOT: is online at seesmof!
+
