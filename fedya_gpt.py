@@ -5,6 +5,7 @@ from datetime import datetime
 import openai
 import os
 import asyncio
+import time
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
@@ -111,8 +112,12 @@ async def event_message(ctx):
     letters = ["@wuyodo"]
     # check if message contains bot mention
     if check_for_letters(ctx.content.lower(), letters):
+        # check if the message is not from another bot
         if ctx.author.name.lower() != "pawrop":
+            # print message generation
             print("\nGenerating a message...")
+            start_time = time.time()
+
             # replace the tag with nothingness
             input_text = ctx.content.replace("@wuyodo", "")
             # avoid any excessive whitespaces
@@ -123,8 +128,12 @@ async def event_message(ctx):
             # generate the output text using a corresponding functions
             output_text += generate_response(input_text)
 
+            end_time = time.time()
+            elapsed_time = end_time - start_time
+
             # output the generated message(s) to chat
             await send_split_gpt(ctx, output_text)
+            print(f"\nGenerated in {elapsed_time:.2f} seconds")
 
 
 # declare a function for writing messages to log
