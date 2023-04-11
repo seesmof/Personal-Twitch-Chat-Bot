@@ -134,6 +134,7 @@ async def event_message(ctx):
             # output the generated message(s) to chat
             await send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
+    await asyncio.sleep(1)
 
 
 # declare a function for writing messages to log
