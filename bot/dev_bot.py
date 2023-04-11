@@ -6,6 +6,7 @@ from twitchio.ext import commands
 from playsound import playsound
 from datetime import datetime
 import pygetwindow as gw
+from colorama import Fore, Back, Style
 
 import openai
 import random
@@ -276,7 +277,7 @@ async def event_message(ctx):
     await bot.handle_commands(ctx)
 
     # print out the chat message to console and log it
-    print(f"\n{ctx.author.name}: {ctx.content}")
+    print(Fore.BLUE + f"\n{ctx.author.name}: {ctx.content}")
     write_to_log(ctx.content, ctx.author.name)
 
 
