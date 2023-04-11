@@ -223,6 +223,14 @@ async def event_message(ctx):
         messages_tracker[ctx.author.name] = []
     messages_tracker[ctx.author.name].append(ctx.content)
 
+    # for handling fine patriots
+    letters = ["@pawrop"]
+    # check if message contains the text
+    if check_for_letters(ctx.content.lower(), letters):
+        phrases = ["нажаль, я не можу відповісти на ваше повідомлення",
+                   "я не знаю відповіді на це", "я не здатний генерувати повідомлення"]
+        await ctx.channel.send(f"@{ctx.author.name}, {random.choice(phrases)}. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше")
+
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
     # check if message contains such letters
@@ -697,8 +705,6 @@ def replace_characters(string, char_dict):
 
 @ bot.command(name='ой')
 async def oh_no_my_keyboard(ctx):
-    input_user = ctx.author.name
-
     message = messages_tracker[ctx.author.name][-2]
     print(message)
 
