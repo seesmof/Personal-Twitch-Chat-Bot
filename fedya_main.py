@@ -711,9 +711,22 @@ async def oh_no_my_keyboard(ctx):
 
 
 @ bot.command(name='батько', aliases=['бат', 'батя'])
-async def oh_no_my_keyboard(ctx):
+async def who_father(ctx):
     username = '@' + random.choice(list(last_message_time))
-    phrase = ["мабуть є", "то є", "скоріш за все є", "походу є"]
+    phrase = ["мабуть є", "то є", "скоріш за все є",
+              "походу є", "то, нажаль, є"]
+    await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
+
+
+@ bot.command(name='батл', aliases=['шого', 'сюди'])
+async def invoke_duel(ctx):
+    # get username from message
+    username = ctx.content[5:]
+    # check if no user is tagged in the message
+    if "@" not in username:
+        # if not set username to the user who sent the message
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
     await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
 
 
