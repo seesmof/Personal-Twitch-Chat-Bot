@@ -129,8 +129,8 @@ TMI_TOKEN = "oauth:9267z36swbnmh2apun2fnz7d0ly939"
 CLIENT_ID = "y6rcb4jxi1usz9x0zhhx1q4yta5hxl"
 BOT_NICK = "pawrop"
 BOT_PREFIX = "!"
-CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
+# CHANNEL = "PixelFedya"
+CHANNEL = "seesmof"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -706,8 +706,6 @@ def replace_characters(string, char_dict):
 @ bot.command(name='ой', aliases=['дідько', 'бля'])
 async def oh_no_my_keyboard(ctx):
     message = messages_tracker[ctx.author.name][-2]
-    print(message)
-
     output_text = replace_characters(message, letters_dict)
     await ctx.send(f"@{ctx.author.name}, {output_text}")
 

@@ -31,3 +31,15 @@ seesmof: алівовад
 09:15:30
  BOT: is online at seesmof!
 
+09:58:28
+ BOT: is online at seesmof!
+
+09:58:32
+seesmof: ntcn
+
+09:58:34
+seesmof: !бля
+
+09:58:34
+BOT: @seesmof, тест
+
