@@ -713,7 +713,8 @@ async def oh_no_my_keyboard(ctx):
 @ bot.command(name='батько', aliases=['бат', 'батя'])
 async def oh_no_my_keyboard(ctx):
     username = '@' + random.choice(list(last_message_time))
-    await ctx.send(f"@{ctx.author.name}, мій батько то є {username} {random.choice(emotes_all_twitch)}")
+    phrase = ["мабуть є", "то є", "скоріш за все є", "походу є"]
+    await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
 
 
 if __name__ == "__main__":
