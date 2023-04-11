@@ -314,7 +314,7 @@ async def show_info(ctx):
 
 
 # declare a function for showing commands
-@ bot.command(name='коми')
+@ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
     # output current commands
     await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\"")
@@ -361,7 +361,7 @@ async def say_hi_en(ctx):
     await ctx.send(f"{username}, {random.choice(greetings_en)} {random.choice(emotes_greet + emotes_hand)}")
 
 
-@ bot.command(name='фол')
+@ bot.command(name='фол', aliases=['fall', 'fg'])
 async def fall_guys_instruction(ctx):
     # get username from message
     code = ctx.content[4:]
@@ -373,7 +373,7 @@ async def fall_guys_instruction(ctx):
     await ctx.send(f"@{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона 5,42ГБ")
 
 
-@ bot.command(name='о')
+@ bot.command(name='о', aliases=['so', 'шатаут'])
 async def give_shoutout(ctx):
     # get username from message
     username = ctx.content[2:]
@@ -553,7 +553,7 @@ async def hi_oxa(ctx):
     await ctx.send(f"Оксано, привіт!")
 
 
-@ bot.command(name='щіщ')
+@ bot.command(name='щіщ', aliases=['шіш', 'щіш', 'шіщ'])
 async def say_sheesh_ua(ctx):
     # create a list of shenanigans
     shenanigans = ["щіщ", "ЩІЩ", "ЩІІЩ", "ЩІІІЩ", "ЩІІІІЩ"]
@@ -598,7 +598,7 @@ async def give_chance(ctx):
     await ctx.send(f"@{ctx.author.name}, вірогідність цього становить {chance}%.")
 
 
-@ bot.command(name='ем')
+@ bot.command(name='ем', aliases=['емоджі', 'емоція'])
 async def print_random_emoji(ctx):
     global_emotes_list = emotes_all_twitch
     # output a random shenanigan to the user
@@ -611,7 +611,7 @@ async def show_pc_specs(ctx):
     await ctx.send(f"@{ctx.author.name}, процесор - i7-13700K, відеокарта - Geforce RTX 3080, камера - Logitech BRIO 4K")
 
 
-@ bot.command(name='мак')
+@ bot.command(name='мак', aliases=['слимак', 'слимачок'])
 async def act_slug(ctx):
     phrases = ["Можливо, я повільний, але я завжди у русі. Ніколи не знаєш, де я можу опинитися наступного разу!",
                "Я справжній поштовий равлик. Тільки не сподівайтеся, що я доставлю щось вчасно",
