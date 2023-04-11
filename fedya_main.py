@@ -703,7 +703,7 @@ def replace_characters(string, char_dict):
     return new_string
 
 
-@ bot.command(name='ой')
+@ bot.command(name='ой', aliases=['дідько', 'бля'])
 async def oh_no_my_keyboard(ctx):
     message = messages_tracker[ctx.author.name][-2]
     print(message)
