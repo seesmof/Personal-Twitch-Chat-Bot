@@ -6,7 +6,6 @@ from twitchio.ext import commands
 from playsound import playsound
 from datetime import datetime
 import pygetwindow as gw
-from colorama import Fore, Back, Style
 
 import openai
 import random
@@ -123,6 +122,18 @@ letters_dict = {
     '^': ':',
     '&': '?'
 }
+
+
+class clrs:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 
 # for handling bot setup
@@ -277,7 +288,7 @@ async def event_message(ctx):
     await bot.handle_commands(ctx)
 
     # print out the chat message to console and log it
-    print(Fore.BLUE + f"\n{ctx.author.name}: {ctx.content}")
+    print(clrs.BOLD + f"\n{ctx.author.name}: {ctx.content}" + clrs.ENDC)
     write_to_log(ctx.content, ctx.author.name)
 
 
