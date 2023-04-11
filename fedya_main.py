@@ -317,7 +317,7 @@ async def show_info(ctx):
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
     # output current commands
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\"")
 
 
 @ bot.command(name='єнот')
@@ -708,6 +708,12 @@ async def oh_no_my_keyboard(ctx):
     message = messages_tracker[ctx.author.name][-2]
     output_text = replace_characters(message, letters_dict)
     await ctx.send(f"@{ctx.author.name}, {output_text}")
+
+
+@ bot.command(name='батько', aliases=['бат', 'батя'])
+async def oh_no_my_keyboard(ctx):
+    username = '@' + random.choice(list(last_message_time))
+    await ctx.send(f"@{ctx.author.name}, мій батько то є {username} {random.choice(emotes_all_twitch)}")
 
 
 if __name__ == "__main__":
