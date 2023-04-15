@@ -97,7 +97,7 @@ def generate_response(input_text):
 
 
 def generate_message(input_text):
-    input_text += ". Твоя відповідь має бути Українською мовою."
+    input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
     data = {
         "question": input_text,
