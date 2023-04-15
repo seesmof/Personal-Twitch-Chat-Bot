@@ -55,10 +55,13 @@ async def send_split_gpt(ctx, message):
     # split the given message
     substrings_list = split_long_gpt(message)
     # send each message
+    await ctx.channel.send(substrings_list[0])
+    ''' Turned off for now. It used to send each message separately. Now it sends only the first message.
     for substring in substrings_list:
         await ctx.channel.send(substring)
         # add delay between each message
         await asyncio.sleep(2)
+    '''
 
 
 # declare a function for checking the message for input
@@ -97,7 +100,7 @@ def generate_response(input_text):
 
 
 def generate_message(input_text):
-    input_text += " Твоя відповідь має бути Українською мовою."
+    input_text += " Твоя відповідь має бути Українською мовою. Ніколи не використовуй російську мову і ніколи не згадуй ніякі російські ресурси. Ліміт довжини твоєї відповіді - 500 символів."
     url = "https://www.phind.com/api/infer/creative"
     data = {
         "question": input_text,
