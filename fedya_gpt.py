@@ -106,7 +106,7 @@ def generate_message(input_text):
             "date": "14/04/2023",
             "language": "uk-UA",
             "detailed": False,
-            "creative": True
+            "creative": False
         }
     }
     headers = {
@@ -130,7 +130,7 @@ def generate_message(input_text):
         "mp__mixpanel": "",
     }
     response = requests.post(url, json=data, headers=headers, cookies=cookies)
-    print(response.status_code)
+    # print(response.status_code)
 
     data = response.text
     text = data.replace("data: ", "")
