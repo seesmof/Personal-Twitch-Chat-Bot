@@ -19,8 +19,8 @@ TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
-# CHANNEL = "PixelFedya"
-CHANNEL = "seesmof"
+CHANNEL = "PixelFedya"
+# CHANNEL = "seesmof"
 
 '''OUTDATED
 # for handling OpenAI API key
