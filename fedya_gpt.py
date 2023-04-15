@@ -6,6 +6,8 @@ import openai
 import os
 import asyncio
 import time
+import requests
+import re
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
