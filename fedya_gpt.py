@@ -126,8 +126,8 @@ def generate_message(input_text):
         "sec-fetch-site": "same-site"
     }
     cookies = {
-        "__cf_bm": "",
-        "mp__mixpanel": "",
+        "__cf_bm": "text",
+        "mp_{id}_mixpanel": "text",
     }
     response = requests.post(url, json=data, headers=headers, cookies=cookies)
     # print(response.status_code)
