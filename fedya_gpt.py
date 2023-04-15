@@ -138,6 +138,7 @@ def generate_message(input_text):
     text = f'''{text}'''
     text = text.replace('''\r\n\r\n''', "")
     text = text.replace('''\r\n\r''', " ")
+    text = text.replace('''`''', "")
 
     return text
 
