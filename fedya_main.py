@@ -441,7 +441,7 @@ async def fart_someone(ctx):
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
-@ bot.command(name='боб')
+@ bot.command(name='боб', aliases=['бобик'])
 async def give_bob(ctx):
     username = ctx.content[4:]
     # check if no user is tagged in the message
