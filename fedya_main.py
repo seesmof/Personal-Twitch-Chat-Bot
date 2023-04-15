@@ -264,7 +264,7 @@ async def event_message(ctx):
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(letterX)}{random.choice(letterY)}йл{random.choice(letterO)}!")
 
     # for handling some dickhead
-    letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф", "сіс"]
+    letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     # check if message contains this nonsense
     if check_for_letters(ctx.content.lower(), letters):
         output_message = "@" + ctx.author.name + ": " + ctx.content
