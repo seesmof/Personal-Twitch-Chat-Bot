@@ -19,8 +19,7 @@ TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
-CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
+CHANNEL = "k3ned1"
 
 '''OUTDATED
 # for handling OpenAI API key
@@ -168,7 +167,7 @@ async def event_message(ctx):
     # check if message contains bot mention
     if check_for_letters(ctx.content.lower(), letters):
         # check if the message is not from another bot
-        if ctx.author.name.lower() != "pawrop":
+        if ctx.author.name.lower() == "k3ned1":
             # print message generation
             print("\nGenerating a message...")
             start_time = time.time()
@@ -189,7 +188,7 @@ async def event_message(ctx):
             # output the generated message(s) to chat
             await send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
-    await asyncio.sleep(30)
+    await asyncio.sleep(1)
 
 
 # declare a function for writing messages to log
