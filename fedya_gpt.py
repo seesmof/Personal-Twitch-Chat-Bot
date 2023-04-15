@@ -19,12 +19,15 @@ TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
-CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
+# CHANNEL = "PixelFedya"
+CHANNEL = "seesmof"
+
+'''OUTDATED
 # for handling OpenAI API key
 openai.api_key = "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"
 # for handling OpenAI model name
 model_engine = "gpt-3.5-turbo"
+'''
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -68,6 +71,7 @@ def check_for_letters(text, letters):
     return False
 
 
+'''OUTDATED
 # declare a function for generating output from ChatGPT
 def generate_response(input_text):
     # parameters list
@@ -89,6 +93,7 @@ def generate_response(input_text):
     # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
+'''
 
 
 def generate_message(input_text):
