@@ -133,14 +133,17 @@ def generate_message(input_text):
     }
     response = requests.post(url, json=data, headers=headers, cookies=cookies)
     # print(response.status_code)
+    if response.status_code != 200:
+        return "Whoops... Something went wrong. Try again later"
 
     data = response.text
     text = data.replace("data: ", "")
-    text = text.replace("\n ", "")
+    text = text.replace("\n ", " ")
     text = f'''{text}'''
     text = text.replace('''\r\n\r\n''', "")
     text = text.replace('''\r\n\r''', " ")
     text = text.replace('''`''', "")
+    text = text.replace('''*''', "")
 
     return text
 

@@ -138,7 +138,7 @@ def generate_message(input_text):
 
     data = response.text
     text = data.replace("data: ", "")
-    text = text.replace("\n ", "")
+    text = text.replace("\n ", " ")
     text = f'''{text}'''
     text = text.replace('''\r\n\r\n''', "")
     text = text.replace('''\r\n\r''', " ")
