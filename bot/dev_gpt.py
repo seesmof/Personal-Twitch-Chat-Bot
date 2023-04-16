@@ -19,8 +19,7 @@ TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
-CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
+CHANNEL = "seesmof"
 
 '''OUTDATED
 # for handling OpenAI API key
@@ -134,6 +133,8 @@ def generate_message(input_text):
     }
     response = requests.post(url, json=data, headers=headers, cookies=cookies)
     # print(response.status_code)
+    if response.status_code != 200:
+        return "Whoops... Something went wrong. Try again later"
 
     data = response.text
     text = data.replace("data: ", "")
@@ -192,7 +193,7 @@ async def event_message(ctx):
             # output the generated message(s) to chat
             await send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
-    await asyncio.sleep(20)
+    await asyncio.sleep(10)
 
 
 # declare a function for writing messages to log

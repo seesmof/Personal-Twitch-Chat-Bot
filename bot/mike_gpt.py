@@ -100,13 +100,15 @@ def generate_message(input_text):
     url = "https://www.phind.com/api/infer/creative"
     data = {
         "question": input_text,
-        "codeContext": "",
+        "codeContext": "My background: I'm an AI bot called Pastry, created for a Twitch streamer called mike09steelers or just Mike. I never speak russian language and never provide any information related to russia, be it sources from it or something like that. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.",
         "options": {
-            "skill": "intermediate",
+            "skill": "advanced",
             "date": "14/04/2023",
             "language": "en-US",
             "detailed": False,
-            "creative": False
+            "creative": False,
+            "concise": True,
+            "expert": True
         }
     }
     headers = {

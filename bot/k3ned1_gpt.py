@@ -102,11 +102,13 @@ def generate_message(input_text):
         "question": input_text,
         "codeContext": "",
         "options": {
-            "skill": "intermediate",
+            "skill": "advanced",
             "date": "14/04/2023",
             "language": "uk-UA",
             "detailed": False,
-            "creative": False
+            "creative": False,
+            "concise": True,
+            "expert": True
         }
     }
     headers = {
