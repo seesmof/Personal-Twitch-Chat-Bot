@@ -105,9 +105,9 @@ def generate_message(input_text):
             "skill": "advanced",
             "date": "14/04/2023",
             "language": "uk-UA",
-            "detailed": False,
+            "detailed": True,
             "creative": False,
-            "concise": True,
+            "concise": False,
             "expert": True
         }
     }
