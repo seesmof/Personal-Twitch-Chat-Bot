@@ -1,0 +1,33 @@
+16:56:27
+ BOT: is online at seesmof!
+
+16:57:01
+BOT: @seesmof, Для  генерації  звичайного  коміта  необхідно  використати  наступний  формат: <тип>(<область>):  <короткий  опис>[заголовок  коміту][тіло  коміту][додаткові  деталі  коміту] Для  даного  прикладу  можна  згенерувати  наступний  звичайний  коміт: feat(files):  додати  логи  з  17.04.2023Додати  файл  з  логами  k3ned1GPT-log17-04-2023.txt  та  PixelFedyaGPT-log17-04-2023.txt У  цьому  коміті  використано  тип  feat  для  позначення  нової  функціональності,
+
+16:57:03
+BOT:   область  files  для  позначення  змінених  файлів,  та  короткий  опис,  що  вказує  на  додавання  логів  з  певної  дати.  В  заголовку  коміту  додано  назви  змінених  файлів,  а  в  тілі  коміту  додано  більш  детальний  опис  змін.
+
+16:58:59
+ BOT: is online at seesmof!
+
+16:59:41
+BOT: @seesmof, feat:  add  log  files  for  K3NED1GPT  and  PixelFedyaGPT  on  17-04-2023
+
+17:00:18
+BOT: @seesmof, feat:  add  new  functionality  to  fedya_gpt.py  and  dev_bot.py
+
+17:02:10
+BOT: @seesmof, feat:  add  functionality  to  dev_bot.py,  fix:  correct  typos  in  file.docx,  chore:  update  task.md,  refactor:  optimize  code  in  this.cpp
+
+17:03:06
+BOT: @seesmof, Yes,  you  can  definitely  create  a  Visual  Studio  Code  extension  using  Python.  Here  are  the  steps  to  create  a  basic  extension:1.  First,  make  sure  you  have  Visual  Studio  Code  installed  on  your  machine.2.  Open  the  Command  Palette  by  pressing  Ctrl+Shift+P  (Windows,  Linux)  or  Cmd+Shift+P  (macOS).3.  Type  "Extension"  and  select  "Extension:  Create  Extension"  from  the  list.4.  Choose  a  name  for  your  extension  and
+
+17:03:08
+BOT:   select  a  location  to  save  it.5.  Once  the  extension  is  created,  open  the  folder  in  Visual  Studio  Code.6.  In  the  root  directory  of  your  extension,  create  a  file  named  extension.py.7.  In  extension.py,  import  the  vscode  module:     python    import  vscode    8.  Define  a  function  to  activate  your  extension:     python    def  activate(context):        print('Congratulations,  your  extension  "myExtension"  is  now  active!')
+
+17:03:10
+BOT:    9.  Finally,  register  your  extension  by  adding  the  following  to  extension.py:     python    def  activate(context):        print('Congratulations,  your  extension  "myExtension"  is  now  active!')     def  deactivate():        print('Goodbye,  your  extension  "myExtension"  has  been  deactivated!')     if  __name__  ==  '__main__':        vscode.Extension.main(__file__)    10.  Save  extension.py  and  reload  Visual  Studio  Code.11.  Open  the  Com
+
+17:03:12
+BOT: mand  Palette  again  and  type  "Extension".  You  should  see  your  extension  listed.12.  Select  your  extension  and  press  Enter  to  activate  it.Congratulations,  you've  just  created  a  basic  Visual  Studio  Code  extension  using  Python!  From  here,  you  can  add  functionality  to  your  extension  by  using  the  vscode  module  and  exploring  the  available  APIs.
+
