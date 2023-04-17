@@ -144,7 +144,6 @@ def generate_message(input_text):
     text = text.replace('''\r\n\r''', " ")
     text = text.replace('''`''', "")
     text = text.replace('''*''', "")
-
     return text
 
 
