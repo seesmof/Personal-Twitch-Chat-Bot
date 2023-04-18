@@ -8,9 +8,8 @@ import time
 import requests
 import re
 
+
 # declare a function for handling long bot outputs
-
-
 def split_long_gpt(input_string):
     # split the string
     num_substrings = len(input_string) // 475 + \
