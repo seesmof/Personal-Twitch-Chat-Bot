@@ -4060,3 +4060,15 @@ lavielay: може включиш нам? tapaceSlav
 
 ---
 
+16:25:50
+
+vitendas: t0kentHm скинь хоча б посилання нам
+
+---
+
+16:25:53
+
+lamark_sk8: trembaaCry trembaaCry trembaaCry
+
+---
+
