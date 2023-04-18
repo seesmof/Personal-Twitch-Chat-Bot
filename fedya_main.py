@@ -221,27 +221,19 @@ async def fall_guys_instruction(ctx):
 
 @ bot.command(name='о', aliases=['so', 'шатаут'])
 async def give_shoutout(ctx):
-    # get username from message
     username = ctx.content[2:]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         username = "@PixelFedya"
-    # output the greeting message and tag the user
     await ctx.send(f"Підписуйтесь на файнюцького стрімера {username}! {random.choice(emotes_kiss)}")
 
 
 @ bot.command(name='лиз')
 async def lick_someone(ctx):
-    # get username from message
     username = ctx.content[4:]
     phrases = ["Облизав", "Лизнув", "*Лизь*"]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output the greeting message and tag the user
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_tongue)}")
 
 
