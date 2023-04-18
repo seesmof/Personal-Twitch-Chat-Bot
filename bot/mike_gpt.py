@@ -6,7 +6,7 @@ import asyncio
 import time
 import requests
 import re
-import mfs
+import .mfs
 from vars import *
 
 BOT_PREFIX = "!"
