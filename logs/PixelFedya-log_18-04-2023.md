@@ -4804,3 +4804,15 @@ trashcanon2: це основа там де я стрімлю
 
 ---
 
+16:37:48
+
+vladdgoldin: FutureMan
+
+---
+
+16:37:51
+
+chevoron: а шо ти з ними робити будеш? chevor1Smart
+
+---
+
