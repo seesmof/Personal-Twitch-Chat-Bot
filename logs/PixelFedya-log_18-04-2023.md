@@ -400,3 +400,27 @@ lavielay: @PixelFedya tapacePat
 
 ---
 
+14:58:32
+
+icetrollhs: музика громко
+
+---
+
+14:58:35
+
+seesmof: !followage
+
+---
+
+14:58:37
+
+gengyfox: ну ахуєнно
+
+---
+
+14:58:46
+
+seesmof: PETPET
+
+---
+
