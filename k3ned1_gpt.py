@@ -35,7 +35,7 @@ async def event_message(ctx):
     if ctx.author.name.lower() == GPT_BOT_NICK.lower():
         # log the message and move on
         print(f"\nBOT: {ctx.content}")
-        mfs.write_to_log(ctx.content, GPT_BOT_NICK)
+        mfs.write_to_log(ctx.content, GPT_BOT_NICK, CHANNEL)
         return
 
     # for handling ChatGPT requests from chat
