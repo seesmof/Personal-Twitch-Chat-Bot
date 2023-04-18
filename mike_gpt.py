@@ -54,7 +54,7 @@ async def event_message(ctx):
 
             await mfs.send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
-    await
+    await asyncio.sleep(
 
 
 if __name__ == "__main__":
