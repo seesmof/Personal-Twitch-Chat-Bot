@@ -52,7 +52,7 @@ def check_for_letters(text, letters):
     return False
 
 
-def generate(input_text, context, lang):
+def generate_ua(input_text, context):
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
     data = {
@@ -61,7 +61,7 @@ def generate(input_text, context, lang):
         "options": {
             "skill": "advanced",
             "date": "14/04/2023",
-            "language": lang,
+            "language": "uk-UA",
             "detailed": False,
             "creative": False,
             "concise": True,
