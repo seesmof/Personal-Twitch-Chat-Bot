@@ -5134,3 +5134,9 @@ champik_is_back: та спокійно, чоловіче. так і відрва
 
 ---
 
+16:43:20
+
+idero_hidetaki: iderohFire iderohFire iderohFire
+
+---
+
