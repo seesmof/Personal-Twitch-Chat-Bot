@@ -104,7 +104,7 @@ def generate_ua(input_text, context):
     return text
 
 
-def generate_ua(input_text, context):
+def generate_(input_text, context):
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
     data = {
