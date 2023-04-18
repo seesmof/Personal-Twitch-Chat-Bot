@@ -1,5 +1,3 @@
-from vars import *
-import mfs
 from twitchio.ext import commands
 from datetime import datetime
 import openai
@@ -8,9 +6,8 @@ import asyncio
 import time
 import requests
 import re
-import sys
-parent_dir = os.path.abspath("..")
-sys.path.append(parent_dir)
+from vars import *
+import mfs
 
 BOT_PREFIX = "!"
 CHANNEL = "mike09steelers"
