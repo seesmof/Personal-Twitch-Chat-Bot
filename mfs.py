@@ -49,7 +49,6 @@ async def send_split_message(ctx, message):
         await asyncio.sleep(2)
 
 
-# declare a function for checking the message for input
 def check_for_letters(text, letters):
     # for each letter in letters list
     for letter in letters:
