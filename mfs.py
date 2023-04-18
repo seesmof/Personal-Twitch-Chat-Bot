@@ -21,20 +21,15 @@ def split_long_gpt(input_string):
 
 
 async def send_split_gpt(ctx, message):
-    # split the given message
     substrings_list = split_long_gpt(message)
-    # send each message
     for substring in substrings_list:
         await ctx.channel.send(substring)
-        # add delay between each message
         await asyncio.sleep(2)
 
 
 def split_long_message(input_string):
     words = input_string.split()
-    # create a list to hold the resulting strings
     result = []
-    # loop through the words, adding each group of six to the result list
     for i in range(0, len(words), 10):
         result.append(" ".join(words[i:i+10]))
     return result
