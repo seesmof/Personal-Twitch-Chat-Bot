@@ -4918,3 +4918,9 @@ vladdgoldin: Реклама саніни PogChamp
 
 ---
 
+16:39:28
+
+chevoron: @sfxcspwi_ LUL LUL LUL
+
+---
+
