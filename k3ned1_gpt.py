@@ -15,9 +15,9 @@ CHANNEL = "k3ned1"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
-    irc_token=TMI_TOKEN,
-    client_id=CLIENT_ID,
-    nick=BOT_NICK,
+    irc_token=GPT_TMI_TOKEN,
+    client_id=GPT_CLIENT_ID,
+    nick=GPT_BOT_NICK,
     prefix=BOT_PREFIX,
     initial_channels=[CHANNEL]
 )
