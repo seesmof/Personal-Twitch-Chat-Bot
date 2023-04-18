@@ -4564,3 +4564,21 @@ chevoron: @Ak1okatsu привііт chevor1Hello veronkLove
 
 ---
 
+16:35:16
+
+sfxcspwi_: гарі потер
+
+---
+
+16:35:17
+
+ak1okatsu: xD
+
+---
+
+16:35:21
+
+vladdgoldin: @chevoron з гарною людиною можна вітатися багато разів veronkLove
+
+---
+
