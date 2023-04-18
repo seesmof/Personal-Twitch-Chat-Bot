@@ -28,30 +28,6 @@ bot = commands.Bot(
     initial_channels=[CHANNEL]
 )
 
-'''OUTDATED
-# declare a function for generating output from ChatGPT
-def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. I must never speak russian! My main language is Ukrainian."
-
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=280,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-'''
-
 
 @ bot.event
 async def event_ready():
