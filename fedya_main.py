@@ -12,6 +12,7 @@ import random
 import os
 import asyncio
 import pyautogui
+import mfs
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
@@ -195,7 +196,7 @@ async def event_message(ctx):
     # for handling fine patriots
     letters = ["@pawrop"]
     # check if message contains the text
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         phrases = ["нажаль, я не можу відповісти на ваше повідомлення",
                    "я не знаю відповіді на це", "я не здатний генерувати повідомлення"]
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(phrases)}. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше")
@@ -203,28 +204,28 @@ async def event_message(ctx):
     # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
     # check if message contains such letters
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         # output error message to user
         await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату SMOrc російська заборонена в чаті")
 
     # for handling fine patriots
     letters = ["слава україні"]
     # check if message contains the text
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
 
     # for handling fine patriots
     letters = ["слава нації"]
     # check if message contains the text
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
 
     # for handling some dickhead
     letters = ["путін"]
     # check if message contains this nonsense
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         letterX = ["x", "х", "ẋ"]
         letterY = ["y", "у", "ẙ"]
         letterO = ["о", "o", "ø", "ǿ", "ö", "ȫ", "ó", "ò", "ô",
@@ -235,7 +236,7 @@ async def event_message(ctx):
     # for handling some dickhead
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     # check if message contains this nonsense
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         output_message = "@" + ctx.author.name + ": " + ctx.content
         pyautogui.alert(output_message, "Чуваче, диви чат!", timeout=None)
 
@@ -244,7 +245,7 @@ async def event_message(ctx):
     letters = ["дороу", "привіт", "здороу", "здоров", "доров", "хай", "буено", "вітаю", "доброго вечора",
                "добрий вечір", "вітамба", "доброго дня", "добрий день", "доброго ранку", "добрий ранок", "вітання", "як ся маєш", "як воно", "бажаю здоров'я", "радий вітати", "радий бачити", "як справи", "як здоров'я", "hey", "hello", "hiya"]
     # check if message contains the greeting
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         # greet the user
         await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     '''
