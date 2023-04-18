@@ -168,29 +168,22 @@ async def show_commands(ctx):
 
 @ bot.command(name='єнот')
 async def give_raccoon(ctx):
-    # get username from message
     username = ctx.content[5:]
     phrases_one = ["тримай", "лови", "хапай", "на"]
     phrases_two = ["єнота", "єнотика"]
     # if no user was mentioned
     if "@" not in username:
-        # set username to user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output message
     await ctx.send(f"{username}, {random.choice(phrases_one)} {random.choice(phrases_two)} {random.choice(emotes_racc)}")
 
 
 @ bot.command(name='пр')
 async def say_hi_ua(ctx):
-    # get username from message
     username = ctx.content[3:]
-    # if not user was mentioned
     if "@" not in username:
-        # then set username to user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output the greeting message and tag the user
     await ctx.send(f"{username}, {random.choice(greetings_ua)} {random.choice(emotes_greet + emotes_hand)}")
 
 
