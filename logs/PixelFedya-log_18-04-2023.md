@@ -4072,3 +4072,33 @@ lamark_sk8: trembaaCry trembaaCry trembaaCry
 
 ---
 
+16:26:10
+
+vladdgoldin: Василь привіт
+
+---
+
+16:26:12
+
+vladdgoldin: veronkLove
+
+---
+
+16:26:17
+
+vladdgoldin: TPFufun
+
+---
+
+16:26:22
+
+vladdgoldin: Реклама
+
+---
+
+16:26:25
+
+vladdgoldin: Ясно
+
+---
+
