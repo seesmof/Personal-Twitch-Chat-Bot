@@ -9,7 +9,6 @@ import requests
 import re
 
 
-# declare a function for handling long bot outputs
 def split_long_gpt(input_string):
     # split the string
     num_substrings = len(input_string) // 475 + \
@@ -20,7 +19,6 @@ def split_long_gpt(input_string):
     return substrings
 
 
-# declare a function for sending split messages to chat
 async def send_split_gpt(ctx, message):
     # split the given message
     substrings_list = split_long_gpt(message)
@@ -41,7 +39,6 @@ def split_long_message(input_string):
     return result
 
 
-# declare a function for sending split messages to chat
 async def send_split_message(ctx, message):
     # split the given message
     substrings_list = split_long_message(message)
