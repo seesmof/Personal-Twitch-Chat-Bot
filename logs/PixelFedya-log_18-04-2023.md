@@ -5164,3 +5164,27 @@ k3ned1: коли вийду з нею на колабу
 
 ---
 
+16:45:04
+
+trashcanon1: *** . tiktok . com/ZMY7e6Gbt/
+
+---
+
+16:45:33
+
+k3ned1: 186 і похуй
+
+---
+
+16:46:08
+
+trashcanon1: https : // vm . tiktok . com/ZMY7e6Gbt/
+
+---
+
+16:46:11
+
+trashcanon1: Во
+
+---
+
