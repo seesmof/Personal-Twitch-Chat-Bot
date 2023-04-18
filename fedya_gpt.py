@@ -8,7 +8,8 @@ import asyncio
 import time
 import requests
 import re
-import includes.mfs as mfs
+import mfs
+from vars import *
 
 # for handling logging messages in an appropriate folder
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
@@ -71,7 +72,7 @@ async def event_ready():
     # print bot and channel name when it activates
     print(f"{BOT_NICK} is online at {CHANNEL}!")
     # log it
-    write_to_log(f"is online at {CHANNEL}!", " BOT")
+    mfs.write_to_log(f"is online at {CHANNEL}!", " BOT")
 
 
 # declare bot event on every message
@@ -81,7 +82,7 @@ async def event_message(ctx):
     if ctx.author.name.lower() == BOT_NICK.lower():
         # log the message and move on
         print(f"\nBOT: {ctx.content}")
-        write_to_log(ctx.content, "BOT")
+        mfs.write_to_log(ctx.content, BOT_NICK, CHANNEL)
         return
 
     # for handling ChatGPT requests from chat
@@ -102,7 +103,7 @@ async def event_message(ctx):
             # add user name to the output and tag them
             output_text = "@" + ctx.author.name + ", "
             # generate the output text using a corresponding functions
-            output_text += mfs.gen_fedya(input_text)
+            output_text += mfs.generate(input_text, context_fedya)
 
             end_time = time.time()
             elapsed_time = end_time - start_time

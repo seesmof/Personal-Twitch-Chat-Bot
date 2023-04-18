@@ -125,5 +125,5 @@ def write_to_log(message, author, CHANNEL):
         timestamp = datetime.now().strftime('%H:%M:%S')
         log_file.write(timestamp)
         # output message with author name to log
-        log_file.write(f"\n\n{message}\n")
+        log_file.write(f"\n\n{author}: {message}\n")
         log_file.write(f"\n---\n\n")
