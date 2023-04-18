@@ -5086,3 +5086,9 @@ idero_hidetaki: @CheVoron привіт!)
 
 ---
 
+16:42:48
+
+maks_malitsk: MyAvatar MyAvatar MyAvatar MyAvatar
+
+---
+
