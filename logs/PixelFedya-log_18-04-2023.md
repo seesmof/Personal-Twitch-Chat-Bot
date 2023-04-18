@@ -4162,3 +4162,69 @@ vladdgoldin: ak1okaSho
 
 ---
 
+16:28:16
+
+maks_malitsk: Ого шо там
+
+---
+
+16:28:24
+
+vladdgoldin: PogChamp
+
+---
+
+16:28:34
+
+vladdgoldin: Я із-за цього треша банив
+
+---
+
+16:28:44
+
+vladdgoldin: PogChamp
+
+---
+
+16:28:46
+
+maks_malitsk: Kreygasm
+
+---
+
+16:28:47
+
+vitendas: оу май
+
+---
+
+16:28:53
+
+lavielay: trembaaKappa2
+
+---
+
+16:28:57
+
+k3ned1: МІРАЙ СЮДА
+
+---
+
+16:29:04
+
+vladdgoldin: roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute
+
+---
+
+16:29:06
+
+k3ned1: колабу буду з нею робити
+
+---
+
+16:29:17
+
+ak1okatsu: KEKW
+
+---
+
