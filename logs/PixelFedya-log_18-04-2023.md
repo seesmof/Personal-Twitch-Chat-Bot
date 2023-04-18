@@ -208,3 +208,9 @@ icetrollhs: @Lavielay trembaaHey
 
 ---
 
+14:54:25
+
+abso1ut3xd: Я головний крол
+
+---
+
