@@ -358,3 +358,9 @@ abso1ut3xd: Хто я? А може ти?
 
 ---
 
+14:57:32
+
+lavielay: @logan_firmofan tapacePat
+
+---
+
