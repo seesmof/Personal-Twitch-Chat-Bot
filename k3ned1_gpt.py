@@ -44,7 +44,7 @@ async def event_message(ctx):
     # for handling ChatGPT requests from chat
     letters = ["@wuyodo"]
     # check if message contains bot mention
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         # check if the message is not from another bot
         if ctx.author.name.lower() == "k3ned1":
             # print message generation
@@ -65,27 +65,9 @@ async def event_message(ctx):
             elapsed_time = end_time - start_time
 
             # output the generated message(s) to chat
-            await send_split_gpt(ctx, output_text)
+            await mfs.send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
     await asyncio.sleep(1)
-
-
-# declare a function for writing messages to log
-def write_to_log(message, author):
-    # for handling current time
-    now = datetime.now()
-    # for handling the file name
-    file_name = CHANNEL + "_GPT-log_" + now.strftime("%d-%m-%Y") + ".txt"
-    # for handling the file path
-    file_path = os.path.join(log_dir, file_name)
-
-    # open file with appropriate decoding
-    with open(file_path, "a", encoding="utf-8") as log_file:
-        # declare and output timestamp before message
-        timestamp = datetime.now().strftime('%H:%M:%S')
-        log_file.write(timestamp)
-        # output message with author name to log
-        log_file.write(f"\n{author}: {message}\n\n")
 
 
 if __name__ == "__main__":
