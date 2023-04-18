@@ -6922,3 +6922,9 @@ vladdgoldin: Moshna
 
 ---
 
+17:21:13
+
+petronox: мене давай
+
+---
+
