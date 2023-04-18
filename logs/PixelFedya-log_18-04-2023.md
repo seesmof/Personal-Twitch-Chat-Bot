@@ -4846,3 +4846,39 @@ vladdgoldin: ak1okaSho
 
 ---
 
+16:38:26
+
+k3ned1: а як то він зробив?
+
+---
+
+16:38:39
+
+vladdgoldin: Василя з цицьками я не передиву chevor1Sweat
+
+---
+
+16:38:41
+
+iwan_stanislawiwskyi: @k3ned1 відростив
+
+---
+
+16:38:42
+
+vladdgoldin: Аххахаха
+
+---
+
+16:38:44
+
+vladdgoldin: Хааєєвєаха
+
+---
+
+16:38:46
+
+vladdgoldin: Аєаєєвєаєвєвєаєвє
+
+---
+
