@@ -6844,3 +6844,81 @@ opudalo: привіт @animetrash333
 
 ---
 
+17:19:59
+
+animetrash333: @iwan_stanislawiwskyi veronkHi veronkHi veronkHi
+
+---
+
+17:20:02
+
+seesmof: А коли маєш таймаут воно дозволяє саунди за бали кидати?
+
+---
+
+17:20:08
+
+vladdgoldin: Vitania
+
+---
+
+17:20:09
+
+vladdgoldin: FutureMan
+
+---
+
+17:20:16
+
+animetrash333: та, діточки здорові trembaaLUL trembaaLUL
+
+---
+
+17:20:23
+
+vladdgoldin: PogChamp
+
+---
+
+17:20:39
+
+vladdgoldin: Go meme
+
+---
+
+17:20:44
+
+vladdgoldin: Duvutisa
+
+---
+
+17:20:48
+
+seesmof: :D
+
+---
+
+17:20:49
+
+vladdgoldin: Na YouTube
+
+---
+
+17:20:50
+
+petronox: а пес
+
+---
+
+17:20:59
+
+petronox: мене
+
+---
+
+17:21:03
+
+vladdgoldin: Moshna
+
+---
+
