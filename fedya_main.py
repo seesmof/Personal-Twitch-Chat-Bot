@@ -152,24 +152,6 @@ async def event_message(ctx):
     write_to_log(ctx.content, ctx.author.name)
 
 
-# declare a function for writing messages to log
-def write_to_log(message, author):
-    # for handling current time
-    now = datetime.now()
-    # for handling the file name
-    file_name = CHANNEL + "_log_" + now.strftime("%d-%m-%Y") + ".txt"
-    # for handling the file path
-    file_path = os.path.join(log_dir, file_name)
-
-    # open file with appropriate decoding
-    with open(file_path, "a", encoding="utf-8") as log_file:
-        # declare and output timestamp before message
-        timestamp = datetime.now().strftime('%H:%M:%S')
-        log_file.write(timestamp)
-        # output message with author name to log
-        log_file.write(f"\n{author}: {message}\n\n")
-
-
 # declare a function for showing information about bot
 @ bot.command(name='інфа')
 async def show_info(ctx):
