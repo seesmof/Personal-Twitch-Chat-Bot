@@ -104,8 +104,8 @@ def generate_ua(input_text, context):
     return text
 
 
-def generate_(input_text, context):
-    input_text += " Твоя відповідь має бути Українською мовою."
+def generate_en(input_text, context):
+    input_text += " Your answer must be in English."
     url = "https://www.phind.com/api/infer/creative"
     data = {
         "question": input_text,
@@ -113,7 +113,7 @@ def generate_(input_text, context):
         "options": {
             "skill": "advanced",
             "date": "14/04/2023",
-            "language": "uk-UA",
+            "language": "en-US",
             "detailed": False,
             "creative": False,
             "concise": True,
