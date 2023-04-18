@@ -114,9 +114,9 @@ async def event_message(ctx):
     '''
 
     await bot.handle_commands(ctx)
-
     print(f"\n{ctx.author.name}: {ctx.content}")
     mfs.write_to_log(ctx.content, ctx.author.name, CHANNEL)
+    await asyncio.sleep(1)
 
 
 @ bot.command(name='інфа')
