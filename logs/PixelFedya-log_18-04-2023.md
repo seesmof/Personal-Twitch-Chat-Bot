@@ -214,3 +214,9 @@ abso1ut3xd: Я головний крол
 
 ---
 
+14:54:36
+
+lavielay: @IceTrollHS tapacePat
+
+---
+
