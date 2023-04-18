@@ -4318,3 +4318,21 @@ k3ned1: ФАКТ
 
 ---
 
+16:30:59
+
+ak1okatsu: база
+
+---
+
+16:31:05
+
+maks_malitsk: Василь вони там всі в купальниках
+
+---
+
+16:31:12
+
+lavielay: trembaaFuu trembaaFuu trembaaFuu trembaaFuu
+
+---
+
