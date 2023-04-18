@@ -1,32 +1,17 @@
-# include necessary libraries/files
 from twitchio.ext import commands
 from datetime import datetime
-
 import openai
 import os
 import asyncio
 import time
 import requests
 import re
+import mfs
+from vars import *
 
-# for handling logging messages in an appropriate folder
-log_dir = "D:/repos/python-twitchio-chat-bot/logs"
-if not os.path.exists(log_dir):
-    os.makedirs(log_dir)
-
-# for handling bot setup
-TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
-CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
-BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
+# CHANNEL = "seesmof"
 CHANNEL = "k3ned1"
-
-'''OUTDATED
-# for handling OpenAI API key
-openai.api_key = "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"
-# for handling OpenAI model name
-model_engine = "gpt-3.5-turbo"
-'''
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
