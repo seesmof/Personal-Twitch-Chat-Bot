@@ -28,3 +28,9 @@ seesmof: чек
 
 ---
 
+12:06:34
+
+seesmof: о ні emote only
+
+---
+
