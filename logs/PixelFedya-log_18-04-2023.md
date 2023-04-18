@@ -4138,3 +4138,27 @@ vladdgoldin: Го
 
 ---
 
+16:27:51
+
+vladdgoldin: Василь я тебе знайшов із-за твіч Юа
+
+---
+
+16:27:53
+
+lamark_sk8: @maks_malitsk 27:10.
+
+---
+
+16:27:56
+
+vladdgoldin: І я не жалкую
+
+---
+
+16:27:59
+
+vladdgoldin: ak1okaSho
+
+---
+
