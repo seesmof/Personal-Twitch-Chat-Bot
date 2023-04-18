@@ -4600,3 +4600,111 @@ lavielay: ))
 
 ---
 
+16:35:53
+
+vladdgoldin: Мене Павло Зібров і Гарі Поттер  з днем народження вітали ak1okaSho ak1okaSho
+
+---
+
+16:35:58
+
+k3ned1: логан не вміє рікролити
+
+---
+
+16:36:09
+
+trashcanon2: pixelfedya дупа
+
+---
+
+16:36:12
+
+vladdgoldin: О треш
+
+---
+
+16:36:16
+
+vladdgoldin: ak1okaXd
+
+---
+
+16:36:22
+
+trashcanon2: Дроу
+
+---
+
+16:36:25
+
+vladdgoldin: Я тільки про тебе казав
+
+---
+
+16:36:30
+
+vladdgoldin: Ти і тут тепер
+
+---
+
+16:36:32
+
+vladdgoldin: ak1okaXd
+
+---
+
+16:36:34
+
+trashcanon2: ща з основи зафоловлюсь
+
+---
+
+16:36:43
+
+trashcanon2: @vladdgoldin пісюн ку
+
+---
+
+16:36:44
+
+vladdgoldin: @trashcanon2 привіт треш veronkLove
+
+---
+
+16:36:47
+
+chevoron: і палочкою chevor1Sweat
+
+---
+
+16:36:49
+
+ak1okatsu: оцємуо
+
+---
+
+16:36:50
+
+trashcanon2: ахпхапхап
+
+---
+
+16:36:50
+
+vladdgoldin: @trashcanon2 навзаєм
+
+---
+
+16:36:53
+
+vladdgoldin: FutureMan
+
+---
+
+16:36:53
+
+trashcanon2: )
+
+---
+

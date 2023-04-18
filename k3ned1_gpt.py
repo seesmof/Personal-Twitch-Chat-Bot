@@ -10,8 +10,8 @@ import mfs
 from vars import *
 
 BOT_PREFIX = "!"
-CHANNEL = "seesmof"
-# CHANNEL = "k3ned1"
+# CHANNEL = "seesmof"
+CHANNEL = "k3ned1"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
