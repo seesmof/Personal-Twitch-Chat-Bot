@@ -6826,3 +6826,21 @@ animetrash333: sednat1UA trembaaHey
 
 ---
 
+17:19:42
+
+animetrash333: буено привіт
+
+---
+
+17:19:43
+
+iwan_stanislawiwskyi: @animetrash333 TehePelo TehePelo TehePelo
+
+---
+
+17:19:43
+
+opudalo: привіт @animetrash333
+
+---
+
