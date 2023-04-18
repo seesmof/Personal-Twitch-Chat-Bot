@@ -238,3 +238,111 @@ gengyfox: Француз
 
 ---
 
+14:55:08
+
+abso1ut3xd: enkanOOF
+
+---
+
+14:55:10
+
+ddariiya: SMOrc SMOrc SMOrc
+
+---
+
+14:55:21
+
+lavielay: ГАЛИЦЬКЕ БРАЦТВО tapaceChad tapaceChad tapaceChad tapaceChad tapaceChad tapaceChad tapaceChad
+
+---
+
+14:55:36
+
+logan_firmofan: ДВЕРІ ВІДКРИВАЙТЕ
+
+---
+
+14:55:39
+
+ddariiya: Я ВІТАЛАСЯ
+
+---
+
+14:55:45
+
+gengyfox: я сплю
+
+---
+
+14:55:46
+
+abso1ut3xd: enkanTrail2
+
+---
+
+14:55:56
+
+seesmof: Я сиджу слухаю файну пісню, добавив звуку, а тут це
+
+---
+
+14:55:58
+
+seesmof: Треба звичайно
+
+---
+
+14:56:02
+
+seesmof: Привіт
+
+---
+
+14:56:06
+
+yurayqq: Привіт а де боти?
+
+---
+
+14:56:10
+
+seesmof: Шо з ботами?
+
+---
+
+14:56:16
+
+olooliver: ку слимак
+
+---
+
+14:56:36
+
+lavielay: а мене почиликати? tapaceSad
+
+---
+
+14:56:50
+
+abso1ut3xd: Бб
+
+---
+
+14:56:56
+
+logan_firmofan: @Lavielay Чекни ПП (Я серйозно)
+
+---
+
+14:56:57
+
+logan_firmofan: ВІТАЮ
+
+---
+
+14:57:04
+
+gengyfox: дай віп
+
+---
+
