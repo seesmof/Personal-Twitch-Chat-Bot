@@ -63,12 +63,12 @@ def check_for_letters(text, letters):
     return False
 
 
-def gen_fedya(input_text):
+def generate(input_text, context):
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
     data = {
         "question": input_text,
-        "codeContext": "My background: Я ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. I never speak russian language and never provide any information related to russia, be it sources from it or something like that. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.",
+        "codeContext": context,
         "options": {
             "skill": "advanced",
             "date": "14/04/2023",
