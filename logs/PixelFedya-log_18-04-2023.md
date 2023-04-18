@@ -220,3 +220,9 @@ lavielay: @IceTrollHS tapacePat
 
 ---
 
+14:54:50
+
+gengyfox: де віп?
+
+---
+
