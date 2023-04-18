@@ -19,12 +19,6 @@ BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
 # CHANNEL = "seesmof"
 
-'''OUTDATED
-# for handling OpenAI API key
-openai.api_key = "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"
-# for handling OpenAI model name
-model_engine = "gpt-3.5-turbo"
-'''
 
 bot = commands.Bot(
     irc_token=TMI_TOKEN,
