@@ -5194,3 +5194,9 @@ liutyibekon: Месаге делітет х2
 
 ---
 
+16:47:17
+
+iwan_stanislawiwskyi: Ну і хуйня Jebaited
+
+---
+
