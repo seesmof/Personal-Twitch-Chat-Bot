@@ -95,18 +95,12 @@ async def event_message(ctx):
                    "я не знаю відповіді на це", "я не здатний генерувати повідомлення"]
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(phrases)}. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше")
 
-    # for handling kacaps
     letters = ["э", "ы", "ё", "ъ"]
-    # check if message contains such letters
     if mfs.check_for_letters(ctx.content.lower(), letters):
-        # output error message to user
         await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату SMOrc російська заборонена в чаті")
 
-    # for handling fine patriots
     letters = ["слава україні"]
-    # check if message contains the text
     if mfs.check_for_letters(ctx.content.lower(), letters):
-        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
 
     letters = ["слава нації"]
