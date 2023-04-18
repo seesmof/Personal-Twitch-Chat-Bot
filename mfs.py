@@ -42,7 +42,7 @@ def check_for_letters(text, letters):
     return False
 
 
-def generate_message(input_text):
+def gen_fedya(input_text):
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
     data = {
