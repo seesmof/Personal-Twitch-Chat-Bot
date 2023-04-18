@@ -4336,3 +4336,171 @@ lavielay: trembaaFuu trembaaFuu trembaaFuu trembaaFuu
 
 ---
 
+16:31:28
+
+k3ned1: шо??
+
+---
+
+16:31:52
+
+maks_malitsk: Нормально
+
+---
+
+16:32:04
+
+vladdgoldin: CarlSmile
+
+---
+
+16:32:10
+
+ak1okatsu: АХХАХАХАХАХАХА
+
+---
+
+16:32:15
+
+opudalo: ахахахах
+
+---
+
+16:32:18
+
+vladdgoldin: І роля тут як тут
+
+---
+
+16:32:18
+
+opudalo: туда
+
+---
+
+16:32:18
+
+iwan_stanislawiwskyi: ))
+
+---
+
+16:32:21
+
+vladdgoldin: ak1okaSho
+
+---
+
+16:32:23
+
+lavielay: ))
+
+---
+
+16:32:28
+
+vladdgoldin: ))
+
+---
+
+16:32:29
+
+k3ned1: пропустив в туза
+
+---
+
+16:32:30
+
+vladdgoldin: Знаб
+
+---
+
+16:32:47
+
+vitendas: старіший пиздатіше вивозив
+
+---
+
+16:32:53
+
+vladdgoldin: Мікрофон глущить
+
+---
+
+16:33:19
+
+lavielay: ))))
+
+---
+
+16:33:28
+
+vladdgoldin: ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+16:33:33
+
+vladdgoldin: ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+16:33:39
+
+k3ned1: ))
+
+---
+
+16:33:41
+
+vladdgoldin: Хахахаха
+
+---
+
+16:33:41
+
+opudalo: василь потік
+
+---
+
+16:33:45
+
+maks_malitsk: SeriousSloth
+
+---
+
+16:33:46
+
+vladdgoldin: Я з ролі всуся
+
+---
+
+16:33:46
+
+ak1okatsu: KEKW
+
+---
+
+16:33:50
+
+vladdgoldin: +
+
+---
+
+16:33:51
+
+vladdgoldin: Хахахаха
+
+---
+
+16:33:55
+
+k3ned1: ходять чутки він досі не дихає після цього приколу
+
+---
+
+16:34:01
+
+vladdgoldin: ak1okaXd
+
+---
+
