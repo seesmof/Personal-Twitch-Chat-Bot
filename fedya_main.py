@@ -89,7 +89,6 @@ async def event_message(ctx):
 
     # for handling fine patriots
     letters = ["@pawrop"]
-    # check if message contains the text
     if mfs.check_for_letters(ctx.content.lower(), letters):
         phrases = ["нажаль, я не можу відповісти на ваше повідомлення",
                    "я не знаю відповіді на це", "я не здатний генерувати повідомлення"]
