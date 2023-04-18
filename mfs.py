@@ -11,12 +11,10 @@ from vars import *
 
 
 def split_long_gpt(input_string):
-    # split the string
     num_substrings = len(input_string) // 475 + \
         (1 if len(input_string) % 475 > 0 else 0)
     substrings = [input_string[i * 475:(i + 1) * 475]
                   for i in range(num_substrings)]
-    # return the splitted string
     return substrings
 
 
