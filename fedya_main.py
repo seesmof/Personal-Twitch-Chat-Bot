@@ -109,11 +109,8 @@ async def event_message(ctx):
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
 
-    # for handling fine patriots
     letters = ["слава нації"]
-    # check if message contains the text
     if mfs.check_for_letters(ctx.content.lower(), letters):
-        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
 
     letters = ["путін"]
