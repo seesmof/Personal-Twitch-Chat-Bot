@@ -116,20 +116,15 @@ async def event_message(ctx):
         # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
 
-    # for handling some dickhead
     letters = ["путін"]
-    # check if message contains this nonsense
     if mfs.check_for_letters(ctx.content.lower(), letters):
         letterX = ["x", "х", "ẋ"]
         letterY = ["y", "у", "ẙ"]
         letterO = ["о", "o", "ø", "ǿ", "ö", "ȫ", "ó", "ò", "ô",
                    "ố", "ȱ", "ȯ", "ȏ", "ŏ", "ő", "ǒ", "ộ", "ỗ", "ổ", "ồ", "ọ", "ơ", "ỏ", "ở", "ợ", "ỡ", "ờ", "ớ", "ᴏ", "ᴑ"]
-        # output message to user
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(letterX)}{random.choice(letterY)}йл{random.choice(letterO)}!")
 
-    # for handling some dickhead
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
-    # check if message contains this nonsense
     if mfs.check_for_letters(ctx.content.lower(), letters):
         output_message = "@" + ctx.author.name + ": " + ctx.content
         pyautogui.alert(output_message, "Чуваче, диви чат!", timeout=None)
@@ -144,25 +139,19 @@ async def event_message(ctx):
         await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     '''
 
-    # handle any commands if found
     await bot.handle_commands(ctx)
 
-    # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
     mfs.write_to_log(ctx.content, ctx.author.name, CHANNEL)
 
 
-# declare a function for showing information about bot
 @ bot.command(name='інфа')
 async def show_info(ctx):
-    # output bot information
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний ШІ-помічник в чаті Піксельного. Ви можете поставити мені будь-яке питання, просто додавши \"@wuyodo\" до свого повідомлення. Також, щоб подивитись мої існуючі команди, напишіть \"!коми\" в чат. Якщо Ви маєте ідеї стосовно мого покращення, будь ласка, напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
 
 
-# declare a function for showing commands
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
-    # output current commands
     await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\"")
 
 
