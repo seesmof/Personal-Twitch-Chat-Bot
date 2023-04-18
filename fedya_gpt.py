@@ -25,9 +25,7 @@ bot = commands.Bot(
 
 @ bot.event
 async def event_ready():
-    # print bot and channel name when it activates
     print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
-    # log it
     mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
