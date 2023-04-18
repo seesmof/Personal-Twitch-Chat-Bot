@@ -72,7 +72,7 @@ def generate(input_text, context, lang="uk-UA"):
         "options": {
             "skill": "advanced",
             "date": "14/04/2023",
-            "language": ,
+            "language": lang,
             "detailed": False,
             "creative": False,
             "concise": True,
