@@ -4840,3 +4840,9 @@ chevoron: не заборонено
 
 ---
 
+16:38:11
+
+vladdgoldin: ak1okaSho
+
+---
+
