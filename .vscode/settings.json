@@ -1,4 +1,5 @@
 {
   "python.analysis.typeCheckingMode": "off",
-  "gitdoc.enabled": true
+  "gitdoc.enabled": true,
+  "gitdoc.commitValidationLevel": "none"
 }
