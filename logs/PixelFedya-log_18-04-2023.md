@@ -46,3 +46,15 @@ pawrop: SSSsss
 
 ---
 
+12:27:54
+
+pixelfedya: Шо ти
+
+---
+
+12:27:58
+
+pixelfedya: Ботовод хахахах
+
+---
+
