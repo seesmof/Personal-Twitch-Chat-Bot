@@ -4228,3 +4228,93 @@ ak1okatsu: KEKW
 
 ---
 
+16:29:33
+
+vladdgoldin: @ak1okatsu Кактус привіт їбать PogChamp
+
+---
+
+16:29:40
+
+vladdgoldin: @ak1okatsu сонечка veronkLove
+
+---
+
+16:29:41
+
+ak1okatsu: привіт
+
+---
+
+16:29:50
+
+vladdgoldin: @ak1okatsu як ти? ChefFrank
+
+---
+
+16:30:01
+
+ak1okatsu: хуйово брат
+
+---
+
+16:30:05
+
+vladdgoldin: PoroSad
+
+---
+
+16:30:05
+
+k3ned1: ага
+
+---
+
+16:30:09
+
+k3ned1: хто не хоче
+
+---
+
+16:30:21
+
+lavielay: @k3ned1 а валерія буде не проти? trembaaKek
+
+---
+
+16:30:21
+
+iwan_stanislawiwskyi: @k3ned1 я не хочу
+
+---
+
+16:30:21
+
+vitendas: шооо
+
+---
+
+16:30:36
+
+k3ned1: Lavielay мені ніхто не забороняє)))
+
+---
+
+16:30:41
+
+lavielay: @k3ned1 ))
+
+---
+
+16:30:42
+
+k3ned1: iwan_stanislawiwskyi ото і не дивись
+
+---
+
+16:30:52
+
+k3ned1: ФАКТ
+
+---
+
