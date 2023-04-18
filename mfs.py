@@ -111,7 +111,7 @@ def generate(input_text, context, lang="uk-UA"):
     return text
 
 
-def write_to_log(message, author):
+def write_to_log(message, author, CHANNEL):
     # for handling current time
     now = datetime.now()
     # for handling the file name
