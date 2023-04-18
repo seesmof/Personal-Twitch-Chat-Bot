@@ -1,7 +1,5 @@
-# include necessary libraries/files
 from twitchio.ext import commands
 from datetime import datetime
-
 import openai
 import os
 import asyncio
@@ -11,19 +9,15 @@ import re
 import mfs
 from vars import *
 
-# for handling bot setup
-TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
-CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
-BOT_NICK = "wuyodo"
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
 # CHANNEL = "seesmof"
 
 
 bot = commands.Bot(
-    irc_token=TMI_TOKEN,
-    client_id=CLIENT_ID,
-    nick=BOT_NICK,
+    irc_token=GPT_TMI_TOKEN,
+    client_id=GPT_CLIENT_ID,
+    nick=GPT_BOT_NICK,
     prefix=BOT_PREFIX,
     initial_channels=[CHANNEL]
 )
@@ -32,14 +26,14 @@ bot = commands.Bot(
 @ bot.event
 async def event_ready():
     # print bot and channel name when it activates
-    print(f"{BOT_NICK} is online at {CHANNEL}!")
+    print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
     # log it
-    mfs.write_to_log(f"is online at {CHANNEL}!", BOT_NICK, CHANNEL)
+    mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
 @ bot.event
 async def event_message(ctx):
-    if ctx.author.name.lower() == BOT_NICK.lower():
+    if ctx.author.name.lower() == GPT_BOT_NICK.lower():
         print(f"\nBOT: {ctx.content}")
         return
 
