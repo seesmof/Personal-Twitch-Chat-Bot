@@ -4504,3 +4504,63 @@ vladdgoldin: ak1okaXd
 
 ---
 
+16:34:23
+
+chevoron: я цей Ролік з Ролею вже раз 10 бачив кожного разу смішно LUL LUL LUL
+
+---
+
+16:34:24
+
+vladdgoldin: PogChamp
+
+---
+
+16:34:28
+
+sfxcspwi_: АХПХПАХПАХПАХАП
+
+---
+
+16:34:30
+
+opudalo: туда його
+
+---
+
+16:34:31
+
+vladdgoldin: @chevoron +++
+
+---
+
+16:34:38
+
+vladdgoldin: @chevoron Ворон привіт veronkLove
+
+---
+
+16:34:40
+
+vladdgoldin: CoolCat
+
+---
+
+16:34:43
+
+ak1okatsu: @CheVoron xoxomkHello
+
+---
+
+16:34:54
+
+chevoron: @vladdgoldin так привінтунькались вже тут сьогодні) я луркаю працюю)
+
+---
+
+16:35:05
+
+chevoron: @Ak1okatsu привііт chevor1Hello veronkLove
+
+---
+

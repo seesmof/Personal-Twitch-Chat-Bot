@@ -43,7 +43,7 @@ async def event_message(ctx):
     # check if message contains bot mention
     if mfs.check_for_letters(ctx.content.lower(), letters):
         # check if the message is not from another bot
-        if ctx.author.name.lower() == "k3ned1" or ctx.author.name.lower() == "seesmof":
+        if ctx.author.name.lower() == "k3ned1":
             # print message generation
             print("\nGenerating a message...")
             start_time = time.time()
