@@ -87,7 +87,7 @@ async def event_message(ctx):
     # for handling ChatGPT requests from chat
     letters = ["@wuyodo"]
     # check if message contains bot mention
-    if check_for_letters(ctx.content.lower(), letters):
+    if mfs.check_for_letters(ctx.content.lower(), letters):
         # check if the message is not from another bot
         if ctx.author.name.lower() != "pawrop":
             # print message generation
@@ -102,13 +102,13 @@ async def event_message(ctx):
             # add user name to the output and tag them
             output_text = "@" + ctx.author.name + ", "
             # generate the output text using a corresponding functions
-            output_text += generate_message(input_text)
+            output_text += mfs.gen_fedya(input_text)
 
             end_time = time.time()
             elapsed_time = end_time - start_time
 
             # output the generated message(s) to chat
-            await send_split_gpt(ctx, output_text)
+            await mfs.send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
     await asyncio.sleep(20)
 
