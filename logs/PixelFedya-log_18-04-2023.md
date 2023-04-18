@@ -5128,3 +5128,9 @@ maks_malitsk: PogChamp PogChamp PogChamp PogChamp
 
 ---
 
+16:43:16
+
+champik_is_back: та спокійно, чоловіче. так і відрвати можна
+
+---
+
