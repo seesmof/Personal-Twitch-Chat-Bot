@@ -142,16 +142,6 @@ bot = commands.Bot(
 )
 
 
-# declare a function for checking the message for input
-def check_for_letters(text, letters):
-    # for each letter in letters list
-    for letter in letters:
-        # check if letter is in the list
-        if letter in text:
-            return True
-    return False
-
-
 # declare bot event when bot is ready
 @ bot.event
 async def event_ready():
