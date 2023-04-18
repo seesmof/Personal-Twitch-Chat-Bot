@@ -196,26 +196,18 @@ async def say_hi_ua(ctx):
 
 @ bot.command(name='hi')
 async def say_hi_en(ctx):
-    # get username from message
     username = ctx.content[3:]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output the greeting message and tag the user
     await ctx.send(f"{username}, {random.choice(greetings_en)} {random.choice(emotes_greet + emotes_hand)}")
 
 
 @ bot.command(name='фол', aliases=['fall', 'fg'])
 async def fall_guys_instruction(ctx):
-    # get username from message
     code = ctx.content[4:]
-    # check if no user is tagged in the message
     if code == "":
-        # if not set username to the user who sent the message
         code = "Lobby Code"
-    # output the greeting message and tag the user
     await ctx.send(f"@{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона 5,42ГБ")
 
 
