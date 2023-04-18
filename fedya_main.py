@@ -18,16 +18,13 @@ from vars import *
 # OUTDATED for handling sound file location
 # sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
 
-# for processing messages from user
 last_message_time = {}
 messages_tracker = {}
 
-# for handling bot setup
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
 # CHANNEL = "seesmof"
 
-# initialize the bot with the necessary variables
 bot = commands.Bot(
     irc_token=STD_TMI_TOKEN,
     client_id=STD_CLIENT_ID,
@@ -37,7 +34,6 @@ bot = commands.Bot(
 )
 
 
-# declare bot event when bot is ready
 @ bot.event
 async def event_ready():
     # print bot and channel name when it activates
@@ -46,38 +42,27 @@ async def event_ready():
     mfs.write_to_log(f"is online at {CHANNEL}!", STD_BOT_NICK, CHANNEL)
 
 
-# declare bot event on every message
 @ bot.event
 async def event_message(ctx):
-    # add delay to prevent spamming and shadow banning
-    # await asyncio.sleep(2)
-
-    # handle situations with messages from a bot itself
     if ctx.author.name.lower() == STD_BOT_NICK.lower():
-        # log the message and move on
         print(f"\nBOT: {ctx.content}")
         mfs.write_to_log(ctx.content, STD_BOT_NICK, CHANNEL)
         return
     elif ctx.author.name.lower() == "streamelements":
-        # log the message and move on
         print(f"\nBOT: {ctx.content}")
         return
 
-    # for handling users in chat
     global last_message_time
     user = ctx.author.name
     if user not in last_message_time:
-        # user is sending the first message of the day
         last_message_time[user] = datetime.now()
 
         # OUTDATED greet the user with a random greeting
         # await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     else:
-        # user has sent a message before
         last_time = last_message_time[user]
         today = datetime.now().date()
         if last_time.date() < today:
-            # user is sending the first message of the day
             last_message_time[user] = datetime.now()
 
             # OUTDATED greet the user with a random greeting
@@ -87,7 +72,6 @@ async def event_message(ctx):
         messages_tracker[ctx.author.name] = []
     messages_tracker[ctx.author.name].append(ctx.content)
 
-    # for handling fine patriots
     letters = ["@pawrop"]
     if mfs.check_for_letters(ctx.content.lower(), letters):
         phrases = ["нажаль, я не можу відповісти на ваше повідомлення",
