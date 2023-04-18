@@ -10,8 +10,8 @@ import mfs
 from vars import *
 
 BOT_PREFIX = "!"
-# CHANNEL = "seesmof"
-CHANNEL = "k3ned1"
+CHANNEL = "seesmof"
+# CHANNEL = "k3ned1"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
@@ -25,20 +25,17 @@ bot = commands.Bot(
 
 @ bot.event
 async def event_ready():
-    # print bot and channel name when it activates
-    print(f"{BOT_NICK} is online at {CHANNEL}!")
-    # log it
-    write_to_log(f"is online at {CHANNEL}!", " BOT")
+    print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
+    mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
-# declare bot event on every message
 @ bot.event
 async def event_message(ctx):
     # handle situations with messages from a bot itself
-    if ctx.author.name.lower() == BOT_NICK.lower():
+    if ctx.author.name.lower() == GPT_BOT_NICK.lower():
         # log the message and move on
         print(f"\nBOT: {ctx.content}")
-        write_to_log(ctx.content, "BOT")
+        mfs.write_to_log(ctx.content, GPT_BOT_NICK)
         return
 
     # for handling ChatGPT requests from chat
@@ -59,7 +56,7 @@ async def event_message(ctx):
             # add user name to the output and tag them
             output_text = "@" + ctx.author.name + ", "
             # generate the output text using a corresponding functions
-            output_text += generate_message(input_text)
+            output_text += mfs.generate_ua(input_text, context_kenedy)
 
             end_time = time.time()
             elapsed_time = end_time - start_time
