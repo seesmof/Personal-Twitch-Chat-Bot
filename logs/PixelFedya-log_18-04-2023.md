@@ -58,3 +58,63 @@ pixelfedya: Ботовод хахахах
 
 ---
 
+14:51:17
+
+icetrollhs: СЮДА ЛУТ
+
+---
+
+14:51:21
+
+chevoron: xoxomkLoveee
+
+---
+
+14:51:22
+
+icetrollhs: trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave
+
+---
+
+14:51:40
+
+gengyfox: Василь
+
+---
+
+14:51:53
+
+gengyfox: добрий день
+
+---
+
+14:52:11
+
+lamark_sk8: trembaaHey trembaaHey trembaaHey trembaaRave trembaaRave trembaaRave
+
+---
+
+14:52:18
+
+icetrollhs: @lamark_sk8 trembaaHey trembaaHey trembaaHey
+
+---
+
+14:52:32
+
+seesmof: very nice song
+
+---
+
+14:52:34
+
+gengyfox: коли я віпку получу?
+
+---
+
+14:52:43
+
+icetrollhs: trembaaLUL trembaaLUL trembaaLUL trembaaLUL trembaaLUL
+
+---
+
