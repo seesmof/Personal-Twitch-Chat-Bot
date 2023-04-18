@@ -10468,3 +10468,399 @@ icetrollhs: Дивимось далі
 
 ---
 
+18:51:38
+
+tomadeiro: він амбасадор русні
+
+---
+
+18:51:41
+
+icetrollhs: Анапа то не сосія?
+
+---
+
+18:51:52
+
+animetrash333: trembaaBan trembaaBan trembaaBan trembaaBan trembaaBan
+
+---
+
+18:51:57
+
+tomadeiro: я там фолови подивився
+
+---
+
+18:52:00
+
+nikitosikford: у меня есть мустанг)
+
+---
+
+18:52:06
+
+tomadeiro: фу
+
+---
+
+18:52:09
+
+champik_is_back: @nikitosikford зараз ще й бан буде
+
+---
+
+18:52:11
+
+maks_malitsk: @nikitosikford бан
+
+---
+
+18:52:13
+
+icetrollhs: trembaaBan trembaaBan trembaaBan trembaaBan
+
+---
+
+18:52:17
+
+tomadeiro: trembaaBan trembaaBan trembaaBan trembaaBan
+
+---
+
+18:52:19
+
+sfxcspwi_: бан
+
+---
+
+18:52:24
+
+nikitosikford: у меня 20-ых годов она
+
+---
+
+18:52:24
+
+pawrop: @nikitosikford, повідомлення заблоковано за недотримання правил чату SMOrc російська заборонена в чаті
+
+---
+
+18:52:24
+
+botbandera: @nikitosikford ти шо, слимак? фу, пиши на СОЛОВ'ЇНІЙ!
+
+---
+
+18:52:31
+
+animetrash333: в нього тільки лада
+
+---
+
+18:53:08
+
+porozhnecha: Куди ви поспішаєте. Дайте хай русня розкриється. Вже пізно я забанив хвххахахахаха
+
+---
+
+18:53:36
+
+tomadeiro: там фолов на хуюстера березень цього року
+
+---
+
+18:54:12
+
+mokilko_: ку ak1okaNanana
+
+---
+
+18:54:28
+
+tomadeiro: ого, не знав
+
+---
+
+18:54:43
+
+mokilko_: ak1okaNaruto
+
+---
+
+18:55:05
+
+irileyua: ахахаха
+
+---
+
+18:55:07
+
+animetrash333: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+18:55:12
+
+porozhnecha: Типу ти ж раніше його казав
+
+---
+
+18:55:29
+
+animetrash333: це через те шо я жму реакти
+
+---
+
+18:55:33
+
+animetrash333: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+18:55:54
+
+melwixerr: єбать контору палить
+
+---
+
+18:55:55
+
+vladdgoldin: Я з сьогоднішнього дня Владислав,а не Владик.Бо у Владика не буде дівчини,а у Владислава буде,так сказали карти
+
+---
+
+18:56:00
+
+vladdgoldin: CarlSmile
+
+---
+
+18:56:05
+
+maks_malitsk: А ти мене пробивав?
+
+---
+
+18:56:12
+
+tomadeiro: @vladdgoldin мужик*
+
+---
+
+18:56:20
+
+mokilko_: ak1okaSho
+
+---
+
+18:56:23
+
+champik_is_back: @vladdgoldin vladySLAVE?
+
+---
+
+18:56:33
+
+vladdgoldin: @champik_is_back в мене багато імен
+
+---
+
+18:56:41
+
+stories173: а в нас тут фолов ліст тест? перевірь мене
+
+---
+
+18:56:43
+
+vladdgoldin: І це одно з них ak1okaSho
+
+---
+
+18:56:47
+
+onoffffffff32: Та бляха! Як так? Відійшов на 2 хвилинки як тут купу народу забанили...
+
+---
+
+18:56:48
+
+melwixerr: сьгодні мацав
+
+---
+
+18:56:52
+
+tomadeiro: я зліплений з гомна і ломак
+
+---
+
+18:56:55
+
+vladdgoldin: Прочитай вище
+
+---
+
+18:57:00
+
+vladdgoldin: Василь
+
+---
+
+18:57:09
+
+icetrollhs: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+18:57:10
+
+vladdgoldin: FutureMan
+
+---
+
+18:57:11
+
+stories173: хахаххахах ну тоді нормально
+
+---
+
+18:57:20
+
+champik_is_back: мене теж перевіряв? roolexFace
+
+---
+
+18:57:28
+
+onoffffffff32: @iRileyUa твій останній алерт програвся?
+
+---
+
+18:57:35
+
+vladdgoldin: Христинка то контент CoolCat
+
+---
+
+18:57:38
+
+stories173: та я на багатьох олдів не фоловився)))
+
+---
+
+18:57:41
+
+fanatic_roolex9: не иииииии
+
+---
+
+18:57:43
+
+vladdgoldin: Кажу як модер її
+
+---
+
+18:57:46
+
+vladdgoldin: TPFufun
+
+---
+
+18:57:56
+
+onoffffffff32: Та бляха! Як так? Відійшов на 2 хвилинки як тут купу народу забанили... @PixelFedya
+
+---
+
+18:58:01
+
+idero_hidetaki: iderohMad
+
+---
+
+18:58:22
+
+melwixerr: мелс
+
+---
+
+18:58:26
+
+vladdgoldin: @fanatic_roolex9 я ще у Христинки модер,ото мені повезло,що саме з мільйонів модерів,я став модером Христинки veronkLove
+
+---
+
+18:58:36
+
+melwixerr: мелс буде нормас
+
+---
+
+18:58:44
+
+footballworld213: Яка Христинка ще
+
+---
+
+18:58:51
+
+vladdgoldin: @footballworld213 флафі
+
+---
+
+18:58:53
+
+vladdgoldin: Та сама
+
+---
+
+18:58:56
+
+vladdgoldin: veronkLove
+
+---
+
+18:59:01
+
+vladdgoldin: Факт
+
+---
+
+18:59:01
+
+footballworld213: А все зрозумів
+
+---
+
+18:59:04
+
+vladdgoldin: Знає
+
+---
+
+18:59:06
+
+vladdgoldin: Факт
+
+---
+
+18:59:06
+
+onoffffffff32: подивись вище
+
+---
+
+18:59:11
+
+footballworld213: Та знаю вона просто чарівна
+
+---
+
+18:59:22
+
+fanatic_roolex9: @vladdgoldin а я лохххххххххххххххххххххх
+
+---
+
