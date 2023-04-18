@@ -4924,3 +4924,15 @@ chevoron: @sfxcspwi_ LUL LUL LUL
 
 ---
 
+16:39:37
+
+trashcanon1: Дупа
+
+---
+
+16:39:40
+
+trashcanon2: ++
+
+---
+
