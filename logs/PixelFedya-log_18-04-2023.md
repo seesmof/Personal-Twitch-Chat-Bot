@@ -4102,3 +4102,33 @@ vladdgoldin: Ясно
 
 ---
 
+16:26:33
+
+pixelfedya: https://www.youtube.com/watch?v=jmhkA5G4M4Q
+
+---
+
+16:26:33
+
+pixelfedya: https://www.youtube.com/watch?v=jmhkA5G4M4Q 󠀀
+
+---
+
+16:26:34
+
+vladdgoldin: Keepo
+
+---
+
+16:26:42
+
+maks_malitsk: Яка хвилина
+
+---
+
+16:26:43
+
+vitendas: цицьками об вікна труться?
+
+---
+
