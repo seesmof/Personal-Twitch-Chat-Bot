@@ -424,3 +424,261 @@ seesmof: PETPET
 
 ---
 
+14:58:59
+
+abso1ut3xd: Віпки для лохів справжні гігачади по 2 роки без віпки сидять в бані
+
+---
+
+14:59:05
+
+yurayqq: PETPET
+
+---
+
+14:59:21
+
+bat9_v1nzer: @yurayqq привіт братанчик HeyGuys
+
+---
+
+14:59:23
+
+olooliver: то я кручу
+
+---
+
+14:59:28
+
+yurayqq: @bat9_v1nzer привітик
+
+---
+
+14:59:35
+
+olooliver: аїїаххахаха
+
+---
+
+14:59:39
+
+ddariiya: аххахахаха
+
+---
+
+14:59:44
+
+ddariiya: прикольно придумау
+
+---
+
+14:59:46
+
+gengyfox: я так нагулявся
+
+---
+
+14:59:49
+
+abso1ut3xd: Який добрий слимачок
+
+---
+
+14:59:55
+
+ddariiya: а в кого таке було
+
+---
+
+14:59:56
+
+bat9_v1nzer: @ddariiya привіт пані Христинка HeyGuys roolexFluffyscute
+
+---
+
+15:00:00
+
+abso1ut3xd: Допомагає починающим стрімерам
+
+---
+
+15:00:08
+
+seesmof: Когось вже забанили за це?
+
+---
+
+15:00:09
+
+ddariiya: @bat9_v1nzer :(
+
+---
+
+15:00:35
+
+bat9_v1nzer: @ddariiya не пвач BibleThump
+
+---
+
+15:00:41
+
+abso1ut3xd: trembaaBan trembaaBan trembaaBan
+
+---
+
+15:00:50
+
+seesmof: Аналогічно і з апеляцією я думаю. Нема про шо хвилюватись
+
+---
+
+15:01:06
+
+ddariiya: в кого таке було ало
+
+---
+
+15:01:08
+
+gengyfox: ладно я піду води вип'ю
+
+---
+
+15:01:18
+
+bat9_v1nzer: ak1okaLalala ak1okaLalala
+
+---
+
+15:01:22
+
+lavielay: @IceTrollHS tapacePat
+
+---
+
+15:01:36
+
+yurayqq: PETPET
+
+---
+
+15:01:44
+
+abso1ut3xd: Зроби окрему гіфку для сабу, де ти кричиш чи шось таке
+
+---
+
+15:01:50
+
+bat9_v1nzer: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:01:52
+
+444maxpain444: Всім доброго здоров'я.)
+
+---
+
+15:02:02
+
+olooliver: @444maxpain444 дайбоже
+
+---
+
+15:02:08
+
+icetrollhs: АХАХАХ
+
+---
+
+15:02:19
+
+lavielay: @IceTrollHS дяяякую tapaceLove tapacePat
+
+---
+
+15:02:26
+
+lavielay: tapacePat tapacePat tapacePat
+
+---
+
+15:02:30
+
+gengyfox: в мене попа пече
+
+---
+
+15:02:34
+
+seesmof: !єнот
+
+---
+
+15:02:34
+
+pawrop: @wuyodo, лови єнотика RaccAttack
+
+---
+
+15:02:35
+
+gengyfox: армія мопсів
+
+---
+
+15:02:39
+
+abso1ut3xd: Айм єнот ю ар нот
+
+---
+
+15:02:44
+
+gengyfox: яких єнотів?
+
+---
+
+15:02:57
+
+logan_firmofan: EZ WineTime
+
+---
+
+15:03:00
+
+bat9_v1nzer: Ох щось я давно незаходив так много нових глядачів Kappa
+
+---
+
+15:03:12
+
+gengyfox: та ти ж мопс
+
+---
+
+15:03:21
+
+olooliver: армія слимаків
+
+---
+
+15:03:25
+
+lavielay: mmmm cock
+
+---
+
+15:03:32
+
+gengyfox: і бульдог французький
+
+---
+
+15:03:54
+
+opudalo: здоров, слимаки!
+
+---
+
