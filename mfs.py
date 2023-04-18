@@ -63,7 +63,7 @@ def generate_ua(input_text, context):
             "date": "14/04/2023",
             "language": "uk-UA",
             "detailed": False,
-            "creative": False,
+            "creative": True,
             "concise": True,
             "expert": True
         }
