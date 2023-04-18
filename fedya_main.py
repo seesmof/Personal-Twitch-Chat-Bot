@@ -261,79 +261,57 @@ async def smell_someone(ctx):
 
 @ bot.command(name='мац')
 async def touch_someone(ctx):
-    # get username from message
     username = ctx.content[4:]
     phrases = ["Помацав", "Обмацав", "Полапав", "Облапав", "*Мацає*"]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output the greeting message and tag the user
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_shy)}")
 
 
 @ bot.command(name='пук')
 async def fart_someone(ctx):
-    # get username from message
     username = ctx.content[4:]
     phrases = ["Пукнув на", "Зіпсував повітря для", "*Пук* у бік"]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output the greeting message and tag the user
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='боб', aliases=['бобик'])
 async def give_bob(ctx):
     username = ctx.content[4:]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         username = '@' + ctx.author.name
-    # get a random percentage using
     chance = random.randint(-5, 30)
     phrases = ["ого", "йой", "чоловіче"]
     bob = ["бобика", "анаконду", "балумбу", "зміюку", "апарата",
            "шиликало", "списа", "кабачка", "банана", "патика", "шампура"]
-    # output the percentage to user
     await ctx.send(f"{username}, {random.choice(phrases)}, маєш {random.choice(bob)} у {chance} см! {random.choice(emotes_laugh)}")
 
 
 @ bot.command(name='гам')
 async def say_gam(ctx):
-    # get username from message
     username = ctx.content[4:]
-    # create a list of shenanigans
     shenanigans = ["гамно", "ГАМНО", "ГАМНООО", "ГАМНОО", "ГАМНОООО", "лайно", "ЛАЙНО",
                    "ЛАЙНОО", "ЛАЙНООО", "ЛАЙНОООО", "гівно", "ГІВНО", "ГІВНОО", "ГІВНООО", "ГІВНОООО"]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output a random shenanigan to the user
     await ctx.send(f"{username}, лови {random.choice(shenanigans)} {random.choice(emotes_poo + emotes_shy)}")
 
 
 @ bot.command(name='бан')
 async def ban_user(ctx):
-    # get username from message
     username = ctx.content[4:]
-    # create a list of shenanigans
     one = ["Вітаю з баном", "Вас було забанено", "Ви були забанені", "Вам бан"]
     two = ["", "на цьому каналі", "на каналі PixelFedya",
            "на поточному каналі", "на файному каналі"]
     global goodbye_ua
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output a random shenanigan to the user
     await ctx.send(f"{username}, {random.choice(one)} {random.choice(two)}! {random.choice(goodbye_ua)} {random.choice(emotes_laugh)}")
 
 
@@ -355,81 +333,62 @@ async def play_roulette(ctx):
 
 @ bot.command(name='цьом')
 async def say_gam(ctx):
-    # get username from message
     username = ctx.content[5:]
-    # create a list of shenanigans
     phrases = ["Цьомнув", "Поцьомав",
                "*Надсилає цьомчика*", "*Цьомає*", "Цьом"]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    # output a random shenanigan to the user
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_kiss)}")
 
 
 @ bot.command(name='додай')
 async def add_feature(ctx):
-    # tag me and tell to add the proposed function
     await ctx.send(f"@seesmof, {ctx.content[6:]}, бігом додавати!")
 
 
 @ bot.command(name='тг')
 async def telegram_show(ctx):
-    # output Telegram information
     await ctx.send(f"@{ctx.author.name}, аби не пропускати стріми Піксельного, підписуйтесь на наш Телеграм канал за посиланням @pixelfedya в пошуку Телеграму TehePelo")
 
 
 @ bot.command(name='гпт')
 async def gpt_instruction_ua(ctx):
-    # output hint message
     await ctx.send(f"@{ctx.author.name}, для того, щоб отримати відповідь від ChatGPT, просто почніть Ваше повідомлення з @wuyodo і продовжіть Вашим питанням. Через деякий час ви отримаєте відповідь, згенеровану ботом ChatGPT :)")
 
 
 @ bot.command(name='gpt')
 async def gpt_instruction_en(ctx):
-    # output hint message
     await ctx.send(f"@{ctx.author.name}, to get a response from ChatGPT, just start your message with @wuyodo and continue with your question. After a while, you will receive an answer generated by the ChatGPT bot :)")
 
 
 @ bot.command(name='окса')
 async def hi_oxa(ctx):
-    # say hi to Oksana
     await ctx.send(f"Оксано, привіт!")
 
 
 @ bot.command(name='щіщ', aliases=['шіш', 'щіш', 'шіщ'])
 async def say_sheesh_ua(ctx):
-    # create a list of shenanigans
     shenanigans = ["щіщ", "ЩІЩ", "ЩІІЩ", "ЩІІІЩ", "ЩІІІІЩ"]
-    # output a random shenanigan to the user
     await ctx.send(f"@{ctx.author.name}, {random.choice(shenanigans)}")
 
 
 @ bot.command(name='зріст')
 async def give_height(ctx):
-    # output the percentage to user
     await ctx.send(f"@{ctx.author.name}, зріст стрімера приблизно становить 182 см")
 
 
 @ bot.command(name='she')
 async def say_sheesh_en(ctx):
-    # create a list of shenanigans
     shenanigans = ["sheesh", "SHEESH", "SHEEESH", "SHEEEESH", "SHEEEEESH"]
-    # output a random shenanigan to the user
     await ctx.send(f"@{ctx.author.name}, {random.choice(shenanigans)}")
 
 
 @ bot.command(name='дн')
 async def birthday_congrats(ctx):
-    # get username from message
     username = ctx.content[3:]
-    # if not user was mentioned
     if "@" not in username:
-        # then set username to user who sent the message
         username = '@' + ctx.author.name
-    # create a list of random greetings
     greetings = ['З днем народження! Сьогодні день, коли здійснюються Ваші мрії і виконуються Ваші бажання. У цей особливий день я бажаю Вам щастя та успіху на все життя. Нехай благополуччя, радість і любов оточують Вас сьогодні і завжди. Всього найкращого в цей особливий день!', 'З Днем народження! Це Ваш особливий день, і я бажаю Вам щасливого святкування! Нехай цей день буде наповнений радістю, міцним здоров`ям і великою удачею. Нехай наступний рік буде сповнений успіхом та щастям. Насолоджуйтесь особливими моментами свого дня народження та цінуйте любов і тепло своїх близьких. Нехай наступний рік буде найкращим!',
                  'З Днем народження! Нехай цей особливий день буде наповнений радістю і сміхом. Нехай Ваше серце буде переповнене щастям, а дні будуть сповнені чудовими моментами. Бажаємо удачі та успіхів у всіх Ваших починаннях. Фантастичного дня!!', 'З Днем народження! Нехай цей особливий день буде наповнений радістю та світлими почуттями. Бажаємо Вам всього найкращого в житті, нехай здійсняться всі Ваші мрії та прагнення. Нехай наступний рік буде надзвичайно успішним!', 'Вітаємо з днем народження у цей особливий день! Нехай цей рік принесе Вам багато позитиву, радості та успіху. Бажаю Вам всього найкращого в житті, і нехай всі Ваші мрії здійсняться. Гарного дня та чудового наступного року!', 'Вітаємо з днем народження! Нехай цей особливий день буде наповнений морем веселощів, любові та сміху. Бажаю, щоб цей рік був чудовим і щоб Ви досягли всіх своїх цілей. Бажаю прекрасного життя, сповненого благословень. З днем народження!']
     # output a random greeting tagging the mentioned user
@@ -515,7 +474,6 @@ async def act_slug(ctx):
                "У тебе всередині є сила, щоб досягти всього, що ти захочеш",
                "Навіть равлики колись були слимаками, тому продовжуй рухатися вперед і ти досягнеш мети"
                ]
-    # output a random shenanigan to the user
     await ctx.send(f"@{ctx.author.name}, {random.choice(phrases)} {random.choice(emotes_slug)}")
 
 
@@ -566,11 +524,8 @@ async def who_father(ctx):
 
 @ bot.command(name='батл', aliases=['шого', 'сюди'])
 async def invoke_duel(ctx):
-    # get username from message
     username = ctx.content[5:]
-    # check if no user is tagged in the message
     if "@" not in username:
-        # if not set username to the user who sent the message
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
@@ -587,5 +542,4 @@ async def easter_fight(ctx):
     await ctx.send(f"@{ctx.author.name}, цокнувся яйолами з {username}. {result} переміг!")
 
 if __name__ == "__main__":
-    # launch bot
     bot.run()
