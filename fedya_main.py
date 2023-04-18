@@ -15,130 +15,23 @@ import pyautogui
 import mfs
 from vars import *
 
-# for handling logging messages in an appropriate folder
-log_dir = "D:/repos/python-twitchio-chat-bot/logs"
-if not os.path.exists(log_dir):
-    os.makedirs(log_dir)
-
 # OUTDATED for handling sound file location
 # sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
-
-# declare global lists
-greetings_ua = ["Здоров!", "Привіт!", "Вітаю!",
-                "Вітання!", "Як ся маєш?", "Слава Україні!", "Як воно?", "Бажаю здоров'я!", "Радий вітати!", "Радий бачити!", "Як справи?", "Як здоров'я?"]
-greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!", "How's it going?", "What's new?",
-                "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
-goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
-              "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
 
 # for processing messages from user
 last_message_time = {}
 messages_tracker = {}
 
-# declare global emotes lists
-emotes_all_twitch = [";p", ";)", ":O", ":p", "\:-?\)", "ANELE", "ArgieB8", "B-?\)", "BCWarrior", "BegWan", "BibleThump", "bleedPurple", "BloodTrail", "BOP", "BrainSlug", "BrokeBack", "BuddhaBar", "CarlSmile", "CaitlynS", "ChefFrank", "cmonBruh", "CoolCat", "CoolStoryBob", "CorgiDerp", "CrreamAwk", "DxCat", "DoritosChip", "FallWinning", "FallCry", "FallHalp", "FrankerZ", "GivePLZ", "GlitchLit", "GlitchNRG", "GunRun", "HolidayCookie", "HassaanChop", "Jebaited", "Kappa", "KappaClaus", "KappaPride", "KappaRoss", "KappaWealth", "Keepo", "KevinTurtle", "Kippa", "KomodoHype", "KonCha", "Kreygasm",
-                     "LUL", "Lechonk", "MrDestructoid", "NotATK", "NotLikeThis", "NinjaGrumpy", "MVGame", "MorphinTime", "MyAvatar", "OSFrog", "OpieOP", "O_o", "OhMyDog", "Poooound", "PopCorn", "PogBones", "PotFriend", "PunchTrees", "RaccAttack", "RalpherZ", "ResidentSleeper", "RitzMitz", "RlyTho", "ShazBotstix", "SabaPing", "SMOrc", "SSSsss", "StinkyCheese", "StinkyGlitch", "StrawBeary", "SUBprise", "SuperVinlin", "SwiftRage", "TakeNRG", "TBAngel", "TearGlove", "TehePelo", "TF2John", "TheIlluminati", "TheTarFu", "TPFufun", "TriHard", "UnSane", "UWot", "VoHiYo", "WTRuck", "WutFace", "YouDontSay", "YouWHY"]
-emotes_greet = ["PotFriend", "KonCha", "SUBprise", "TPFufun", "TehePelo", "BegWan", "Poooound",
-                "GivePLZ", "DxCat", "bleedPurple", "RitzMitz", "<3", "VoHiYo", "RaccAttack", "GlitchCat", "HeyGuys"]
-emotes_hand = ["✋", "✌️", "👐", "👋", "🤚", "🤙"]
-emotes_racc = ["RaccAttack", "🦝"]
-emotes_nose = ["👃", "🐽", "👃🏻", "👃🏿", "👃🏽", "👃🏼", "👃🏾", "👺"]
-emotes_tongue = ["👅", "😛", "😜", "😝", "👻", "🥵", "🤪", "😋"]
-emotes_shy = ["🤗", "👐", "🤭", "😄", "🥰", "😼", "😙", "😍", "😻", "😅"]
-emotes_laugh = ["🍑", "🤣", "😂", "💀", "☠️", "😹", "😆", "🙈", "😈", "👽"]
-emotes_poo = ["CrreamAwk", "LUL", "DarkMode",
-              "GlitchNRG", "BabyRage"]
-emotes_kiss = ["👄", "💋", "😘", "😚", "😙", "😽"]
-emotes_pistol = ["🔫", "🎯", "🔁", "🔄"]
-emotes_slug = ["🐌", "🐛", "🐌🍄", "🐌🌳", "🐌🌱", "🐌🐚", "🐌🏠", "🐌🍽️", "🐌🌧️"]
-letters_dict = {
-    'q': 'й',
-    'w': 'ц',
-    'e': 'у',
-    'r': 'к',
-    't': 'е',
-    'y': 'н',
-    'u': 'г',
-    'i': 'ш',
-    'o': 'щ',
-    'p': 'з',
-    '[': 'х',
-    ']': 'ї',
-    'a': 'ф',
-    's': 'і',
-    'd': 'в',
-    'f': 'а',
-    'g': 'п',
-    'h': 'р',
-    'j': 'о',
-    'k': 'л',
-    'l': 'д',
-    ';': 'ж',
-    "'": 'є',
-    'z': 'я',
-    'x': 'ч',
-    'c': 'с',
-    'v': 'м',
-    'b': 'и',
-    'n': 'т',
-    'm': 'ь',
-    ',': 'б',
-    '.': 'ю',
-    '/': '.',
-    'Q': 'Й',
-    'W': 'Ц',
-    'E': 'У',
-    'R': 'К',
-    'T': 'Е',
-    'Y': 'Н',
-    'U': 'Г',
-    'I': 'Ш',
-    'O': 'Щ',
-    'P': 'З',
-    '{': 'Х',
-    '}': 'Ї',
-    'A': 'Ф',
-    'S': 'І',
-    'D': 'В',
-    'F': 'А',
-    'G': 'П',
-    'H': 'Р',
-    'J': 'О',
-    'K': 'Л',
-    'L': 'Д',
-    ':': 'Ж',
-    '"': 'Є',
-    'Z': 'Я',
-    'X': 'Ч',
-    'C': 'С',
-    'V': 'М',
-    'B': 'И',
-    'N': 'Т',
-    'M': 'Ь',
-    '<': 'Б',
-    '>': 'Ю',
-    '?': ',',
-    '@': '"',
-    '#': '№',
-    '$': ';',
-    '^': ':',
-    '&': '?'
-}
-
-
 # for handling bot setup
-TMI_TOKEN = "oauth:9267z36swbnmh2apun2fnz7d0ly939"
-CLIENT_ID = "y6rcb4jxi1usz9x0zhhx1q4yta5hxl"
-BOT_NICK = "pawrop"
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
 # CHANNEL = "seesmof"
 
 # initialize the bot with the necessary variables
 bot = commands.Bot(
-    irc_token=TMI_TOKEN,
-    client_id=CLIENT_ID,
-    nick=BOT_NICK,
+    irc_token=STD_TMI_TOKEN,
+    client_id=STD_CLIENT_ID,
+    nick=STD_BOT_NICK,
     prefix=BOT_PREFIX,
     initial_channels=[CHANNEL]
 )
@@ -148,7 +41,7 @@ bot = commands.Bot(
 @ bot.event
 async def event_ready():
     # print bot and channel name when it activates
-    print(f"{BOT_NICK} is online at {CHANNEL}!")
+    print(f"{STD_BOT_NICK} is online at {CHANNEL}!")
     # log it
     write_to_log(f"is online at {CHANNEL}!", " BOT")
 
@@ -160,7 +53,7 @@ async def event_message(ctx):
     # await asyncio.sleep(2)
 
     # handle situations with messages from a bot itself
-    if ctx.author.name.lower() == BOT_NICK.lower():
+    if ctx.author.name.lower() == STD_BOT_NICK.lower():
         # log the message and move on
         print(f"\nBOT: {ctx.content}")
         write_to_log(ctx.content, "BOT")
@@ -659,7 +552,7 @@ async def no_ignore_please(ctx):
     await ctx.send(f"@PixelFedya")
     await asyncio.sleep(2)
     input_txt = ctx.content[5:]
-    await send_split_message(ctx, input_txt)
+    await mfs.send_split_gpt(ctx, input_txt)
     await asyncio.sleep(2)
     await ctx.send(f"@PixelFedya")
 
