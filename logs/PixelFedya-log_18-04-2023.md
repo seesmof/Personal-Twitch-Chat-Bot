@@ -5050,3 +5050,27 @@ trashcanon2: Дупа федя
 
 ---
 
+16:42:20
+
+chevoron: LUL LUL LUL
+
+---
+
+16:42:24
+
+champik_is_back: чиликай давай)
+
+---
+
+16:42:24
+
+maks_malitsk: LUL
+
+---
+
+16:42:25
+
+chevoron: не ну чесно написав
+
+---
+
