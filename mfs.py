@@ -7,6 +7,7 @@ import asyncio
 import time
 import requests
 import re
+from vars import *
 
 
 def split_long_gpt(input_string):
@@ -114,7 +115,7 @@ def write_to_log(message, author):
     # for handling current time
     now = datetime.now()
     # for handling the file name
-    file_name = CHANNEL + "_GPT-log_" + now.strftime("%d-%m-%Y") + ".txt"
+    file_name = CHANNEL + "_GPT-log_" + now.strftime("%d-%m-%Y") + ".md"
     # for handling the file path
     file_path = os.path.join(log_dir, file_name)
 
@@ -124,4 +125,5 @@ def write_to_log(message, author):
         timestamp = datetime.now().strftime('%H:%M:%S')
         log_file.write(timestamp)
         # output message with author name to log
-        log_file.write(f"\n{author}: {message}\n\n")
+        log_file.write(f"\n\n{message}\n")
+        log_file.write(f"\n---\n\n")
