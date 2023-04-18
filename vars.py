@@ -106,3 +106,10 @@ goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
               "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
 
 log_dir = "D:/repos/python-twitchio-chat-bot/logs"
+
+'''OUTDATED
+# for handling OpenAI API key
+openai.api_key = "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"
+# for handling OpenAI model name
+model_engine = "gpt-3.5-turbo"
+'''
