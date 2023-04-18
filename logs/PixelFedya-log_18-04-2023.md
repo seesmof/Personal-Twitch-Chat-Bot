@@ -694,3 +694,9 @@ bat9_v1nzer: @opudalo привіт HeyGuys
 
 ---
 
+15:04:47
+
+opudalo: @bat9_v1nzer KonCha
+
+---
+
