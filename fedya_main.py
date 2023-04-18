@@ -43,7 +43,7 @@ async def event_ready():
     # print bot and channel name when it activates
     print(f"{STD_BOT_NICK} is online at {CHANNEL}!")
     # log it
-    write_to_log(f"is online at {CHANNEL}!", " BOT")
+    mfs.write_to_log(f"is online at {CHANNEL}!", STD_BOT_NICK, CHANNEL)
 
 
 # declare bot event on every message
@@ -56,7 +56,7 @@ async def event_message(ctx):
     if ctx.author.name.lower() == STD_BOT_NICK.lower():
         # log the message and move on
         print(f"\nBOT: {ctx.content}")
-        write_to_log(ctx.content, "BOT")
+        mfs.write_to_log(ctx.content, STD_BOT_NICK, CHANNEL)
         return
     elif ctx.author.name.lower() == "streamelements":
         # log the message and move on
@@ -149,7 +149,7 @@ async def event_message(ctx):
 
     # print out the chat message to console and log it
     print(f"\n{ctx.author.name}: {ctx.content}")
-    write_to_log(ctx.content, ctx.author.name)
+    mfs.write_to_log(ctx.content, ctx.author.name, CHANNEL)
 
 
 # declare a function for showing information about bot

@@ -115,7 +115,7 @@ def write_to_log(message, author, CHANNEL):
     # for handling current time
     now = datetime.now()
     # for handling the file name
-    file_name = CHANNEL + "_GPT-log_" + now.strftime("%d-%m-%Y") + ".md"
+    file_name = CHANNEL + "-log_" + now.strftime("%d-%m-%Y") + ".md"
     # for handling the file path
     file_path = os.path.join(log_dir, file_name)
 
