@@ -1,20 +1,25 @@
-import time
+import mfs
+import vars
 
-start_time = time.time()
-running = True
+async def check_streamer_status():
+    # Create a Twitch client instance
+    client = twitchio.Client(client_id=client_id, nick=bot_name, initial_channels=[streamer_name])
 
-# Loop until the stopwatch is stopped
-while running:
-    # Update the stopwatch display
-    elapsed_time = time.time() - start_time
-    print(f"Elapsed time: {elapsed_time:.1f} seconds", end="\r")
+    # Connect to Twitch
+    await client.connect()
 
-    # Check for the stop event
-    # Replace this with your own event
-    if elapsed_time > 5:
-        running = False
-        stop_time = time.time()
+    # Retrieve the streamer object
+    streamer = await client.get_users(streamer_name)
 
-# Calculate the elapsed time and print it
-elapsed_time = stop_time - start_time
-print(f"\n\nElapsed time: {elapsed_time:.1f} seconds")
+    if streamer and streamer[0].is_live:
+        # If the streamer is live, print a message saying so
+        print(f"{streamer_name} is currently live!")
+    else:
+        # If the streamer is not live, print a message saying so
+        print(f"{streamer_name} is currently offline.")
+
+    # Disconnect from Twitch
+    await client.disconnect()
+
+# Run the async function to check the streamer status
+asyncio.run(check_streamer_status())
