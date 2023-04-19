@@ -3214,3 +3214,15 @@ sadnovel1st: @unache не сумуй ми тобі замість k1ssizz поч
 
 ---
 
+20:39:25
+
+k1ssizz: Приємного <3
+
+---
+
+20:39:27
+
+wuyodo: is online at PixelFedya!
+
+---
+
