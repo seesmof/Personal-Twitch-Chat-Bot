@@ -3208,3 +3208,9 @@ k1ssizz: trembaaBabooreh trembaaBabooreh trembaaBabooreh trembaaBabooreh
 
 ---
 
+20:39:20
+
+sadnovel1st: @unache не сумуй ми тобі замість k1ssizz почілікаєм
+
+---
+
