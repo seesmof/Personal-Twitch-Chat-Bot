@@ -3190,3 +3190,9 @@ maks_malitsk: MyAvatar
 
 ---
 
+20:39:01
+
+nelubluu: @k1ssizz все буде trembaaBabooreh
+
+---
+
