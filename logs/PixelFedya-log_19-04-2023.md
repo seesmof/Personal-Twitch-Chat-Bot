@@ -3172,3 +3172,15 @@ k1ssizz: Нема пісюньчикк
 
 ---
 
+20:38:50
+
+k1ssizz: trembaaCry
+
+---
+
+20:38:51
+
+maks_malitsk: SeriousSloth
+
+---
+
