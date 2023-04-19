@@ -1,9 +1,19 @@
+from twitchio.ext import commands
+from datetime import datetime
+import openai
+import os
+import asyncio
+import time
+import requests
+import re
 import mfs
-import vars
+from vars import *
+
 
 async def check_streamer_status():
     # Create a Twitch client instance
-    client = twitchio.Client(client_id=client_id, nick=bot_name, initial_channels=[streamer_name])
+    client = twitchio.Client(
+        client_id=client_id, nick=bot_name, initial_channels=[streamer_name])
 
     # Connect to Twitch
     await client.connect()
