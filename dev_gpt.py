@@ -10,7 +10,6 @@ import mfs
 from vars import *
 
 BOT_PREFIX = "!"
-# CHANNEL = "PixelFedya"
 CHANNEL = "seesmof"
 
 

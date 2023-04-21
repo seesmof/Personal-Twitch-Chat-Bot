@@ -10,10 +10,8 @@ import mfs
 from vars import *
 
 BOT_PREFIX = "!"
-# CHANNEL = "seesmof"
 CHANNEL = "mike09steelers"
 
-# initialize the bot with the necessary variables
 bot = commands.Bot(
     irc_token=GPT_TMI_TOKEN,
     client_id=GPT_CLIENT_ID,
