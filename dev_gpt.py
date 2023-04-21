@@ -33,6 +33,7 @@ async def event_ready():
 async def event_message(ctx):
     if ctx.author.name.lower() == GPT_BOT_NICK.lower():
         print(f"\nBOT: {ctx.content}")
+        mfs.write_to_log(ctx.content, GPT_BOT_NICK, CHANNEL)
         return
 
     letters = ["@wuyodo"]
