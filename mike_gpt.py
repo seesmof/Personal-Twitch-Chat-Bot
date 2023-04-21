@@ -31,9 +31,7 @@ async def event_ready():
 
 @ bot.event
 async def event_message(ctx):
-    # handle situations with messages from a bot itself
     if ctx.author.name.lower() == GPT_BOT_NICK.lower():
-        # log the message and move on
         print(f"\nBOT: {ctx.content}")
         mfs.write_to_log(ctx.content, GPT_BOT_NICK, CHANNEL)
         return
