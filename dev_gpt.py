@@ -12,7 +12,6 @@ from vars import *
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
 
-
 bot = commands.Bot(
     irc_token=GPT_TMI_TOKEN,
     client_id=GPT_CLIENT_ID,
