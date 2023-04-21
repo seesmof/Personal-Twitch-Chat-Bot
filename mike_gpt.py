@@ -36,16 +36,12 @@ async def event_message(ctx):
         mfs.write_to_log(ctx.content, GPT_BOT_NICK, CHANNEL)
         return
 
-    # for handling ChatGPT requests from chat
     letters = ["@wuyodo"]
-    # check if message contains bot mention
     if mfs.check_for_letters(ctx.content.lower(), letters):
         print("\nGenerating a message...")
         start_time = time.time()
 
-        # replace the tag with nothingness
         input_text = ctx.content.replace("@wuyodo", "")
-        # avoid any excessive whitespaces
         input_text = " ".join(input_text.split())
 
         # add user name to the output and tag them
