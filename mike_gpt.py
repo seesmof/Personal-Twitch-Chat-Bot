@@ -44,15 +44,12 @@ async def event_message(ctx):
         input_text = ctx.content.replace("@wuyodo", "")
         input_text = " ".join(input_text.split())
 
-        # add user name to the output and tag them
         output_text = "@" + ctx.author.name + ", "
-        # generate the output text using a corresponding functions
         output_text += mfs.generate_ua(input_text, context_mike)
 
         end_time = time.time()
         elapsed_time = end_time - start_time
 
-        # output the generated message(s) to chat
         await mfs.send_split_gpt(ctx, output_text)
         print(f"\nGenerated in {elapsed_time:.2f} seconds")
     await asyncio.sleep(20)
