@@ -119,6 +119,10 @@ async def event_message(ctx):
     await asyncio.sleep(2)
 
 
+async def show_alert(message):
+    await bot.send_message(CHANNEL, message)
+
+
 @ bot.command(name='інфа')
 async def show_info(ctx):
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний ШІ-помічник в чаті Піксельного. Ви можете поставити мені будь-яке питання, просто додавши \"@wuyodo\" до свого повідомлення. Також, щоб подивитись мої існуючі команди, напишіть \"!коми\" в чат. Якщо Ви маєте ідеї стосовно мого покращення, будь ласка, напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
