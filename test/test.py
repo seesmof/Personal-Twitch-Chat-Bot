@@ -10,7 +10,7 @@ model = ora.CompletionModel.create(
 # init conversation (will give you a conversationId)
 init = ora.Completion.create(
     model=model,
-    prompt='hello world')
+    prompt='привітайся з чатом Феді')
 
 print(init.completion.choices[0].text)
 
