@@ -11,6 +11,7 @@ from vars import *
 
 
 def generate_ua(input_text, context):
+    input_text = input("\nВведіть текст: ")
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
     data = {
