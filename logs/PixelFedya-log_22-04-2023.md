@@ -14662,3 +14662,9 @@ vladdgoldin: girlxaXaxa
 
 ---
 
+18:45:03
+
+vladdgoldin: Майнкрафт 2?
+
+---
+
