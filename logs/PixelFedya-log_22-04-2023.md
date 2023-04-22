@@ -2176,3 +2176,27 @@ logan_firmofan: Бо жлоб
 
 ---
 
+12:47:29
+
+yurayqq: Уляна токсік
+
+---
+
+12:47:34
+
+hauha333: ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+12:47:37
+
+yurayqq: База
+
+---
+
+12:47:46
+
+maks_malitsk: MyAvatar
+
+---
+
