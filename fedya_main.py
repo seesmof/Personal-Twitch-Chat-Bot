@@ -458,7 +458,7 @@ async def who_father(ctx):
     await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
 
 
-@ bot.command(name='батл', aliases=['шого', 'сюди'])
+@ bot.command(name='шил', aliases=['шого', 'сюди'])
 async def invoke_duel(ctx):
     username = ctx.content[5:]
     if "@" not in username:
