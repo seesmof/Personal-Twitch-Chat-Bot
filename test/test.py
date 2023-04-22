@@ -1,22 +1,27 @@
-# import quora (poe) package
-import quora
+# inport ora
+import ora
 
-# create account
-# make shure to set enable_bot_creation to True
-token = quora.Account.create(logging=True, enable_bot_creation=True)
+# create model
+model = ora.CompletionModel.create(
+    system_prompt='You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible',
+    description='ChatGPT Openai Language Model',
+    name='gpt-3.5')
 
-model = quora.Model.create(
-    token=token,
-    model='gpt-3.5-turbo',  # or claude-instant-v1.0
-    system_prompt='you are ChatGPT a large language model ...'
-)
+# init conversation (will give you a conversationId)
+init = ora.Completion.create(
+    model=model,
+    prompt='hello world')
 
-print(model.name)  # gptx....
+print(init.completion.choices[0].text)
 
-# streaming response
-for response in quora.StreamingCompletion.create(
-        custom_model=model.name,
-        prompt='hello world',
-        token=token):
+while True:
+    # pass in conversationId to continue conversation
+
+    prompt = input('>>> ')
+    response = ora.Completion.create(
+        model=model,
+        prompt=prompt,
+        includeHistory=True,  # remember history
+        conversationId=init.id)
 
     print(response.completion.choices[0].text)
