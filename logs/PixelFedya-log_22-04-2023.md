@@ -1174,3 +1174,39 @@ bat9_v1nzer: @hauha333 привіт HeyGuys
 
 ---
 
+12:24:29
+
+seesmof: о, файна камера
+
+---
+
+12:24:32
+
+dduckua: ку всім
+
+---
+
+12:24:33
+
+satfi: Здоров satfiHii satfiBratan4ik
+
+---
+
+12:24:35
+
+qukawa: Ультанула
+
+---
+
+12:24:39
+
+qukawa: SSSsss
+
+---
+
+12:24:41
+
+vi_me: Треба карту захоплення бо на компі немає hdmi in, є лише hdmi out
+
+---
+
