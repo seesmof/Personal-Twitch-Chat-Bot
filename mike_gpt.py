@@ -23,12 +23,12 @@ bot = commands.Bot(
 
 model = ora.CompletionModel.create(
     system_prompt=context_mike,
-    description='Бот у чаті Twitch стрімера PixelFedya',
+    description='A bot in the Twitch chat of the Mike streamer',
     name='gpt-4')
 
 init = ora.Completion.create(
     model=model,
-    prompt='привітайся з чатом Феді')
+    prompt="Greet Mike's chat")
 
 
 def generate_ua(prompt):
