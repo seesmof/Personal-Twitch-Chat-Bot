@@ -61,3 +61,6 @@ def generate_ua(input_text, context):
     text = text.replace('''`''', "")
     text = text.replace('''*''', "")
     return text
+
+
+generate_ua("", context_mike)
