@@ -43,9 +43,8 @@ def generate_ua(prompt):
 
 
 @ bot.event
-async def event_ready(ctx):
+async def event_ready():
     print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
-    await ctx.channel.send(init.completion.choices[0].text)
     mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
