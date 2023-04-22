@@ -52,6 +52,7 @@ def check_for_letters(text, letters):
     return False
 
 
+'''
 def generate_ua(input_text, context):
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
@@ -154,6 +155,7 @@ def generate_en(input_text, context):
     text = text.replace('''`''', "")
     text = text.replace('''*''', "")
     return text
+'''
 
 
 def write_to_log(message, author, CHANNEL):

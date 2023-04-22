@@ -2110,3 +2110,57 @@ andrushkahmmmm: Привіт мій любий стрімере psrageAlealeale 
 
 ---
 
+12:45:29
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+12:45:34
+
+unache: trembaaBabooreh
+
+---
+
+12:45:36
+
+yurayqq: Ахахв
+
+---
+
+12:45:36
+
+olooliver: ахахахахах
+
+---
+
+12:45:38
+
+maks_malitsk: trembaaPog
+
+---
+
+12:45:40
+
+andrushkahmmmm: Ахахах
+
+---
+
+12:45:43
+
+onoffffffff32: Файно вийшло
+
+---
+
+12:45:43
+
+maks_malitsk: MyAvatar MyAvatar MyAvatar
+
+---
+
+12:45:54
+
+andrushkahmmmm: psrageAnimedance psrageAnimedance psrageAnimedance
+
+---
+
