@@ -4966,3 +4966,3645 @@ toper1337: та де була паліця)
 
 ---
 
+14:06:19
+
+sfxcspwi_: бб лохи кажу
+
+---
+
+14:06:20
+
+young_schoo1: Федя привіт
+
+---
+
+14:06:21
+
+sfxcspwi_: апхапххпа
+
+---
+
+14:06:40
+
+onoffffffff32: Може відсилка на серіал гра кальмара?
+
+---
+
+14:06:44
+
+hauha333: Чим більше гравців тим більше грошей 1 гравець помер 1 млн
+
+---
+
+14:07:18
+
+onoffffffff32: то не логан, то браумі
+
+---
+
+14:08:03
+
+sfxcspwi_: в сраку тобі палку
+
+---
+
+14:08:11
+
+onoffffffff32: ахахах
+
+---
+
+14:09:00
+
+onoffffffff32: суда
+
+---
+
+14:09:02
+
+hauha333: Kappa
+
+---
+
+14:09:08
+
+toper1337: хахахах
+
+---
+
+14:09:17
+
+toper1337: оце в мене зачіска ахахах
+
+---
+
+14:09:19
+
+hauha333: Єбав федю Kappa
+
+---
+
+14:09:20
+
+pixelfedya: 109775242946329730 󠀀
+
+---
+
+14:09:20
+
+pixelfedya: 109775242946329730
+
+---
+
+14:09:21
+
+pixelfedya: 109775242946329730 󠀀
+
+---
+
+14:09:24
+
+onoffffffff32: 109775242946329730
+
+---
+
+14:10:08
+
+hauha333: О
+
+---
+
+14:10:55
+
+sfxcspwi_: анмут
+
+---
+
+14:11:08
+
+hauha333: Якщо дуже багато людей він і 4 рази хвилю може кинути
+
+---
+
+14:11:40
+
+hauha333: Тудаеее
+
+---
+
+14:11:51
+
+toper1337: мене розмазало
+
+---
+
+14:11:55
+
+sfxcspwi_: лакв
+
+---
+
+14:11:56
+
+hauha333: Kappa Kappa Kappa ak1okaXd ak1okaXd
+
+---
+
+14:11:57
+
+sfxcspwi_: лакі
+
+---
+
+14:12:07
+
+onoffffffff32: Браумі виграв
+
+---
+
+14:12:08
+
+toper1337: харош
+
+---
+
+14:12:21
+
+onoffffffff32: то браумі
+
+---
+
+14:12:25
+
+onoffffffff32: а
+
+---
+
+14:12:33
+
+onoffffffff32: ну яким мені запам'ятався
+
+---
+
+14:13:23
+
+hauha333: Тудаа
+
+---
+
+14:13:24
+
+hauha333: Kappa Kappa
+
+---
+
+14:13:31
+
+toper1337: ТИ ГАМНОО
+
+---
+
+14:13:31
+
+onoffffffff32: я його дивився як Санін друг прол посудомийку сказав його дівчині
+
+---
+
+14:14:06
+
+toper1337: найс тактика хлопці)
+
+---
+
+14:14:11
+
+hauha333: Федя ран бустер досередьної і на фініш
+
+---
+
+14:14:16
+
+toper1337: хахахахха
+
+---
+
+14:14:30
+
+hauha333: Стрибає сходу на фініш
+
+---
+
+14:14:35
+
+hauha333: Kappa
+
+---
+
+14:14:38
+
+logan_firmofan: АХАХХАХА
+
+---
+
+14:15:16
+
+sfxcspwi_: z nj vj;e ujdjhbnb? nb vtyt kbit yt xe'i
+
+---
+
+14:15:18
+
+sfxcspwi_: !бля
+
+---
+
+14:15:18
+
+pawrop: @sfxcspwi_, я то можу говорити, ти мене лише не чуєш
+
+---
+
+14:15:18
+
+botbandera: @sfxcspwi_ хотів сказати: я то можу говорити, ти мене лише не чуєш
+
+---
+
+14:18:09
+
+toper1337: ...) люблю цей режим))
+
+---
+
+14:18:25
+
+hauha333: Kappa Kappa Kappa
+
+---
+
+14:18:31
+
+toper1337: аххха
+
+---
+
+14:18:36
+
+sfxcspwi_: го кс
+
+---
+
+14:18:40
+
+hauha333: Туда тебе
+
+---
+
+14:18:43
+
+toper1337: кс
+
+---
+
+14:18:44
+
+hauha333: Муе
+
+---
+
+14:18:46
+
+hauha333: Мук
+
+---
+
+14:18:47
+
+toper1337: ні?
+
+---
+
+14:18:49
+
+hauha333: Kappa
+
+---
+
+14:18:55
+
+toper1337: тоді...
+
+---
+
+14:18:57
+
+toper1337: хз
+
+---
+
+14:19:04
+
+toper1337: знов фул гайс)
+
+---
+
+14:19:16
+
+alf0nss_: чому там все ще ялинка
+
+---
+
+14:19:17
+
+vlagaliik: ПРИИИИВВВВІІІІІІТ БРАТАНЧИИИК alexde34BONGO alexde34BONGO
+
+---
+
+14:19:58
+
+onoffffffff32: світ тварин (не хочу нікого образити)
+
+---
+
+14:20:45
+
+hauha333: Курви таргетири
+
+---
+
+14:20:56
+
+hauha333: Всі 3 на  мене одного
+
+---
+
+14:21:06
+
+sfxcspwi_: YSS
+
+---
+
+14:21:08
+
+sfxcspwi_: НІІ
+
+---
+
+14:21:09
+
+sfxcspwi_: БЛЯ
+
+---
+
+14:21:19
+
+sfxcspwi_: го мак
+
+---
+
+14:21:20
+
+sfxcspwi_: дс
+
+---
+
+14:21:27
+
+hauha333: Некс мак ?
+
+---
+
+14:21:34
+
+sfxcspwi_: та чого
+
+---
+
+14:21:45
+
+onoffffffff32: саймон буде?
+
+---
+
+14:23:28
+
+hauha333: Вххвхвхвхвх
+
+---
+
+14:24:31
+
+sfxcspwi_: ааааааааааа
+
+---
+
+14:24:37
+
+onoffffffff32: ахахх
+
+---
+
+14:24:41
+
+sfxcspwi_: я нечайно топнув
+
+---
+
+14:24:43
+
+toper1337: я щось просто побіг на пофіг) і забув)
+
+---
+
+14:25:03
+
+hauha333: Сюда
+
+---
+
+14:25:05
+
+hauha333: Kappa
+
+---
+
+14:25:11
+
+sfxcspwi_: го мак з дс
+
+---
+
+14:25:11
+
+toper1337: харош
+
+---
+
+14:25:29
+
+hauha333: Го в мук го в мук
+
+---
+
+14:25:33
+
+toper1337: та які тобі там кейси
+
+---
+
+14:25:38
+
+toper1337: го кс саймона?
+
+---
+
+14:25:42
+
+toper1337: а потім мм
+
+---
+
+14:25:44
+
+hauha333: Го в майн
+
+---
+
+14:25:45
+
+sfxcspwi_: го тоді саймона
+
+---
+
+14:25:56
+
+toper1337: ЗАВТРАА
+
+---
+
+14:26:03
+
+hauha333: BibleThump
+
+---
+
+14:26:09
+
+toper1337: ВАЩО ТОП)
+
+---
+
+14:26:15
+
+sfxcspwi_: заходь в кс
+
+---
+
+14:26:17
+
+toper1337: РЕАЛЬНО ІМБА БУДЕ)
+
+---
+
+14:26:24
+
+hauha333: Го в гео бінго
+
+---
+
+14:26:37
+
+toper1337: ага))
+
+---
+
+14:26:38
+
+hauha333: Го в геобінго Kappa
+
+---
+
+14:26:42
+
+toper1337: за сьогодні)
+
+---
+
+14:26:47
+
+toper1337: та пох
+
+---
+
+14:26:54
+
+hauha333: Яке кс ResidentSleeper ResidentSleeper ResidentSleeper ResidentSleeper
+
+---
+
+14:27:03
+
+onoffffffff32: Го чікен ган?
+
+---
+
+14:27:06
+
+hauha333: Моди треба певну версію качати
+
+---
+
+14:27:11
+
+hauha333: Які попало не вийде
+
+---
+
+14:27:18
+
+sfxcspwi_: чуєш, я крч знаю сервер де нікого немає і там можна пограти 5 на 5 з скінами та ножами
+
+---
+
+14:27:26
+
+onoffffffff32: Го чікен ган? 󠀀
+
+---
+
+14:27:34
+
+toper1337: ти короче якщо сумніваєшся стосовно якогось мода, просускай його чи записуй на аркуш, потім покажеш мені я тобі скажу що поставити
+
+---
+
+14:27:36
+
+lavielay: о привіт tapacePat tapacePat tapacePat tapacePat tapacePat
+
+---
+
+14:27:52
+
+alf0nss_: лавілееей
+
+---
+
+14:27:58
+
+alf0nss_: привіт мій хароший
+
+---
+
+14:27:58
+
+onoffffffff32: Го чікен ган?
+
+---
+
+14:28:07
+
+lavielay: @alf0nss_ привіт tapacePat
+
+---
+
+14:28:23
+
+hauha333: tik tu sitimamenya цю включи
+
+---
+
+14:28:28
+
+onoffffffff32: Го чікен ган? 󠀀
+
+---
+
+14:28:34
+
+vladdgoldin: Васильок привіт ak1okaDance
+
+---
+
+14:28:39
+
+onoffffffff32: подивись
+
+---
+
+14:28:42
+
+onoffffffff32: ))
+
+---
+
+14:28:46
+
+vladdgoldin: ak1okaHaha
+
+---
+
+14:28:46
+
+sfxcspwi_: го кс заходь
+
+---
+
+14:28:52
+
+vladdgoldin: нічого страшного
+
+---
+
+14:28:54
+
+vladdgoldin: ak1okaDance ak1okaDance ak1okaDance
+
+---
+
+14:29:02
+
+vladdgoldin: ще раз можу
+
+---
+
+14:29:02
+
+hauha333: tik tu sitimamenya цю включи
+
+---
+
+14:29:04
+
+vladdgoldin: veronkLove
+
+---
+
+14:29:24
+
+onoffffffff32: хахахаха
+
+---
+
+14:29:29
+
+vladdgoldin: ak1okaXd
+
+---
+
+14:29:53
+
+onoffffffff32: імба
+
+---
+
+14:29:55
+
+emfoniks: о
+
+---
+
+14:29:56
+
+toper1337: ахахахах це шо?
+
+---
+
+14:29:58
+
+emfoniks: це українська група
+
+---
+
+14:30:17
+
+emfoniks: я про пісню
+
+---
+
+14:30:54
+
+emfoniks: я ледве записав ту пісню
+
+---
+
+14:31:07
+
+emfoniks: ОБІЙНЯТИСЬ
+
+---
+
+14:31:07
+
+toper1337: Мені там подобалась якась пісня ти вмикав, але я забув, но була файна
+
+---
+
+14:31:12
+
+emfoniks: ту про яку я казав
+
+---
+
+14:31:16
+
+emfoniks: але там вкінці то слово
+
+---
+
+14:31:20
+
+emfoniks: про яке я казав
+
+---
+
+14:31:36
+
+sfxcspwi_: загугли
+
+---
+
+14:32:29
+
+sfxcspwi_: ВАСИЛЬ ВСЕ ЧУТИ
+
+---
+
+14:32:30
+
+sfxcspwi_: ОФФ
+
+---
+
+14:32:32
+
+sfxcspwi_: БІГОМ
+
+---
+
+14:32:33
+
+toper1337: василь помер?
+
+---
+
+14:32:33
+
+sfxcspwi_: АЛОУ
+
+---
+
+14:32:55
+
+sfxcspwi_: МУЗИКУ БУЛО ЧУТИ
+
+---
+
+14:33:10
+
+sfxcspwi_: Костяяяян
+
+---
+
+14:33:17
+
+hauha333: ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+14:33:18
+
+sfxcspwi_: Дороу костян, як справи?
+
+---
+
+14:33:24
+
+vitalii_96: Привіт HeyGuys
+
+---
+
+14:33:24
+
+emfoniks: ну ти розумієш
+
+---
+
+14:33:25
+
+emfoniks: то просто ліс
+
+---
+
+14:33:32
+
+emfoniks: а люди його перетворили
+
+---
+
+14:33:34
+
+emfoniks: в легенду
+
+---
+
+14:33:34
+
+sfxcspwi_: шатаут бамбурни
+
+---
+
+14:33:46
+
+emfoniks: ТО ЦЯ
+
+---
+
+14:34:04
+
+hauha333: @toper1337 а на якій версії буде майн
+
+---
+
+14:34:11
+
+kostianua: ДЯКУЮ
+
+---
+
+14:34:35
+
+toper1337: ООО ВАСИЛЬ А ПРИДУМАВВ!! ЗНАЄШ КУДИ ГОУ? ГО У ТУ ГРУ ЩО БУЛА БЕЗКОШТОВНА У ЕПІКУ ПРО ЛИЦАРІВ)
+
+---
+
+14:35:06
+
+hauha333: @toper1337  вона хуйня
+
+---
+
+14:35:21
+
+toper1337: @hauha333 оптіфайн фордж (ТЛ) 1.19.2
+
+---
+
+14:35:33
+
+toper1337: @hauha333 та пох, разік
+
+---
+
+14:35:46
+
+hauha333: @toper1337  ну оптіфайн і форд само собою
+
+---
+
+14:36:31
+
+toper1337: Фіга мфонікс ультанув)
+
+---
+
+14:36:39
+
+hauha333: @toper1337 можеш кинути назви модів і їх версії в дс
+
+---
+
+14:36:44
+
+pixelfedya: https://t.me/ya_ne_emfoniks
+
+---
+
+14:36:44
+
+pixelfedya: https://t.me/ya_ne_emfoniks 󠀀
+
+---
+
+14:36:45
+
+pixelfedya: https://t.me/ya_ne_emfoniks
+
+---
+
+14:36:54
+
+toper1337: Василь гоу?
+
+---
+
+14:36:56
+
+lamark_sk8: trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps
+
+---
+
+14:37:06
+
+sfxcspwi_: дай мут @PixelFedya спамить та піариться
+
+---
+
+14:37:17
+
+toper1337: @hauha333 ок, завтра, а то він ще їх не встановлював
+
+---
+
+14:37:17
+
+pixelfedya: https://t.me/ya_ne_emfonikshttps://t.me/ya_ne_emfoniks
+
+---
+
+14:37:17
+
+pixelfedya: https://t.me/ya_ne_emfoniks
+
+---
+
+14:37:18
+
+pixelfedya: https://t.me/ya_ne_emfoniks 󠀀
+
+---
+
+14:37:18
+
+pixelfedya: https://t.me/ya_ne_emfoniks
+
+---
+
+14:37:26
+
+ddariiya: ти вже мені нарешті скажеш що одначає вебка за 5к?
+
+---
+
+14:37:30
+
+toper1337: Василь гоу у ту гру?
+
+---
+
+14:37:31
+
+hauha333: @toper1337 ak1okaMilota
+
+---
+
+14:38:04
+
+emfoniks: я читав те шо пише ззаді освіжувачів сидячи на туалеті
+
+---
+
+14:38:33
+
+ddariiya: емфонікс ти тепер емфонікс
+
+---
+
+14:38:43
+
+emfoniks: @ddariiya привіт даринка
+
+---
+
+14:38:56
+
+ddariiya: привіт максиииим
+
+---
+
+14:39:11
+
+emfoniks: василь дякую за прослуховування
+
+---
+
+14:39:14
+
+ddariiya: то може дешевше зробиш
+
+---
+
+14:39:24
+
+toper1337: хаахах
+
+---
+
+14:39:28
+
+toper1337: найс тактика)
+
+---
+
+14:39:40
+
+ddariiya: а ти покажеш як це виглядає?
+
+---
+
+14:39:42
+
+emfoniks: до речі василь я збираю бали на вебку шоб кинути її як альтернативу гамну
+
+---
+
+14:39:45
+
+emfoniks: шоб тебе налякати
+
+---
+
+14:39:46
+
+toper1337: Вася ГО
+
+---
+
+14:39:52
+
+ddariiya: мені не шкода бо повернеться
+
+---
+
+14:39:59
+
+veron_khalepa: йоу братанчики veronkHi
+
+---
+
+14:40:12
+
+emfoniks: @Veron_Khalepa привіт Верон
+
+---
+
+14:40:23
+
+veron_khalepa: @Veron_Khalepa привіт, котику veronkLove veronkLove veronkLove
+
+---
+
+14:40:27
+
+sfxcspwi_: музику включи
+
+---
+
+14:40:28
+
+veron_khalepa: фіга
+
+---
+
+14:40:30
+
+veron_khalepa: сюди!
+
+---
+
+14:40:40
+
+sfxcspwi_: СЮДА ЛУТ
+
+---
+
+14:40:44
+
+veron_khalepa: потужно
+
+---
+
+14:40:46
+
+toper1337: ок)
+
+---
+
+14:40:52
+
+sfxcspwi_: ок, уже зробив
+
+---
+
+14:40:52
+
+hauha333: @veron_khalepa ak1okaMilota ak1okaMilota ak1okaMilota привіт
+
+---
+
+14:40:55
+
+emfoniks: хто не знайомий фоловтесь швидко
+
+---
+
+14:41:03
+
+emfoniks: Верон то найкраща стрімерка на планеті Земля
+
+---
+
+14:41:04
+
+veron_khalepa: ну шо ти робиш
+
+---
+
+14:41:08
+
+toper1337: ХАХАХАХ
+
+---
+
+14:41:10
+
+veron_khalepa: ахахахах
+
+---
+
+14:41:15
+
+veron_khalepa: шоб знав своє місце
+
+---
+
+14:41:21
+
+veron_khalepa: цей світ для жінок
+
+---
+
+14:41:25
+
+emfoniks: василь ану вебку вище
+
+---
+
+14:41:33
+
+toper1337: УФФФФФФ
+
+---
+
+14:41:40
+
+emfoniks: хапхапхахпахпхап
+
+---
+
+14:41:42
+
+toper1337: ахахах
+
+---
+
+14:41:42
+
+veron_khalepa: ахахахахах
+
+---
+
+14:41:48
+
+emfoniks: ану кинь мені
+
+---
+
+14:41:50
+
+emfoniks: другу треба
+
+---
+
+14:41:55
+
+veron_khalepa: та не граю
+
+---
+
+14:42:03
+
+veron_khalepa: не прошйла
+
+---
+
+14:42:10
+
+veron_khalepa: скіко питаннь
+
+---
+
+14:42:28
+
+pixelfedya: https://www.twitch.tv/veron_khalepa/clip/GoldenTubularVultureChocolateRain-zuaUnnDpind-Zh_p?filter=clips&range=7d&sort=time
+
+---
+
+14:42:29
+
+toper1337: ХАХАХА
+
+---
+
+14:42:30
+
+hauha333: Пішли в кс Kappa
+
+---
+
+14:42:39
+
+toper1337: ВАСЯ го у ту гру?
+
+---
+
+14:42:59
+
+veron_khalepa: а шо ха гра?
+
+---
+
+14:42:59
+
+emfoniks: бля я тепер хочу назад стати Широ
+
+---
+
+14:43:06
+
+emfoniks: BibleThump BibleThump BibleThump
+
+---
+
+14:43:17
+
+maxstyleua: тебе Василь звуть, я думав ти Федір devian47Happy
+
+---
+
+14:43:20
+
+toper1337: @emfoniks ХАХАХА
+
+---
+
+14:43:29
+
+ddariiya: емфонікс який ти непостоянний
+
+---
+
+14:43:33
+
+veron_khalepa: не буду)
+
+---
+
+14:43:37
+
+toper1337: Є КЛІП
+
+---
+
+14:43:41
+
+toper1337: КЛІППП!!
+
+---
+
+14:43:44
+
+toper1337: Я РОБИВ
+
+---
+
+14:43:52
+
+maxstyleua: можна
+
+---
+
+14:44:08
+
+toper1337: ВЕБКАААА!!
+
+---
+
+14:44:11
+
+maxstyleua: тоді не можна PRChase
+
+---
+
+14:44:17
+
+emfoniks: @ddariiya не розказуй, я просто надто вірний ніку широ
+
+---
+
+14:44:30
+
+emfoniks: @pawrop в кого ти зараз на стрімі?
+
+---
+
+14:44:30
+
+pawrop: @emfoniks, я не здатний генерувати повідомлення. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше
+
+---
+
+14:44:31
+
+ddariiya: чому
+
+---
+
+14:44:31
+
+toper1337: шо?
+
+---
+
+14:44:38
+
+toper1337: ВЕБКА
+
+---
+
+14:44:41
+
+toper1337: АЛО
+
+---
+
+14:44:45
+
+emfoniks: @wuyodo в кого ти зараз на стрімі?
+
+---
+
+14:44:46
+
+toper1337: ти зниканий
+
+---
+
+14:44:55
+
+wuyodo: @emfoniks, Я не знаю, з ким саме Федя зараз на стрімі, оскільки я не здатен здійснювати спостереження. Але я можу допомогти відповісти на будь-які запитання, які ви маєте щодо мого функціонування. Чим я можу вам допомогти?
+
+---
+
+14:45:09
+
+emfoniks: @wuyodo як звуть стрімера?
+
+---
+
+14:45:15
+
+wuyodo: @emfoniks, Стрімера звати PixelFedya або просто Федя. Він є творцем контенту на платформі Twitch. Що я можу зробити для вас?
+
+---
+
+14:45:15
+
+pixelfedya: https://t.me/thetremba
+
+---
+
+14:45:15
+
+pixelfedya: https://t.me/thetremba 󠀀
+
+---
+
+14:45:22
+
+ddariiya: хахахахахахахаах
+
+---
+
+14:45:29
+
+ddariiya: стрімера звати федя
+
+---
+
+14:45:35
+
+ddariiya: вуйоду піздєть не буде
+
+---
+
+14:45:44
+
+toper1337: ВАСЯ ГО ГРАТИ
+
+---
+
+14:46:01
+
+ddariiya: василь ти прочитай шо вуйоду написав
+
+---
+
+14:46:12
+
+ddariiya: то не я придумала шо тебе федя звати
+
+---
+
+14:46:19
+
+emfoniks: Інстаграм стрімера: instagram.com/emfoniks
+
+---
+
+14:46:19
+
+maxstyleua: фоток у тебе багато devian47Yes
+
+---
+
+14:46:43
+
+toper1337: ТА ВАСЯ!
+
+---
+
+14:47:07
+
+toper1337: а у ту гру не хочеш?
+
+---
+
+14:47:19
+
+onoffffffff32: @emfoniks харош
+
+---
+
+14:47:19
+
+ddariiya: максим ти казав в тебе немає інсти
+
+---
+
+14:47:26
+
+toper1337: та що була безкоштовна у епіку, про лицарів?
+
+---
+
+14:47:36
+
+toper1337: ні
+
+---
+
+14:47:39
+
+toper1337: а
+
+---
+
+14:47:43
+
+emfoniks: @ddariiya а ти зайди
+
+---
+
+14:47:56
+
+toper1337: тоді закидуй у кс)
+
+---
+
+14:48:09
+
+ddariiya: я не можу мене в еплстор кидає
+
+---
+
+14:48:21
+
+ddariiya: хуйня ті іфони
+
+---
+
+14:48:25
+
+emfoniks: @ddariiya то в тебе значить нема інсти
+
+---
+
+14:48:33
+
+ddariiya: в мене є інста
+
+---
+
+14:48:37
+
+emfoniks: даринка в тебе шо айфон
+
+---
+
+14:48:40
+
+emfoniks: багата*
+
+---
+
+14:48:41
+
+toper1337: КОЛИ ТИ ВЖЕ ПОЧНЕШ ГРАТИ У КС)
+
+---
+
+14:48:41
+
+emfoniks: ?
+
+---
+
+14:48:42
+
+ddariiya: просто скажи як ти записаний
+
+---
+
+14:48:50
+
+ddariiya: та
+
+---
+
+14:48:53
+
+ddariiya: міліонерша
+
+---
+
+14:48:58
+
+emfoniks: @ddariiya emfoniks
+
+---
+
+14:49:09
+
+emfoniks: ХАЙ ПАНУЄ ЛАД ВЖЕ В ЦЬОМУ ХАОСІ
+
+---
+
+14:49:27
+
+emfoniks: МЕНЕ
+
+---
+
+14:49:29
+
+emfoniks: запроси
+
+---
+
+14:49:31
+
+ddariiya: максим ти мене забанив?
+
+---
+
+14:50:19
+
+ddariiya: він в інстаграмі мене забанив
+
+---
+
+14:51:22
+
+ddariiya: все я пішла
+
+---
+
+14:51:25
+
+ddariiya: їду додому
+
+---
+
+14:52:42
+
+ddariiya: іблан нахуй ти кричиш так
+
+---
+
+14:53:07
+
+ddariiya: ти шо чмо
+
+---
+
+14:53:21
+
+ddariiya: я надто голосно тебе включила
+
+---
+
+14:53:31
+
+ddariiya: в наушніках
+
+---
+
+14:54:36
+
+ddariiya: іблан
+
+---
+
+14:54:42
+
+ddariiya: вже кажи
+
+---
+
+14:55:02
+
+ddariiya: мене не буде ало
+
+---
+
+14:57:13
+
+legolas_07_: здоров вуйку
+
+---
+
+14:57:26
+
+legolas_07_: @ddariiya Даринка привітик m1rajLove
+
+---
+
+14:57:50
+
+legolas_07_: шо ти дупа
+
+---
+
+14:58:14
+
+legolas_07_: файно файно, красавчики
+
+---
+
+14:58:56
+
+ddariiya: @legolas_07_ привіііт
+
+---
+
+14:59:01
+
+hauha333: Я в стебнику ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+14:59:06
+
+toper1337: та ні це дупа у одного пінг 400 у іншого - 1)
+
+---
+
+14:59:11
+
+toper1337: нереально
+
+---
+
+14:59:14
+
+ddariiya: ви б бачили яка в мене класна погода
+
+---
+
+14:59:33
+
+ddariiya: 100/10
+
+---
+
+14:59:37
+
+ddariiya: 20°
+
+---
+
+14:59:39
+
+ddariiya: сонце
+
+---
+
+14:59:44
+
+ddariiya: пташки співають
+
+---
+
+15:00:05
+
+satfi: Давай, вали
+
+---
+
+15:00:10
+
+ddariiya: хахахахахахахах
+
+---
+
+15:00:15
+
+ddariiya: я СЬОГОДНІ В КЛУБ
+
+---
+
+15:00:22
+
+ddariiya: сьогодні святкую день народження
+
+---
+
+15:00:54
+
+ddariiya: та ти бот
+
+---
+
+15:00:57
+
+satfi: Та там до голови далеко
+
+---
+
+15:01:19
+
+satfi: А ти звідки?
+
+---
+
+15:01:38
+
+ruudvan177: ого прямо за цюцюрчика)))
+
+---
+
+15:01:39
+
+yurayqq: t0kentShlop t0kentShlop t0kentShlop
+
+---
+
+15:01:39
+
+legolas_07_: рейддддд
+
+---
+
+15:01:41
+
+chevoron: +250 бб
+
+---
+
+15:01:42
+
+fanatic_roolex9: дупааа
+
+---
+
+15:01:43
+
+yurabunchak: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:01:44
+
+yurayqq: рейддддд
+
+---
+
+15:01:44
+
+legolas_07_: здороуууууу
+
+---
+
+15:01:44
+
+crazycherrybro: PETPET PETPET PETPET
+
+---
+
+15:01:46
+
+ddariiya: максим тебе вижбав жостко
+
+---
+
+15:01:46
+
+roolex9: привіт братанчик
+
+---
+
+15:01:49
+
+slatezzzcs: суууіііііііі
+
+---
+
+15:01:50
+
+fanatic_roolex9: ви хто
+
+---
+
+15:01:55
+
+yurabunchak: +250бб лох ak1okaSho
+
+---
+
+15:01:57
+
+vladdgoldin: @ddariiya Даринка привіт veronkLove
+
+---
+
+15:01:59
+
+ddariiya: аххахаххахахаххаха
+
+---
+
+15:02:02
+
+fanatic_roolex9: гамно
+
+---
+
+15:02:05
+
+fanatic_roolex9: захзазахї
+
+---
+
+15:02:08
+
+fanatic_roolex9: шо
+
+---
+
+15:02:10
+
+fanatic_roolex9: здоров
+
+---
+
+15:02:13
+
+ddariiya: @vladdgoldin привіііт
+
+---
+
+15:02:13
+
+fanatic_roolex9: привіт
+
+---
+
+15:02:15
+
+hauha333: LUL LUL LUL
+
+---
+
+15:02:18
+
+fanatic_roolex9: так
+
+---
+
+15:02:22
+
+yurabunchak: ak1okaXd
+
+---
+
+15:02:23
+
+fanatic_roolex9: розказав
+
+---
+
+15:02:28
+
+fanatic_roolex9: слтивай
+
+---
+
+15:02:30
+
+roolex9: зливай
+
+---
+
+15:02:30
+
+yurabunchak: Не можна
+
+---
+
+15:02:32
+
+ddariiya: СЛИВАЙ ВЖЕ
+
+---
+
+15:02:34
+
+yurabunchak: ak1okaSho
+
+---
+
+15:02:36
+
+ddariiya: гамно галіме
+
+---
+
+15:02:36
+
+chevoron: зривай
+
+---
+
+15:02:42
+
+legolas_07_: не можна
+
+---
+
+15:02:44
+
+roolex9: злий мене повністю
+
+---
+
+15:02:56
+
+yurabunchak: Не можна я як його модер кажу ak1okaSho
+
+---
+
+15:02:57
+
+legolas_07_: злий його хтивки
+
+---
+
+15:02:57
+
+fanatic_roolex9: ку
+
+---
+
+15:03:00
+
+fanatic_roolex9: ку)
+
+---
+
+15:03:03
+
+fanatic_roolex9: привіт
+
+---
+
+15:03:09
+
+vladdgoldin: привіт
+
+---
+
+15:03:15
+
+yurabunchak: @legolas_07_ ak1okaXd
+
+---
+
+15:03:21
+
+fanatic_roolex9: хаха
+
+---
+
+15:03:21
+
+roolex9: f[[f[f
+
+---
+
+15:03:22
+
+yurabunchak: ak1okaSadge
+
+---
+
+15:03:23
+
+vladdgoldin: а я
+
+---
+
+15:03:23
+
+roolex9: axaxaxa
+
+---
+
+15:03:25
+
+chevoron: @vladdgoldin я тебе частіше бачу ніж стрімерів, привт chevor1Hello
+
+---
+
+15:03:28
+
+vladdgoldin: qch1pCry
+
+---
+
+15:03:32
+
+fanatic_roolex9: два зелених ролекса
+
+---
+
+15:03:41
+
+ddariiya: @chevoron жиза хахахахха
+
+---
+
+15:03:41
+
+rebrance: Привіт кращий стрімер після Ролі, Христинки, Кактуса, Хохомки, Остапчика, Мартинюка, Ворона, Леголаса trashd8Wave
+
+---
+
+15:03:41
+
+slatezzzcs: )
+
+---
+
+15:03:46
+
+yurabunchak: Злий себе повністю ak1okaSadge
+
+---
+
+15:03:47
+
+roolex9: та всі знають
+
+---
+
+15:03:49
+
+vladdgoldin: @chevoron така ж ситуація)
+
+---
+
+15:03:53
+
+fanatic_roolex9: ти тихо
+
+---
+
+15:03:59
+
+slatezzzcs: хахха
+
+---
+
+15:04:00
+
+legolas_07_: @REBRANCE огоо, то я не стрімер Kappa
+
+---
+
+15:04:03
+
+fanatic_roolex9: ахахах
+
+---
+
+15:04:04
+
+fanatic_roolex9: 9
+
+---
+
+15:04:08
+
+vladdgoldin: ромчик ak1okaXd
+
+---
+
+15:04:09
+
+chevoron: @REBRANCE LUL LUL LUL
+
+---
+
+15:04:11
+
+vladdgoldin: харош
+
+---
+
+15:04:12
+
+yurabunchak: @legolas_07_ ти стрімер ak1okaNanana
+
+---
+
+15:04:14
+
+vladdgoldin: ak1okaXd
+
+---
+
+15:04:17
+
+ddariiya: хахахахахахахахха
+
+---
+
+15:04:20
+
+yurayqq: Ахахахс
+
+---
+
+15:04:21
+
+ddariiya: заслужив
+
+---
+
+15:04:23
+
+legolas_07_: @yurabunchak m1rajWhatthe m1rajWhatthe m1rajWhatthe
+
+---
+
+15:04:24
+
+chevoron: @REBRANCE я росту LUL LUL LUL
+
+---
+
+15:04:25
+
+vladdgoldin: Ромчик красава
+
+---
+
+15:04:27
+
+vladdgoldin: ak1okaXd
+
+---
+
+15:04:28
+
+rebrance: @legolas_07_ ти 2 стріма запуска робив
+
+---
+
+15:04:32
+
+yurayqq: Привіт ще раз
+
+---
+
+15:04:36
+
+rebrance: я був 3 а теперь 4
+
+---
+
+15:04:42
+
+legolas_07_: @REBRANCE таааа, то файні стріми були
+
+---
+
+15:04:54
+
+ddariiya: ВІН ВЖЕ ТОБІ СКАЗАВ СЛИВАТИ ГАМНО ТИ
+
+---
+
+15:04:56
+
+yurabunchak: @rebrance він нас найобує перше він казав що я 3 тепер каже що я 4 ak1okaSadge
+
+---
+
+15:05:08
+
+vladdgoldin: привіт дупослиз ak1okaDance
+
+---
+
+15:05:11
+
+yurabunchak: Я прийшов ти сказав що я 4
+
+---
+
+15:05:14
+
+yurabunchak: ak1okaSho
+
+---
+
+15:05:15
+
+vladdgoldin: ak1okaXd
+
+---
+
+15:05:23
+
+toper1337: та го мм
+
+---
+
+15:05:31
+
+ddariiya: ти іблан?
+
+---
+
+15:05:32
+
+toper1337: давай)
+
+---
+
+15:05:35
+
+ddariiya: він тобі вже сказав
+
+---
+
+15:05:39
+
+toper1337: .....
+
+---
+
+15:05:47
+
+yurayqq: Хуман
+
+---
+
+15:05:47
+
+ddariiya: ти іблаАААААН
+
+---
+
+15:05:47
+
+toper1337: УУУУУ
+
+---
+
+15:05:49
+
+yurayqq: Фолл
+
+---
+
+15:05:50
+
+ddariiya: BibleThump BibleThump BibleThump
+
+---
+
+15:05:50
+
+toper1337: УУУУУУУУУУУУУУУУУУУУУ
+
+---
+
+15:05:51
+
+yurabunchak: Рівно 20.00? ak1okaXd
+
+---
+
+15:05:52
+
+toper1337: УУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУ
+
+---
+
+15:05:53
+
+yurayqq: Флет
+
+---
+
+15:05:56
+
+toper1337: АГАА!
+
+---
+
+15:05:57
+
+slatezzzcs: ))
+
+---
+
+15:05:59
+
+toper1337: СЮДИ
+
+---
+
+15:06:01
+
+vladdgoldin: @yurabunchak 20.02 ak1okaSho
+
+---
+
+15:06:07
+
+vladdgoldin: ak1okaXd
+
+---
+
+15:06:08
+
+yurabunchak: Якщо не рівно 20.00 я тебе на гілку посаджу ak1okaSho
+
+---
+
+15:06:10
+
+satfi: Роля стрім не офнув
+
+---
+
+15:06:10
+
+vladdgoldin: 15*
+
+---
+
+15:06:21
+
+vladdgoldin: ахвххав
+
+---
+
+15:06:24
+
+vladdgoldin: ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+15:06:29
+
+toper1337: харош)
+
+---
+
+15:06:32
+
+toper1337: файно
+
+---
+
+15:06:33
+
+ddariiya: нойнейм
+
+---
+
+15:06:39
+
+roolex9: сатфі дякую
+
+---
+
+15:06:40
+
+ddariiya: тебе по прікооу взяли
+
+---
+
+15:06:57
+
+vladdgoldin: душити слимака girlxaStrong
+
+---
+
+15:07:00
+
+vladdgoldin: ak1okaXd
+
+---
+
+15:07:00
+
+satfi: @roolex9 satfiDance
+
+---
+
+15:07:25
+
+vladdgoldin: ak1okaSho
+
+---
+
+15:07:32
+
+yurabunchak: Роля нубас забув офнути но вже офнув BloodTrail
+
+---
+
+15:07:40
+
+vladdgoldin: @yurabunchak ak1okaSho
+
+---
+
+15:07:40
+
+yurayqq: Їба
+
+---
+
+15:07:52
+
+satfi: Хлопці я знімаю
+
+---
+
+15:07:56
+
+yurabunchak: Фоткай ми позуєм
+
+---
+
+15:07:59
+
+yurabunchak: ak1okaNanana ak1okaNanana
+
+---
+
+15:08:07
+
+yurayqq: Тримає в руках мій річний бюджет
+
+---
+
+15:08:11
+
+vladdgoldin: сапоп ak1okaDance
+
+---
+
+15:08:15
+
+yurabunchak: Давай ak1okaNanana
+
+---
+
+15:08:18
+
+sfxcspwi_: re
+
+---
+
+15:08:18
+
+yurabunchak: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:08:23
+
+sfxcspwi_: слимак
+
+---
+
+15:08:24
+
+vladdgoldin: roolexFluffyscute roolexFluffyscute roolexFluffyscute
+
+---
+
+15:08:26
+
+yurabunchak: Ссиииир
+
+---
+
+15:08:28
+
+roolex9: жінко привіт
+
+---
+
+15:08:28
+
+vladdgoldin: girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:08:28
+
+yurabunchak: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:08:34
+
+yurabunchak: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:08:37
+
+yurayqq: moonmi8DANCIK moonmi8DANCIK moonmi8DANCIK moonmi8DANCIK
+
+---
+
+15:08:37
+
+maks_malitsk: LUL
+
+---
+
+15:08:40
+
+maks_malitsk: MyAvatar
+
+---
+
+15:08:41
+
+yurayqq: жінко привіт
+
+---
+
+15:08:42
+
+vladdgoldin: girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:08:44
+
+yurabunchak: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:08:45
+
+maks_malitsk: PinkMercy
+
+---
+
+15:08:51
+
+alf0nss_: akyuliaHamster
+
+---
+
+15:08:52
+
+yurabunchak: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+15:08:56
+
+legolas_07_: нажми і тримай
+
+---
+
+15:08:58
+
+yurabunchak: roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute
+
+---
+
+15:09:03
+
+vladdgoldin: ВАСИЛЬ ДУПА girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:09:09
+
+yurabunchak: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+15:09:15
+
+yurabunchak: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+15:09:16
+
+yurayqq: АХАХАХАХ
+
+---
+
+15:09:18
+
+vladdgoldin: girlxaXaxa
+
+---
+
+15:09:18
+
+rebrance: @legolas_07_ будем  у ту фігню?
+
+---
+
+15:09:20
+
+yurabunchak: Геній
+
+---
+
+15:09:23
+
+yurabunchak: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+15:09:26
+
+yurabunchak: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+15:09:29
+
+sfxcspwi_: слимак
+
+---
+
+15:09:30
+
+yurayqq: moonmi8DANCIK moonmi8DANCIK moonmi8DANCIK moonmi8DANCIK
+
+---
+
+15:09:32
+
+sfxcspwi_: слимачок
+
+---
+
+15:09:33
+
+yurabunchak: roolexFace
+
+---
+
+15:09:35
+
+sfxcspwi_: слімаки
+
+---
+
+15:09:36
+
+legolas_07_: @REBRANCE можна, зара одяг розвішаю, заходь в дс
+
+---
+
+15:09:36
+
+yurabunchak: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+15:09:40
+
+vladdgoldin: ВАСИЛЬ ДУПЦЯ girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:09:42
+
+yurabunchak: Нубас
+
+---
+
+15:09:48
+
+yurabunchak: chevor1Sweat
+
+---
+
+15:09:56
+
+yurabunchak: chevor1Scam chevor1Scam chevor1Scam chevor1Scam chevor1Scam
+
+---
+
+15:09:57
+
+sfxcspwi_: іграй
+
+---
+
+15:10:10
+
+yurabunchak: Казали що нас сфоткають а не сфоткали chevor1Scam chevor1Scam chevor1Scam chevor1Scam
+
+---
+
+15:10:12
+
+vladdgoldin: girlxaStrong
+
+---
+
+15:10:20
+
+yurabunchak: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+15:10:22
+
+vladdgoldin: chevor1Scam chevor1Scam chevor1Scam chevor1Scam chevor1Scam chevor1Scam
+
+---
+
+15:10:24
+
+yurayqq: АХАХАХА
+
+---
+
+15:10:28
+
+vladdgoldin: ВАСИЛЬ ДУПА girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:10:31
+
+yurabunchak: chevor1Scam chevor1Scam chevor1Scam
+
+---
+
+15:10:58
+
+yurayqq: Ахахах
+
+---
+
+15:11:01
+
+vladdgoldin: ВАСИЛЬ ДУПА girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:11:05
+
+lamark_sk8: trembaaHeart trembaaHeart trembaaHeart trembaaHeart trembaaHeart
+
+---
+
+15:11:06
+
+yurabunchak: chevor1Sweat chevor1Sweat chevor1Sweat chevor1Sweat chevor1Sweat
+
+---
+
+15:11:18
+
+vladdgoldin: girlxaStrong
+
+---
+
+15:11:26
+
+vladdgoldin: ak1okaXd ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+15:11:30
+
+vladdgoldin: ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+15:12:29
+
+vladdgoldin: Юрчик дупа ak1okaNanana
+
+---
+
+15:12:35
+
+vladdgoldin: ak1okaDance
+
+---
+
+15:12:43
+
+gengyfox: добрий день
+
+---
+
+15:12:47
+
+yurayqq: Ахахах
+
+---
+
+15:12:52
+
+vladdgoldin: @gengyfox girlxaHello
+
+---
+
+15:13:03
+
+yurayqq: Понесла мій річний бюджет
+
+---
+
+15:13:07
+
+gengyfox: ги
+
+---
+
+15:13:12
+
+vladdgoldin: girlxaRichi
+
+---
+
+15:13:15
+
+dduckua: ігнорщик
+
+---
+
+15:13:17
+
+legolas_07_: @REBRANCE го?
+
+---
+
+15:13:19
+
+toper1337: ти.. го у мм
+
+---
+
+15:13:22
+
+vladdgoldin: @dduckua girlxaHello
+
+---
+
+15:13:31
+
+rebrance: @legolas_07_ го
+
+---
+
+15:13:33
+
+dduckua: PogChamp
+
+---
+
+15:13:37
+
+vladdgoldin: не гони на Остапа girlxaStrong
+
+---
+
+15:13:37
+
+yurayqq: Привіт качечка
+
+---
+
+15:13:37
+
+dduckua: dduckuHi dduckuHi dduckuHi
+
+---
+
+15:13:43
+
+vladdgoldin: girlxaStrong girlxaStrong girlxaStrong girlxaStrong
+
+---
+
+15:13:43
+
+iwan_stanislawiwskyi: Доброго ранку usachAah
+
+---
+
+15:14:15
+
+vladdgoldin: Василь дякую за -14к бб ak1okaNanana
+
+---
+
+15:14:19
+
+vladdgoldin: я ж пам'ятаю
+
+---
+
+15:14:21
+
+vladdgoldin: ak1okaSho
+
+---
+
+15:14:58
+
+f1eckk: заходив 30хв назад каже "ні, кс сьогодні не буде взагалі"))
+
+---
+
+15:14:59
+
+f1eckk: і тут
+
+---
+
+15:15:03
+
+f1eckk: вітаю)
+
+---
+
+15:15:08
+
+dduckua: кря кря кря
+
+---
+
+15:15:13
+
+roolex9: крія кря
+
+---
+
+15:15:15
+
+yurayqq: кря кря кря
+
+---
+
+15:15:22
+
+roolex9: женьок дороу
+
+---
+
+15:15:30
+
+f1eckk: @roolex9 привіііііт)
+
+---
+
+15:15:30
+
+tomadeiro: @f1eckk вітаю, десь я тебе бачив
+
+---
+
+15:15:40
+
+yurayqq: @f1eckk я би Василю не вірив)
+
+---
+
+15:15:45
+
+f1eckk: ахахахха та та та) десь пересікались)
+
+---
+
+15:15:49
+
+onnyjohnny: Привіт
+
+---
+
+15:15:51
+
+f1eckk: ахахаххаха
+
+---
+
+15:15:59
+
+f1eckk: треба стрім запускати виходить)
+
+---
+
+15:16:22
+
+tomadeiro: @f1eckk а модерувати хто буде?
+
+---
+
+15:16:33
+
+f1eckk: @tomadeiro ахахаххаха теж вірно))
+
+---
+
+15:16:55
+
+yurayqq: То що за лагер такий
+
+---
+
+15:17:16
+
+f1eckk: блять, злякався нахуй
+
+---
+
+15:17:24
+
+yurayqq: А
+
+---
+
+15:17:25
+
+tomadeiro: привіт, не відволікав
+
+---
+
+15:17:36
+
+yurayqq: Хаусі треба на прайм скинутись
+
+---
+
+15:18:34
+
+tomadeiro: він реально як тей тіп з мальованого відосу на даст2
+
+---
+
+15:19:44
+
+yurayqq: АХАХАХАХ
+
+---
+
+15:20:37
+
+sfxcspwi_: я пішов бб
+
+---
+
+15:20:51
+
+hauha333: Розєбали Kappa
+
+---
+
+15:21:13
+
+hauha333: @sfxcspwi_ бб
+
+---
+
+15:22:04
+
+tomadeiro: Жека вривайся
+
+---
+
+15:22:06
+
+tomadeiro: в кс
+
+---
+
+15:22:24
+
+f1eckk: та я чекаю провайдера, повині прийти зараз інет провести))
+
+---
+
+15:22:27
+
+f1eckk: так би залетів)
+
+---
+
+15:22:42
+
+hauha333: Я володар пінгу к мене не лагає а я в інших літаю
+
+---
+
+15:22:48
+
+f1eckk: та в кс залетів би)
+
+---
+
+15:22:49
+
+fanatic_roolex9: @tomadeiro хто ти воїн
+
+---
+
+15:23:27
+
+tomadeiro: @fanatic_roolex9 місцевий опариш
+
+---
+
+15:23:59
+
+fanatic_roolex9: @tomadeiro ти фанат Діора ?
+
+---
+
+15:24:23
+
+tomadeiro: @fanatic_roolex9 я фанат версаче
+
+---
+
+15:24:32
+
+tomadeiro: ага
+
+---
+
+15:24:36
+
+young_schoo1: для чого ти дивишся всю рекламу?
+
+---
+
+15:24:39
+
+tomadeiro: пропускай оголошення
+
+---
+
+15:24:58
+
+fanatic_roolex9: попробуйте мені слити сільвер 5
+
+---
+
+15:25:11
+
+tomadeiro: хто себе впізнав?
+
+---
+
+15:25:11
+
+toper1337: аххахах
+
+---
+
+15:25:14
+
+tomadeiro: ось
+
+---
+
+15:25:17
+
+toper1337: це шо таке)
+
+---
+
+15:25:20
+
+toper1337: ХАХАХА
+
+---
+
+15:25:35
+
+fanatic_roolex9: я це бачив
+
+---
+
+15:25:38
+
+tomadeiro: цьому відосу 15+ років
+
+---
+
+15:25:47
+
+hauha333: Я володар пінгу к мене не лагає а я в інших літаю
+
+---
+
+15:25:47
+
+toper1337: лагер ще повинен назад відтепешуватися)
+
+---
+
+15:26:18
+
+tomadeiro: ахахахах
+
+---
+
+15:26:19
+
+toper1337: ХАХАХха
+
+---
+
+15:26:22
+
+toper1337: реально)
+
+---
+
+15:27:29
+
+toper1337: ГО - У - ММ
+
+---
+
+15:27:31
+
+yurayqq: Де
+
+---
+
+15:27:34
+
+yurayqq: У пизді
+
+---
+
+15:27:57
+
+tomadeiro: я кемпер тупа
+
+---
+
+15:28:13
+
+hauha333: Коли шось нормальне грати Kappa
+
+---
+
+15:28:29
+
+yurayqq: Мартинюк давай, тащи
+
+---
+
+15:28:54
+
+fanatic_roolex9: @yurayqq та я нуб Kappa
+
+---
+
+15:28:58
+
+ender_iron: добрий день
+
+---
+
+15:29:07
+
+yurayqq: @fanatic_roolex9 а то кого цікавить Kappa
+
+---
+
+15:29:16
+
+f1eckk: ти ж можеш одразу сховати всі нікі
+
+---
+
+15:29:21
+
+fanatic_roolex9: @yurayqq LUL Kappa
+
+---
+
+15:29:24
+
+yurayqq: Світло погасло
+
+---
+
+15:29:27
+
+yurayqq: GG
+
+---
+
+15:30:08
+
+tomadeiro: всім гарного всього, попиздував працювати
+
+---
+
+15:30:23
+
+f1eckk: @tomadeiro гарного дня)
+
+---
+
+15:30:35
+
+yurayqq: Люди щей в неділю працюють
+
+---
+
+15:30:44
+
+tomadeiro: @yurayqq ну це вже занадто
+
+---
+
+15:30:59
+
+tomadeiro: @tomadeiro  trembaaHey
+
+---
+
+15:31:40
+
+young_schoo1: шалун
+
+---
+
+15:31:49
+
+young_schoo1: привіт
+
+---
+
+15:31:55
+
+yurayqq: Кажи хелоу Пітер
+
+---
+
+15:31:59
+
+young_schoo1: почалєкав тебе за яєчка
+
+---
+
+15:31:59
+
+hauha333: Федя як завжди руїна
+
+---
+
+15:32:03
+
+f1eckk: ахаахаха
+
+---
+
+15:33:32
+
+hauha333: СІССССССМОФФФФФФ
+
+---
+
+15:35:01
+
+mr_flatter: Всім привіт
+
+---
+
+15:35:23
+
+yurayqq: Токсік
+
+---
+
+15:35:23
+
+mr_flatter: LUL
+
+---
+
+15:35:32
+
+yurayqq: Ахахахах
+
+---
+
+15:35:42
+
+hauha333: Крикни на всю силу СІСМОФФФФФФФФФ ЩОБ ВІН ПОЧУВ
+
+---
+
+15:35:42
+
+yurayqq: То авапа
+
+---
+
+15:35:52
+
+seesmof: шо там?
+
+---
+
+15:36:11
+
+hauha333: @seesmof додай команду !шилик
+
+---
+
+15:36:28
+
+seesmof: я без звуку, але повідомлення в чаті з моїм іменем бачу завжди
+
+---
+
+15:36:44
+
+mr_flatter: за шо?
+
+---
+
+15:36:46
+
+seesmof: @hauha333 який текст?
+
+---
+
+15:36:52
+
+mr_flatter: ти з нею так
+
+---
+
+15:37:02
+
+yurayqq: За чікен і двор стріляю в упор
+
+---
+
+15:37:26
+
+young_schoo1: паххпхахпхахпа
+
+---
+
+15:37:35
+
+hauha333: @seesmof @hauha333 пошиликав за яєчко @hauha333
+
+---
+
+15:37:37
+
+seesmof: :D
+
+---
+
+15:37:39
+
+seesmof: Добре
+
+---
+
+15:37:40
+
+onoffffffff32: боже, сміх янгола
+
+---
+
+15:37:50
+
+seesmof: @wuyodo працюєш?
+
+---
+
+15:37:56
+
+young_schoo1: з каналізації народився терорист
+
+---
+
+15:38:01
+
+wuyodo: @seesmof, Так, я працюю. Я ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Я завжди готовий спілкуватися з вами і відповісти на ваші запитання. Що вас цікавить?
+
+---
+
