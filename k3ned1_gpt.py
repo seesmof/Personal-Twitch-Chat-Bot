@@ -8,6 +8,7 @@ import requests
 import re
 import mfs
 from vars import *
+import ora
 
 BOT_PREFIX = "!"
 # CHANNEL = "seesmof"
@@ -21,6 +22,24 @@ bot = commands.Bot(
     prefix=BOT_PREFIX,
     initial_channels=[CHANNEL]
 )
+
+model = ora.CompletionModel.create(
+    system_prompt=context_kenedy,
+    description='Бот у чаті Twitch стрімера Кенеді',
+    name='gpt-4')
+
+init = ora.Completion.create(
+    model=model,
+    prompt='привітайся з чатом Феді')
+
+
+def generate_ua(prompt):
+    response = ora.Completion.create(
+        model=model,
+        prompt=prompt,
+        includeHistory=False,  # remember history
+        conversationId=init.id)
+    return response.completion.choices[0].text
 
 
 @ bot.event
@@ -56,7 +75,7 @@ async def event_message(ctx):
             # add user name to the output and tag them
             output_text = "@" + ctx.author.name + ", "
             # generate the output text using a corresponding functions
-            output_text += mfs.generate_ua(input_text, context_kenedy)
+            output_text += generate_ua(input_text)
 
             end_time = time.time()
             elapsed_time = end_time - start_time
