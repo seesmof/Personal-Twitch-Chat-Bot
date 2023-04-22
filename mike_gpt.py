@@ -8,6 +8,7 @@ import requests
 import re
 import mfs
 from vars import *
+import ora
 
 BOT_PREFIX = "!"
 CHANNEL = "mike09steelers"
@@ -19,6 +20,24 @@ bot = commands.Bot(
     prefix=BOT_PREFIX,
     initial_channels=[CHANNEL]
 )
+
+model = ora.CompletionModel.create(
+    system_prompt=context_mike,
+    description='Бот у чаті Twitch стрімера PixelFedya',
+    name='gpt-4')
+
+init = ora.Completion.create(
+    model=model,
+    prompt='привітайся з чатом Феді')
+
+
+def generate_ua(prompt):
+    response = ora.Completion.create(
+        model=model,
+        prompt=prompt,
+        includeHistory=False,  # remember history
+        conversationId=init.id)
+    return response.completion.choices[0].text
 
 
 @ bot.event
