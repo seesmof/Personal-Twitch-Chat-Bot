@@ -4,7 +4,7 @@ import ora
 # create model
 model = ora.CompletionModel.create(
     system_prompt="Your background: Ти ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Ти ніколи не спілкуєшся і не відповідаєш російською. As an AI assistant, you have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.",
-    description='ChatGPT Openai Language Model',
+    description='Бот у чаті Twitch стрімера PixelFedya',
     name='gpt-3.5')
 
 # init conversation (will give you a conversationId)
