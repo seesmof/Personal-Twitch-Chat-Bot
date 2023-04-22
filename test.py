@@ -1,4 +1,5 @@
 import ora
+import vars
 
 # 1 normal
 # 2 solidity contract helper
@@ -29,6 +30,7 @@ print(response.completion.choices[0].text)
 
 while True:
     print()
+    prompt = context_fedya
     prompt = input(": ")
     response = ora.Completion.create(model, prompt)
     print(response.completion.choices[0].text)
