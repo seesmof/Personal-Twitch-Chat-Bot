@@ -120,7 +120,7 @@ async def event_message(ctx):
 
 
 async def show_alert(message):
-    await bot.send_message(CHANNEL, message)
+    await pyautogui.alert(message, "Чуваче, диви чат!", timeout=None)
 
 
 @ bot.command(name='інфа')
