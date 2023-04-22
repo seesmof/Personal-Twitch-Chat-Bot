@@ -8,7 +8,7 @@ def generate(prompt):
             prompt=prompt,
             messages=[]):
 
-        return (response.completion.choices[0].text, end='')
+        return response.completion.choices[0].text
 
 
 while True:
