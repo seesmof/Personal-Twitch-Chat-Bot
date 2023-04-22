@@ -13222,3 +13222,27 @@ sfxcspwi_: Ахпхахахпх
 
 ---
 
+17:43:44
+
+sfxcspwi_: ХАХАХАХПХА
+
+---
+
+17:43:47
+
+alf0nss_: trembaaHeart trembaaHeart trembaaHeart
+
+---
+
+17:43:50
+
+toper1337: ВАСЯ!!
+
+---
+
+17:43:52
+
+sfxcspwi_: наложив кучу
+
+---
+
