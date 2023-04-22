@@ -1480,3 +1480,9 @@ hauha333: Kappa
 
 ---
 
+12:30:07
+
+hauha333: Ту курвій ? NotLikeThis
+
+---
+
