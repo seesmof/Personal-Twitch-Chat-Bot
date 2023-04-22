@@ -26,3 +26,10 @@ model = ora.CompletionModel.load(chatbot_id, 'gpt-4')
 response = ora.Completion.create(model, 'hello')
 
 print(response.completion.choices[0].text)
+
+while True:
+    print()
+    prompt = input(": ")
+    response = ora.Completion.create(model, prompt)
+    print(response.completion.choices[0].text)
+    print()
