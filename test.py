@@ -49,8 +49,8 @@ def generate_ua(input_text, context):
     }
     response = requests.post(url, json=data, headers=headers, cookies=cookies)
     # print(response.status_code)
-    if response.status_code != 200:
-        return "Whoops... Something went wrong. Try again later"
+    # if response.status_code != 200:
+    #     return "Whoops... Something went wrong. Try again later"
 
     data = response.text
     text = data.replace("data: ", "")
