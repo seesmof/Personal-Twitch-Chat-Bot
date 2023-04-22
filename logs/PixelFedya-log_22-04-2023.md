@@ -14584,3 +14584,39 @@ vladdgoldin: @roolex9 ліпше ніж дота girlxaStrong
 
 ---
 
+18:40:12
+
+hauha333: @vladdgoldin  привіт 5 раз ak1okaXd
+
+---
+
+18:40:14
+
+vladdgoldin: ak1okaSho
+
+---
+
+18:40:21
+
+vladdgoldin: @hauha333 здоров ak1okaNanana
+
+---
+
+18:40:29
+
+vladdgoldin: @hauha333 не в останнє
+
+---
+
+18:40:31
+
+vladdgoldin: ak1okaNanana
+
+---
+
+18:40:46
+
+vladdgoldin: бо я зара у солодани сиджу
+
+---
+
