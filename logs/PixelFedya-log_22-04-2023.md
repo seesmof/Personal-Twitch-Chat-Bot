@@ -1498,3 +1498,189 @@ hauha333: Го в краба або любу хуйню
 
 ---
 
+12:31:14
+
+yurayqq: Всьо добре
+
+---
+
+12:31:17
+
+yurayqq: Не пвач помиєм
+
+---
+
+12:31:28
+
+olooliver: ахахха
+
+---
+
+12:31:30
+
+yurayqq: t0kentShlop
+
+---
+
+12:31:32
+
+opudalo: привіт любі друзі
+
+---
+
+12:31:55
+
+opudalo: BibleThump
+
+---
+
+12:32:11
+
+yurayqq: АХАХАХА
+
+---
+
+12:32:33
+
+maks_malitsk: Здоров
+
+---
+
+12:32:49
+
+sfxcspwi_: Васи чек трейди
+
+---
+
+12:33:14
+
+nikoo0oooo: Десь я такий сюжет вже бачив trembaaBabooreh
+
+---
+
+12:33:33
+
+sfxcspwi_: ВАСИ ТРЕЙДИ ЧЕК
+
+---
+
+12:33:38
+
+maks_malitsk: Привіт Оксана
+
+---
+
+12:34:01
+
+yurayqq: АХАХАХ
+
+---
+
+12:34:12
+
+maks_malitsk: trembaaLUL
+
+---
+
+12:34:14
+
+logan_firmofan: ахааххаа
+
+---
+
+12:34:18
+
+yurayqq: veronkFire
+
+---
+
+12:34:24
+
+unache: логан, привіт
+
+---
+
+12:34:39
+
+maks_malitsk: trembaaClaps
+
+---
+
+12:34:46
+
+yurayqq: Не заздрю сусідам
+
+---
+
+12:34:57
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+12:35:19
+
+yurayqq: Ахахах
+
+---
+
+12:35:20
+
+maks_malitsk: Включи пісню шівно
+
+---
+
+12:35:23
+
+maks_malitsk: Гівно
+
+---
+
+12:35:27
+
+onoffffffff32: Дороу
+
+---
+
+12:35:46
+
+maks_malitsk: @onoffffffff32 trembaaHey
+
+---
+
+12:35:58
+
+onoffffffff32: @maks_malitsk HeyGuys HeyGuys HeyGuys
+
+---
+
+12:36:02
+
+le0lick: буено слимак
+
+---
+
+12:36:03
+
+maks_malitsk: MyAvatar
+
+---
+
+12:36:08
+
+irileyua: qq
+
+---
+
+12:36:10
+
+unache: @onoffffffff32 trembaaHey
+
+---
+
+12:36:21
+
+unache: @le0lick trembaaHey trembaaHey
+
+---
+
