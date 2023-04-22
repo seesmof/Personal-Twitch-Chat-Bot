@@ -1162,3 +1162,15 @@ bat9_v1nzer: Привіт братанчик і пані Оксана HeyGuys ak
 
 ---
 
+12:24:07
+
+hauha333: @bat9_v1nzer  привіт батько BloodTrail
+
+---
+
+12:24:17
+
+bat9_v1nzer: @hauha333 привіт HeyGuys
+
+---
+
