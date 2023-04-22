@@ -101,7 +101,7 @@ async def event_message(ctx):
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     if mfs.check_for_letters(ctx.content.lower(), letters):
         output_message = "@" + ctx.author.name + ": " + ctx.content
-        pyautogui.alert(output_message, "Чуваче, диви чат!", timeout=None)
+        await show_alert(output_message)
 
     ''' Temporarily disabled
     # for handling greetings
