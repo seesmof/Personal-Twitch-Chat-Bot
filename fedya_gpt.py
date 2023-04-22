@@ -34,8 +34,9 @@ init = ora.Completion.create(
 
 
 @ bot.event
-async def event_ready():
+async def event_ready(ctx):
     print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
+    await ctx.channel.send(init.completion.choices[0].text)
     mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
