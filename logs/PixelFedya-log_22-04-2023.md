@@ -8998,3 +8998,45 @@ pawrop: @seesmof, шиликнув за шиликало @seesmof  O_o
 
 ---
 
+15:55:11
+
+hauha333: !шлик
+
+---
+
+15:55:11
+
+pawrop: @hauha333, пошиликав за анаконду @seesmof  BloodTrail
+
+---
+
+15:55:22
+
+fanatic_roolex9: NotLikeThis NotLikeThis NotLikeThis
+
+---
+
+15:55:22
+
+crazycherrybro: !шлик
+
+---
+
+15:55:22
+
+pawrop: @crazycherrybro, шиликнув за яйоли @crazycherrybro  DxCat
+
+---
+
+15:55:29
+
+crazycherrybro: @pawrop Ого
+
+---
+
+15:55:29
+
+pawrop: @crazycherrybro, я не знаю відповіді на це. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше
+
+---
+
