@@ -1384,3 +1384,39 @@ satfi: А плівка в комплекті є, чи треба окремо д
 
 ---
 
+12:27:34
+
+vi_me: Errare humanum est
+
+---
+
+12:27:36
+
+nikoo0oooo: @unache trembaaHey trembaaKappa2
+
+---
+
+12:27:36
+
+abso1ut3xd: moonmi8PRIVIT
+
+---
+
+12:27:40
+
+abso1ut3xd: moonmi8PRIVIT moonmi8PRIVIT moonmi8PRIVIT moonmi8PRIVIT
+
+---
+
+12:27:41
+
+unache: @nikoo0oooo trembaaHey
+
+---
+
+12:27:44
+
+dduckua: Alimentatore ACK-E18 compatibile con Canon ,  Cam Link 4K
+
+---
+
