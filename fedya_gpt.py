@@ -31,11 +31,9 @@ model = ora.CompletionModel.load(chatbot_id, 'gpt-4')
 
 
 def generate_ua(prompt):
-    response = ora.Completion.create(
-        model=model,
-        prompt=prompt,
-        includeHistory=False,  # remember history
-        conversationId=init.id)
+    prompt += context_fedya
+    prompt += " Твоя відповідь має бути Українською мовою."
+    response = ora.Completion.create(model, prompt)
     return response.completion.choices[0].text
 
 
