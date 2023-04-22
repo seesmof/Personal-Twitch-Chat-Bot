@@ -3,7 +3,7 @@ import ora
 
 # create model
 model = ora.CompletionModel.create(
-    system_prompt='You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible',
+    system_prompt="Your background: Ти ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Ти ніколи не спілкуєшся і не відповідаєш російською. As an AI assistant, you have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.",
     description='ChatGPT Openai Language Model',
     name='gpt-3.5')
 
