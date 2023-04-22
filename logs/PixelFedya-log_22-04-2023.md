@@ -14728,3 +14728,57 @@ fanatic_roolex9: Бб
 
 ---
 
+18:56:26
+
+porozhnecha: Спитай в оксани
+
+---
+
+18:56:28
+
+porozhnecha: Аааааааа
+
+---
+
+18:56:30
+
+toper1337: Дупа, ти війшов у мене все багануло)
+
+---
+
+18:56:36
+
+wuyodo: is online at PixelFedya!
+
+---
+
+18:56:37
+
+pawrop: is online at PixelFedya!
+
+---
+
+18:56:38
+
+toper1337: завтра?
+
+---
+
+18:56:38
+
+toper1337: завтра?
+
+---
+
+18:56:47
+
+hauha333: @toper1337 alt +f4
+
+---
+
+18:56:47
+
+fanatic_roolex9: LUL LUL
+
+---
+
