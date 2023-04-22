@@ -1,28 +1,27 @@
-import phind
+# inport ora
+import ora
 
-prompt = 'who won the quatar world cup'
+# create model
+model = ora.CompletionModel.create(
+    system_prompt="Your background: Ти ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Ти ніколи не спілкуєшся і не відповідаєш російською. As an AI assistant, you have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.",
+    description='Бот у чаті Twitch стрімера PixelFedya',
+    name='gpt-4')
 
-# help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
-# stream completion
-for result in phind.StreamingCompletion.create(
-        model='gpt-4',
+# init conversation (will give you a conversationId)
+init = ora.Completion.create(
+    model=model,
+    prompt='привітайся з чатом Феді')
+
+print(init.completion.choices[0].text)
+
+while True:
+    # pass in conversationId to continue conversation
+
+    prompt = input('>>> ')
+    response = ora.Completion.create(
+        model=model,
         prompt=prompt,
-        # create search (set actualSearch to False to disable internet)
-        results=phind.Search.create(prompt, actualSearch=True),
-        creative=False,
-        detailed=False,
-        codeContext=''):  # up to 3000 chars of code
+        includeHistory=False,  # remember history
+        conversationId=init.id)
 
-    print(result.completion.choices[0].text, end='', flush=True)
-
-# normal completion
-result = phind.Completion.create(
-    model='gpt-4',
-    prompt=prompt,
-    # create search (set actualSearch to False to disable internet)
-    results=phind.Search.create(prompt, actualSearch=True),
-    creative=False,
-    detailed=False,
-    codeContext='')  # up to 3000 chars of code
-
-print(result.completion.choices[0].text)
+    print(response.completion.choices[0].text)
