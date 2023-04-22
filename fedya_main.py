@@ -465,7 +465,7 @@ async def invoke_duel(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     phrase = ["шиликнув", "пошиликав"]
-    phrase_two = ["яйоли", "яєчки", "яйки", "balls", ""]
+    phrase_two = ["яйоли", "яєчки", "яйки", "balls", "cock", ""]
     await ctx.send(f"@{ctx.author.name}, {random.choice(phrase)} за {random.choice(phrase_two)} {username}  {random.choice(emotes_all_twitch)}")
 
 
