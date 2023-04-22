@@ -16,13 +16,12 @@ print(init.completion.choices[0].text)
 
 while True:
     # pass in conversationId to continue conversation
-    or_conversationId = init.id
 
     prompt = input('>>> ')
     response = ora.Completion.create(
         model=model,
         prompt=prompt,
         includeHistory=True,  # remember history
-        conversationId=or_conversationId)
+        conversationId=init.id)
 
     print(response.completion.choices[0].text)
