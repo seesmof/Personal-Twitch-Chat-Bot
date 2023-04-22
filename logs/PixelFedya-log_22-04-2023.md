@@ -8836,3 +8836,21 @@ young_schoo1: а на яку кнопку треба нажати, щоб пос
 
 ---
 
+15:47:23
+
+hauha333: @seesmof !ш-к
+
+---
+
+15:47:31
+
+hauha333: @seesmof !шлк
+
+---
+
+15:47:41
+
+pawrop: is online at PixelFedya!
+
+---
+
