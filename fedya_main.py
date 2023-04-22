@@ -458,13 +458,15 @@ async def who_father(ctx):
     await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
 
 
-@ bot.command(name='шил', aliases=['шого', 'сюди'])
+@ bot.command(name='батл', aliases=['шого', 'сюди'])
 async def invoke_duel(ctx):
     username = ctx.content[5:]
     if "@" not in username:
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
-    await ctx.send(f"@{ctx.author.name}, твій батько {random.choice(phrase)} {username} {random.choice(emotes_all_twitch)}")
+    phrase = ["шиликнув", "пошиликав"]
+    phrase_two = ["яйоли", "яєчки", "яйки", "balls"]
+    await ctx.send(f"@{ctx.author.name}, {random.choice(phrase)} за {random.choice(phrase_two)} {username}  {random.choice(emotes_all_twitch)}")
 
 
 @ bot.command(name='коц', aliases=['буц', 'яйк'])
