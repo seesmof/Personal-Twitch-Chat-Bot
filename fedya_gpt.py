@@ -33,7 +33,9 @@ def generate_ua(prompt):
     prompt += context_fedya
     prompt += " Твоя відповідь має бути Українською мовою."
     response = ora.Completion.create(model, prompt)
-    return response.completion.choices[0].text
+    text = response.completion.choices[0].text
+    text = text.replace("*", "")
+    return text
 
 
 @ bot.event
