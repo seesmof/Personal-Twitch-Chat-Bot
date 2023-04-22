@@ -1042,3 +1042,15 @@ chevoron: LUL LUL LUL
 
 ---
 
+12:22:17
+
+bat9_v1nzer: Привіт братанчик і пані Оксана HeyGuys
+
+---
+
+12:22:18
+
+abso1ut3xd: @sfxcspwi_ головне що великим пальцем Kappa
+
+---
+
