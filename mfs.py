@@ -52,7 +52,6 @@ def check_for_letters(text, letters):
     return False
 
 
-'''
 def generate_ua(input_text, context):
     input_text += " Твоя відповідь має бути Українською мовою."
     url = "https://www.phind.com/api/infer/creative"
@@ -155,7 +154,6 @@ def generate_en(input_text, context):
     text = text.replace('''`''', "")
     text = text.replace('''*''', "")
     return text
-'''
 
 
 def write_to_log(message, author, CHANNEL):
@@ -174,3 +172,22 @@ def write_to_log(message, author, CHANNEL):
         # output message with author name to log
         log_file.write(f"\n\n{author}: {message}\n")
         log_file.write(f"\n---\n\n")
+
+
+model = ora.CompletionModel.create(
+    system_prompt="Your background: Ти ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Ти ніколи не спілкуєшся і не відповідаєш російською. As an AI assistant, you have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.",
+    description='Бот у чаті Twitch стрімера PixelFedya',
+    name='gpt-4')
+
+init = ora.Completion.create(
+    model=model,
+    prompt='привітайся з чатом Феді')
+
+
+def generate_ua(prompt):
+    response = ora.Completion.create(
+        model=model,
+        prompt=prompt,
+        includeHistory=False,  # remember history
+        conversationId=init.id)
+    return response.completion.choices[0].text
