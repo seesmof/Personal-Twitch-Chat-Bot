@@ -41,6 +41,7 @@ response = writesonic.Completion.create(
 
 print(response.completion.choices[0].text)  # Your name is Tekky.
 
+'''
 # enable internet
 
 response = writesonic.Completion.create(
@@ -51,3 +52,4 @@ response = writesonic.Completion.create(
 
 # Argentina won the 2022 FIFA World Cup tournament held in Qatar ...
 print(response.completion.choices[0].text)
+'''
