@@ -3610,3 +3610,33 @@ sfxcspwi_: A moderator deleted your message: КАТЕГОРІЯ
 
 ---
 
+13:14:54
+
+sfxcspwi_: A moderator deleted your message: A moderator deleted your message: КАТЕГОРІЯ
+
+---
+
+13:15:00
+
+hauha333: Кастом
+
+---
+
+13:15:04
+
+sfxcspwi_: кастом
+
+---
+
+13:15:13
+
+seesmof: !фол 367MD
+
+---
+
+13:15:13
+
+pawrop: @seesmof, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter  367MD. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона 5,42ГБ
+
+---
+

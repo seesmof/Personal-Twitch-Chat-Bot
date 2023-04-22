@@ -30,7 +30,7 @@ model = ora.CompletionModel.create(
 
 init = ora.Completion.create(
     model=model,
-    prompt='привітайся з чатом Феді')
+    prompt='привітайся з чатом Кенеді')
 
 
 def generate_ua(prompt):
