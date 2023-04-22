@@ -9280,3 +9280,51 @@ hauha333: @sfxcspwi_  її ak1okaXd ak1okaXd ak1okaXd ak1okaXd
 
 ---
 
+16:03:59
+
+pawrop: is online at PixelFedya!
+
+---
+
+16:03:59
+
+sfxcspwi_: @hauha333 ха-ха, смішно
+
+---
+
+16:03:59
+
+sfxcspwi_: @hauha333 ха-ха, смішно
+
+---
+
+16:04:10
+
+seesmof: тест
+
+---
+
+16:04:20
+
+seesmof: !гам
+
+---
+
+16:04:20
+
+pawrop: @seesmof, лови ЛАЙНОО 😅
+
+---
+
+16:04:34
+
+sfxcspwi_: !гам
+
+---
+
+16:04:34
+
+pawrop: @seesmof, лови гівно 😅
+
+---
+
