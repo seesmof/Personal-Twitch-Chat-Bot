@@ -14638,3 +14638,15 @@ vladdgoldin: @ksiwssa ak1okaXd
 
 ---
 
+18:41:08
+
+vladdgoldin: та
+
+---
+
+18:41:21
+
+vladdgoldin: Саньок ak1okaNanana
+
+---
+
