@@ -10,6 +10,7 @@ account = writesonic.Account.create(logging=True)
 # 2023-04-06 21:50:25 INFO __main__ -> token : 'eyJhbGciOiJIUzI1NiIsInR5cCI6Ik...'
 # 2023-04-06 21:50:28 INFO __main__ -> got key : '194158c4-d249-4be0-82c6-5049e869533c' (2s)
 
+'''
 # simple completion
 response = writesonic.Completion.create(
     api_key=account.key,
@@ -18,6 +19,7 @@ response = writesonic.Completion.create(
 
 # Hello! How may I assist you today?
 print(response.completion.choices[0].text)
+'''
 
 # conversation
 
