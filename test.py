@@ -1,5 +1,4 @@
 import ora
-import vars
 
 # 1 normal
 # 2 solidity contract helper
