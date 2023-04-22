@@ -514,3 +514,45 @@ qukawa: Платять менше, але ПЛАТЯТЬ
 
 ---
 
+12:12:05
+
+ddariiya: @chevoron ХАХАХХАХАХАХХА
+
+---
+
+12:12:09
+
+ddariiya: так і буде
+
+---
+
+12:12:11
+
+hauha333: @chevoron OSFrog OSFrog OSFrog OSFrog
+
+---
+
+12:12:11
+
+abso1ut3xd: тоді з тебе фотозвіт
+
+---
+
+12:12:15
+
+yurabunchak: @chevoron привіт дупа давно не бачилися ak1okaNanana
+
+---
+
+12:12:20
+
+nikoo0oooo: Пити пиво, звучить чотко trembaaBabooreh
+
+---
+
+12:12:34
+
+lamark_sk8: Привіт, Оксанко!!!!!!!
+
+---
+
