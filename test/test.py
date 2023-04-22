@@ -21,7 +21,7 @@ while True:
     response = ora.Completion.create(
         model=model,
         prompt=prompt,
-        includeHistory=True,  # remember history
+        includeHistory=False,  # remember history
         conversationId=init.id)
 
     print(response.completion.choices[0].text)
