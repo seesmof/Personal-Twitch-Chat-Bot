@@ -11,8 +11,8 @@ from vars import *
 import ora
 
 BOT_PREFIX = "!"
-CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
+# CHANNEL = "PixelFedya"
+CHANNEL = "seesmof"
 
 
 bot = commands.Bot(
@@ -31,6 +31,15 @@ model = ora.CompletionModel.create(
 init = ora.Completion.create(
     model=model,
     prompt='привітайся з чатом Феді')
+
+
+def generate_ua(prompt):
+    response = ora.Completion.create(
+        model=model,
+        prompt=prompt,
+        includeHistory=False,  # remember history
+        conversationId=init.id)
+    return response.completion.choices[0].text
 
 
 @ bot.event
@@ -56,7 +65,7 @@ async def event_message(ctx):
             input_text = " ".join(input_text.split())
 
             output_text = "@" + ctx.author.name + ", "
-            output_text += mfs.generate_ua(input_text, context_fedya)
+            output_text += generate_ua(input_text)
 
             end_time = time.time()
             elapsed_time = end_time - start_time
