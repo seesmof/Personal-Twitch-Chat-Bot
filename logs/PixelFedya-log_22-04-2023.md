@@ -1420,3 +1420,21 @@ dduckua: Alimentatore ACK-E18 compatibile con Canon ,  Cam Link 4K
 
 ---
 
+12:28:27
+
+hauha333: Kappa
+
+---
+
+12:28:32
+
+liza0207: Привітик шановні belkoFlower vovkkoLeo
+
+---
+
+12:28:39
+
+liza0207: Як ваші справи ?)
+
+---
+
