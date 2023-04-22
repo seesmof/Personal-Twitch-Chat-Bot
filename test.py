@@ -63,4 +63,5 @@ def generate_ua(input_text, context):
     return text
 
 
-generate_ua("", context_mike)
+while True:
+    print(generate_ua("", context_mike))
