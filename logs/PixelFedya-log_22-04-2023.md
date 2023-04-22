@@ -14620,3 +14620,21 @@ vladdgoldin: бо я зара у солодани сиджу
 
 ---
 
+18:40:49
+
+vladdgoldin: girlxaStrong
+
+---
+
+18:40:53
+
+ksiwssa: ну шо покакав??
+
+---
+
+18:41:00
+
+vladdgoldin: @ksiwssa ak1okaXd
+
+---
+
