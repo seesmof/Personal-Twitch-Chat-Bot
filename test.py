@@ -1,10 +1,13 @@
 import sqlchat
 
-for response in sqlchat.StreamCompletion.create(
-        prompt='write python code to reverse a string',
-        messages=[]):
 
-    return (response.completion.choices[0].text, end='')
+def generate(prompt):
+    for response in sqlchat.StreamCompletion.create(
+            prompt='write python code to reverse a string',
+            messages=[]):
+
+        return (response.completion.choices[0].text, end='')
+
 
 while True:
     print()
