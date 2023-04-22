@@ -1684,3 +1684,27 @@ unache: @le0lick trembaaHey trembaaHey
 
 ---
 
+12:36:34
+
+onoffffffff32: @unache KonCha KonCha KonCha
+
+---
+
+12:36:35
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+12:36:44
+
+sfxcspwi_: трейд в стімі чекн гімно
+
+---
+
+12:37:05
+
+onoffffffff32: Я
+
+---
+
