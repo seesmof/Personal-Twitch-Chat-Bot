@@ -14482,3 +14482,15 @@ maks_malitsk: SeriousSloth
 
 ---
 
+18:31:00
+
+fanatic_roolex9: BibleThump fluffy561Serdechko fluffy561Serdechko
+
+---
+
+18:31:04
+
+maks_malitsk: Василь як підключитись до тебе
+
+---
+
