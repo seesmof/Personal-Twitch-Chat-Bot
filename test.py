@@ -23,14 +23,12 @@ gpt4_chatbot_ids = ['b8b12eaa-5d47-44d3-92a6-4d706f2bcacf', 'fbe53266-673c-4b70-
 chatbot_id = gpt4_chatbot_ids[0]
 
 model = ora.CompletionModel.load(chatbot_id, 'gpt-4')
-response = ora.Completion.create(model, 'hello')
-
-print(response.completion.choices[0].text)
 
 while True:
     print()
-    prompt = context_fedya
-    prompt = input(": ")
+    prompt = "Your background: Ти ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Ти ніколи не спілкуєшся і не відповідаєш російською. As an AI assistant, you have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe."
+    prompt += input(": ")
+    prompt += " Твоя відповідь має бути Українською мовою."
     response = ora.Completion.create(model, prompt)
     print(response.completion.choices[0].text)
     print()

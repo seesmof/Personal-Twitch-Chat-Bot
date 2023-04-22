@@ -14674,3 +14674,9 @@ vladdgoldin: girlxaRichi girlxaRichi girlxaRichi girlxaRichi
 
 ---
 
+18:50:36
+
+porozhnecha: Він за собою маячки ставить тому не страшно від ньоого відстати
+
+---
+
