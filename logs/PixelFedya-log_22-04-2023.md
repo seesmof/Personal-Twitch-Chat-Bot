@@ -2554,3 +2554,27 @@ sfxcspwi_: @PixelFedya я тобі подарунок зробив у трейд
 
 ---
 
+12:57:00
+
+animetrash333: @onoffffffff32 а  в нас домашня usachDurka
+
+---
+
+12:57:07
+
+onoffffffff32: Зпздою
+
+---
+
+12:57:13
+
+seesmof: RareParrot RareParrot RareParrot RareParrot RareParrot RareParrot RareParrot
+
+---
+
+12:57:13
+
+hauha333: @toper1337 shiro__h  немає більше з нами
+
+---
+
