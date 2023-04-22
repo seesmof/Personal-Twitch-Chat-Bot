@@ -592,3 +592,15 @@ ddariiya: василь а шо це за вебка за 5к коінів
 
 ---
 
+12:13:10
+
+vi_me: HypePopcorn
+
+---
+
+12:13:25
+
+yurabunchak: Дупа давай віпку BibleThump
+
+---
+
