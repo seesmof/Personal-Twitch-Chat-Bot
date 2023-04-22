@@ -101,7 +101,7 @@ async def event_message(ctx):
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     if mfs.check_for_letters(ctx.content.lower(), letters):
         output_message = "@" + ctx.author.name + ": " + ctx.content
-        await show_alert(output_message)
+        pyautogui.alert(output_message, "Чуваче, диви чат!", timeout=None)
 
     ''' Temporarily disabled
     # for handling greetings
@@ -119,10 +119,6 @@ async def event_message(ctx):
     await asyncio.sleep(2)
 
 
-async def show_alert(message):
-    await pyautogui.alert(message, "Чуваче, диви чат!", timeout=None)
-
-
 @ bot.command(name='інфа')
 async def show_info(ctx):
     await ctx.send(f"@{ctx.author.name}, мене звати ЩІЩ-Бот і я Ваш персональний ШІ-помічник в чаті Піксельного. Ви можете поставити мені будь-яке питання, просто додавши \"@wuyodo\" до свого повідомлення. Також, щоб подивитись мої існуючі команди, напишіть \"!коми\" в чат. Якщо Ви маєте ідеї стосовно мого покращення, будь ласка, напишіть їх через \"!додай\" і це обов'язково допоможе мені стати краще")
@@ -130,7 +126,7 @@ async def show_info(ctx):
 
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\", \"!шлик\"")
 
 
 @ bot.command(name='єнот')
