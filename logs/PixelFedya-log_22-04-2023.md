@@ -2242,3 +2242,45 @@ nikoo0oooo: Вона завжди кричить…
 
 ---
 
+12:48:32
+
+hauha333: @shiro__h BibleThump
+
+---
+
+12:48:39
+
+wuyodo: is online at PixelFedya!
+
+---
+
+12:48:40
+
+onoffffffff32: Житомира не існує
+
+---
+
+12:48:47
+
+seesmof: @shiro__h Привіт! Не покидай
+
+---
+
+12:48:49
+
+seesmof: тест
+
+---
+
+12:48:51
+
+onoffffffff32: І мене теж тоді
+
+---
+
+12:48:52
+
+seesmof: @wuyodo тут?
+
+---
+

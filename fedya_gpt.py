@@ -11,8 +11,8 @@ from vars import *
 import ora
 
 BOT_PREFIX = "!"
-# CHANNEL = "PixelFedya"
-CHANNEL = "seesmof"
+CHANNEL = "PixelFedya"
+# CHANNEL = "seesmof"
 
 
 bot = commands.Bot(
