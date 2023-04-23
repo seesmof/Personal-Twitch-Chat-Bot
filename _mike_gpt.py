@@ -45,7 +45,7 @@ async def event_message(ctx):
             input_text = " ".join(input_text.split())
 
             output_text = "@" + ctx.author.name + ", "
-            output_text += mfs.generate(input_text)
+            output_text += mfs.generate_en(input_text)
 
             end_time = time.time()
             elapsed_time = end_time - start_time

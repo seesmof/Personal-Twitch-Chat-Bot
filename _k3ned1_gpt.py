@@ -57,7 +57,7 @@ async def event_message(ctx):
             # add user name to the output and tag them
             output_text = "@" + ctx.author.name + ", "
             # generate the output text using a corresponding functions
-            output_text += mfs.generate(input_text)
+            output_text += mfs.generate_ua(input_text)
 
             end_time = time.time()
             elapsed_time = end_time - start_time
