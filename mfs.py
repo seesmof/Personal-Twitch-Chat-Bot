@@ -175,12 +175,11 @@ def write_to_log(message, author, CHANNEL):
         log_file.write(f"\n---\n\n")
 
 
-def generate(prompt):
-    model = ora.CompletionModel.load(
+def generate(input_prompt):
+    input_model = ora.CompletionModel.load(
         'b8b12eaa-5d47-44d3-92a6-4d706f2bcacf', 'gpt-4')
-    # init conversation (will give you a conversationId)
     init = ora.Completion.create(
-        model=model,
-        prompt=complex_question)
+        model=input_model,
+        prompt=input_prompt)
 
-    print(init.completion.choices[0].text)  # James' father is Josh.
+    return init.completion.choices[0].text
