@@ -262,3 +262,33 @@ seesmof: Чи шо то
 
 ---
 
+14:50:51
+
+porozhnecha: Хахахаххаха вітання @hauha333
+
+---
+
+14:50:55
+
+vladdgoldin: @seesmof chevor1Hello veronkLove
+
+---
+
+14:50:57
+
+toper1337: ВОНО РУХАЄТЬСЯ)
+
+---
+
+14:50:59
+
+seesmof: @vladdgoldin KonCha bleedPurple
+
+---
+
+14:51:05
+
+hauha333: @seesmof  привіт ak1okaMilota
+
+---
+
