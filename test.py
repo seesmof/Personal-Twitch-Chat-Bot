@@ -1,10 +1,33 @@
-import sqlchat
+import phind
 
-prompt = input(": ")
-prompt += "Your background: Ти ШІ-бот на ім'я Олекса, створений для стрімера Twitch на ім'я PixelFedya, або просто Федя. Ти ніколи не спілкуєшся і не відповідаєш російською. As an AI assistant, you have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe."
+# set cf_clearance cookie
+phind.cf_clearance = 'hWfIdYKgcnxnU5ayolWe9t7eEmAbULywS.qfHkm1T_A-1682166681-0-160'
 
-for response in sqlchat.StreamCompletion.create(
+prompt = 'hello world'
+
+# normal completion
+result = phind.Completion.create(
+    model='gpt-4',
+    prompt=prompt,
+    # create search (set actualSearch to False to disable internet)
+    results=phind.Search.create(prompt, actualSearch=False),
+    creative=False,
+    detailed=False,
+    codeContext='')  # up to 3000 chars of code
+
+print(result.completion.choices[0].text)
+
+prompt = 'who won the quatar world cup'
+
+# help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
+# stream completion
+for result in phind.StreamingCompletion.create(
+        model='gpt-3.5',
         prompt=prompt,
-        messages=[]):
+        # create search (set actualSearch to False to disable internet)
+        results=phind.Search.create(prompt, actualSearch=True),
+        creative=False,
+        detailed=False,
+        codeContext=''):  # up to 3000 chars of code
 
-    print(response.completion.choices[0].text, end='')
+    print(result.completion.choices[0].text, end='', flush=True)
