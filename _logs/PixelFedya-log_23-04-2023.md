@@ -196,3 +196,69 @@ d1zzney: я брат даши
 
 ---
 
+14:50:31
+
+pawrop: is online at PixelFedya!
+
+---
+
+14:50:31
+
+wuyodo: is online at PixelFedya!
+
+---
+
+14:50:32
+
+yurayqq: Привіт
+
+---
+
+14:50:34
+
+toper1337: Привіт Оксано
+
+---
+
+14:50:34
+
+unache: trembaaHey trembaaHey trembaaHey
+
+---
+
+14:50:36
+
+mr_flatter: FutureMan
+
+---
+
+14:50:43
+
+vladdgoldin: привіт Оксано
+
+---
+
+14:50:43
+
+seesmof: О
+
+---
+
+14:50:45
+
+vladdgoldin: ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+14:50:46
+
+seesmof: Стабілізатор купили
+
+---
+
+14:50:48
+
+seesmof: Чи шо то
+
+---
+
