@@ -106,7 +106,7 @@ greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!"
 goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
               "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
 
-log_dir = "D:/repos/python-twitchio-chat-bot/logs"
+log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
 
 '''OUTDATED
 # for handling OpenAI API key
