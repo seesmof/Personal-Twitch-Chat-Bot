@@ -181,5 +181,4 @@ def generate(input_prompt):
     init = ora.Completion.create(
         model=input_model,
         prompt=input_prompt)
-
     return init.completion.choices[0].text
