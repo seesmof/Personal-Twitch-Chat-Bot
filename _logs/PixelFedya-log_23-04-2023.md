@@ -292,3 +292,51 @@ hauha333: @seesmof  привіт ak1okaMilota
 
 ---
 
+14:51:09
+
+toper1337: УУУ
+
+---
+
+14:51:09
+
+vladdgoldin: ak1okaKit ak1okaKit ak1okaKit
+
+---
+
+14:51:10
+
+hauha333: @porozhnecha ak1okaSmile1 ak1okaNanana
+
+---
+
+14:51:12
+
+seesmof: @hauha333 KonCha <3
+
+---
+
+14:51:14
+
+toper1337: - мобіла)
+
+---
+
+14:51:16
+
+maks_malitsk: Давай затести
+
+---
+
+14:51:23
+
+porozhnecha: Привіт оксано. Скажи ти знаєш що таке брилик синонім капелюху)))
+
+---
+
+14:51:24
+
+seesmof: тест
+
+---
+
