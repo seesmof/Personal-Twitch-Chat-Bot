@@ -23,8 +23,6 @@ messages_tracker = {}
 
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
-
 bot = commands.Bot(
     irc_token=STD_TMI_TOKEN,
     client_id=STD_CLIENT_ID,
