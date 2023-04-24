@@ -60,9 +60,9 @@ async def event_message(ctx):
         model = ctx.content[6:]
         if model in function_map:
             current_function = function_map[model]
-            await ctx.channel.send(f"Model *{model}* successfully set")
+            await ctx.channel.send(f"/me Model {model} successfully set")
         else:
-            await ctx.channel.send(f"Модель *{model}* не знайдена")
+            await ctx.channel.send(f"/me Model {model} is not found")
 
     await asyncio.sleep(20)
 
