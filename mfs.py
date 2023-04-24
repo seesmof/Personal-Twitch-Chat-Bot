@@ -72,7 +72,7 @@ def write_to_log(message, author, CHANNEL):
         log_file.write(f"\n---\n\n")
 
 
-def generate_ua(input_prompt):
+def ora_ua(input_prompt):
     input_prompt += " Твоя відповідь має бути лише Українською мовою."
     input_model = ora.CompletionModel.load(
         'b8b12eaa-5d47-44d3-92a6-4d706f2bcacf', 'gpt-4')
@@ -82,7 +82,7 @@ def generate_ua(input_prompt):
     return init.completion.choices[0].text
 
 
-def generate_en(input_prompt):
+def ora_en(input_prompt):
     input_prompt += " Answer only in English."
     input_model = ora.CompletionModel.load(
         'b8b12eaa-5d47-44d3-92a6-4d706f2bcacf', 'gpt-4')
