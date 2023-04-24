@@ -142,6 +142,6 @@ def you_ua(input_prompt):
     response = you.Completion.create(
         prompt=input_prompt,
         detailed=True,
-        includelinks=True,)
+        includelinks=False,)
 
     return response
