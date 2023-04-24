@@ -37,13 +37,11 @@ async def event_message(ctx):
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
         print("\nGenerating a message...")
         start_time = time.time()
-        global chat
 
         input_text = ctx.content.replace("@wuyodo", "")
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
-        output_text += mfs.you_ua(chat, input_text)
-        chat = mfs.you_ua(chat, input_text)
+        output_text += mfs.you_ua(input_text)
 
         end_time = time.time()
         elapsed_time = end_time - start_time
