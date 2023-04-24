@@ -1,33 +1,29 @@
-import phind
+# inport ora
+import ora
 
-# set cf_clearance cookie
-phind.cf_clearance = 'hWfIdYKgcnxnU5ayolWe9t7eEmAbULywS.qfHkm1T_A-1682166681-0-160'
+# create model
+model = ora.CompletionModel.create(
+    system_prompt='You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible',
+    description='ChatGPT Openai Language Model',
+    name='gpt-3.5')
 
-prompt = 'hello world'
+print(model.id)
 
-# normal completion
-result = phind.Completion.create(
-    model='gpt-4',
-    prompt=prompt,
-    # create search (set actualSearch to False to disable internet)
-    results=phind.Search.create(prompt, actualSearch=False),
-    creative=False,
-    detailed=False,
-    codeContext='')  # up to 3000 chars of code
+# init conversation (will give you a conversationId)
+init = ora.Completion.create(
+    model=model,
+    prompt='hello world')
 
-print(result.completion.choices[0].text)
+print(init.completion.choices[0].text)
 
-prompt = 'who won the quatar world cup'
+while True:
+    # pass in conversationId to continue conversation
 
-# help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
-# stream completion
-for result in phind.StreamingCompletion.create(
-        model='gpt-3.5',
+    prompt = input('>>> ')
+    response = ora.Completion.create(
+        model=model,
         prompt=prompt,
-        # create search (set actualSearch to False to disable internet)
-        results=phind.Search.create(prompt, actualSearch=True),
-        creative=False,
-        detailed=False,
-        codeContext=''):  # up to 3000 chars of code
+        includeHistory=True,
+        conversationId=init.id)
 
-    print(result.completion.choices[0].text, end='', flush=True)
+    print(response.completion.choices[0].text)
