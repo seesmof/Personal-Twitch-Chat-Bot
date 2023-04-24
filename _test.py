@@ -1,18 +1,9 @@
-import quora
+import sqlchat
 
-token = quora.Account.create(logging=True, enable_bot_creation=True)
+input_text = input(': ')
 
-model = quora.Model.create(
-    token=token,
-    model='gpt-3.5-turbo',  # or claude-instant-v1.0
-    system_prompt='you are ChatGPT a large language model ...'
-)
+for response in sqlchat.StreamCompletion.create(
+        prompt=input_text,
+        messages=[]):
 
-print(model.name)
-
-for response in quora.StreamingCompletion.create(
-        custom_model=model.name,
-        prompt='hello world',
-        token=token):
-
-    print(response.completion.choices[0].text)
+    print(response.completion.choices[0].text, end='')
