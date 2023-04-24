@@ -1,4 +1,5 @@
 import sqlchat
+import t3nsor
 
 input_text = input(': ')
 
