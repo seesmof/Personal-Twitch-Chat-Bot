@@ -59,6 +59,8 @@ async def event_message(ctx):
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
         model = ctx.content[8:]
         model.replace(" ", "")
+        if current_function == model:
+            await ctx.channel.send(f"/me Model {model} is already set")
         if model in function_map:
             current_function = function_map[model]
             await ctx.channel.send(f"/me Model {model} successfully set")
