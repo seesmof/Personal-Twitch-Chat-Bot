@@ -104,7 +104,7 @@ def phind_ua(input_prompt):
         model='gpt-4',
         prompt=input_prompt,
         # create search (set actualSearch to False to disable internet)
-        results=phind.Search.create(input_prompt, actualSearch=True),
+        results=phind.Search.create(input_prompt, actualSearch=False),
         creative=False,
         detailed=False,
         codeContext='')  # up to 3000 chars of code
