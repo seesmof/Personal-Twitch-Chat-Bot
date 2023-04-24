@@ -12,10 +12,10 @@ from vars import *
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
 function_map = {
-    "Phind UA": mfs.phind_ua,
-    "Phind EN": mfs.phind_en,
-    "Ora UA": mfs.ora_ua,
-    "Ora EN": mfs.ora_en
+    "phind ua": mfs.phind_ua,
+    "phind en": mfs.phind_en,
+    "ora ua": mfs.ora_ua,
+    "ora en": mfs.ora_en
 }
 current_function = mfs.ora_ua
 
