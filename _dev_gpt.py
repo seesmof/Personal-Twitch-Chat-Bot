@@ -59,6 +59,7 @@ async def event_message(ctx):
 
     letters = ["!інша"]
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
+        global current_function
 
     await asyncio.sleep(20)
 
