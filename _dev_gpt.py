@@ -14,8 +14,10 @@ CHANNEL = "seesmof"
 function_map = {
     "phind_ua": mfs.phind_ua,
     "phind_en": mfs.phind_en,
-    "ora_ua": mfs.ora_ua
+    "ora_ua": mfs.ora_ua,
+    "ora_en": mfs.ora_en
 }
+current_function = mfs.ora_ua
 
 bot = commands.Bot(
     irc_token=GPT_TMI_TOKEN,
