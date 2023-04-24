@@ -4,7 +4,7 @@ import phind
 phind.cf_clearance = 'heguhSRBB9d0sjLvGbQECS8b80m2BQ31xEmk9ChshKI-1682268995-0-160'
 phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
 
-prompt = 'hello world'
+prompt = input(": ")
 
 # normal completion
 result = phind.Completion.create(
@@ -18,7 +18,7 @@ result = phind.Completion.create(
 
 print(result.completion.choices[0].text)
 
-prompt = 'who won the quatar world cup'
+prompt = input(": ")
 
 # help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
 # stream completion
