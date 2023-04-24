@@ -92,7 +92,8 @@ def generate_en(input_prompt):
     return init.completion.choices[0].text
 
 
-def phind(input_prompt):
+def phind_ua(input_prompt):
+    input_prompt += " Твоя відповідь має бути Українською мовою."
     # set cf_clearance cookie
     phind.cf_clearance = 'heguhSRBB9d0sjLvGbQECS8b80m2BQ31xEmk9ChshKI-1682268995-0-160'
     phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
