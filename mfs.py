@@ -136,21 +136,3 @@ def phind_en(input_prompt):
         codeContext='')  # up to 3000 chars of code
 
     return result.completion.choices[0].text
-
-
-def you_ua(input_prompt):
-    input_prompt += " Твоя відповідь має бути Українською мовою."
-    response = you.Completion.create(
-        prompt=input_prompt,
-        detailed=True,
-        includelinks=False,)
-    return response[response]
-
-
-def you_en(input_prompt):
-    input_prompt += " Answer only in English."
-    response = you.Completion.create(
-        prompt=input_prompt,
-        detailed=True,
-        includelinks=False,)
-    return response["response"]
