@@ -59,6 +59,7 @@ async def event_message(ctx):
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
         global current_function
         model = ctx.content[5:]
+        model += " ua"
         if model in function_map:
             current_function = function_map[model]
             await ctx.channel.send(f"Модель {model} успішно обрана")
