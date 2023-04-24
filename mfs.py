@@ -146,10 +146,9 @@ def you_ua(input_chat, input_prompt):
     return response["response"], input_chat
 
 
-def you_en(chat, input_prompt):
+def you_ua(input_chat, input_prompt):
     input_prompt += " Answer only in English."
-    response = you.Completion.create(
-        prompt=input_prompt,
-        detailed=True,
-        includelinks=False,)
-    return response
+    response = you.Completion.create(prompt=input_prompt, chat=input_chat)
+    input_chat.append(
+        {"question": input_prompt, "answer": response["response"]})
+    return response["response"], input_chat
