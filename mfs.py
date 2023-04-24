@@ -9,6 +9,7 @@ import requests
 import re
 from vars import *
 import ora
+import phind
 
 
 def split_long_gpt(input_string):
@@ -92,8 +93,6 @@ def generate_en(input_prompt):
 
 
 def phind(input_prompt):
-    import phind
-
     # set cf_clearance cookie
     phind.cf_clearance = 'heguhSRBB9d0sjLvGbQECS8b80m2BQ31xEmk9ChshKI-1682268995-0-160'
     phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
