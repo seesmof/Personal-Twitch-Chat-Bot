@@ -55,12 +55,12 @@ async def event_message(ctx):
         await mfs.send_split_gpt(ctx, output_text)
         print(f"\nGenerated in {elapsed_time:.2f} seconds")
 
-    letters = ["!інша"]
+    letters = ["!switch"]
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
         model = ctx.content[6:]
         if model in function_map:
             current_function = function_map[model]
-            await ctx.channel.send(f"Модель *{model}* успішно обрана")
+            await ctx.channel.send(f"Model *{model}* successfully set")
         else:
             await ctx.channel.send(f"Модель *{model}* не знайдена")
 
