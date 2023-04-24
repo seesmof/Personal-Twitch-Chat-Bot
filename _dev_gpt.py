@@ -12,10 +12,10 @@ from vars import *
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
 function_map = {
-    "phind ua": mfs.phind_ua,
-    "phind en": mfs.phind_en,
-    "ora ua": mfs.ora_ua,
-    "ora en": mfs.ora_en
+    "phind_ua": mfs.phind_ua,
+    "phind_en": mfs.phind_en,
+    "ora_ua": mfs.ora_ua,
+    "ora_en": mfs.ora_en
 }
 current_function = mfs.ora_ua
 
@@ -58,12 +58,12 @@ async def event_message(ctx):
     letters = ["!інша"]
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
         model = ctx.content[5:]
-        model += " ua"
+        model += "_ua"
         if model in function_map:
             current_function = function_map[model]
-            await ctx.channel.send(f"Модель {model} успішно обрана")
+            await ctx.channel.send(f"Модель *{model}* успішно обрана")
         else:
-            await ctx.channel.send(f"Модель {model} не знайдена")
+            await ctx.channel.send(f"Модель *{model}* не знайдена")
 
     await asyncio.sleep(20)
 
