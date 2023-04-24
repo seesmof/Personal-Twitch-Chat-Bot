@@ -144,7 +144,7 @@ def you_ua(input_prompt):
         prompt=input_prompt,
         detailed=True,
         includelinks=False,)
-    return response
+    return response["response"]
 
 
 def you_en(input_prompt):
@@ -153,4 +153,4 @@ def you_en(input_prompt):
         prompt=input_prompt,
         detailed=True,
         includelinks=False,)
-    return response
+    return response["response"]
