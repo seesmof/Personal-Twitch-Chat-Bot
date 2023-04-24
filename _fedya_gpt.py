@@ -63,16 +63,7 @@ if __name__ == "__main__":
 letters = ["@wuyodo"]
 if mfs.check_for_letters(ctx.content.lower(), letters):
     print("\nGenerating a message...")
-    start_time = time.time()
-
     input_text = ctx.content.replace("@wuyodo", "")
-    input_text = " ".join(input_text.split())
-
     output_text = "@" + ctx.author.name + ", "
     output_text += mfs.generate_ua(input_text)
-
-    end_time = time.time()
-    elapsed_time = end_time - start_time
-
     await mfs.send_split_gpt(ctx, output_text)
-    print(f"\nGenerated in {elapsed_time:.2f} seconds")
