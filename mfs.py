@@ -10,6 +10,7 @@ import re
 from vars import *
 import ora
 import phind
+import you
 
 
 def split_long_gpt(input_string):
@@ -135,3 +136,12 @@ def phind_en(input_prompt):
         codeContext='')  # up to 3000 chars of code
 
     return result.completion.choices[0].text
+
+
+def you_ua(input_prompt):
+    response = you.Completion.create(
+        prompt=input_prompt,
+        detailed=True,
+        includelinks=True,)
+
+    return response
