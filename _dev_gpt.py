@@ -58,10 +58,12 @@ async def event_message(ctx):
     letters = ["!інша"]
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
         global current_function
-        model = ctx.content[5:]
+        model = ctx.content[5:].lower()
         if model in function_map:
             current_function = function_map[model]
             await ctx.channel.send(f"Модель {model} успішно обрана")
+        else:
+            await ctx.channel.send(f"Модель {model} не знайдена")
 
     await asyncio.sleep(20)
 
