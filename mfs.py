@@ -72,7 +72,7 @@ def write_to_log(message, author, CHANNEL):
         log_file.write(f"\n---\n\n")
 
 
-#   <GENERATING MESSAGES>
+#   <GENERATING MESSAGES>   #
 def ora_ua(input_prompt):
     input_prompt += " Твоя відповідь має бути лише Українською мовою."
     input_model = ora.CompletionModel.load(
