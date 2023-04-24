@@ -85,8 +85,10 @@ def ora_ua(input_prompt):
 
 def ora_en(input_prompt):
     input_prompt += " Answer only in English."
-    input_model = ora.CompletionModel.load(
-        'b8b12eaa-5d47-44d3-92a6-4d706f2bcacf', 'gpt-4')
+    input_model = ora.CompletionModel.create(
+        system_prompt='You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible',
+        description='ChatGPT Openai Language Model',
+        name='gpt-3.5')
     init = ora.Completion.create(
         model=input_model,
         prompt=input_prompt)
