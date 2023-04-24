@@ -112,7 +112,7 @@ def phind_ua(input_prompt):
         results=phind.Search.create(input_prompt, actualSearch=False),
         creative=False,
         detailed=False,
-        codeContext=context_fedya)  # up to 3000 chars of code
+        codeContext='')  # up to 3000 chars of code
 
     return result.completion.choices[0].text
 
