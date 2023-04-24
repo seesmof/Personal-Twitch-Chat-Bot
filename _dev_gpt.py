@@ -40,7 +40,7 @@ async def event_message(ctx):
         input_text = ctx.content.replace("@wuyodo", "")
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
-        output_text += mfs.ora_ua(input_text, context_fedya)
+        output_text += mfs.phind_en(input_text, context_fedya)
 
         end_time = time.time()
         elapsed_time = end_time - start_time
