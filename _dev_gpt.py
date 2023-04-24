@@ -57,7 +57,6 @@ async def event_message(ctx):
 
     letters = ["!інша"]
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() == "seesmof":
-        global current_function
         model = ctx.content[5:]
         model += " ua"
         if model in function_map:
