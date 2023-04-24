@@ -12,7 +12,6 @@ import ora
 
 BOT_PREFIX = "!"
 CHANNEL = "mike09steelers"
-
 bot = commands.Bot(
     irc_token=GPT_TMI_TOKEN,
     client_id=GPT_CLIENT_ID,
@@ -36,22 +35,21 @@ async def event_message(ctx):
         return
 
     letters = ["@wuyodo"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
-        if ctx.author.name.lower() != "pawrop":
-            print("\nGenerating a message...")
-            start_time = time.time()
+    if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
+        print("\nGenerating a message...")
+        start_time = time.time()
 
-            input_text = ctx.content.replace("@wuyodo", "")
-            input_text = " ".join(input_text.split())
+        input_text = ctx.content.replace("@wuyodo", "")
+        input_text = " ".join(input_text.split())
 
-            output_text = "@" + ctx.author.name + ", "
-            output_text += mfs.generate_en(input_text)
+        output_text = "@" + ctx.author.name + ", "
+        output_text += mfs.ora_en(input_text, context_mike)
 
-            end_time = time.time()
-            elapsed_time = end_time - start_time
+        end_time = time.time()
+        elapsed_time = end_time - start_time
 
-            await mfs.send_split_gpt(ctx, output_text)
-            print(f"\nGenerated in {elapsed_time:.2f} seconds")
+        await mfs.send_split_gpt(ctx, output_text)
+        print(f"\nGenerated in {elapsed_time:.2f} seconds")
     await asyncio.sleep(20)
 
 
