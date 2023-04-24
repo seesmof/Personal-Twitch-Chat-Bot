@@ -58,12 +58,3 @@ async def event_message(ctx):
 
 if __name__ == "__main__":
     bot.run()
-
-
-letters = ["@wuyodo"]
-if mfs.check_for_letters(ctx.content.lower(), letters):
-    print("\nGenerating a message...")
-    input_text = ctx.content.replace("@wuyodo", "")
-    output_text = "@" + ctx.author.name + ", "
-    output_text += mfs.generate_ua(input_text)
-    await mfs.send_split_gpt(ctx, output_text)
