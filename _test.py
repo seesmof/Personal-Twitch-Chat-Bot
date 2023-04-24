@@ -1,51 +1,34 @@
-# import writesonic
-import writesonic
+import phind
 
-# create account (3-4s)
-account = writesonic.Account.create(logging=True)
+# set cf_clearance cookie
+phind.cf_clearance = 'heguhSRBB9d0sjLvGbQECS8b80m2BQ31xEmk9ChshKI-1682268995-0-160'
+phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
 
-# with loging:
-# 2023-04-06 21:50:25 INFO __main__ -> register success : '{"id":"51aa0809-3053-44f7-922a...' (2s)
-# 2023-04-06 21:50:25 INFO __main__ -> id : '51aa0809-3053-44f7-922a-2b85d8d07edf'
-# 2023-04-06 21:50:25 INFO __main__ -> token : 'eyJhbGciOiJIUzI1NiIsInR5cCI6Ik...'
-# 2023-04-06 21:50:28 INFO __main__ -> got key : '194158c4-d249-4be0-82c6-5049e869533c' (2s)
+prompt = 'hello world'
 
-# simple completion
-response = writesonic.Completion.create(
-    api_key=account.key,
-    prompt='hello world'
-)
+# normal completion
+result = phind.Completion.create(
+    model='gpt-4',
+    prompt=prompt,
+    # create search (set actualSearch to False to disable internet)
+    results=phind.Search.create(prompt, actualSearch=False),
+    creative=False,
+    detailed=False,
+    codeContext='')  # up to 3000 chars of code
 
-# Hello! How may I assist you today?
-print(response.completion.choices[0].text)
+print(result.completion.choices[0].text)
 
-# conversation
+prompt = 'who won the quatar world cup'
 
-response = writesonic.Completion.create(
-    api_key=account.key,
-    prompt='what is my name ?',
-    enable_memory=True,
-    history_data=[
-        {
-            'is_sent': True,
-            'message': 'my name is Tekky'
-        },
-        {
-            'is_sent': False,
-            'message': 'hello Tekky'
-        }
-    ]
-)
+# help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
+# stream completion
+for result in phind.StreamingCompletion.create(
+        model='gpt-3.5',
+        prompt=prompt,
+        # create search (set actualSearch to False to disable internet)
+        results=phind.Search.create(prompt, actualSearch=True),
+        creative=False,
+        detailed=False,
+        codeContext=''):  # up to 3000 chars of code
 
-print(response.completion.choices[0].text)  # Your name is Tekky.
-
-# enable internet
-
-response = writesonic.Completion.create(
-    api_key=account.key,
-    prompt='who won the quatar world cup ?',
-    enable_google_results=True
-)
-
-# Argentina won the 2022 FIFA World Cup tournament held in Qatar ...
-print(response.completion.choices[0].text)
+    print(result.completion.choices[0].text, end='', flush=True)
