@@ -138,12 +138,13 @@ def phind_en(input_prompt):
     return result.completion.choices[0].text
 
 
-def you_ua(input_chat, input_prompt):
+def you_ua(input_prompt):
     input_prompt += " Твоя відповідь має бути Українською мовою."
-    response = you.Completion.create(prompt=input_prompt, chat=input_chat)
-    input_chat.append(
-        {"question": input_prompt, "answer": response["response"]})
-    return response["response"], input_chat
+    response = you.Completion.create(
+        prompt=input_prompt,
+        detailed=True,
+        includelinks=True,)
+    return response
 
 
 def you_ua(input_chat, input_prompt):
