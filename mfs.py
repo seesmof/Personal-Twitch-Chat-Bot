@@ -73,10 +73,12 @@ def write_to_log(message, author, CHANNEL):
 
 
 #   <GENERATING MESSAGES>   #
-def ora_ua(input_prompt):
+def ora_ua(input_prompt, context):
     input_prompt += " Твоя відповідь має бути лише Українською мовою."
-    input_model = ora.CompletionModel.load(
-        'b8b12eaa-5d47-44d3-92a6-4d706f2bcacf', 'gpt-4')
+    input_model = ora.CompletionModel.create(
+        system_prompt=context,
+        description='AI Chat Bot',
+        name='gpt-4')
     init = ora.Completion.create(
         model=input_model,
         prompt=input_prompt)
