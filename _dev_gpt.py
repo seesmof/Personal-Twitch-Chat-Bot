@@ -57,6 +57,11 @@ async def event_message(ctx):
 
             await mfs.send_split_gpt(ctx, output_text)
             print(f"\nGenerated in {elapsed_time:.2f} seconds")
+
+    letters = ["!інша"]
+    if mfs.check_for_letters(ctx.content.lower(), letters):
+        if ctx.author.name.lower() == "seesmof":
+
     await asyncio.sleep(20)
 
 
