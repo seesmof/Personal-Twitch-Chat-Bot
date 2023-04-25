@@ -91,7 +91,7 @@ def ora_en(input_prompt, context):
     input_model = ora.CompletionModel.create(
         system_prompt=context,
         description='AI Chat Bot',
-        name='gpt-4')
+        name='gpt-3.5')
     init = ora.Completion.create(
         model=input_model,
         prompt=input_prompt)
