@@ -35,6 +35,7 @@ headers = {
 response = requests.post(url, json=data, headers=headers)
 if response.status_code != 200:
     print("Error!")
+    exit(1)
 
 data = response.text
 text = data.replace("data: ", "")
