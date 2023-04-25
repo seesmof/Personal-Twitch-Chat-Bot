@@ -28,3 +28,27 @@ wuyodo: is online at PixelFedya!
 
 ---
 
+21:01:26
+
+pixelfedya: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+21:02:08
+
+pixelfedya: pixelf8LooooooL
+
+---
+
+21:02:11
+
+pixelfedya: pixelf8LOVE
+
+---
+
+21:03:03
+
+pixelfedya: pixelf8LOVE pixelf8LooooooL
+
+---
+
