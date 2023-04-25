@@ -1,51 +1,45 @@
-# import writesonic
-import writesonic
+import requests
+import re
 
-# create account (3-4s)
-account = writesonic.Account.create(logging=True)
+question = input(": ")
 
-# with loging:
-# 2023-04-06 21:50:25 INFO __main__ -> register success : '{"id":"51aa0809-3053-44f7-922a...' (2s)
-# 2023-04-06 21:50:25 INFO __main__ -> id : '51aa0809-3053-44f7-922a-2b85d8d07edf'
-# 2023-04-06 21:50:25 INFO __main__ -> token : 'eyJhbGciOiJIUzI1NiIsInR5cCI6Ik...'
-# 2023-04-06 21:50:28 INFO __main__ -> got key : '194158c4-d249-4be0-82c6-5049e869533c' (2s)
+url = "https://www.phind.com/api/infer/creative"
+data = {
+    "question": question,
+    "codeContext": "",
+    "options": {
+        "skill": "intermediate",
+        "date": "14/04/2023",
+        "language": "en-GB",
+        "detailed": False,
+        "creative": True
+    }
+}
+headers = {
+    "Content-Type": "application/json",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Origin": "https://www.phind.com",
+    "Referer": "https://www.phind.com/search?q=Go+vs+Rust+vs+C%2B%2B&c=&source=searchbox&init=true",
+    "sec-ch-ua": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \";Not A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "Connection": "keep-alive",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+}
 
-# simple completion
-response = writesonic.Completion.create(
-    api_key=account.key,
-    prompt='hello world'
-)
+response = requests.post(url, json=data, headers=headers)
+print(response.status_code)
 
-# Hello! How may I assist you today?
-print(response.completion.choices[0].text)
+data = response.text
+text = data.replace("data: ", "")
+text = text.replace("\n ", "")
+text = f'''{text}'''
+text = text.replace('''\r\n\r\n''', "")
+text = text.replace('''\r\n\r''', " ")
 
-# conversation
-
-response = writesonic.Completion.create(
-    api_key=account.key,
-    prompt='what is my name ?',
-    enable_memory=True,
-    history_data=[
-        {
-            'is_sent': True,
-            'message': 'my name is Tekky'
-        },
-        {
-            'is_sent': False,
-            'message': 'hello Tekky'
-        }
-    ]
-)
-
-print(response.completion.choices[0].text)  # Your name is Tekky.
-
-# enable internet
-
-response = writesonic.Completion.create(
-    api_key=account.key,
-    prompt='who won the quatar world cup ?',
-    enable_google_results=True
-)
-
-# Argentina won the 2022 FIFA World Cup tournament held in Qatar ...
-print(response.completion.choices[0].text)
+print(text)
