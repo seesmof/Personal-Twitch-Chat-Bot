@@ -1,11 +1,14 @@
+from pathlib import Path
+from dotenv import load_dotenv
+from os.path import join, dirname
 from twitchio.ext import commands
+from playsound import playsound
 from datetime import datetime
-import openai
+import pygetwindow as gw
+import random
 import os
 import asyncio
-import time
-import requests
-import re
+import pyautogui
 import mfs
 from vars import *
 
