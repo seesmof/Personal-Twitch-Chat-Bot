@@ -1,16 +1,14 @@
-from pathlib import Path
-from dotenv import load_dotenv
-from os.path import join, dirname
 from twitchio.ext import commands
-from playsound import playsound
 from datetime import datetime
-import pygetwindow as gw
-import random
+import openai
 import os
 import asyncio
-import pyautogui
+import time
+import requests
+import re
 import mfs
 from vars import *
+import pyautogui
 
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
@@ -48,7 +46,7 @@ async def event_message(ctx):
             output_text += mfs.ora_ua(input_text, context_fedya)
         except:
             output_text += ""
-            pyautogui.alert("Could not generate an AI message",
+            pyautogui.alert("No message was generated, check it out. Most likely a problem on service side",
                             "ERROR: No message generated", timeout=None)
 
         end_time = time.time()
