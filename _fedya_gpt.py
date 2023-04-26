@@ -8,6 +8,8 @@ import requests
 import re
 import mfs
 from vars import *
+import pyautogui
+import random
 
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
