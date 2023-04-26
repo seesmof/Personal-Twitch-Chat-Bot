@@ -61,7 +61,7 @@ async def event_message(ctx):
         else:
             mfs.write_to_log(
                 f"Повідомлення не було згенеровано.", GPT_BOT_NICK, CHANNEL)
-            pyautogui.alert(f"{ctx.author.name}: {ctx.context}. \n\nNo message was generated, check it out. Most likely a problem on service side",
+            pyautogui.alert(f"{ctx.author.name}: {ctx.content}. \n\nNo message was generated, check it out. Most likely a problem on service side",
                             "ERROR: No message generated", timeout=None)
     await asyncio.sleep(20)
 
