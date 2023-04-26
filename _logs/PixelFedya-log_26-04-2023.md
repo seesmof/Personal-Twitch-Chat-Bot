@@ -6718,3 +6718,27 @@ ak1okatsu: але треба тримати гроші на диплом(*(\
 
 ---
 
+21:45:32
+
+maks_malitsk: Ти мені обіцяв шо додаш в друзі trembaaCry trembaaCry trembaaCry trembaaCry @pixelfedya
+
+---
+
+21:45:44
+
+maks_malitsk: Ееее
+
+---
+
+21:45:50
+
+maks_malitsk: Аааа
+
+---
+
+21:45:54
+
+maks_malitsk: Добреее
+
+---
+
