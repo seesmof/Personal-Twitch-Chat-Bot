@@ -8,7 +8,6 @@ import requests
 import re
 import mfs
 from vars import *
-import ora
 
 BOT_PREFIX = "!"
 CHANNEL = "k3ned1"
