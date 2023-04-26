@@ -7084,3 +7084,5697 @@ helkat0212: Мені сподобалось ось це АААААААААААА
 
 ---
 
+21:53:27
+
+helkat0212: Там кліп про тебе в пп
+
+---
+
+21:53:42
+
+sfxcspwi_: @seesmof ти де?
+
+---
+
+21:53:42
+
+maks_malitsk: Василь додай в друзі
+
+---
+
+21:53:48
+
+seesmof: @sfxcspwi_ тут
+
+---
+
+21:53:56
+
+sfxcspwi_: Васи він тут
+
+---
+
+21:53:59
+
+seesmof: шо сталось? @sfxcspwi_
+
+---
+
+21:54:15
+
+ak1okatsu: на місці
+
+---
+
+21:54:24
+
+maks_malitsk: Ага SeriousSloth
+
+---
+
+21:54:26
+
+ak1okatsu: ну виглядає зачотно хахахахаха
+
+---
+
+21:54:27
+
+seesmof: а, прошу :D
+
+---
+
+21:54:30
+
+toper1337: аххахаха
+
+---
+
+21:54:30
+
+ak1okatsu: ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+21:54:34
+
+ak1okatsu: я вахуї
+
+---
+
+21:54:35
+
+sfxcspwi_: Хахахахах
+
+---
+
+21:54:37
+
+toper1337: оце ти геній))
+
+---
+
+21:54:37
+
+helkat0212: hirogiDance hirogiDance
+
+---
+
+21:54:41
+
+maks_malitsk: Хаахаххаха
+
+---
+
+21:54:45
+
+sfxcspwi_: А приміряти можна?
+
+---
+
+21:55:01
+
+ak1okatsu: xD
+
+---
+
+21:55:09
+
+helkat0212: Мені віпки не треба - мені й так добре
+
+---
+
+21:55:14
+
+toper1337: вмикай фантазію))
+
+---
+
+21:55:16
+
+kitaychik_: Не можна міряти, тут картонки нема
+
+---
+
+21:55:31
+
+animetrash333: влючай відео волиняка
+
+---
+
+21:55:32
+
+ak1okatsu: найкращий модератор на твічі - виділив мій нік, ото бамбур зачотний ахахахха
+
+---
+
+21:55:35
+
+big_tusk: Хто це там найкращій модератор на твічі?
+
+---
+
+21:55:46
+
+sfxcspwi_: @kitaychik_ хахаха і тієї занавіски, якої ніколи не буоо
+
+---
+
+21:56:02
+
+maks_malitsk: Кажуть що ті хто мають віпки то Ваисль їх в дитячий будинок здає
+
+---
+
+21:56:09
+
+ak1okatsu: о нііііі
+
+---
+
+21:56:14
+
+sfxcspwi_: Або розбамбурена табуретка
+
+---
+
+21:56:18
+
+big_tusk: 9
+
+---
+
+21:56:18
+
+animetrash333: ВКЛЮЧАЙ
+
+---
+
+21:56:21
+
+helkat0212: Не чує баба
+
+---
+
+21:56:25
+
+big_tusk: ти мені не даєш 10-ту
+
+---
+
+21:56:26
+
+maks_malitsk: Кажуть що ті хто мають віпки то Ваисль їх в дитячий будинок здає @pixelfedya
+
+---
+
+21:56:38
+
+sfxcspwi_: То ти?
+
+---
+
+21:56:44
+
+volynaq: АПХИИАХПХИПАХИПАИХПАХИАПХАПИХИПАХПАИХИПАХИПАХАПИХАПИХИПАХАПИ
+
+---
+
+21:56:49
+
+animetrash333: ХПХХПХПХПХПХХПХПХПХПХП
+
+---
+
+21:57:06
+
+animetrash333: це тебе зарікролили дотери  крч
+
+---
+
+21:57:07
+
+maks_malitsk: Не смішно бо Василь не додав мене в друзіііі
+
+---
+
+21:57:13
+
+volynaq: Василь попався
+
+---
+
+21:57:15
+
+sfxcspwi_: Ось ютуб закриють, що ви робити будете? Це:
+
+---
+
+21:57:25
+
+sfxcspwi_: СЮДАААААА
+
+---
+
+21:57:26
+
+maks_malitsk: PogChamp PogChamp PogChamp PogChamp
+
+---
+
+21:57:29
+
+sfxcspwi_: СПАСИЬІ КАКТУСИК
+
+---
+
+21:57:31
+
+sfxcspwi_: ДЯКУЮ
+
+---
+
+21:57:37
+
+maks_malitsk: @sfxcspwi_ поздоровляю з сабкою
+
+---
+
+21:57:45
+
+maks_malitsk: @sfxcspwi_ trembaaBan trembaaBan trembaaBan trembaaBan
+
+---
+
+21:57:50
+
+sfxcspwi_: БЛяха не увернувся
+
+---
+
+21:57:56
+
+maks_malitsk: Бан за ту букву погану
+
+---
+
+21:58:06
+
+maks_malitsk: Василь баньььь
+
+---
+
+21:58:15
+
+sfxcspwi_: @maks_malitsk я по букві б не попав, получивши ь
+
+---
+
+21:58:20
+
+volynaq: ааааааааааааааааааай
+
+---
+
+21:58:23
+
+maks_malitsk: SeriousSloth
+
+---
+
+21:58:30
+
+sfxcspwi_: Я Шо єнот тепер?
+
+---
+
+21:58:33
+
+animetrash333: @maks_malitsk там не та буква
+
+---
+
+21:58:51
+
+maks_malitsk: PogChamp
+
+---
+
+21:59:08
+
+maks_malitsk: trembaaLUL
+
+---
+
+21:59:10
+
+ak1okatsu: ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+21:59:16
+
+ak1okatsu: звичайно
+
+---
+
+21:59:39
+
+maks_malitsk: pixelf8LooooooL
+
+---
+
+21:59:41
+
+sfxcspwi_: Васи відкрий пп твіча, я тобі нову нагороду за бали зробив
+
+---
+
+21:59:44
+
+onoffffffff32: Де тпм смайли? Не одобрили?
+
+---
+
+21:59:48
+
+sfxcspwi_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+21:59:50
+
+sfxcspwi_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+21:59:55
+
+sfxcspwi_: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+21:59:58
+
+sfxcspwi_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:00:01
+
+sfxcspwi_: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+22:00:01
+
+maks_malitsk: trembaaRave trembaaClaps trembaaRave trembaaRave trembaaClaps trembaaRave trembaaClaps trembaaRave trembaaClaps trembaaRave trembaaClaps trembaaRave trembaaClaps trembaaRave trembaaRave trembaaClaps
+
+---
+
+22:00:03
+
+ak1okatsu: засуджую то гамно хахахахах
+
+---
+
+22:00:05
+
+sfxcspwi_: ВАСИИИИ
+
+---
+
+22:00:06
+
+maks_malitsk: trembaaRave trembaaRave trembaaClaps trembaaRave trembaaRave trembaaClaps trembaaClaps pixelf8LooooooL trembaaRave pixelf8LooooooL trembaaClaps pixelf8LooooooL trembaaClaps trembaaRave trembaaClaps pixelf8LooooooL trembaaClaps pixelf8LooooooL trembaaClaps
+
+---
+
+22:00:13
+
+sfxcspwi_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:00:14
+
+onoffffffff32: а
+
+---
+
+22:00:16
+
+sfxcspwi_: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+22:00:17
+
+kitaychik_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:00:19
+
+kitaychik_: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+22:00:21
+
+onoffffffff32: дайте підписку
+
+---
+
+22:00:25
+
+maks_malitsk: pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE
+
+---
+
+22:00:40
+
+nickydron: trembaaHeart trembaaHeart trembaaHeart
+
+---
+
+22:00:56
+
+onoffffffff32: HypeApplause
+
+---
+
+22:01:04
+
+sfxcspwi_: Васи відкрий пп твіча, я нову нагороду за бали тобі придумав
+
+---
+
+22:01:17
+
+sfxcspwi_: То ти?
+
+---
+
+22:01:36
+
+maks_malitsk: То білочка
+
+---
+
+22:01:50
+
+maks_malitsk: То в тебе вже білочка
+
+---
+
+22:02:08
+
+onoffffffff32: то файна штука
+
+---
+
+22:02:11
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+22:02:19
+
+onoffffffff32: піупіу піупіу
+
+---
+
+22:02:38
+
+sfxcspwi_: Васи відкрий пп твіча, я нову нагороду за бали тобі придумав
+
+---
+
+22:02:46
+
+sfxcspwi_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:02:52
+
+maks_malitsk: @onoffffffff32 дай бали
+
+---
+
+22:02:57
+
+toper1337: ти не поняв?))
+
+---
+
+22:03:12
+
+onoffffffff32: @maks_malitsk дав
+
+---
+
+22:03:20
+
+maks_malitsk: MyAvatar
+
+---
+
+22:03:27
+
+maks_malitsk: Привіттт
+
+---
+
+22:03:27
+
+toper1337: хаааххаахха
+
+---
+
+22:03:29
+
+maks_malitsk: trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+22:03:33
+
+kitaychik_: Привіт жінка
+
+---
+
+22:03:37
+
+maks_malitsk: Привіт Оксана trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+22:03:45
+
+onoffffffff32: Мамо!
+
+---
+
+22:03:47
+
+sfxcspwi_: pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL
+
+---
+
+22:03:50
+
+sfxcspwi_: Слимаку
+
+---
+
+22:03:51
+
+toper1337: поняв?))
+
+---
+
+22:03:52
+
+sfxcspwi_: Привіт
+
+---
+
+22:03:53
+
+sfxcspwi_: Оксана
+
+---
+
+22:04:00
+
+maks_malitsk: Захахахах
+
+---
+
+22:04:11
+
+onoffffffff32: Імба
+
+---
+
+22:04:13
+
+maks_malitsk: trembaaLUL
+
+---
+
+22:04:22
+
+maks_malitsk: Хахахахза
+
+---
+
+22:04:29
+
+maks_malitsk: 21
+
+---
+
+22:04:35
+
+maks_malitsk: Брехун
+
+---
+
+22:04:37
+
+onoffffffff32: 69
+
+---
+
+22:04:52
+
+toper1337: ВЕБКА
+
+---
+
+22:05:00
+
+sfxcspwi_: ВЕБКАААА
+
+---
+
+22:05:06
+
+ak1okatsu: chevor1Shout chevor1Shout chevor1Shout
+
+---
+
+22:05:07
+
+toper1337: ТА Я ЗАБУВ
+
+---
+
+22:05:17
+
+ak1okatsu: хахахха
+
+---
+
+22:05:17
+
+kitaychik_: Типу вебку за 5к?
+
+---
+
+22:05:17
+
+sfxcspwi_: Імба, давай віпку
+
+---
+
+22:05:28
+
+toper1337: ахахаха
+
+---
+
+22:05:35
+
+toper1337: АХХАХАХАХАХХАХАХАх
+
+---
+
+22:05:39
+
+sfxcspwi_: Хпхахахах
+
+---
+
+22:05:41
+
+toper1337: не повертай))
+
+---
+
+22:05:41
+
+onoffffffff32: пізнувато якось
+
+---
+
+22:05:42
+
+ak1okatsu: затестив
+
+---
+
+22:06:03
+
+onoffffffff32: повернув
+
+---
+
+22:06:09
+
+maks_malitsk: pixelf8LooooooL
+
+---
+
+22:06:09
+
+ak1okatsu: я думав то якийсь інтерактив
+
+---
+
+22:06:14
+
+ak1okatsu: ой, дякую
+
+---
+
+22:06:29
+
+sfxcspwi_: Васи відкрий пп твіча, я нову нагороду за бали тобі придумав
+
+---
+
+22:06:31
+
+maks_malitsk: Василь додай в друзі стім
+
+---
+
+22:06:45
+
+ak1okatsu: ахаххаха
+
+---
+
+22:06:58
+
+sfxcspwi_: Кліпніть
+
+---
+
+22:07:21
+
+maks_malitsk: @pixelfedya Василь додай в друзі стім
+
+---
+
+22:07:22
+
+magnus_vell: ага, коли привів дівчину, а у неї пісюн, ото сюрприз
+
+---
+
+22:07:25
+
+ak1okatsu: зрозумів хахахаа
+
+---
+
+22:07:35
+
+onoffffffff32: або я поверну
+
+---
+
+22:07:46
+
+maks_malitsk: @pixelfedya Василь додай в друзі стім!!!
+
+---
+
+22:07:52
+
+sfxcspwi_: @pixelfedya Васи відкрий пп твіча, я нову нагороду за бали тобі придумав
+
+---
+
+22:07:55
+
+onoffffffff32: піупуіпіпуіупупіпупупуіпіпупупіпуіпупіу3
+
+---
+
+22:08:22
+
+volynaq: ти додивляєшся
+
+---
+
+22:08:22
+
+maks_malitsk: @pixelfedya Василь додай в друзі стім, я більше не буду спамити pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+22:08:25
+
+toper1337: аххахахха це шо?
+
+---
+
+22:08:26
+
+magnus_vell: коли бітя прийшов на шкільну дискотеку
+
+---
+
+22:08:32
+
+magnus_vell: *батя
+
+---
+
+22:08:37
+
+footballworld213: Доброго заскочив в гості.
+
+---
+
+22:08:38
+
+sfxcspwi_: Васи відкрий пп твіча, я нову нагороду за бали тобі придумав
+
+---
+
+22:08:45
+
+footballworld213: Роля там бамбурить футбол
+
+---
+
+22:08:45
+
+toper1337: це тупо я в дитясому садочку)
+
+---
+
+22:08:54
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+22:09:02
+
+volynaq: це улюблена пісня Івоняка
+
+---
+
+22:09:03
+
+maks_malitsk: @pixelfedya Василь додай в друзі стім, я більше не буду спамити pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+22:09:17
+
+sfxcspwi_: Васи відкрий пп твіча, я нову нагороду за бали тобі придумав
+
+---
+
+22:09:27
+
+maks_malitsk: Василь ігнорщик
+
+---
+
+22:09:37
+
+helkat0212: О - перший кліп - а вже на бали каналу - STONKS!
+
+---
+
+22:09:43
+
+sfxcspwi_: Та ти ігнорщик відкрий я скину а потім чекниш
+
+---
+
+22:09:46
+
+maks_malitsk: Ти обіцяв шо додаш
+
+---
+
+22:09:48
+
+footballworld213: Я поки в тік току анекдоти Скрябіна трішки дивився можу в тг кинути.
+
+---
+
+22:09:53
+
+maks_malitsk: ШЛИМАААААААК
+
+---
+
+22:09:59
+
+onoffffffff32: на харизмі тащить
+
+---
+
+22:10:12
+
+toper1337: Якщо ваша вечірка не схожа на це, - навіть не кличте мене)
+
+---
+
+22:10:35
+
+magnus_vell: це пісня про трарин, усі вкурсі? )
+
+---
+
+22:10:52
+
+maks_malitsk: @pixelfedya  Василь ти обіцяв додаш в друзі ШЛИМАААААК
+
+---
+
+22:10:59
+
+footballworld213: Я поки в тік току анекдоти Скрябіна трішки дивився можу в тг кинути.
+
+---
+
+22:11:01
+
+volynaq: дайте посилання на кліп де він кричить
+
+---
+
+22:11:05
+
+sfxcspwi_: Відкрий пп, ти всім відкрив а мені ні
+
+---
+
+22:11:11
+
+helkat0212: Бабак кричить у горах 2.0 - те відчуття коли назва повністю себе виправдала))
+
+---
+
+22:11:13
+
+maks_malitsk: SeriousSloth
+
+---
+
+22:11:13
+
+onoffffffff32: @maks_malitsk задонать мільйон мільйонів
+
+---
+
+22:11:26
+
+toper1337: ААА ТО ТВАРИНИИ??)) я думав то якісь міфічні істоти)
+
+---
+
+22:11:34
+
+maks_malitsk: @onoffffffff32 trembaaBabooreh
+
+---
+
+22:11:45
+
+onoffffffff32: піупіупіупіупіупуіпіупуіпіпіупіупуіпуіпуіпуі
+
+---
+
+22:12:10
+
+hauha333: ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+22:12:13
+
+maks_malitsk: @pixelfedya  Василь додай в друзі а я буду твої самйлики всюди кидати !!!!
+
+---
+
+22:12:23
+
+sfxcspwi_: Васи відкрий пп твіча, я нову нагороду за бали тобі придумав, ти всім відкрив а мені ні
+
+---
+
+22:12:27
+
+nickydron: Мене батько будив цією піснею перед школою
+
+---
+
+22:12:31
+
+hauha333: То шо відео з весілля ? ak1okaXd
+
+---
+
+22:12:37
+
+maks_malitsk: Лебіга два дня підряд стріме огооо
+
+---
+
+22:12:38
+
+onoffffffff32: @maks_malitsk мільйон мільйонів, і може подумаємо
+
+---
+
+22:12:47
+
+magnus_vell: табуретку постав
+
+---
+
+22:12:52
+
+hauha333: @onoffffffff32  привіт ak1okaLalala ak1okaLalala
+
+---
+
+22:12:56
+
+maks_malitsk: @pixelfedya  Василь додай в друзі а я буду твої самйлики всюди кидати !
+
+---
+
+22:13:03
+
+maks_malitsk: @onoffffffff32 іди в дупу
+
+---
+
+22:13:12
+
+seesmof: також дивись шоб сам монітор мав відопвідні кріплення
+
+---
+
+22:13:13
+
+onoffffffff32: @hauha333  CoolCat HeyGuys
+
+---
+
+22:13:13
+
+sfxcspwi_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:13:16
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:17
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:19
+
+footballworld213: В тг Скрябіна анекдоти кинув
+
+---
+
+22:13:21
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:22
+
+seesmof: там або або
+
+---
+
+22:13:25
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:27
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:30
+
+onoffffffff32: @maks_malitsk уф
+
+---
+
+22:13:30
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:33
+
+seesmof: або затиснути штукою, або просвердлити
+
+---
+
+22:13:34
+
+hauha333: !дупа
+
+---
+
+22:13:35
+
+maks_malitsk: Аххахахахха
+
+---
+
+22:13:37
+
+maks_malitsk: Я бачив
+
+---
+
+22:13:44
+
+maks_malitsk: @pixelfedya  Василь додай в друзі а я буду твої самйлики всюди кидати !
+
+---
+
+22:13:48
+
+hauha333: @seesmof ти шо дупа де дупа ak1okaXd
+
+---
+
+22:13:48
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:50
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:52
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:53
+
+onoffffffff32: @maks_malitsk мільйон мільйонів, і може подумаємо
+
+---
+
+22:13:54
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid
+
+---
+
+22:13:55
+
+vladdgoldin: Василь чекни тг
+
+---
+
+22:13:56
+
+sfxcspwi_: twitchRaid twitchRaid twitchRaid twitchRaid twitchRaid
+
+---
+
+22:14:00
+
+seesmof: @hauha333 завтра додам
+
+---
+
+22:14:03
+
+vladdgoldin: Васильок
+
+---
+
+22:14:03
+
+maks_malitsk: @sfxcspwi_ шлимак не спам так сильнооо
+
+---
+
+22:14:06
+
+vladdgoldin: будь ласка
+
+---
+
+22:14:09
+
+vladdgoldin: BibleThump
+
+---
+
+22:14:14
+
+hauha333: @seesmof  pixelf8LOVE
+
+---
+
+22:14:15
+
+maks_malitsk: @pixelfedya  Василь додай в друзі а я буду твої самйлики всюди кидати !
+
+---
+
+22:14:15
+
+vladdgoldin: Вася
+
+---
+
+22:14:21
+
+vladdgoldin: Васьок
+
+---
+
+22:14:26
+
+vladdgoldin: Васильочек
+
+---
+
+22:14:34
+
+vladdgoldin: дякую
+
+---
+
+22:14:35
+
+vladdgoldin: girlxaYummy
+
+---
+
+22:14:40
+
+helkat0212: Був сторіс і нема - підманула, підвела))
+
+---
+
+22:14:51
+
+maks_malitsk: Василю курча
+
+---
+
+22:14:55
+
+vladdgoldin: то про мене кліп
+
+---
+
+22:14:56
+
+seesmof: та
+
+---
+
+22:14:57
+
+vladdgoldin: )
+
+---
+
+22:15:00
+
+hauha333: ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+22:15:04
+
+vladdgoldin: той який кинув
+
+---
+
+22:15:05
+
+volynaq: @PixelFedya чекни відос в коментах в телезі
+
+---
+
+22:15:07
+
+seesmof: і диви шоб на моніторі відповідні отвори були
+
+---
+
+22:15:08
+
+vladdgoldin: в тг
+
+---
+
+22:15:10
+
+volynaq: @PixelFedya чекни відос в коментах в телезі!
+
+---
+
+22:15:18
+
+maks_malitsk: @pixelfedya  Василь додай в друзі а я буду твої самйлики всюди кидати !!!
+
+---
+
+22:15:27
+
+footballworld213: Я там Скрябіна накидав
+
+---
+
+22:15:31
+
+footballworld213: В тг
+
+---
+
+22:15:39
+
+footballworld213: Анекдоти
+
+---
+
+22:15:39
+
+vladdgoldin: то Кактусу
+
+---
+
+22:15:41
+
+vladdgoldin: був
+
+---
+
+22:15:44
+
+vladdgoldin: girlxaXaxa
+
+---
+
+22:15:48
+
+vladdgoldin: вкінці
+
+---
+
+22:16:00
+
+vladdgoldin: так
+
+---
+
+22:16:01
+
+ak1okatsu: Василю якщо що в кінці Владушка то я казав хахаха
+
+---
+
+22:16:03
+
+vladdgoldin: дякую
+
+---
+
+22:16:09
+
+helkat0212: Чеканя на чеканя відосів))
+
+---
+
+22:16:09
+
+maks_malitsk: MyAvatar MyAvatar MyAvatar MyAvatar MyAvatar
+
+---
+
+22:16:11
+
+volynaq: @PixelFedya НУ ТАМ З ТОБОЮ
+
+---
+
+22:16:12
+
+maks_malitsk: pixelf8LOVE
+
+---
+
+22:16:23
+
+ak1okatsu: АХАХАХАХАХХА
+
+---
+
+22:16:24
+
+maks_malitsk: Я тобі не можу кинути SeriousSloth
+
+---
+
+22:16:34
+
+footballworld213: Я бачу Максим персонаж такий всюди))
+
+---
+
+22:16:45
+
+vladdgoldin: @ak1okatsu ну знаєш з твоїм голосом якусь хуйню всяку цікаву можна озвучувати
+
+---
+
+22:16:48
+
+vladdgoldin: girlxaYummy ak1okaSho
+
+---
+
+22:16:55
+
+hauha333: Я на халяву буду всюди кидати ak1okaXd ak1okaXd
+
+---
+
+22:16:57
+
+volynaq: @PixelFedya ну там з тобою відос  в телезі в коментах
+
+---
+
+22:16:58
+
+maks_malitsk: В мене комп виключиний
+
+---
+
+22:16:59
+
+kitaychik_: глянь інсту
+
+---
+
+22:17:00
+
+maks_malitsk: SeriousSloth
+
+---
+
+22:17:01
+
+hauha333: pixelf8LOVE pixelf8LooooooL
+
+---
+
+22:17:07
+
+vladdgoldin: ak1okaXd
+
+---
+
+22:17:11
+
+sfxcspwi_: Я ОДИН СЛИМАК У ЦЬОМУ ЧАТІ
+
+---
+
+22:17:17
+
+vladdgoldin: PogChamp
+
+---
+
+22:17:18
+
+helkat0212: Василь - в мене кота так звати))
+
+---
+
+22:17:21
+
+helkat0212: АХАХАХАХАХАХАХ
+
+---
+
+22:17:24
+
+vladdgoldin: ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+22:17:27
+
+vladdgoldin: ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+22:17:33
+
+vladdgoldin: ak1okaXd
+
+---
+
+22:17:33
+
+hauha333: @sfxcspwi_  ше цей @pixelfedya
+
+---
+
+22:17:41
+
+maks_malitsk: 1416058891
+
+---
+
+22:17:45
+
+footballworld213: О це розбірки капець
+
+---
+
+22:17:47
+
+vladdgoldin: TPFufun
+
+---
+
+22:17:49
+
+onoffffffff32: як різко змінив тон
+
+---
+
+22:17:49
+
+vladdgoldin: LionOfYara
+
+---
+
+22:18:00
+
+maks_malitsk: @pixelfedya 1416058891
+
+---
+
+22:18:47
+
+maks_malitsk: @pixelfedya 1416058891
+
+---
+
+22:18:48
+
+footballworld213: Я там Скрябіна накидав в тг
+
+---
+
+22:18:52
+
+sfxcspwi_: Васи чек пп стіму
+
+---
+
+22:18:53
+
+footballworld213: Анекдоти від нього
+
+---
+
+22:19:05
+
+maks_malitsk: Диви каже кинути код друга і ігноре
+
+---
+
+22:19:08
+
+kitaychik_: глянь інст
+
+---
+
+22:19:14
+
+hauha333: ДАЙ ЖІНЦІ МУТ НА 10 ХВ ak1okaXd
+
+---
+
+22:19:37
+
+kitaychik_: 2request маєш
+
+---
+
+22:20:01
+
+footballworld213: Ля я там також кидав в інсту шось
+
+---
+
+22:20:04
+
+footballworld213: Василю
+
+---
+
+22:20:30
+
+sfxcspwi_: Васи чек пп стіму
+
+---
+
+22:20:34
+
+helkat0212: А мене в друзі стім можна(в мене там вже ціла колекція стрімерів - було б не погано мати + 1))
+
+---
+
+22:20:40
+
+helkat0212: ?
+
+---
+
+22:20:46
+
+footballworld213: Та там нормальні анекдоти то ж Кузьма
+
+---
+
+22:20:58
+
+sfxcspwi_: Васи чек пп стіму.
+
+---
+
+22:20:59
+
+maks_malitsk: pixelf8LOVE
+
+---
+
+22:21:18
+
+helkat0212: 352980395
+
+---
+
+22:21:21
+
+volynaq: @PixelFedya НУ ГЛЯНЬ ТГ ПІСЮН
+
+---
+
+22:21:31
+
+sfxcspwi_: Ігнорщик я ліваю
+
+---
+
+22:21:32
+
+volynaq: комент
+
+---
+
+22:21:35
+
+volynaq: КОМЕНТИ ГЛЯНЬ
+
+---
+
+22:21:38
+
+footballworld213: Найкращий кліп у ролі це там де дівчина стукає у вікно мавпі Василь пам'ятаєш
+
+---
+
+22:21:56
+
+volynaq: всьо я довольний
+
+---
+
+22:22:01
+
+volynaq: цьом
+
+---
+
+22:22:05
+
+opudalo: з днем бабака
+
+---
+
+22:22:09
+
+helkat0212: 352980395
+
+---
+
+22:22:29
+
+hauha333: @pixelfedya  го в геобінго ak1okaXd
+
+---
+
+22:22:45
+
+footballworld213: Найкращий кліп у ролі це там де дівчина стукає у вікно мавпі Василь пам'ятаєш
+
+---
+
+22:22:46
+
+sfxcspwi_: Васи чек пп стіма пж…..
+
+---
+
+22:23:16
+
+opudalo: го в геогессер
+
+---
+
+22:23:18
+
+sfxcspwi_: Чому ти на мене кричиш гімно…
+
+---
+
+22:23:34
+
+helkat0212: Хто спамить?
+
+---
+
+22:23:36
+
+helkat0212: То не я
+
+---
+
+22:23:39
+
+kitaychik_: DELETE
+
+---
+
+22:23:43
+
+maks_malitsk: Я тобі смайлика кинув
+
+---
+
+22:23:46
+
+maks_malitsk: Хахахахаха
+
+---
+
+22:23:49
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+22:23:53
+
+footballworld213: Розбірки на біржі чисто
+
+---
+
+22:23:55
+
+footballworld213: ))
+
+---
+
+22:24:07
+
+sfxcspwi_: Ігнорщик бля
+
+---
+
+22:24:16
+
+footballworld213: Найкращий кліп у ролі це там де дівчина стукає у вікно мавпі Василь пам'ятаєш.я просто там падаю зі сміху
+
+---
+
+22:24:21
+
+helkat0212: Ким треба бути що Філіпа закенселити?))
+
+---
+
+22:24:34
+
+hauha333: ak1okaLalala ak1okaNanana ak1okaSho ak1okaKit ak1okaMilota ak1okaAaa ak1okaHaha ak1okaSadge ak1okaSmile1 ak1okaXd ak1okaSanta ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+22:25:01
+
+onoffffffff32: давай алерт за 100к з фулом тої пісні піу піу піу про тварин
+
+---
+
+22:25:39
+
+toper1337: оо мій наступній))
+
+---
+
+22:25:41
+
+helkat0212: Бери мене за дупу? Пфффф - я Машу на руках тримав (та яка в ТРемби) - в цій самій грі))
+
+---
+
+22:25:48
+
+sfxcspwi_: Ігнорщик
+
+---
+
+22:25:49
+
+seesmof: підтримую
+
+---
+
+22:25:52
+
+seesmof: давайте шось за 100к
+
+---
+
+22:26:06
+
+seesmof: ну та
+
+---
+
+22:26:23
+
+opudalo: басейн за 100 к
+
+---
+
+22:27:17
+
+toper1337: ОО це я робив)
+
+---
+
+22:27:18
+
+helkat0212: Hot Tuns and... - за 100к))
+
+---
+
+22:27:27
+
+helkat0212: *Hot tubs
+
+---
+
+22:27:27
+
+sfxcspwi_: Ти все читаєш окрім мого повідомлення, ти навмисно це робиш? А тоді буде казати та ти не активний рідко сидиш на стрімах куди тобі віпку
+
+---
+
+22:27:35
+
+toper1337: аххахаах
+
+---
+
+22:27:36
+
+opudalo: ахахахах
+
+---
+
+22:27:40
+
+opudalo: ору
+
+---
+
+22:27:57
+
+helkat0212: НЕ знаю - ми в Тремби лишень себе кидали))
+
+---
+
+22:27:59
+
+toper1337: АХААХ
+
+---
+
+22:28:05
+
+helkat0212: Про камні нафіг забули))
+
+---
+
+22:28:07
+
+toper1337: ДИНАМО
+
+---
+
+22:28:11
+
+opudalo: ахаха
+
+---
+
+22:28:15
+
+sfxcspwi_: Ти все читаєш окрім мого повідомлення, ти навмисно це робиш? А тоді буде казати та ти не активний рідко сидиш на стрімах куди тобі віпку pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:28:29
+
+maks_malitsk: @sfxcspwi_ та він так робе
+
+---
+
+22:28:37
+
+toper1337: ахахахха
+
+---
+
+22:28:38
+
+ak1okatsu: zxdsxddxd\
+
+---
+
+22:28:42
+
+ak1okatsu: ахахахаха
+
+---
+
+22:29:17
+
+vladdgoldin: ak1okaHaha
+
+---
+
+22:29:22
+
+toper1337: ТАК я зробив з друзями - як ви летите на катапульті))
+
+---
+
+22:29:32
+
+helkat0212: В мене в свій час був кращий таймінг в іншого стрімера - але то інший кліп на інший день))
+
+---
+
+22:29:52
+
+ak1okatsu: KEKW
+
+---
+
+22:29:53
+
+ak1okatsu: ХВАХВХАВХХА
+
+---
+
+22:29:54
+
+toper1337: АХХАхаха
+
+---
+
+22:29:55
+
+maks_malitsk: Я вчора повністю пройшов Хуман фул флет
+
+---
+
+22:30:07
+
+maks_malitsk: Та
+
+---
+
+22:30:08
+
+vladdgoldin: @ak1okatsu Василь = сміх ak1okaXd
+
+---
+
+22:30:14
+
+vladdgoldin: я тоді так сміявся
+
+---
+
+22:30:28
+
+sfxcspwi_: Найкращий таймінг, це коли тобі кинули гімно а лебіга сказав ви що придурки?
+
+---
+
+22:30:37
+
+maks_malitsk: Але я там деколи проходив не зовсім так як тре
+
+---
+
+22:30:37
+
+toper1337: ХАХАха
+
+---
+
+22:30:43
+
+ak1okatsu: мені тоді ворон сів на лице аххахаха
+
+---
+
+22:30:46
+
+ak1okatsu: ахпахвхвапхавппав
+
+---
+
+22:30:46
+
+helkat0212: Я Хуман Фол Флет маю ачівмент - Спідранер - пройти всю гру за одну ігрову сесію - але в мене потім мізки кипіли - зате ачівку маю
+
+---
+
+22:30:56
+
+vladdgoldin: ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+22:30:58
+
+maks_malitsk: Вххахазхаха
+
+---
+
+22:30:58
+
+toper1337: о я тут спав))
+
+---
+
+22:30:58
+
+vladdgoldin: ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+22:31:05
+
+vladdgoldin: ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+22:31:12
+
+vladdgoldin: ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+22:31:13
+
+maks_malitsk: trembaaLUL
+
+---
+
+22:31:16
+
+onoffffffff32: Шо там по 6 травню? Кінець світу? Прибуття інопланетян? Знає тільки Федя...
+
+---
+
+22:31:21
+
+vladdgoldin: я так ржав
+
+---
+
+22:31:42
+
+maks_malitsk: Там ще ніби 2-3 карти
+
+---
+
+22:31:59
+
+toper1337: ХАХАХАХХХАХ
+
+---
+
+22:32:01
+
+maks_malitsk: Вам ще десь 2-3 карти проходити
+
+---
+
+22:32:15
+
+helkat0212: Ворон насолоджується видовищем))
+
+---
+
+22:32:17
+
+toper1337: ви так орали що я прокидався)), бо я у навушниках спав))
+
+---
+
+22:32:19
+
+ak1okatsu: аахахааххаха
+
+---
+
+22:32:27
+
+maks_malitsk: Вам ще десь 2-3 карти проходити @pixelfedya
+
+---
+
+22:32:37
+
+onoffffffff32: Шо там по 6 травню? Кінець світу? Прибуття інопланетян? Знає тільки Федя... @PixelFedya
+
+---
+
+22:33:04
+
+vladdgoldin: Федю
+
+---
+
+22:33:04
+
+maks_malitsk: Тебе ?
+
+---
+
+22:33:06
+
+vladdgoldin: CarlSmile
+
+---
+
+22:33:12
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+22:33:15
+
+onoffffffff32: а я чого не знаю?
+
+---
+
+22:33:24
+
+maks_malitsk: УРААААА БАСЕЙН
+
+---
+
+22:33:26
+
+vladdgoldin: так
+
+---
+
+22:33:29
+
+maks_malitsk: Сюдаааа
+
+---
+
+22:33:41
+
+maks_malitsk: SeriousSloth
+
+---
+
+22:33:59
+
+sfxcspwi_: Васи чекни кліп котрий я тобі в стім скинув, мені скоро йти треба буле
+
+---
+
+22:34:07
+
+maks_malitsk: Бо на дворі буде басейн робити під час коронації в Англії
+
+---
+
+22:34:07
+
+sfxcspwi_: Буде*
+
+---
+
+22:34:11
+
+onoffffffff32: кіно?
+
+---
+
+22:34:16
+
+onoffffffff32: Діснейленд?
+
+---
+
+22:34:17
+
+toper1337: я не здивлюся що ти 6 травня просто скажешь - це був пранк)) я так РЖАТИ БУДУ))
+
+---
+
+22:34:21
+
+emfoniks: ви їдете в цирк
+
+---
+
+22:34:34
+
+sfxcspwi_: Ігнор
+
+---
+
+22:34:40
+
+maks_malitsk: Будеш стрибати з парашута?
+
+---
+
+22:34:52
+
+maks_malitsk: Будеш з моста стрибати?
+
+---
+
+22:35:18
+
+vladdgoldin: кінець світу?
+
+---
+
+22:35:39
+
+helkat0212: "адекватний"
+
+---
+
+22:35:45
+
+helkat0212: в лапках
+
+---
+
+22:35:48
+
+toper1337: Я літа на парашуті)
+
+---
+
+22:35:51
+
+toper1337: в
+
+---
+
+22:35:51
+
+maks_malitsk: Будеш стрибати без парашута?
+
+---
+
+22:35:57
+
+vladdgoldin: В галстуку
+
+---
+
+22:35:57
+
+onoffffffff32: Амереканські гірки?
+
+---
+
+22:35:59
+
+vladdgoldin: girlxaYummy
+
+---
+
+22:36:12
+
+maks_malitsk: В гта рп
+
+---
+
+22:36:14
+
+helkat0212: До 6 травня ще дожити треба
+
+---
+
+22:36:41
+
+onoffffffff32: @Helkat0212 9 днів
+
+---
+
+22:36:59
+
+maks_malitsk: @onoffffffff32 бери більше Англійські Гірки
+
+---
+
+22:37:42
+
+maks_malitsk: Будеш стрімити 24 години?
+
+---
+
+22:38:11
+
+helkat0212: Скрути трішки
+
+---
+
+22:38:15
+
+helkat0212: тебе перекрикує
+
+---
+
+22:38:22
+
+maks_malitsk: Давай стрім з Оксаною, якщо в неї ж бажання
+
+---
+
+22:38:22
+
+helkat0212: трішки
+
+---
+
+22:38:32
+
+maks_malitsk: Давай стрім з Оксаною, якщо в неї ж бажання! @pixelfedya
+
+---
+
+22:38:47
+
+helkat0212: Ось так добре
+
+---
+
+22:39:43
+
+maks_malitsk: Давай стрім з Оксаною, якщо в неї є бажання! @pixelfedya
+
+---
+
+22:39:49
+
+animetrash333: крісло стрімить?
+
+---
+
+22:39:54
+
+maks_malitsk: Та
+
+---
+
+22:40:13
+
+maks_malitsk: @animetrash333 стрімлять з зеркалом
+
+---
+
+22:40:27
+
+onoffffffff32: Стууул!
+
+---
+
+22:40:31
+
+helkat0212: jullseSq jullseSq jullseSq jullseSq
+
+---
+
+22:40:34
+
+maks_malitsk: trembaaRave
+
+---
+
+22:40:51
+
+maks_malitsk: Давай стрім з Оксаною, якщо в неї є бажання! @pixelfedya
+
+---
+
+22:41:14
+
+maks_malitsk: Давай
+
+---
+
+22:41:32
+
+maks_malitsk: SeriousSloth
+
+---
+
+22:41:38
+
+footballworld213: Василь молодець файні в тебе єфіри радий що від ролі потрапив на тебе також.
+
+---
+
+22:42:16
+
+magnus_vell: ***
+
+---
+
+22:42:24
+
+maks_malitsk: @magnus_vell не можна силки
+
+---
+
+22:42:27
+
+magnus_vell: див кліп
+
+---
+
+22:42:27
+
+maks_malitsk: Посилання*
+
+---
+
+22:42:51
+
+helkat0212: Як же ролю ковбасить - я не можу
+
+---
+
+22:42:53
+
+maks_malitsk: Воно не пропускає посилання
+
+---
+
+22:43:25
+
+helkat0212: Там є і не твій
+
+---
+
+22:43:30
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+22:43:30
+
+helkat0212: Вище
+
+---
+
+22:43:52
+
+maks_malitsk: О я проходив інтересно грааа
+
+---
+
+22:43:54
+
+helkat0212: Ось це таймінг
+
+---
+
+22:43:58
+
+helkat0212: Ось це я замовив
+
+---
+
+22:44:11
+
+hauha333: LUL LUL
+
+---
+
+22:44:11
+
+toper1337: Ви там так кричали, що я інколи прокидався, бо спав у навушниках))
+
+---
+
+22:44:24
+
+footballworld213: Василь молодець файні в тебе єфіри радий що від ролі потрапив на тебе також.
+
+---
+
+22:44:27
+
+maks_malitsk: @toper1337 trembaaBabooreh
+
+---
+
+22:44:31
+
+magnus_vell: я не побачив таймінг )
+
+---
+
+22:44:59
+
+maks_malitsk: pixelf8LooooooL
+
+---
+
+22:45:15
+
+toper1337: ахахах
+
+---
+
+22:45:33
+
+maks_malitsk: Василь а які там ще мають бути смайлики якщо не секрет
+
+---
+
+22:45:55
+
+onoffffffff32: все завдяки ребрансу, він ролі про тебе розповів
+
+---
+
+22:46:00
+
+hauha333: !followage
+
+---
+
+22:46:06
+
+sfxcspwi_: Васи чек пп стім
+
+---
+
+22:46:15
+
+sfxcspwi_: !followage
+
+---
+
+22:46:16
+
+maks_malitsk: @sfxcspwi_ MyAvatar
+
+---
+
+22:46:19
+
+helkat0212: Знаєте яка буква мене найбільше вбиває в укр алфавіті? - це буква Ґ - треба натиснути Правий Alt + Shift + U NotLikeThis NotLikeThis NotLikeThis NotLikeThis
+
+---
+
+22:46:23
+
+ak1okatsu: KEKW
+
+---
+
+22:46:25
+
+onoffffffff32: все завдяки ребрансу, він ролі про тебе розповів 󠀀
+
+---
+
+22:47:05
+
+vitendas: відлунок
+
+---
+
+22:47:27
+
+ak1okatsu: ні
+
+---
+
+22:47:28
+
+vitendas: хохомка збоченка
+
+---
+
+22:47:30
+
+hauha333: @ak1okatsu поважний кактусь можеш помогти феді як додати дуельі в стрім елементс OSFrog
+
+---
+
+22:47:31
+
+helkat0212: Yt xe. dslkzyyz
+
+---
+
+22:47:33
+
+ak1okatsu: хохомка збоченка то відлунок
+
+---
+
+22:47:38
+
+helkat0212: Ельфійська блін
+
+---
+
+22:47:42
+
+ak1okatsu: @hauha333 звичайно
+
+---
+
+22:47:49
+
+vitendas: нік колишній його
+
+---
+
+22:47:56
+
+maks_malitsk: SeriousSloth
+
+---
+
+22:48:01
+
+onoffffffff32: @Helkat0212 в мене для Ґ є окрема клавіша
+
+---
+
+22:48:11
+
+pixelfedya: ghbdsn [tlmrfn
+
+---
+
+22:48:11
+
+ak1okatsu: !бля
+
+---
+
+22:48:11
+
+pawrop: @ak1okatsu, "рфгрф333 звичайно
+
+---
+
+22:48:11
+
+botbandera: @Ak1okatsu хотів сказати: !бля
+
+---
+
+22:48:13
+
+pixelfedya: !бля
+
+---
+
+22:48:13
+
+pawrop: @pixelfedya, привіт хедькат
+
+---
+
+22:48:13
+
+botbandera: @PixelFedya хотів сказати: привіт хедькат
+
+---
+
+22:48:22
+
+hauha333: @ak1okatsu  застав тільки його в дс зайти ak1okaXd
+
+---
+
+22:48:30
+
+ak1okatsu: @hauha333 вже завтра
+
+---
+
+22:48:38
+
+hauha333: @ak1okatsu  pixelf8LOVE
+
+---
+
+22:48:43
+
+helkat0212: Я зрозумів - просто не у всіх є той бот
+
+---
+
+22:48:44
+
+vitendas: хто від кого
+
+---
+
+22:48:44
+
+maks_malitsk: Vasil Loh
+
+---
+
+22:48:52
+
+maks_malitsk: !бля
+
+---
+
+22:48:52
+
+pawrop: @maks_malitsk, Мфішд Дщр
+
+---
+
+22:48:52
+
+botbandera: @maks_malitsk хотів сказати: Мфішд Дщр
+
+---
+
+22:48:58
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+22:49:08
+
+ak1okatsu: +
+
+---
+
+22:49:09
+
+maks_malitsk: +
+
+---
+
+22:49:10
+
+magnus_vell: +
+
+---
+
+22:49:11
+
+sfxcspwi_: Васи чек пп твічу
+
+---
+
+22:49:13
+
+sfxcspwi_: +
+
+---
+
+22:49:13
+
+hauha333: +
+
+---
+
+22:49:20
+
+helkat0212: +-%\
+
+---
+
+22:49:30
+
+champik_is_back: +
+
+---
+
+22:49:39
+
+ak1okatsu: від ролі
+
+---
+
+22:49:43
+
+maks_malitsk: MyAvatar
+
+---
+
+22:50:00
+
+onoffffffff32: "
+
+---
+
+22:50:04
+
+maks_malitsk: pixelf8LOVE
+
+---
+
+22:50:42
+
+sfxcspwi_: В рекомендаціях знайшов, бачив як в мак грали
+
+---
+
+22:50:45
+
+kopanskyy: ЦЕЯ
+
+---
+
+22:50:49
+
+rebrance: @pixelfedya Привіт кращий стрімер після Ролі, Христинки, Кактуса, Хохомки, Остапчика, Ворона   FutureMan
+
+---
+
+22:51:06
+
+onoffffffff32: @kopanskyy  HeyGuys
+
+---
+
+22:51:08
+
+hauha333: @pixelfedya Я тебе ще давно хтів до тебе зайти навіть до того як кинув рейд роля мені твіч тебе рекомендував ak1okaXd
+
+---
+
+22:51:16
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+22:51:20
+
+kopanskyy: HeyGuys
+
+---
+
+22:51:34
+
+rebrance: Трішки піднімаєшся з дна
+
+---
+
+22:51:45
+
+kitaychik_: pixelf8LOVE pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:51:53
+
+maks_malitsk: LUL
+
+---
+
+22:51:53
+
+rebrance: PogChamp
+
+---
+
+22:51:55
+
+kopanskyy: Шо ви тут плюсики кидали, якшо шо я тоже за
+
+---
+
+22:52:08
+
+kitaychik_: шошошо?
+
+---
+
+22:52:34
+
+rebrance: Не було такого, роля сам вирішив на тебе кинути рейд
+
+---
+
+22:52:45
+
+maks_malitsk: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:52:45
+
+onoffffffff32: Я від афк стрімера на ютубі
+
+---
+
+22:53:19
+
+hauha333: ЦІКАВИЙ ФАКТ НАВІТЬ ЯКЩО БУДЕШ ЗАХОДИТИ ДО ФЕДІ НА ЕОЖЕН стрім тоти не отримаєш віпку ak1okaXd
+
+---
+
+22:53:22
+
+kopanskyy: Так так ясам по собі воїн
+
+---
+
+22:53:24
+
+maks_malitsk: Петрович в гаражі тебе найшов
+
+---
+
+22:53:25
+
+champik_is_back: Я з твого онліфансу перейшов на твіч
+
+---
+
+22:53:30
+
+rebrance: Ти на ютубі стрімив?
+
+---
+
+22:54:13
+
+maks_malitsk: Білочка
+
+---
+
+22:54:22
+
+onoffffffff32: норма
+
+---
+
+22:54:26
+
+seesmof: я так само роблю
+
+---
+
+22:54:30
+
+emfoniks: йобнувся чоловік
+
+---
+
+22:55:08
+
+maks_malitsk: trembaaLUL
+
+---
+
+22:55:19
+
+kopanskyy: імба
+
+---
+
+22:55:24
+
+toper1337: Коли нормальні відоси на ютубі?) Я чекаю легендарних переходів і максимально адекватних початків відосів)
+
+---
+
+22:55:28
+
+maks_malitsk: Уа
+
+---
+
+22:55:29
+
+maks_malitsk: А
+
+---
+
+22:55:39
+
+maks_malitsk: Я навіть не знав що ти ще на ютубі стрімиш
+
+---
+
+22:55:45
+
+maks_malitsk: !ютуб
+
+---
+
+22:55:57
+
+hauha333: pixelf8LooooooL
+
+---
+
+22:56:31
+
+hauha333: Вся інфа про стріми тут - ***
+
+---
+
+22:56:37
+
+hauha333: ak1okaXd
+
+---
+
+22:56:41
+
+toper1337: тільки петровича?(
+
+---
+
+22:57:27
+
+opudalo: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+22:59:12
+
+emfoniks: пішов в сраку
+
+---
+
+22:59:26
+
+emfoniks: англійської не знаєш чи шо
+
+---
+
+22:59:36
+
+maks_malitsk: Я тут
+
+---
+
+22:59:38
+
+maks_malitsk: trembaaHey
+
+---
+
+22:59:51
+
+emfoniks: от знаєш
+
+---
+
+22:59:55
+
+emfoniks: шо брешеш
+
+---
+
+23:00:02
+
+seesmof: та все він знає
+
+---
+
+23:00:02
+
+sfxcspwi_: Васи чекни пп стіма
+
+---
+
+23:00:16
+
+seesmof: :D
+
+---
+
+23:00:22
+
+maks_malitsk: LUL
+
+---
+
+23:00:28
+
+sfxcspwi_: За шо
+
+---
+
+23:01:02
+
+maks_malitsk: Василько поставь гавно за 500 балів
+
+---
+
+23:01:34
+
+maks_malitsk: SeriousSloth
+
+---
+
+23:01:42
+
+sfxcspwi_: Васи чекни пп стіму
+
+---
+
+23:01:43
+
+hauha333: @pixelfedya  тебе всі називають Василь (федя) але я тебе буду називати курваааа pixelf8LooooooL
+
+---
+
+23:01:45
+
+onoffffffff32: зазіркувався
+
+---
+
+23:01:51
+
+maks_malitsk: Завтра в Віті день народження тре його файно привітати
+
+---
+
+23:02:10
+
+emfoniks: а вебка вже працює?
+
+---
+
+23:02:24
+
+hauha333: Прочитай
+
+---
+
+23:02:30
+
+emfoniks: я на це збираю.
+
+---
+
+23:02:37
+
+maks_malitsk: Та
+
+---
+
+23:02:49
+
+toper1337: хахаха
+
+---
+
+23:02:51
+
+hauha333: Просто так ak1okaXd
+
+---
+
+23:03:00
+
+emfoniks: у мене є ціль
+
+---
+
+23:03:05
+
+maks_malitsk: В Віктора за 58 хв день народження
+
+---
+
+23:03:10
+
+maks_malitsk: 57
+
+---
+
+23:03:11
+
+toper1337: у шо?
+
+---
+
+23:03:16
+
+sfxcspwi_: Васи чекни кліпи Верон по хуман фол флет
+
+---
+
+23:03:21
+
+toper1337: у шо пограти?
+
+---
+
+23:03:29
+
+hauha333: Піду кину на тебе жалобу на ютубі ak1okaXd
+
+---
+
+23:03:39
+
+volynaq: potato256Ty potato256Ty potato256Ty potato256Ty
+
+---
+
+23:03:41
+
+opudalo: що робитимеш чеерез 10 днів?
+
+---
+
+23:03:45
+
+maks_malitsk: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+23:04:00
+
+maks_malitsk: Я не знав що ти на ютубі стрімиш
+
+---
+
+23:04:01
+
+toper1337: дякую за відповідь)
+
+---
+
+23:04:05
+
+maks_malitsk: SeriousSloth
+
+---
+
+23:04:07
+
+opudalo: кого
+
+---
+
+23:04:08
+
+emfoniks: тебе нарешті коронують??
+
+---
+
+23:04:18
+
+emfoniks: нарешті
+
+---
+
+23:04:19
+
+hauha333: Федя постав вебку нижче якщо хтось шось зробить тебе буде закривати
+
+---
+
+23:04:20
+
+maks_malitsk: О сметнка
+
+---
+
+23:04:26
+
+maks_malitsk: Топ
+
+---
+
+23:04:28
+
+toper1337: ігнор
+
+---
+
+23:04:42
+
+seesmof: BillyApprove
+
+---
+
+23:04:46
+
+maks_malitsk: Фууууу я з грибами не люблю
+
+---
+
+23:04:50
+
+hauha333: Прочитай
+
+---
+
+23:04:53
+
+maks_malitsk: Але тобі приємного апетиту
+
+---
+
+23:04:56
+
+opudalo: з ґрибґами і капустов
+
+---
+
+23:05:02
+
+ak1okatsu: гриби < лайно
+
+---
+
+23:05:03
+
+hauha333: А всьо
+
+---
+
+23:05:11
+
+maks_malitsk: приємного апетиту
+
+---
+
+23:05:14
+
+toper1337: Та відповідай)
+
+---
+
+23:05:28
+
+hauha333: СМАЧНЮЦЬКОГО ak1okaNanana OSFrog
+
+---
+
+23:05:34
+
+opudalo: я сьогодні теж їв пареники
+
+---
+
+23:05:40
+
+toper1337: ок
+
+---
+
+23:05:42
+
+opudalo: вареники з картоплею
+
+---
+
+23:06:01
+
+maks_malitsk: Вони файні бо ми тобі побажали приємного апетиту
+
+---
+
+23:06:21
+
+opudalo: я зїв одного поки ти ходив там НІЧО?
+
+---
+
+23:06:50
+
+kopanskyy: Смачного!
+
+---
+
+23:06:52
+
+maks_malitsk: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+23:06:57
+
+maks_malitsk: Нормально
+
+---
+
+23:06:58
+
+opudalo: Смачного!
+
+---
+
+23:06:58
+
+lamark_sk8: СМАЧНОГО!!!
+
+---
+
+23:07:04
+
+footballworld213: Капець худі карайи льотчика нашого в стаф магазині українському розібрали .там прикольне таке було
+
+---
+
+23:07:04
+
+hauha333: Якщо що цей смайл LionOfYara прикликає владика ak1okaNanana LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara LionOfYara
+
+---
+
+23:07:07
+
+footballworld213: Смачного
+
+---
+
+23:07:18
+
+my_pivnich: та то парує від такого гарячого Федічки Kappa
+
+---
+
+23:07:32
+
+emfoniks: і найкращі однокласниці KonCha KonCha жалітимуть колись BibleThump BibleThump що в небесах Черкащини Kappa PogChamp нам не віддались TwitchUnity TwitchUnity
+
+---
+
+23:07:46
+
+maks_malitsk: Аххахахха
+
+---
+
+23:07:49
+
+maks_malitsk: Харош
+
+---
+
+23:07:51
+
+hauha333: @emfoniks ak1okaXd
+
+---
+
+23:08:07
+
+busy_bit: @PixelFedya а лізанью любиш?
+
+---
+
+23:08:18
+
+maks_malitsk: Ахаххаха
+
+---
+
+23:08:32
+
+hauha333: Включи бульку або пісню пес патрон пес патрон ak1okaNanana
+
+---
+
+23:08:32
+
+busy_bit: ні-ні, лізанью
+
+---
+
+23:08:33
+
+footballworld213: Худі типу мерч Карайа льотчик Василь ну типу ти в курсі за нього .типу його колекція
+
+---
+
+23:08:45
+
+footballworld213: Зара в тг кину фото худі
+
+---
+
+23:08:51
+
+busy_bit: trembaaLUL
+
+---
+
+23:08:57
+
+sfxcspwi_: Василь дупа
+
+---
+
+23:09:01
+
+opudalo: КОЛИ ВІН ВЖЕ НАЇСЦЯ?
+
+---
+
+23:09:08
+
+hauha333: Включи бульку або пісню пес патрон пес патрон ak1okaNanana
+
+---
+
+23:09:09
+
+sfxcspwi_: Чекни пп стіму
+
+---
+
+23:09:50
+
+footballworld213: Василь кинув в тг фото
+
+---
+
+23:09:52
+
+footballworld213: Худі
+
+---
+
+23:10:03
+
+footballworld213: Можеш як разі чекнути
+
+---
+
+23:10:16
+
+hauha333: @opudalo  він голодніє швидше ніж їсть Kappa
+
+---
+
+23:10:17
+
+my_pivnich: Ну файні ж носочки
+
+---
+
+23:10:32
+
+my_pivnich: жінка поганих не купе, хлопці
+
+---
+
+23:11:10
+
+footballworld213: Та в мене немає якось смаку виваженого але худі файне просто розібрали.
+
+---
+
+23:11:44
+
+hauha333: Факти я брехні не скажу ak1okaXd Kappa
+
+---
+
+23:12:07
+
+my_pivnich: BibleThump шо за робота така
+
+---
+
+23:12:36
+
+maks_malitsk: В пп кліп
+
+---
+
+23:12:46
+
+my_pivnich: спати укладаєш? LUL
+
+---
+
+23:12:47
+
+hauha333: Федя дуже гордиться своєю роботою
+
+---
+
+23:12:57
+
+sfxcspwi_: Чек чат ютубу
+
+---
+
+23:13:13
+
+maks_malitsk: А чо не бесплтано
+
+---
+
+23:13:22
+
+my_pivnich: Це фактично реклама
+
+---
+
+23:13:31
+
+maks_malitsk: В пп тобі кліп кинув
+
+---
+
+23:13:33
+
+my_pivnich: звучить як реклама
+
+---
+
+23:13:54
+
+my_pivnich: варенички їсть як не нуб, як профі
+
+---
+
+23:14:00
+
+footballworld213: Мені б вікна нормально на балконі перелаштувати.а то зробили криво якось
+
+---
+
+23:14:04
+
+hauha333: Якщо даш мені віпку на 30 секунд я тебе розцілюю
+
+---
+
+23:14:06
+
+sfxcspwi_: Сам ти іди в сраку
+
+---
+
+23:14:07
+
+maks_malitsk: Василь в пп тобі кліп кинув
+
+---
+
+23:14:11
+
+footballworld213: Пішов ківі візьму собі
+
+---
+
+23:14:29
+
+footballworld213: Моретті футболіст був такий наче
+
+---
+
+23:14:31
+
+toper1337: ООО НАЙКРАЩА ПІСНЯ
+
+---
+
+23:14:32
+
+hauha333: @pixelfedya прочитай
+
+---
+
+23:14:39
+
+footballworld213: Шиканемо давай
+
+---
+
+23:15:03
+
+toper1337: дякую що я все почув)
+
+---
+
+23:15:29
+
+seesmof: pretty please
+
+---
+
+23:15:39
+
+seesmof: hell yeah
+
+---
+
+23:15:40
+
+hauha333: Прочитаййй
+
+---
+
+23:16:19
+
+hauha333: Ти мені не давав ak1okaXd
+
+---
+
+23:16:31
+
+my_pivnich: то кліпали нарізки і сварилися між собою, шо хто швидше їх випускає, то нема ні в одного
+
+---
+
+23:17:08
+
+hauha333: Федя швидко ШВИДКО ТУТОРІАЛ ЯК КЛІПАТИ BibleThump
+
+---
+
+23:17:09
+
+my_pivnich: ну ніхріна яку профі річ ти собі намутив
+
+---
+
+23:17:15
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:17:46
+
+hauha333: Мені треба я забув
+
+---
+
+23:18:03
+
+my_pivnich: це для ірл стрімів?
+
+---
+
+23:18:26
+
+my_pivnich: круто
+
+---
+
+23:18:29
+
+seesmof: pretty cool
+
+---
+
+23:18:33
+
+toper1337: краще трейлер гри увімкни безкоштовної
+
+---
+
+23:18:37
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:18:40
+
+toper1337: про яку я говорив
+
+---
+
+23:18:42
+
+toper1337: тобі
+
+---
+
+23:18:47
+
+hauha333: ak1okaXd ak1okaXd
+
+---
+
+23:18:51
+
+toper1337: Knockout City
+
+---
+
+23:19:07
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:19:09
+
+maks_malitsk: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+23:19:22
+
+toper1337: пон...
+
+---
+
+23:19:29
+
+hauha333: Зламав ?
+
+---
+
+23:19:31
+
+sfxcspwi_: twitchRaid pixelf8LooooooL
+
+---
+
+23:19:31
+
+maks_malitsk: LUL
+
+---
+
+23:19:33
+
+hauha333: ak1okaXd
+
+---
+
+23:19:41
+
+maks_malitsk: pixelf8LooooooL
+
+---
+
+23:19:48
+
+seesmof: ACTION beep
+
+---
+
+23:19:59
+
+maks_malitsk: pixelf8LOVE
+
+---
+
+23:20:13
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:20:26
+
+opudalo: ВЕРНИ РЕКЛАМУ
+
+---
+
+23:20:29
+
+sfxcspwi_: Хпхахахахах
+
+---
+
+23:20:36
+
+maks_malitsk: Містер біст ще не купив ютуб?
+
+---
+
+23:20:50
+
+hauha333: @opudalo  мені стало цікаво що він хтів розказати ak1okaXd
+
+---
+
+23:20:52
+
+seesmof: yeah
+
+---
+
+23:20:53
+
+seesmof: i please
+
+---
+
+23:21:05
+
+seesmof: press and hold power button
+
+---
+
+23:21:09
+
+hauha333: Ай пліс
+
+---
+
+23:21:17
+
+svo0d1: Здоров був
+
+---
+
+23:21:41
+
+maks_malitsk: @svo0d1 trembaaHey pixelf8LooooooL
+
+---
+
+23:21:41
+
+svo0d1: Шо за супер тримачі за мільон долярів
+
+---
+
+23:21:42
+
+opudalo: чия мама?
+
+---
+
+23:21:55
+
+svo0d1: @maks_malitsk  pixelf8LOVE
+
+---
+
+23:22:02
+
+hauha333: pixelf8LooooooL
+
+---
+
+23:22:09
+
+maks_malitsk: pixelf8LOV
+
+---
+
+23:22:10
+
+seesmof: very nice
+
+---
+
+23:22:13
+
+maks_malitsk: pixelf8LOVE
+
+---
+
+23:22:32
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:22:34
+
+hauha333: Напизділи воно дьоргано йде ak1okaXd
+
+---
+
+23:22:43
+
+maks_malitsk: Ти ще її Філіпу хотів скинути
+
+---
+
+23:22:43
+
+opudalo: Норм патик
+
+---
+
+23:22:45
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:22:48
+
+svo0d1: А ти як купляв, перше що попалось в гуглі?
+
+---
+
+23:23:31
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:23:34
+
+opudalo: ГО ТРЕНУВАТИСЯ 248 ВКЛЮЧАЙ НАС НА ТЕЛЕФОН
+
+---
+
+23:24:01
+
+seesmof: makes sense
+
+---
+
+23:24:09
+
+hauha333: Накрутили відгуки а ти купився
+
+---
+
+23:24:10
+
+maks_malitsk: Кхаххаха
+
+---
+
+23:24:15
+
+nikita25454: привітулі
+
+---
+
+23:24:28
+
+seesmof: cannot promise
+
+---
+
+23:24:30
+
+maks_malitsk: Робіть кліпи шо тре клацити
+
+---
+
+23:24:36
+
+opudalo: ГО ТРЕНУВАТИСЯ 248 ВКЛЮЧАЙ НАС НА ТЕЛЕФОН
+
+---
+
+23:24:46
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:25:05
+
+svo0d1: pixelf8LooooooL
+
+---
+
+23:25:07
+
+maks_malitsk: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+23:25:48
+
+opudalo: тоді йди срати
+
+---
+
+23:26:03
+
+toper1337: ОО знов гарна пісня)
+
+---
+
+23:26:06
+
+hauha333: tik tu sitimamenya включи піснб
+
+---
+
+23:26:08
+
+maks_malitsk: Включай нас на телефон
+
+---
+
+23:26:10
+
+toper1337: ЄЄ
+
+---
+
+23:26:19
+
+onoffffffff32: Нагадай
+
+---
+
+23:26:22
+
+hauha333: ak1okaXd
+
+---
+
+23:26:27
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:26:28
+
+toper1337: ТА УВІМКНИИ!!
+
+---
+
+23:26:31
+
+toper1337: СУКОО
+
+---
+
+23:26:42
+
+maks_malitsk: pixelf8LooooooL
+
+---
+
+23:26:47
+
+opudalo: а щупати треба глибоко?
+
+---
+
+23:26:59
+
+toper1337: ...
+
+---
+
+23:27:05
+
+maks_malitsk: Труси саме цікаве
+
+---
+
+23:27:12
+
+maks_malitsk: Куда ти їх скіпнув
+
+---
+
+23:27:13
+
+toper1337: я в тильті)
+
+---
+
+23:27:13
+
+hauha333: @opudalo ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+23:27:18
+
+opudalo: ФУТБОЛКУ З ГУБКОЙ БОБОМ НЕХТО НЕ БАЧИВ
+
+---
+
+23:27:34
+
+iscxenko: Здоров
+
+---
+
+23:27:46
+
+iscxenko: О давай
+
+---
+
+23:28:03
+
+iscxenko: Та завеликі 🤣🤣🤣🤣
+
+---
+
+23:28:12
+
+maks_malitsk: А Петровичу передягнутись в дитячому будинку?
+
+---
+
+23:28:25
+
+onoffffffff32: Мене в понеділок заберуть
+
+---
+
+23:28:30
+
+iscxenko: Губка боба  давай 🤣🤣🤣
+
+---
+
+23:28:34
+
+maks_malitsk: @onoffffffff32 не факи
+
+---
+
+23:28:39
+
+opudalo: @onoffffffff32 ахахахах
+
+---
+
+23:28:48
+
+maks_malitsk: Факт*
+
+---
+
+23:29:01
+
+hauha333: ФЕДЯ ПОДИВИСЯ ТЕРМІНОВО ЗНИЖКУ ПОРТАЛ 2 ak1okaNanana
+
+---
+
+23:29:07
+
+opudalo: рви всю піжаму
+
+---
+
+23:29:13
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:29:41
+
+maks_malitsk: Крутяцкмй
+
+---
+
+23:29:45
+
+maks_malitsk: Крутяцкий
+
+---
+
+23:29:49
+
+vladdgoldin: ВАСИЛЬ
+
+---
+
+23:29:53
+
+vladdgoldin: привіт
+
+---
+
+23:29:55
+
+hauha333: ПРОЧИТАЙ ak1okaNanana
+
+---
+
+23:29:56
+
+vladdgoldin: girlxaYummy
+
+---
+
+23:30:19
+
+hauha333: @vladdgoldin привіт найкращий з найкращих
+
+---
+
+23:30:24
+
+vladdgoldin: я бачив твої ефіри на Твічі та захоплююсь твоїм вмінням проводити цікаві та захоплюючі трансляції. Ти маєш вражаючу здатність залучати глядачів та створювати теплу та затишну атмосферу, що робить твої ефіри дуже приємними для перегляду. Я відчуваю, що ти насправді знаєш, як взаємодіяти зі своїми глядачами, та займаєшся цим з великою старанністю та вмінням. Ти - справжній професіонал у своїй справі
+
+---
+
+23:30:30
+
+vladdgoldin: @hauha333 навзаєм veronkLove
+
+---
+
+23:30:43
+
+hauha333: Прочитай вище
+
+---
+
+23:31:01
+
+maks_malitsk: Я так само хотів сказати MyAvatar
+
+---
+
+23:31:03
+
+vladdgoldin: я про тебе
+
+---
+
+23:31:05
+
+vladdgoldin: атмосфера
+
+---
+
+23:31:08
+
+vladdgoldin: гамна
+
+---
+
+23:31:11
+
+vladdgoldin: girlxaYummy
+
+---
+
+23:31:20
+
+vladdgoldin: го
+
+---
+
+23:31:31
+
+vladdgoldin: Грайдузи?
+
+---
+
+23:31:35
+
+vladdgoldin: факт
+
+---
+
+23:31:39
+
+vladdgoldin: я робив
+
+---
+
+23:31:39
+
+onoffffffff32: Підштаники для мужиків
+
+---
+
+23:31:40
+
+maks_malitsk: То точно
+
+---
+
+23:31:43
+
+maks_malitsk: То тре
+
+---
+
+23:31:46
+
+vladdgoldin: @onoffffffff32 так
+
+---
+
+23:31:47
+
+hauha333: pixelf8LooooooL pixelf8LOVE
+
+---
+
+23:31:48
+
+vladdgoldin: girlxaYummy
+
+---
+
+23:32:01
+
+vladdgoldin: уфф
+
+---
+
+23:32:14
+
+vladdgoldin: шіш
+
+---
+
+23:32:16
+
+vladdgoldin: мен
+
+---
+
+23:32:17
+
+onoffffffff32: Да1 номер
+
+---
+
+23:32:23
+
+maks_malitsk: Нею можна витерти масло від машини
+
+---
+
+23:32:26
+
+hauha333: Шо за стрюмлер ааааааааххх
+
+---
+
+23:32:26
+
+vladdgoldin: ak1okaXd
+
+---
+
+23:33:05
+
+hauha333: @vladdgoldin  можеш чекнути знижку портала там 22 грн має бути
+
+---
+
+23:33:11
+
+maks_malitsk: Шашашашшашашша
+
+---
+
+23:33:19
+
+hauha333: ak1okaNanana
+
+---
+
+23:33:44
+
+maks_malitsk: Спортик
+
+---
+
+23:33:53
+
+onoffffffff32: Я і 1 і 2 частину 9а 42 грн колись залутав
+
+---
+
+23:34:14
+
+maks_malitsk: SeriousSloth
+
+---
+
+23:34:53
+
+maks_malitsk: Уфффф
+
+---
+
+23:34:59
+
+hauha333: ak1okaLalala
+
+---
+
+23:35:05
+
+maks_malitsk: То ти в них будеш в басейні 6?
+
+---
+
+23:35:26
+
+maks_malitsk: То ти в них будеш в басейні 6-го?*
+
+---
+
+23:35:35
+
+hauha333: Єба то та легендарна ?
+
+---
+
+23:36:18
+
+onoffffffff32: Слава Україні
+
+---
+
+23:36:18
+
+pawrop: @onoffffffff32, Героям слава!
+
+---
+
+23:36:18
+
+maks_malitsk: !боь
+
+---
+
+23:36:30
+
+onoffffffff32: Слава нації
+
+---
+
+23:36:30
+
+pawrop: @onoffffffff32, Смерть ворогам!
+
+---
+
+23:36:35
+
+hauha333: А тепер портал 2 чекай
+
+---
+
+23:36:45
+
+onoffffffff32: Україна понад усе!
+
+---
+
+23:36:49
+
+maks_malitsk: А кліпи
+
+---
+
+23:36:56
+
+hauha333: Чекни портал 2
+
+---
+
+23:37:28
+
+hauha333: ak1okaSadge
+
+---
+
+23:37:51
+
+toper1337: ахахах
+
+---
+
+23:38:32
+
+maks_malitsk: Та
+
+---
+
+23:38:34
+
+hauha333: ak1okaXd ak1okaXd ak1okaXd
+
+---
+
+23:38:43
+
+toper1337: 1 в 1)
+
+---
+
+23:39:03
+
+onoffffffff32: Портал чекай
+
+---
+
+23:39:05
+
+toper1337: Я ГЕНЕРАТОР ІДЕЙ ПОДИВИСЬ ТРЕЙЛЕР ГРИ
+
+---
+
+23:39:07
+
+hauha333: Портал 2 чекнии ak1okaXd
+
+---
+
+23:39:08
+
+toper1337: моєї
+
+---
+
+23:39:13
+
+toper1337: безкоштової
+
+---
+
+23:39:13
+
+hauha333: Курвій
+
+---
+
+23:39:38
+
+toper1337: Вася!
+
+---
+
+23:39:43
+
+toper1337: АЛО
+
+---
+
+23:39:57
+
+hauha333: Там 22 гривня до 1 травня
+
+---
+
+23:39:58
+
+toper1337: купуй
+
+---
+
+23:40:00
+
+toper1337: лол
+
+---
+
+23:40:16
+
+toper1337: @hauha333 СКІКОО!!!
+
+---
+
+23:40:19
+
+toper1337: Я КУПУЮ
+
+---
+
+23:40:25
+
+toper1337: БУДЕМО ГРАТИ В "-Х
+
+---
+
+23:40:29
+
+toper1337: 2-х
+
+---
+
+23:40:32
+
+toper1337: ВАСЯ!!!!
+
+---
+
+23:40:36
+
+hauha333: @toper1337   мені в тт попадалося ak1okaNanana ak1okaNanana
+
+---
+
+23:40:51
+
+toper1337: ТАКК!! МОЖНА У 2-х
+
+---
+
+23:40:57
+
+footballworld213: Я у герої 7 граю ось куди я увірвався
+
+---
+
+23:41:07
+
+toper1337: ок)
+
+---
+
+23:41:08
+
+opudalo: в другий можна
+
+---
+
+23:41:35
+
+opudalo: В ТЕБЕ Є ПОРТАЛ
+
+---
+
+23:41:40
+
+maks_malitsk: Ти шо білочку схопив
+
+---
+
+23:41:40
+
+hauha333: Дота дота дотам Kappa ak1okaXd
+
+---
+
+23:41:53
+
+toper1337: я тебе зараз...
+
+---
+
+23:41:57
+
+footballworld213: Герої меча та магії 7 частина типу різні фракції лісні,альянс
+
+---
+
+23:41:58
+
+toper1337: ти чекнеш чи ні?
+
+---
+
+23:42:08
+
+footballworld213: Яка дота ясно і тут таке.
+
+---
+
+23:42:11
+
+toper1337: ТА Я НЕ ЗА ДОТУ
+
+---
+
+23:42:14
+
+toper1337: ....
+
+---
+
+23:42:21
+
+toper1337: ЧЕЕКНИ ГРУ МОЮ
+
+---
+
+23:42:22
+
+footballworld213: Дота 2 це зло
+
+---
+
+23:42:27
+
+toper1337: бескоштовну
+
+---
+
+23:42:31
+
+hauha333: ak1okaLalala
+
+---
+
+23:42:51
+
+maks_malitsk: -750
+
+---
+
+23:42:54
+
+toper1337: ТОБІІІІІІ
+
+---
+
+23:42:57
+
+toper1337: СУКО!!!!
+
+---
+
+23:42:59
+
+hauha333: Бан саню Kappa
+
+---
+
+23:43:10
+
+footballworld213: Кс один на один
+
+---
+
+23:43:16
+
+toper1337: ТА НЕ ДОТУ А ТЕБЕ!!!!!!!!!!!!!
+
+---
+
+23:43:19
+
+nikita25454: дбрий день вам пише привадбанк вашу карту було заблоко щоб її розблокувати н
+
+---
+
+23:43:19
+
+toper1337: ВАСЯ!!
+
+---
+
+23:43:22
+
+onoffffffff32: Го в пабг
+
+---
+
+23:43:38
+
+toper1337: ТА-ПРО-ЧИ-ТАЙ
+
+---
+
+23:43:41
+
+hauha333: ЧЕКАЄМ БРАВЛ СТАРС !!!! pixelf8LooooooL pixelf8LooooooL
+
+---
+
+23:43:44
+
+footballworld213: Приват банк файно тролить
+
+---
+
+23:43:45
+
+toper1337: ТИ-ЗА-ДО-ВБАВ
+
+---
+
+23:43:48
+
+maks_malitsk: Го фол гайс
+
+---
+
+23:44:00
+
+hauha333: Добре я йду спати ak1okaNanana
+
+---
+
+23:44:00
+
+footballworld213: Я в доту 2
+
+---
+
+23:44:03
+
+footballworld213: Пішов
+
+---
+
+23:44:15
+
+maks_malitsk: SeriousSloth
+
+---
+
+23:44:16
+
+toper1337: Knockout City  - чекни чекни чекни чекни чекни
+
+---
+
+23:44:30
+
+footballworld213: Шуткую ніколи
+
+---
+
+23:44:32
+
+hauha333: Бобраніч дупи
+
+---
+
+23:44:34
+
+onoffffffff32: Пубг
+
+---
+
+23:44:38
+
+footballworld213: Я поки в героях 7 частині
+
+---
+
+23:44:38
+
+toper1337: Ти курва?
+
+---
+
+23:44:43
+
+maks_malitsk: @hauha333 trembaaHey
+
+---
+
+23:44:50
+
+hauha333: pixelf8LOVE
+
+---
+
+23:44:56
+
+lamark_sk8: @hauha333 trembaaHey trembaaHey trembaaHey
+
+---
+
+23:45:10
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:45:11
+
+toper1337: Я зараз взорвуся...
+
+---
+
+23:45:17
+
+toper1337: ВАСЯ!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+---
+
+23:45:40
+
+toper1337: о побачив)
+
+---
+
+23:46:03
+
+maks_malitsk: Василь вони коли тебе бачуть вони на стрім бояться зайти не то що в чат
+
+---
+
+23:46:04
+
+toper1337: та яку там нормальну атмосферу ти жуйкою харькає у глядачів)
+
+---
+
+23:46:11
+
+maks_malitsk: Ти такий грозний
+
+---
+
+23:46:13
+
+footballworld213: Я просто люблю такого жанру нід фор спід останній хіт грав,евро трак файний,герої моя частина також ну і можливо постріляти шось
+
+---
+
+23:46:13
+
+toper1337: в ірл)
+
+---
+
+23:46:16
+
+toper1337: так
+
+---
+
+23:46:19
+
+toper1337: вона
+
+---
+
+23:46:20
+
+opudalo: та яку там нормальну атмосферу ти жуйкою харькає у глядачів)
+
+---
+
+23:46:21
+
+nikita25454: побачим побачим
+
+---
+
+23:46:37
+
+footballworld213: Роля співає на стрімі
+
+---
+
+23:46:40
+
+footballworld213: Василь
+
+---
+
+23:47:02
+
+footballworld213: Пісню фантома файно
+
+---
+
+23:47:10
+
+toper1337: КОРОЧЕ - це типу вибивалки? грав в дитинстві? тут рубишся 3 на 3 з челами задача- вибити
+
+---
+
+23:47:14
+
+toper1337: так
+
+---
+
+23:47:39
+
+toper1337: тут типу є 3 жизні у кожного різні м'ячі різні мапи, і різні режими
+
+---
+
+23:47:39
+
+maks_malitsk: Норм
+
+---
+
+23:47:48
+
+footballworld213: Я шось як не скажу форсаж або гонки ігри всі шось проти
+
+---
+
+23:47:51
+
+footballworld213: Цього
+
+---
+
+23:48:04
+
+toper1337: качаєш?
+
+---
+
+23:48:10
+
+onoffffffff32: Піду відпочивати, всіх цбомаю. Гарного стріму!
+
+---
+
+23:48:11
+
+toper1337: в суботу залетимо
+
+---
+
+23:48:18
+
+toper1337: так
+
+---
+
+23:48:30
+
+maks_malitsk: @onoffffffff32 trembaaHey pixelf8LOVE pixelf8LooooooL
+
+---
+
+23:48:36
+
+toper1337: го у портал)) 1)
+
+---
+
+23:48:47
+
+toper1337: зараз
+
+---
+
+23:48:57
+
+toper1337: а потім я з тобою 2-й пройду)
+
+---
+
+23:50:05
+
+toper1337: го?
+
+---
+
+23:50:24
+
+toper1337: нема за що
+
+---
+
+23:50:42
+
+toper1337: так а портал 2йдемо потім? у 2-х?
+
+---
+
+23:51:03
+
+footballworld213: Та видно робота замахала Василя стомився
+
+---
+
+23:51:29
+
+toper1337: НУ ТАК ВСЕ ВСТИГНЕМО))
+
+---
+
+23:51:38
+
+toper1337: у неділю
+
+---
+
+23:51:54
+
+toper1337: НЕ ДАУУУУУ)
+
+---
+
+23:51:57
+
+toper1337: ууу
+
+---
+
+23:52:04
+
+toper1337: хахаахах
+
+---
+
+23:52:07
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:52:08
+
+toper1337: НЕ да УУУ
+
+---
+
+23:52:10
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:52:33
+
+toper1337: хаххахаха
+
+---
+
+23:52:35
+
+volynaq: LUL LUL LUL
+
+---
+
+23:52:49
+
+toper1337: ХАХАХХАХАХ
+
+---
+
+23:52:55
+
+toper1337: а де я був?)0
+
+---
+
+23:52:56
+
+maks_malitsk: Ага
+
+---
+
+23:53:10
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+23:53:22
+
+toper1337: ахаххахахаа
+
+---
+
+23:53:24
+
+maks_malitsk: LUL
+
+---
+
+23:54:42
+
+toper1337: то у мене інету не було)
+
+---
+
+23:54:52
+
+maks_malitsk: pixelf8LooooooL
+
+---
+
+23:55:42
+
+toper1337: ХАХАХАХАХА
+
+---
+
+23:55:43
+
+maks_malitsk: LUL
+
+---
+
+23:56:21
+
+toper1337: ХАХАХАХХА
+
+---
+
+23:56:22
+
+toper1337: аххаха
+
+---
+
+23:56:46
+
+opudalo: топ кліп
+
+---
+
+23:56:53
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+23:56:55
+
+toper1337: )
+
+---
+
+23:57:15
+
+toper1337: я 1 кліпи роблю))
+
+---
+
+23:57:17
+
+toper1337: ?
+
+---
+
+23:57:25
+
+maks_malitsk: LUL
+
+---
+
+23:57:45
+
+toper1337: ахаххахаа
+
+---
+
+23:57:54
+
+opudalo: ахаха
+
+---
+
+23:57:55
+
+toper1337: до кінця
+
+---
+
+23:57:56
+
+maks_malitsk: Норм зйомка
+
+---
+
+23:58:04
+
+toper1337: Е_Е_Е_Е
+
+---
+
+23:58:07
+
+toper1337: до кінця
+
+---
+
+23:58:10
+
+opudalo: верни
+
+---
+
+23:58:21
+
+footballworld213: Василь як завжди шось чудить))
+
+---
+
+23:58:31
+
+maks_malitsk: trembaaLUL
+
+---
+
+23:58:32
+
+seesmof: це шок
+
+---
+
+23:58:47
+
+seesmof: !бам
+
+---
+
+23:58:47
+
+pawrop: Розкручую барабан... 🎯 @seesmof, сьогодні Вам пощастило! Револьвер не вистрілив 👐
+
+---
+
+23:58:54
+
+toper1337: ахаххаха
+
+---
+
+23:59:02
+
+maks_malitsk: PogChamp PogChamp PogChamp
+
+---
+
+23:59:02
+
+seesmof: nice
+
+---
+
+23:59:03
+
+yurabunchak: fluffy561Opop
+
+---
+
+23:59:05
+
+rebrance: Привіт я новенький з рейду як тебе звати?
+
+---
+
+23:59:06
+
+opudalo: Роля няшка
+
+---
+
+23:59:11
+
+maks_malitsk: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+23:59:21
+
+roolex9: aaaaaaaaaaaaaaaa
+
+---
+
+23:59:23
+
+toper1337: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+23:59:24
+
+yurabunchak: шо за ультразвук
+
+---
+
+23:59:28
+
+maks_malitsk: pixelf8LooooooL pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE pixelf8LooooooL pixelf8LOVE
+
+---
+
+23:59:29
+
+yurabunchak: ak1okaXd
+
+---
+
+23:59:37
+
+k4sp3rsex: ААААААААААААААААААААААААААААААААААААААААААААА
+
+---
+
+23:59:39
+
+opudalo: CaitlynS
+
+---
+
+23:59:39
+
+seesmof: Вуйко
+
+---
+
+23:59:40
+
+toper1337: ф?)
+
+---
+
+23:59:40
+
+seesmof: welcome
+
+---
+
+23:59:44
+
+yurabunchak: PogChamp
+
+---
+
+23:59:47
+
+yurabunchak: все голос сів
+
+---
+
+23:59:48
+
+k4sp3rsex: НЕ РИГАЙ Федя
+
+---
+
+23:59:49
+
+legolas_07_: привіт вуйкууу missma46Hi missma46Hi missma46Hi
+
+---
+
+23:59:50
+
+yurabunchak: ak1okaSho
+
+---
+
+23:59:50
+
+vady4: мінус сусіди
+
+---
+
+23:59:54
+
+maks_malitsk: Ф5
+
+---
+
+23:59:55
+
+toxictrash64: veronkPaw
+
+---
+
+23:59:58
+
+toper1337: ну бб)
+
+---
+
