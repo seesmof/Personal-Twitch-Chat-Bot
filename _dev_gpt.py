@@ -43,8 +43,8 @@ async def event_message(ctx):
         output_text = "@" + ctx.author.name + ", "
         try:
             output_text += mfs.ora_ua(input_text, context_fedya)
-        else:
-            output_text += "I'm sorry, I couldn't understand that."
+        except:
+            output_text += ""
 
         end_time = time.time()
         elapsed_time = end_time - start_time
