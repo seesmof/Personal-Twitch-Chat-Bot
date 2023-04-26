@@ -9,6 +9,7 @@ import re
 import mfs
 from vars import *
 import pyautogui
+import random
 
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
@@ -45,7 +46,7 @@ async def event_message(ctx):
         try:
             output_text += mfs.ora_ua(input_text, context_fedya)
         except:
-            output_text += ""
+            output_text += random.choice(mfs.error_ua)
             pyautogui.alert("No message was generated, check it out. Most likely a problem on service side",
                             "ERROR: No message generated", timeout=None)
 
