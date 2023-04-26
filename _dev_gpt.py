@@ -37,6 +37,7 @@ async def event_message(ctx):
 
     letters = ["@wuyodo"]
     if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
+        all_good = True
         print("\nGenerating a message...")
         start_time = time.time()
 
@@ -48,13 +49,20 @@ async def event_message(ctx):
         except:
             output_text += "Повідомлення не було згенеровано." + \
                 random.choice(mfs.error_ua)
-            pyautogui.alert("No message was generated, check it out. Most likely a problem on service side",
-                            "ERROR: No message generated", timeout=None)
+            all_good = False
 
         end_time = time.time()
         elapsed_time = end_time - start_time
         await mfs.send_split_gpt(ctx, output_text)
         print(f"\nGenerated in {elapsed_time:.2f} seconds")
+        if all_good:
+            mfs.write_to_log(
+                f"Generated in {elapsed_time:.2f} seconds", GPT_BOT_NICK, CHANNEL)
+        else:
+            mfs.write_to_log(
+                f"Повідомлення не було згенеровано.", GPT_BOT_NICK, CHANNEL)
+            pyautogui.alert("No message was generated, check it out. Most likely a problem on service side",
+                            "ERROR: No message generated", timeout=None)
     await asyncio.sleep(20)
 
 
