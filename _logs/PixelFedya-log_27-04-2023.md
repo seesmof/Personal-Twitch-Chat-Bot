@@ -814,3 +814,39 @@ katrusya112: О, файно
 
 ---
 
+00:16:10
+
+toper1337: м
+
+---
+
+00:16:12
+
+opudalo: м
+
+---
+
+00:16:13
+
+toper1337: а
+
+---
+
+00:16:16
+
+seesmof: hmm again :D
+
+---
+
+00:16:16
+
+maks_malitsk: М
+
+---
+
+00:16:17
+
+katrusya112: veronkLaugh
+
+---
+
