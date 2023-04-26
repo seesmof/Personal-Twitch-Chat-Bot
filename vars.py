@@ -106,6 +106,16 @@ greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!"
 goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
               "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
 error_ua = ["Щось пішло не так", ""]
+error_en = ["Oops, something went wrong. Please try again later.",
+            "We're sorry, but we're experiencing some technical difficulties. Please bear with us while we work to fix the issue.",
+            "Uh oh! It looks like something went wrong. We're not sure what happened, but we're investigating the issue.",
+            "Houston, we have a problem. Our team is working to resolve the issue as quickly as possible.",
+            "Whoops! It looks like something didn't quite work. We're on it!",
+            "We're sorry, but we're experiencing some turbulence. Please fasten your seatbelt and try again later.",
+            "Oh no! It looks like we've hit a snag. Our team is working to get things back on track.",
+            "We're sorry, but our system is having a bad day. Please try again later when it's feeling better.",
+            "We're experiencing some turbulence on our end. Please sit tight while we work to resolve the issue.",
+            "Error 404: Sense of humor not found. Our team is working to restore it ASAP."]
 
 log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
 
