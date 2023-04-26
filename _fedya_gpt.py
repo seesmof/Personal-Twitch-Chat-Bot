@@ -43,12 +43,25 @@ async def event_message(ctx):
         input_text = ctx.content.replace("@wuyodo", "")
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
-        output_text += mfs.ora_ua(input_text, context_fedya)
+        try:
+            output_text += mfs.ora_ua(input_text, context_fedya)
+        except:
+            output_text += "Повідомлення не було згенеровано. " + \
+                random.choice(mfs.error_ua)
+            all_good = False
 
         end_time = time.time()
         elapsed_time = end_time - start_time
         await mfs.send_split_gpt(ctx, output_text)
         print(f"\nGenerated in {elapsed_time:.2f} seconds")
+        if all_good:
+            mfs.write_to_log(
+                f"Generated in {elapsed_time:.2f} seconds", GPT_BOT_NICK, CHANNEL)
+        else:
+            mfs.write_to_log(
+                f"Повідомлення не було згенеровано.", GPT_BOT_NICK, CHANNEL)
+            pyautogui.alert(f"{CHANNEL}\n{ctx.author.name}: {ctx.content}. \n\nNo message was generated, check it out. Most likely a problem on service side",
+                            "ERROR: No message generated", timeout=None)
     await asyncio.sleep(20)
 
 
