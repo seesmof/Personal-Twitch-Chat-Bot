@@ -140,3 +140,4 @@ def phind_en(input_prompt):
 def you(input_prompt):
     response = you.Completion.create(
         prompt=input_prompt, detailed=True, include_links=False)
+    return response
