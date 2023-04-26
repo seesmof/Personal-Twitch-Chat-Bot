@@ -105,6 +105,7 @@ greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!"
                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
 goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
               "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
+error_ua = ["Щось пійшло не так"]
 
 log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
 
