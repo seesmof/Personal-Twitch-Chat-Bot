@@ -105,17 +105,24 @@ greetings_en = ["Hey!", "What's up?", "Yo!", "Greetings!", "Hi there!", "Howdy!"
                 "Good day!", "What's happening?", "Sup?", "How's everything?", "What's up, buddy?", "Good to see you!"]
 goodbye_ua = ["До побачення", "Довідзен'я", "Па-па",
               "До зустрічі", "Побачимось ще", "Приходьте ще", "Прощавайте"]
-error_ua = ["Щось пішло не так", ""]
+error_ua = ["Ой, щось пішло не так. Будь ласка, спробуйте пізніше".
+            "Вибачте, але у нас виникли технічні труднощі. Будь ласка, зачекайте, доки ми вирішимо проблему".
+            "Ой, ой! Схоже, щось пішло не так. Ми не впевнені, що сталося, але ми розслідуємо цю проблему".
+            "Х'юстон, у нас проблема. Наша команда працює над тим, щоб вирішити питання якомога швидше".
+            "Упс! Схоже, щось не спрацювало. Ми працюємо над цим!"
+            "Вибачте, ми відчуваємо турбулентність. Будь ласка, пристебніть ремені безпеки і спробуйте пізніше".
+            "Вибачте, але у нашої системи сьогодні поганий день. Будь ласка, спробуйте пізніше, коли буде краще."
+            "На нашому боці спостерігаються деякі збої. Будь ласка, зачекайте, поки ми вирішимо проблему."
+            ]
 error_en = ["Oops, something went wrong. Please try again later.",
             "We're sorry, but we're experiencing some technical difficulties. Please bear with us while we work to fix the issue.",
             "Uh oh! It looks like something went wrong. We're not sure what happened, but we're investigating the issue.",
             "Houston, we have a problem. We are working to resolve the issue as quickly as possible.",
             "Whoops! It looks like something didn't quite work. We're on it!",
             "We're sorry, but we're experiencing some turbulence. Please fasten your seatbelt and try again later.",
-            "Oh no! It looks like we've hit a snag. Our team is working to get things back on track.",
             "We're sorry, but our system is having a bad day. Please try again later when it's feeling better.",
             "We're experiencing some turbulence on our end. Please sit tight while we work to resolve the issue.",
-            "Error 404: Sense of humor not found. Our team is working to restore it ASAP."]
+            "ERROR 404: Sense of humor not found. Our team is working to restore it ASAP."]
 
 log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
 
