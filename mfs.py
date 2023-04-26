@@ -8,7 +8,6 @@ import time
 import requests
 import re
 from vars import *
-import ora
 import phind
 import you
 
