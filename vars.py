@@ -109,7 +109,7 @@ error_ua = ["Щось пішло не так", ""]
 error_en = ["Oops, something went wrong. Please try again later.",
             "We're sorry, but we're experiencing some technical difficulties. Please bear with us while we work to fix the issue.",
             "Uh oh! It looks like something went wrong. We're not sure what happened, but we're investigating the issue.",
-            "Houston, we have a problem. Our team is working to resolve the issue as quickly as possible.",
+            "Houston, we have a problem. We are working to resolve the issue as quickly as possible.",
             "Whoops! It looks like something didn't quite work. We're on it!",
             "We're sorry, but we're experiencing some turbulence. Please fasten your seatbelt and try again later.",
             "Oh no! It looks like we've hit a snag. Our team is working to get things back on track.",
