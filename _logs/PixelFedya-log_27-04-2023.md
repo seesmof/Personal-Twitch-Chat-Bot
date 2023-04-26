@@ -544,3 +544,33 @@ vladdgoldin: ak1okaHaha
 
 ---
 
+00:10:33
+
+vladdgoldin: PogChamp
+
+---
+
+00:10:44
+
+maks_malitsk: Василь там ще мої 3 кліп є
+
+---
+
+00:10:44
+
+toper1337: ААААААААААААААААААААААААААЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙ
+
+---
+
+00:10:46
+
+vladdgoldin: тае
+
+---
+
+00:10:58
+
+vladdgoldin: ak1okaNanana
+
+---
+
