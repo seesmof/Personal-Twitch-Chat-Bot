@@ -135,3 +135,8 @@ def phind_en(input_prompt):
         codeContext='')  # up to 3000 chars of code
 
     return result.completion.choices[0].text
+
+
+def you(input_prompt):
+    response = you.Completion.create(
+        prompt=input_prompt, detailed=True, include_links=False)
