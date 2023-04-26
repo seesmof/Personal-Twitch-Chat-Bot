@@ -1,57 +1,33 @@
-from twitchio.ext import commands
-from datetime import datetime
-import openai
-import os
-import asyncio
-import time
-import requests
-import re
-import mfs
-from vars import *
-import ora
+import phind
 
-BOT_PREFIX = "!"
-CHANNEL = "PixelFedya"
-# CHANNEL = "seesmof"
+# set cf_clearance cookie (needed again)
+phind.cf_clearance = 'xx.xx-1682166681-0-160'
+# same as the one from browser you got cf_clearance from
+phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
 
+prompt = 'who won the quatar world cup'
 
-bot = commands.Bot(
-    irc_token=GPT_TMI_TOKEN,
-    client_id=GPT_CLIENT_ID,
-    nick=GPT_BOT_NICK,
-    prefix=BOT_PREFIX,
-    initial_channels=[CHANNEL]
-)
+# help needed: not getting newlines from the stream, please submit a PR if you know how to fix this
+# stream completion
+for result in phind.StreamingCompletion.create(
+        model='gpt-4',
+        prompt=prompt,
+        # create search (set actualSearch to False to disable internet)
+        results=phind.Search.create(prompt, actualSearch=True),
+        creative=False,
+        detailed=False,
+        codeContext=''):  # up to 3000 chars of code
 
+    print(result.completion.choices[0].text, end='', flush=True)
 
-@ bot.event
-async def event_ready():
-    print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
-    mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
+# normal completion
+result = phind.Completion.create(
+    model='gpt-3.5',
+    prompt=prompt,
+    # create search (set actualSearch to False to disable internet)
+    results=phind.Search.create(prompt, actualSearch=True),
+    creative=False,
+    detailed=False,
+    codeContext='')  # up to 3000 chars of code
 
-
-@ bot.event
-async def event_message(ctx):
-    if ctx.author.name.lower() == GPT_BOT_NICK.lower():
-        print(f"\nBOT: {ctx.content}")
-        return
-
-    letters = ["@wuyodo"]
-    if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
-        print("\nGenerating a message...")
-        start_time = time.time()
-
-        input_text = ctx.content.replace("@wuyodo", "")
-        input_text = " ".join(input_text.split())
-        output_text = "@" + ctx.author.name + ", "
-        output_text += mfs.ora_ua(input_text, context_fedya)
-
-        end_time = time.time()
-        elapsed_time = end_time - start_time
-        await mfs.send_split_gpt(ctx, output_text)
-        print(f"\nGenerated in {elapsed_time:.2f} seconds")
-    await asyncio.sleep(20)
-
-
-if __name__ == "__main__":
-    bot.run()
+print(result.completion.choices[0].text)
