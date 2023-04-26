@@ -6982,3 +6982,27 @@ maks_malitsk: @PixelFedya Васильку сонечко ти наше ясне
 
 ---
 
+21:51:44
+
+ak1okatsu: @maks_malitsk йди ти в сраку
+
+---
+
+21:51:46
+
+ak1okatsu: аххахаха
+
+---
+
+21:51:49
+
+kitaychik_: Зліва Лачен, а зправа Шінобі
+
+---
+
+21:51:54
+
+maks_malitsk: @ak1okatsu MyAvatar
+
+---
+
