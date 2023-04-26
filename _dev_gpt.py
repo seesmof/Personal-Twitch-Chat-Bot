@@ -47,7 +47,7 @@ async def event_message(ctx):
         try:
             output_text += mfs.ora_ua(input_text, context_fedya)
         except:
-            output_text += "Повідомлення не було згенеровано." + \
+            output_text += "Повідомлення не було згенеровано. " + \
                 random.choice(mfs.error_ua)
             all_good = False
 
@@ -61,7 +61,7 @@ async def event_message(ctx):
         else:
             mfs.write_to_log(
                 f"Повідомлення не було згенеровано.", GPT_BOT_NICK, CHANNEL)
-            pyautogui.alert("No message was generated, check it out. Most likely a problem on service side",
+            pyautogui.alert(f"{ctx.author.name}: {ctx.context}. \n\nNo message was generated, check it out. Most likely a problem on service side",
                             "ERROR: No message generated", timeout=None)
     await asyncio.sleep(20)
 
