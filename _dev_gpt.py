@@ -48,7 +48,8 @@ async def event_message(ctx):
             output_text += mfs.ora_ua(input_text, context_fedya)
         except:
             output_text += ""
-            pyautogui.alert(output_message, "Чуваче, диви чат!", timeout=None)
+            pyautogui.alert("Could not generate an AI message",
+                            "ERROR: No message generated", timeout=None)
 
         end_time = time.time()
         elapsed_time = end_time - start_time
