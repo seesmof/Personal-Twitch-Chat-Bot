@@ -6658,3 +6658,15 @@ maks_malitsk: Диви як ігнорееек
 
 ---
 
+21:44:06
+
+maks_malitsk: Ти мені обіцяв шо додаш в друзі trembaaCry trembaaCry trembaaCry trembaaCry trembaaCry
+
+---
+
+21:44:10
+
+vady4: та го зараз Філіпа
+
+---
+
