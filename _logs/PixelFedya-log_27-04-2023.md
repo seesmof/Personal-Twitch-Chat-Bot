@@ -742,3 +742,27 @@ seesmof: sad hmm
 
 ---
 
+00:14:01
+
+maks_malitsk: LUL
+
+---
+
+00:14:10
+
+maks_malitsk: trembaaLUL
+
+---
+
+00:14:14
+
+toper1337: м... М... МЕЕЕЕЕЕЕЕЕЕЕЕЕЕННН)
+
+---
+
+00:14:17
+
+crazycherrybro: ACTION показує сіськи 3 розміру в чат за віпку і сабку 󠀀
+
+---
+
