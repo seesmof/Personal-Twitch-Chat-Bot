@@ -592,3 +592,99 @@ seesmof: я його читаю
 
 ---
 
+00:11:36
+
+volynaq: БУЕНО
+
+---
+
+00:11:42
+
+seesmof: приколдес, я і не знав
+
+---
+
+00:11:50
+
+vladdgoldin: ak1okaXd
+
+---
+
+00:11:53
+
+maks_malitsk: trembaaLUL
+
+---
+
+00:11:57
+
+vladdgoldin: ak1okaHaha ak1okaHaha ak1okaHaha
+
+---
+
+00:12:00
+
+volynaq: ААААА БУЕНО НЕ РОБИТЬ
+
+---
+
+00:12:03
+
+toper1337: аххахааха
+
+---
+
+00:12:04
+
+seesmof: та
+
+---
+
+00:12:15
+
+maks_malitsk: Хахахах
+
+---
+
+00:12:23
+
+seesmof: :D
+
+---
+
+00:12:23
+
+opudalo: то не лачен а дід шинобі стрімить
+
+---
+
+00:12:24
+
+vladdgoldin: ak1okaHaha
+
+---
+
+00:12:25
+
+volynaq: LUL LUL LUL
+
+---
+
+00:12:29
+
+crazycherrybro: ACTION показує сіськи 3 розміру в чат за віпку і сабку
+
+---
+
+00:12:30
+
+maks_malitsk: Я тобі пару раз кинув коли ти кричав
+
+---
+
+00:12:39
+
+toper1337: ХАХАХАХХА
+
+---
+
