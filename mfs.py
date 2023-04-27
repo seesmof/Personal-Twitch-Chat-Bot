@@ -141,3 +141,9 @@ def you(input_prompt):
     response = you.Completion.create(
         prompt=input_prompt, detailed=True, include_links=False)
     return response
+
+
+def forefront(input_prompt):
+    response = list(forefront.StreamingCompletion.create(
+        token=token, prompt=input_prompt, model='gpt-4'))
+    return response[0].completion.choices[0].text
