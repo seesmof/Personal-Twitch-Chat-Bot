@@ -1,21 +1,22 @@
-import forefront
-import vars
+# import quora (poe) package
+import quora
 
+# create account
+# make sure to set enable_bot_creation to True
+token = quora.Account.create(logging=True, enable_bot_creation=True)
 
-# create an account
-token = forefront.Account.create(logging=True)
+model = quora.Model.create(
+    token=token,
+    model='gpt-3.5-turbo',  # or claude-instant-v1.0
+    system_prompt='you are ChatGPT a large language model ...'
+)
 
+print(model.name)  # gptx....
 
-def ai_response(input_prompt):
-    response = list(forefront.StreamingCompletion.create(
-        token=token, prompt=input_prompt, model='gpt-4'))
-    return response[0].completion.choices[0].text
+# streaming response
+for response in quora.StreamingCompletion.create(
+        custom_model=model.name,
+        prompt='hello world',
+        token=token):
 
-
-inputstr = input(": ")
-out = ai_response(inputstr)
-print(out)
-
-# for response in forefront.StreamingCompletion.create(token=token,
-#                                                      prompt=inputstr, model='gpt-4'):
-#     print(response.completion.choices[0].text, end='')
+    print(response.completion.choices[0].text)
