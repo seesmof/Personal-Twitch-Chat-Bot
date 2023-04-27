@@ -1,11 +1,11 @@
-import mfs
+import forefront
 
+# create an account
+token = forefront.Account.create(logging=True)
+print(token)
 
-def main():
-    inputprompt = input(": ")
-    output = mfs.you(inputprompt)
-    print(output)
+# get a response
+for response in forefront.StreamingCompletion.create(token=token,
+                                                     prompt='hello world', model='gpt-4'):
 
-
-if __name__ == "__main__":
-    main()
+    print(response.completion.choices[0].text, end='')
