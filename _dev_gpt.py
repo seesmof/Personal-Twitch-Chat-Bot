@@ -45,7 +45,7 @@ async def event_message(ctx):
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
         try:
-            output_text += mfs.ora_ua(input_text, context_fedya)
+            output_text += mfs.forefront(input_text)
         except:
             output_text += "Повідомлення не було згенеровано. " + \
                 random.choice(mfs.error_ua)
