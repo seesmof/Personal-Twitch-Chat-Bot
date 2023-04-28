@@ -1,12 +1,12 @@
-# import quora (poe) package
-import quora
+import forefront
 
-# create account
-# make sure to set enable_bot_creation to True
-token = quora.Account.create(logging=True, enable_bot_creation=False)
+# create an account
+token = forefront.Account.create(logging=False)
+print(token)
 
-response = quora.Completion.create(model='gpt-4',
-                                   prompt='hello world',
-                                   token=token)
+# get a response
+for response in forefront.StreamingCompletion.create(token=token,
+                                                     prompt='hello world', model='gpt-4'):
 
-print(response.completion.choices[0].text)
+    print(response.completion.choices[0].text, end='')
+print("")
