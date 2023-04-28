@@ -38,21 +38,23 @@ class Account:
                                    "email_address": mail_adress
                                }
                                )
-        
-         try:
-             trace_token = response.json()['response']['id']
-             if logging: print(trace_token)
-         except KeyError:
-             return 'Failed to create account!'
+
+        try:
+            trace_token = response.json()['response']['id']
+            if logging:
+                print(trace_token)
+        except KeyError:
+            return 'Failed to create account!'
 
         response = client.post(
             f"https://clerk.forefront.ai/v1/client/sign_ups/{trace_token}/prepare_verification?_clerk_js_version=4.32.6",
             data={
                 "strategy": "email_code",
             }
-            )
+        )
 
-        if logging: print(response.text)
+        if logging:
+            print(response.text)
 
         if not 'sign_up_attempt' in response.text:
             return 'Failed to create account!'
@@ -61,12 +63,14 @@ class Account:
             sleep(1)
             for _ in mail.fetch_inbox():
                 print(mail.get_message_content(_["id"]))
-                mail_token = match(r"(\d){5,6}", mail.get_message_content(_["id"])).group(0)
+                mail_token = match(
+                    r"(\d){5,6}", mail.get_message_content(_["id"])).group(0)
 
             if mail_token:
                 break
 
-        if logging: print(mail_token)
+        if logging:
+            print(mail_token)
 
         response = client.post(
             f'https://clerk.forefront.ai/v1/client/sign_ups/{trace_token}/attempt_verification?_clerk_js_version=4.38.4',
@@ -75,14 +79,17 @@ class Account:
                 'strategy': 'email_code'
             })
 
-        if logging: print(response.json())
+        if logging:
+            print(response.json())
 
-        token = response.json()['client']['sessions'][0]['last_active_token']['jwt']
+        token = response.json()[
+            'client']['sessions'][0]['last_active_token']['jwt']
 
         with open('accounts.txt', 'a') as f:
             f.write(f'{mail_adress}:{token}\n')
 
-        if logging: print(time() - start)
+        if logging:
+            print(time() - start)
 
         return token
 
@@ -97,8 +104,10 @@ class StreamingCompletion:
             defaultPersona='607e41fe-95be-497e-8e97-010a59b2e2c0',  # default
             model='gpt-4') -> ForeFrontResponse:
 
-        if not token: raise Exception('Token is required!')
-        if not chatId: chatId = str(uuid4())
+        if not token:
+            raise Exception('Token is required!')
+        if not chatId:
+            chatId = str(uuid4())
 
         headers = {
             'authority': 'chat-server.tenant-forefront-default.knative.chi.coreweave.com',
