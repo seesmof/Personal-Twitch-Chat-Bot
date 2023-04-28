@@ -75,23 +75,13 @@ openai.api_key = "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"
 model_engine = "gpt-3.5-turbo"
 
 
-def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. I must never speak russian! My main language is Ukrainian."
-
-    # generate a response message with the following parameters
+def gpt_message(input_text, context):
     response = openai.ChatCompletion.create(
-        # model was specified before
         model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
+        messages=[{"role": "system", "content": context}, {
             "role": "user", "content": input_text}],
-        # maximum number of tokens to return
         max_tokens=280,
-        # model's temperature or its creativeness
         temperature=0.7,
     )
-
-    # Parse the response and output the result
     output_text = response['choices'][0]['message']['content']
     return output_text
