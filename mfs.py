@@ -8,10 +8,6 @@ import time
 import requests
 import re
 from vars import *
-import phind
-import you
-import forefront
-token = forefront.Account.create(logging=True)
 
 
 def split_long_gpt(input_string):
