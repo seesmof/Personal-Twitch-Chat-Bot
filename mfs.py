@@ -78,8 +78,10 @@ model_engine = "gpt-3.5-turbo"
 def gpt_message(input_text, context):
     response = openai.ChatCompletion.create(
         model=model_engine,
-        messages=[{"role": "system", "content": context}, {
-            "role": "user", "content": input_text}],
+        messages=[
+            {"role": "system", "content": context},
+            {"role": "user", "content": input_text}
+        ],
         max_tokens=280,
         temperature=0.7,
     )
