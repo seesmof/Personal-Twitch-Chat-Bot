@@ -71,77 +71,27 @@ def write_to_log(message, author, CHANNEL):
 
 
 #   <GENERATING MESSAGES>   #
-def ora_ua(input_prompt, context):
-    input_prompt += " Твоя відповідь має бути лише Українською мовою."
-    input_model = ora.CompletionModel.create(
-        system_prompt=context,
-        description='Чат-бот зі штучним інтелектом',
-        name='gpt-3.5')
-    init = ora.Completion.create(
-        model=input_model,
-        prompt=input_prompt)
-    return init.completion.choices[0].text
+openai.api_key = "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"
+model_engine = "gpt-3.5-turbo"
 
 
-def ora_en(input_prompt, context):
-    input_prompt += " Answer only in English."
-    input_model = ora.CompletionModel.create(
-        system_prompt=context,
-        description='AI Chat Bot',
-        name='gpt-3.5')
-    init = ora.Completion.create(
-        model=input_model,
-        prompt=input_prompt)
-    return init.completion.choices[0].text
+def generate_response(input_text):
+    # parameters list
+    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. I must never speak russian! My main language is Ukrainian."
 
+    # generate a response message with the following parameters
+    response = openai.ChatCompletion.create(
+        # model was specified before
+        model=model_engine,
+        # message information for model to process and create upon
+        messages=[{"role": "system", "content": forPixelFedya}, {
+            "role": "user", "content": input_text}],
+        # maximum number of tokens to return
+        max_tokens=280,
+        # model's temperature or its creativeness
+        temperature=0.7,
+    )
 
-def phind_ua(input_prompt):
-    input_prompt += " Твоя відповідь має бути Українською мовою."
-
-    # set cf_clearance cookie
-    phind.cf_clearance = 'heguhSRBB9d0sjLvGbQECS8b80m2BQ31xEmk9ChshKI-1682268995-0-160'
-    phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
-
-    # normal completion
-    result = phind.Completion.create(
-        model='gpt-4',
-        prompt=input_prompt,
-        # create search (set actualSearch to False to disable internet)
-        results=phind.Search.create(input_prompt, actualSearch=False),
-        creative=False,
-        detailed=False,
-        codeContext='')  # up to 3000 chars of code
-
-    return result.completion.choices[0].text
-
-
-def phind_en(input_prompt):
-    input_prompt += " Answer only in English."
-
-    # set cf_clearance cookie
-    phind.cf_clearance = 'heguhSRBB9d0sjLvGbQECS8b80m2BQ31xEmk9ChshKI-1682268995-0-160'
-    phind.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
-
-    # normal completion
-    result = phind.Completion.create(
-        model='gpt-4',
-        prompt=input_prompt,
-        # create search (set actualSearch to False to disable internet)
-        results=phind.Search.create(input_prompt, actualSearch=False),
-        creative=False,
-        detailed=False,
-        codeContext='')  # up to 3000 chars of code
-
-    return result.completion.choices[0].text
-
-
-def you(input_prompt):
-    response = you.Completion.create(
-        prompt=input_prompt, detailed=True, include_links=False)
-    return response
-
-
-def forefront(input_prompt):
-    response = list(forefront.StreamingCompletion.create(
-        token=token, prompt=input_prompt, model='gpt-4'))
-    return response[0].completion.choices[0].text
+    # Parse the response and output the result
+    output_text = response['choices'][0]['message']['content']
+    return output_text
