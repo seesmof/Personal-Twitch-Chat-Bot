@@ -1,7 +1,10 @@
-# import library
-import theb
+from pygpt4all.models.gpt4all import GPT4All
 
-# simple streaming completion
-for token in theb.Completion.create('hello world'):
-    print(token, end='', flush=True)
-print("")
+
+def new_text_callback(text):
+    print(text, end="")
+
+
+model = GPT4All('./models/ggml-gpt4all-l13b-snoozy.bin')
+model.generate("Once upon a time, ", n_predict=55,
+               new_text_callback=new_text_callback)
