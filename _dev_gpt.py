@@ -10,6 +10,8 @@ import mfs
 from vars import *
 import pyautogui
 import random
+import gpt4free
+from gpt4free import Provider, quora, forefront
 
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
@@ -45,7 +47,7 @@ async def event_message(ctx):
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
         try:
-            output_text += mfs.forefront(input_text)
+            output_text += mfs.gpt4free_generate(input_text)
         except:
             output_text += "Повідомлення не було згенеровано. " + \
                 random.choice(mfs.error_ua)

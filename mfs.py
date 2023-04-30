@@ -8,6 +8,10 @@ import time
 import requests
 import re
 from vars import *
+import gpt4free
+from gpt4free import Provider, quora, forefront
+from deep_translator import GoogleTranslator
+from langdetect import detect
 
 
 def split_long_gpt(input_string):
@@ -75,7 +79,7 @@ openai.api_key = "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"
 model_engine = "gpt-3.5-turbo"
 
 
-def gpt_message(input_text, context):
+def openai_generate(input_text, context):
     response = openai.ChatCompletion.create(
         model=model_engine,
         messages=[
@@ -87,3 +91,19 @@ def gpt_message(input_text, context):
     )
     output_text = response['choices'][0]['message']['content']
     return output_text
+
+
+def gpt4free_generate(input_text):
+    init_lang = detect(input_text)
+    input_prompt = ""
+    if init_lang == 'en':
+        input_prompt = input_text
+    elif init_lang == 'uk' or init_lang == 'ru':
+        input_prompt = GoogleTranslator(
+            source='uk', target='en').translate(input_text)
+    response = gpt4free.Completion.create(
+        Provider.You, prompt=input_prompt)
+    if detect(response) == 'en' and init_lang == 'uk':
+        response = GoogleTranslator(
+            source='en', target='uk').translate(response)
+    return response

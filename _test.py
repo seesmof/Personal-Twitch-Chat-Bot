@@ -1,10 +1,5 @@
-from pygpt4all.models.gpt4all import GPT4All
+import mfs
 
-
-def new_text_callback(text):
-    print(text, end="")
-
-
-model = GPT4All('./models/ggml-gpt4all-l13b-snoozy.bin')
-model.generate("Once upon a time, ", n_predict=55,
-               new_text_callback=new_text_callback)
+input_text = input(": ")
+output = mfs.gpt4free_generate(input_text)
+print(output)
