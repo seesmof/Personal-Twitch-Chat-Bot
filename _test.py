@@ -1,5 +1,9 @@
-import mfs
+import gpt4free
+from gpt4free import Provider, quora, forefront
 
-input_text = input(": ")
-output = mfs.gpt4free_generate(input_text)
-print(output)
+token = forefront.Account.create(logging=False)
+response = gpt4free.Completion.create(
+    Provider.ForeFront, prompt='Write a poem on Lionel Messi', model='gpt-4', token=token
+)
+print(response)
+print(f'END')
