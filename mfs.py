@@ -94,15 +94,10 @@ def openai_generate(input_text, context):
 
 
 def gpt4free_generate(input_text):
-    input_prompt = input_text
-    init_lang = detect(input_text)
-
-    if init_lang == 'uk' or init_lang == 'ru':
-        input_prompt = GoogleTranslator(
-            source='uk', target='en').translate(input_text)
+    input_prompt = GoogleTranslator(
+        source='auto', target='en').translate(input_text)
     response = gpt4free.Completion.create(
         Provider.You, prompt=input_prompt)
-    if detect(response) == 'en' and init_lang == 'uk':
-        response = GoogleTranslator(
-            source='en', target='uk').translate(response)
+    response = GoogleTranslator(
+        source='en', target='uk').translate(response)
     return response

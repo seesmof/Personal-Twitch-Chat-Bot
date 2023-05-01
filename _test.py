@@ -1,9 +1,7 @@
-import gpt4free
-from gpt4free import Provider, quora, forefront
+import mfs
 
-token = forefront.Account.create(logging=False)
-response = gpt4free.Completion.create(
-    Provider.ForeFront, prompt='Write a poem on Lionel Messi', model='gpt-4', token=token
-)
-print(response)
-print(f'END')
+prompt = input(": ")
+output = mfs.gpt4free_generate(prompt)
+print(output)
+
+# @wuyodo дай прогноз на 2 травня для Овена
