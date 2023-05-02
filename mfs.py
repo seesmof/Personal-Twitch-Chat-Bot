@@ -93,11 +93,19 @@ def openai_generate(input_text, context):
     return output_text
 
 
-def gpt4free_generate(input_text):
+def generate_ua(input_text):
     input_prompt = GoogleTranslator(
         source='auto', target='en').translate(input_text)
     response = gpt4free.Completion.create(
         Provider.You, prompt=input_prompt)
     response = GoogleTranslator(
         source='en', target='uk').translate(response)
+    return response
+
+
+def generate_en(input_text):
+    input_prompt = GoogleTranslator(
+        source='auto', target='en').translate(input_text)
+    response = gpt4free.Completion.create(
+        Provider.You, prompt=input_prompt)
     return response
