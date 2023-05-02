@@ -34,3 +34,15 @@ wuyodo: vents and activities to get a taste of what the area has to offer.  7. C
 
 ---
 
+11:47:10
+
+wuyodo: @seesmof, Catahoula is a breed of dog that originated in Catahoula Parish, Louisiana, and was named after the same. It became the state dog of Louisiana in 1979 [[3]](https://en.wikipedia.org/wiki/Catahoula_Leopard_Dog). Catahoulas are muscular dogs with a rectangular-shaped body and are typically used for hunting feral boars. They have a striking appearance with a strong work ethic and require a lot of exercise and attention. Catahoulas have a history of being used in h
+
+---
+
+11:47:12
+
+wuyodo: unting, driving cattle, and guarding the homestead. While the physical characteristics of Catahoulas are varied, they're usually muscular dogs. Deafness is one of the major genetic faults common in Catahoulas and is associated with individuals that are excessively white in color and deafness attributed to a lack of melanocytes.
+
+---
+
