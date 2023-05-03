@@ -8650,3 +8650,279 @@ toper1337: Пропиши в чаті на стрімі !ban maks_malitsk шоб
 
 ---
 
+16:55:14
+
+panterivka: о ти шо вже в бойовому строю?
+
+---
+
+16:55:20
+
+maks_malitsk: @toper1337 trembaaBabooreh
+
+---
+
+16:55:25
+
+toper1337: @maks_malitsk ))
+
+---
+
+16:55:35
+
+animetrash333: trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+16:55:42
+
+hauha333: А ви куди йдете в пістолетку я може зараз зайду
+
+---
+
+16:55:43
+
+le0lick: @Panterivka trembaaHey trembaaHey trembaaHey trembaaMda
+
+---
+
+16:55:43
+
+animetrash333: вітаю з новим моніком
+
+---
+
+16:55:59
+
+animetrash333: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+16:56:00
+
+panterivka: @Panterivka  trembaaHey trembaaHey trembaaHey
+
+---
+
+16:56:08
+
+hauha333: Ви йдете а пістолетку?
+
+---
+
+16:56:12
+
+animetrash333: уффф секс монік
+
+---
+
+16:56:41
+
+maks_malitsk: Нашо тобі той монік якщо пропускаєш повідомлення
+
+---
+
+16:56:41
+
+animetrash333: usachToxic
+
+---
+
+16:56:56
+
+animetrash333: як здоровлячко?
+
+---
+
+16:57:06
+
+hauha333: ak1okaXd
+
+---
+
+16:57:13
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+16:57:21
+
+animetrash333: trembaaCry trembaaCry trembaaCry trembaaCry
+
+---
+
+16:57:29
+
+animetrash333: пий вітамінки їж лимони
+
+---
+
+16:57:41
+
+maks_malitsk: Пішли
+
+---
+
+16:57:46
+
+maks_malitsk: Нас 5 в лобі
+
+---
+
+16:57:52
+
+hauha333: Почекай я зараз зайду
+
+---
+
+16:58:15
+
+animetrash333: сюдаа вітамінчики trembaaRave
+
+---
+
+16:58:17
+
+hauha333: BibleThump
+
+---
+
+16:58:24
+
+veron_khalepa: Братанчику pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+16:58:30
+
+animetrash333: м'яч самотній
+
+---
+
+16:58:38
+
+maks_malitsk: @veron_khalepa trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+16:58:39
+
+animetrash333: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+16:58:42
+
+footballworld213: Все я з вами.ви в кс непогано
+
+---
+
+16:58:42
+
+veron_khalepa: Що ви тут?
+
+---
+
+16:58:46
+
+animetrash333: @veron_khalepa trembaaHey trembaaHey trembaaHey veronkPaw veronkPaw veronkPaw
+
+---
+
+16:58:57
+
+veron_khalepa: veronkDance veronkDance veronkDance
+
+---
+
+16:58:59
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+16:59:06
+
+champik_is_back: @PixelFedya ану похвались Веронічці що маєш
+
+---
+
+16:59:08
+
+veron_khalepa: Не буду)))
+
+---
+
+16:59:13
+
+toper1337: ХАХАХХА
+
+---
+
+16:59:30
+
+hauha333: Я хтів зайти кажу почекай а ти ігнор ak1okaNanana
+
+---
+
+16:59:42
+
+veron_khalepa: Вааааау
+
+---
+
+16:59:45
+
+maks_malitsk: @hauha333 ти можеш приєднатись
+
+---
+
+16:59:47
+
+animetrash333: та ти шо, ти шо pixelf8LooooooL pixelf8LooooooL
+
+---
+
+16:59:49
+
+veron_khalepa: Дуже круто!!!
+
+---
+
+16:59:51
+
+footballworld213: Ви в кс вже пішл
+
+---
+
+16:59:56
+
+veron_khalepa: Вітаю olejneEnd olejneEnd olejneEnd
+
+---
+
+16:59:58
+
+champik_is_back: а біг мак меню буде?
+
+---
+
+17:00:05
+
+hauha333: @maks_malitsk  він виключив то щоб мфг будь хто зашов
+
+---
+
+17:00:06
+
+maks_malitsk: Цікаво коли стіл вломиться
+
+---
+
+17:00:13
+
+panterivka: @Veron_Khalepa прівяяяо
+
+---
+
