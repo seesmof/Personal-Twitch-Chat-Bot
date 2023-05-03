@@ -15,8 +15,7 @@ import pyautogui
 import mfs
 from vars import *
 
-# OUTDATED for handling sound file location
-# sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
+sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
 
 last_message_time = {}
 messages_tracker = {}
@@ -98,8 +97,7 @@ async def event_message(ctx):
 
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     if mfs.check_for_letters(ctx.content.lower(), letters):
-        output_message = "@" + ctx.author.name + ": " + ctx.content
-        pyautogui.alert(output_message, "Чуваче, диви чат!", timeout=None)
+        playsound(sound_path)
 
     ''' Temporarily disabled
     # for handling greetings
