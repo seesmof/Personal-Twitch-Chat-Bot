@@ -8926,3 +8926,201 @@ panterivka: @Veron_Khalepa прівяяяо
 
 ---
 
+17:00:19
+
+maks_malitsk: @hauha333 нє є
+
+---
+
+17:00:21
+
+veron_khalepa: Ти тепер виходить стрімер чи що?
+
+---
+
+17:00:31
+
+footballworld213: Встиг повернутися і монітор встановлений файно
+
+---
+
+17:00:37
+
+veron_khalepa: @panterivka кохана veronkLove veronkLove veronkLove
+
+---
+
+17:00:42
+
+hauha333: @veron_khalepa я нажимаю нема він сам був виключав
+
+---
+
+17:00:54
+
+panterivka: @Veron_Khalepa  HypeHands1 HypeHands2
+
+---
+
+17:01:00
+
+footballworld213: Бачив бачив з обновою поздоровляю
+
+---
+
+17:01:16
+
+hauha333: @veron_khalepa  міс клік (привіт fluffy561Opop fluffy561Opop )
+
+---
+
+17:01:34
+
+veron_khalepa: @hauha333 привіт pixelf8LOVE
+
+---
+
+17:01:36
+
+footballworld213: Ви з праймом в кс пішли чи так типу
+
+---
+
+17:01:57
+
+veron_khalepa: Так трохи менше
+
+---
+
+17:02:11
+
+veron_khalepa: Тебе заглушає
+
+---
+
+17:02:14
+
+hauha333: @footballworld213  то просто карта майстерні
+
+---
+
+17:02:23
+
+veron_khalepa: Вже ні, все ок
+
+---
+
+17:02:32
+
+footballworld213: @hauha333 зрозумів
+
+---
+
+17:02:34
+
+veron_khalepa: chevor1Rebel
+
+---
+
+17:02:45
+
+footballworld213: Набрав чіпсів закину собі в запаси
+
+---
+
+17:02:57
+
+k4sp3rsex: GGGAAAAAMMMNNNNOOOOOO
+
+---
+
+17:03:01
+
+veron_khalepa: Господи прости
+
+---
+
+17:03:14
+
+veron_khalepa: Все нормально)
+
+---
+
+17:03:30
+
+hauha333: А ви ще будете грати ?
+
+---
+
+17:03:49
+
+k4sp3rsex: АХЩФІВАЗХФІВЩАЗХФІВЩАЗХІВЩАЗХІВЩАЗХІВЩАІВЗХАЩІВЗХАІВЩХАЗЩІЗХВАЩІХАІЩХАІЩА
+
+---
+
+17:03:50
+
+panterivka: смачного, галава
+
+---
+
+17:03:51
+
+k4sp3rsex: БЛЛЯЯЯЯ
+
+---
+
+17:03:54
+
+hauha333: В пістолетку
+
+---
+
+17:03:54
+
+k4sp3rsex: Ідеально
+
+---
+
+17:04:00
+
+veron_khalepa: Кожен раз смішно)0
+
+---
+
+17:04:03
+
+hauha333: BibleThump
+
+---
+
+17:05:03
+
+baioretto_san: привіт я сільвер 1
+
+---
+
+17:05:06
+
+baioretto_san: візьмете?
+
+---
+
+17:05:20
+
+veron_khalepa: Шо
+
+---
+
+17:05:21
+
+baioretto_san: Я НЕ ЕМФОНІКС
+
+---
+
+17:05:26
+
+panterivka: верончик
+
+---
+
