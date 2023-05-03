@@ -6550,3 +6550,267 @@ hauha333: Покажи на 360° монітор я його не бачив SMO
 
 ---
 
+16:01:11
+
+braudit: Хауха орк
+
+---
+
+16:01:20
+
+maks_malitsk: trembaaBan
+
+---
+
+16:01:28
+
+hauha333: @braudit Kappa
+
+---
+
+16:01:38
+
+braudit: Keepo Keepo
+
+---
+
+16:01:49
+
+seesmof: DisplayPort
+
+---
+
+16:01:54
+
+seesmof: отой кабель шо ти діставав
+
+---
+
+16:02:11
+
+seesmof: та, він вважається по всім параметрам краще за HDMI, рекомендую по ньому
+
+---
+
+16:02:15
+
+braudit: NotLikeThis NotLikeThis NotLikeThis SeemsGood SeemsGood SeemsGood SeemsGood
+
+---
+
+16:02:17
+
+maks_malitsk: Покажи з телефону як виглядає
+
+---
+
+16:02:27
+
+hauha333: Покажи на 360° монітор я його не бачив не прочитаєш тоді я тебе буду всюди бамбурити SMOrc
+
+---
+
+16:02:35
+
+braudit: NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis
+
+---
+
+16:02:35
+
+seesmof: та по любому є. то ж 3080
+
+---
+
+16:02:38
+
+seesmof: !пк
+
+---
+
+16:02:38
+
+pawrop: @seesmof, процесор - i7-13700K, відеокарта - Geforce RTX 3080, камера - Logitech BRIO 4K
+
+---
+
+16:02:41
+
+seesmof: та
+
+---
+
+16:03:14
+
+seesmof: та то недороблене. в тебе 32gb оперативи, та?
+
+---
+
+16:03:21
+
+braudit: Вже по новій плейлист пішов
+
+---
+
+16:03:28
+
+maks_malitsk: Уфффф
+
+---
+
+16:03:37
+
+maks_malitsk: Василь полеуше
+
+---
+
+16:03:46
+
+maks_malitsk: Полекше
+
+---
+
+16:03:46
+
+baioretto_san: привіт!!!!!!
+
+---
+
+16:03:57
+
+maks_malitsk: @baioretto_san trembaaHey pixelf8LOVE
+
+---
+
+16:03:57
+
+braudit: Привіт
+
+---
+
+16:04:08
+
+sstadd: Jebasted
+
+---
+
+16:04:15
+
+seesmof: впевнений?
+
+---
+
+16:04:22
+
+seesmof: знаєш точну модель відюхи?
+
+---
+
+16:04:23
+
+hauha333: Модернізатор квартири на феді Kappa
+
+---
+
+16:04:24
+
+baioretto_san: привіт найкращий стрімер після емфонікса і карлі!!!
+
+---
+
+16:04:54
+
+braudit: NotLikeThis SeemsGood KomodoHype cmonBruh EntropyWins PogBones Kreygasm PotFriend FBSpiral PizzaTime MyAvatar RaccAttack
+
+---
+
+16:04:59
+
+maks_malitsk: Василь вікно закрий ти їворий
+
+---
+
+16:05:00
+
+seesmof: отакий - https://pointerclicker.com/wp-content/uploads/2021/11/hdmi-port-and-displayports-on-a-modern-graphic-card.jpeg
+
+---
+
+16:05:00
+
+baioretto_san: я не емфонікс
+
+---
+
+16:05:03
+
+baioretto_san: ало
+
+---
+
+16:05:16
+
+seesmof: добре
+
+---
+
+16:05:41
+
+braudit: Яка версія hdmi?
+
+---
+
+16:05:45
+
+maks_malitsk: Василь вікно закрий ти xворий
+
+---
+
+16:07:20
+
+seesmof: оо, харош
+
+---
+
+16:07:28
+
+maks_malitsk: trembaaBabooreh trembaaLUL
+
+---
+
+16:07:36
+
+maks_malitsk: Закрий
+
+---
+
+16:07:43
+
+seesmof: бо я думаю не може такого бути шоб на 3080 не було б DP
+
+---
+
+16:07:52
+
+hauha333: @maks_malitsk  він гарячий мужчина ak1okaXd
+
+---
+
+16:08:08
+
+maks_malitsk: MyAvatar
+
+---
+
+16:08:10
+
+seesmof: ну та
+
+---
+
+16:08:19
+
+seesmof: має сенс
+
+---
+

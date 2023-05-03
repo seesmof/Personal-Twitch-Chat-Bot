@@ -345,7 +345,7 @@ async def print_random_emoji(ctx):
 @ bot.command(name='пк')
 async def show_pc_specs(ctx):
     # output a random shenanigan to the user
-    await ctx.send(f"@{ctx.author.name}, процесор - i7-13700K, відеокарта - Geforce RTX 3080, камера - Logitech BRIO 4K")
+    await ctx.send(f"@{ctx.author.name}, процесор - i7-13700K, відеокарта - Geforce RTX 3080, камера - Logitech BRIO 4K, пам'ять - 32 ГБ")
 
 
 @ bot.command(name='мак', aliases=['слимак', 'слимачок'])
