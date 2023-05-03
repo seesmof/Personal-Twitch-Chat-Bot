@@ -9454,3 +9454,237 @@ pupkisfam: -£180
 
 ---
 
+17:15:43
+
+pupkisfam: чи скіко він?
+
+---
+
+17:15:49
+
+big_tusk: @theneuton тебе Марія вже виводила покакати?
+
+---
+
+17:16:03
+
+pupkisfam: точно
+
+---
+
+17:16:07
+
+pupkisfam: це вже більший
+
+---
+
+17:16:11
+
+pupkisfam: і 200 який новий
+
+---
+
+17:16:21
+
+theneuton: @big_tusk  а я в чат какаю гав trembaaBabooreh trembaaBabooreh
+
+---
+
+17:16:26
+
+pupkisfam: 200 офігений новий із крутілками
+
+---
+
+17:16:27
+
+theneuton: у.у.у.у.у.у.у.у.у.у.у.у.у.у.у.у.у.у.у.у. у.у.у.у.у.у.у.⢀⣿⣶⣄⡀у.у.у.у.у.у.у.у. у.у.у.у.у.у.у.⣿⣿⣿⣿⣿⡄у.у.у.у.у.у.у. у.у.у.у.у.⣰⣿⣿⣿⣿⣿⣿⣧⣤⡀у.у.у.у.у. у.у.у.у.у.⠟⢋⠙⢿⣿⣿⠟⢉⡙⢇у.у.у.у.у. у.у.у.⣴⣿у.⣿⡷у.⣿⣿у.⣿⡷у.⣿⣆у.у.у. у.у.у.⢻⣿⣦⣈⣡⣾⣿⣿⣦⣈⣡⣾⣿⣏у.у.у. у.⣠⣾⣿⣿⣿⣯⡉⠉⠉⠉⠉⢉⣽⣿⣿⣿⣿⡄у. у.⠻⣿⣿⣿⣿⣿⣿⣷⣶⣶⣿⣿⣿⣿⣿⣿⡿⠃у. у.у.⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁у.у.у.у.
+
+---
+
+17:16:33
+
+lamark_sk8: @theneuton t0kentPri t0kentVid
+
+---
+
+17:16:38
+
+big_tusk: akyuliaHamster  akyuliaHamster Хом'як akyuliaHamster  akyuliaHamster akyuliaHamster akyuliaHamster akyuliaHamster
+
+---
+
+17:16:48
+
+lavielay: о привіт
+
+---
+
+17:16:58
+
+icetrollhs: akyuliaHamster Файний глядач я, я кручу хом'яка хом хом ЯКА akyuliaHamster
+
+---
+
+17:17:00
+
+lavielay: tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat @PixelFedya
+
+---
+
+17:17:05
+
+theneuton: вибач покакати треба для @big_tusk  гав trembaaBabooreh trembaaBabooreh
+
+---
+
+17:17:18
+
+theneuton: привіт @lavielay гав
+
+---
+
+17:17:21
+
+icetrollhs: trembaaHey trembaaHey
+
+---
+
+17:17:22
+
+lamark_sk8: @Lavielay trembaaHey trembaaHey trembaaHey
+
+---
+
+17:17:33
+
+footballworld213: Шось відчуваю шо після тих дронів на кремль ракет літати буде більше.
+
+---
+
+17:17:37
+
+lavielay: ляяяяяяяя
+
+---
+
+17:17:41
+
+icetrollhs: WOW
+
+---
+
+17:17:43
+
+lamark_sk8: @IceTrollHS trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+17:17:48
+
+lavielay: @theneuton @lamark_sk8 ха аааай
+
+---
+
+17:17:54
+
+theneuton: гав NotLikeThis NotLikeThis
+
+---
+
+17:18:07
+
+big_tusk: Василь, тебе запросили на коронацію принца Чарльза?
+
+---
+
+17:18:08
+
+icetrollhs: @lamark_sk8 trembaaHey
+
+---
+
+17:18:09
+
+theneuton: воно тримаєця на шокобумі гав trembaaBabooreh trembaaBabooreh
+
+---
+
+17:18:32
+
+pupkisfam: а коли КС 2 виходить?
+
+---
+
+17:18:49
+
+sstadd: @pupkisfam літом десь
+
+---
+
+17:18:55
+
+pupkisfam: ой я їбав туди іти на цю коронацію
+
+---
+
+17:18:59
+
+footballworld213: Шось відчуваю шо після тих дронів на кремль ракет літати буде більше.
+
+---
+
+17:19:02
+
+pupkisfam: треба бігти з лондону в той день
+
+---
+
+17:19:05
+
+pupkisfam: @sstadd дяк
+
+---
+
+17:19:09
+
+icetrollhs: @pupkisfam влітку
+
+---
+
+17:19:23
+
+hauha333: Може потім підемо в пікабу поки діора нема
+
+---
+
+17:19:51
+
+theneuton: вітаю @pixelfedya із новим монітором гав trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps trembaaClaps
+
+---
+
+17:19:59
+
+hauha333: На прайм підняли ціну +100грн
+
+---
+
+17:20:00
+
+pupkisfam: думаю перекриють
+
+---
+
+17:20:21
+
+pupkisfam: ну якщо за лондоном то думаю норм буде
+
+---
+
+17:20:43
+
+footballworld213: Жалко шо дрони промахнулись
+
+---
+
