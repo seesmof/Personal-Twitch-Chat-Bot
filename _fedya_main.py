@@ -124,7 +124,7 @@ async def show_info(ctx):
 
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\", \"!шлик\"")
+    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\", \"!шлик\", \"!дуп\"")
 
 
 @ bot.command(name='єнот')
@@ -477,6 +477,17 @@ async def easter_fight(ctx):
     users = [ctx.author.name, username]
     result = random.choice(users)
     await ctx.send(f"@{ctx.author.name}, цокнувся яйолами з {username}. {result} переміг!")
+
+
+@ bot.command(name='дуп', aliases=['поп', 'ass'])
+async def easter_fight(ctx):
+    phrases = ["показав", "помацав", "полапав", "пощупав"]
+    wut = ["дупу", "сраку"]
+    username = ctx.content[4:]
+    if '@' not in username:
+        global last_message_time
+        username = '@' + random.choice(list(last_message_time))
+    await ctx.send(f"@{ctx.author.name} {random.choice(phrases)} {random.choice(wut)} {username} {random.choice(emotes_all_twitch)}")
 
 if __name__ == "__main__":
     bot.run()
