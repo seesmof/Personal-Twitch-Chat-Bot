@@ -7636,3 +7636,159 @@ toper1337: давай)
 
 ---
 
+16:29:36
+
+champik_is_back: зараз шось наїбнеться
+
+---
+
+16:29:42
+
+marki3_doroshenko: то жінка, заробляє гроші на бавителка:)
+
+---
+
+16:29:54
+
+toper1337: ОО ось так і лиши, норм кадр для гри))
+
+---
+
+16:30:02
+
+seesmof: прикольно
+
+---
+
+16:30:38
+
+toper1337: Оксана привіт)
+
+---
+
+16:30:53
+
+maks_malitsk: ***
+
+---
+
+16:31:26
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+16:31:49
+
+maks_malitsk: Оксана він де дав вяпку
+
+---
+
+16:31:52
+
+maks_malitsk: Віпку
+
+---
+
+16:31:55
+
+maks_malitsk: trembaaCry trembaaCry trembaaCry trembaaCry
+
+---
+
+16:32:08
+
+braudit: PotFriend
+
+---
+
+16:32:10
+
+maks_malitsk: Оксана він не дав віпку trembaaCry trembaaCry trembaaCry trembaaCry
+
+---
+
+16:32:27
+
+toper1337: @maks_malitsk ахахахха
+
+---
+
+16:32:49
+
+maks_malitsk: Оксана він не дав віпку trembaaCry trembaaCry trembaaCry trembaaCry
+
+---
+
+16:32:50
+
+toper1337: Дороу
+
+---
+
+16:33:14
+
+toper1337: @maks_malitsk завтра?)
+
+---
+
+16:33:29
+
+maks_malitsk: @toper1337 trembaaBabooreh SeriousSloth
+
+---
+
+16:33:58
+
+toper1337: Оксана привіт
+
+---
+
+16:33:59
+
+maks_malitsk: Він на пару сантиметрів блжче
+
+---
+
+16:34:10
+
+toper1337: ой все)
+
+---
+
+16:34:27
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+16:34:27
+
+seesmof: LUL
+
+---
+
+16:34:29
+
+toper1337: .....
+
+---
+
+16:34:30
+
+toper1337: непон
+
+---
+
+16:34:33
+
+braudit: Ґґґґґ
+
+---
+
+16:34:34
+
+toper1337: за шо?
+
+---
+
