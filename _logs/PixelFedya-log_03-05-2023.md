@@ -8188,3 +8188,201 @@ volynaq: @lamark_sk8 potato256Hi potato256Hi potato256Hi
 
 ---
 
+16:44:54
+
+volynaq: @maks_malitsk potato256Hii potato256Hii potato256Hii
+
+---
+
+16:44:55
+
+braudit: MyAvatar
+
+---
+
+16:45:08
+
+maks_malitsk: Пропиши !vip @maks_malitsk
+
+---
+
+16:45:21
+
+volynaq: Пропиши !vip @maks_malitsk
+
+---
+
+16:45:28
+
+epicgamenoob: Привітуліньки наша найкраща зіронька караоке chevor1Hello chevor1Popcorn
+
+---
+
+16:45:30
+
+toper1337: АХХАХАХАХ
+
+---
+
+16:45:32
+
+maks_malitsk: @volynaq pixelf8LOVE
+
+---
+
+16:45:43
+
+volynaq: ИХПАХАИПХАПИАПИ
+
+---
+
+16:45:43
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+16:45:49
+
+toper1337: ахаххахах
+
+---
+
+16:45:56
+
+braudit: Kreygasm Kreygasm Kreygasm
+
+---
+
+16:46:20
+
+toper1337: геній) B)
+
+---
+
+16:46:59
+
+braudit: Лан
+
+---
+
+16:47:17
+
+sstadd: репетиція
+
+---
+
+16:47:19
+
+sstadd: Kappa
+
+---
+
+16:47:39
+
+braudit: MyAvatar MyAvatar PizzaTime PizzaTime RaccAttack RaccAttack Squid2 Squid2 OSFrog OSFrog BibleThump BibleThump FBSpiral FBSpiral EntropyWins EntropyWins KomodoHype KomodoHype
+
+---
+
+16:47:56
+
+toper1337: ну шо куди? Якщо що НАВІТЬ Я зараз трошки можу пограти, а вечором уроки
+
+---
+
+16:48:07
+
+toper1337: хахахахахах
+
+---
+
+16:48:17
+
+toper1337: мфонікс співає?))
+
+---
+
+16:48:42
+
+volynaq: potato256Ty potato256Ty potato256Ty
+
+---
+
+16:48:47
+
+volynaq: я чекаю
+
+---
+
+16:48:50
+
+toper1337: ага
+
+---
+
+16:48:55
+
+toper1337: поки можу трошки
+
+---
+
+16:48:58
+
+toper1337: куди?
+
+---
+
+16:49:05
+
+toper1337: майн))
+
+---
+
+16:49:07
+
+toper1337: кс?
+
+---
+
+16:49:21
+
+maks_malitsk: Кс
+
+---
+
+16:49:25
+
+volynaq: кс кс кс кс, кличем котика
+
+---
+
+16:49:26
+
+maks_malitsk: Гооо
+
+---
+
+16:49:32
+
+toper1337: го кс
+
+---
+
+16:49:48
+
+volynaq: о а в кс можна залетіти до вас?
+
+---
+
+16:49:54
+
+maks_malitsk: Ти вчора без нас пішов trembaaCry
+
+---
+
+16:49:59
+
+braudit: Ти вчора грав
+
+---
+
