@@ -345,7 +345,7 @@ async def print_random_emoji(ctx):
 @ bot.command(name='пк', aliases=['сетап', 'комп'])
 async def show_pc_specs(ctx):
     # output a random shenanigan to the user
-    await ctx.send(f"@{ctx.author.name}, процесор - Intel Core i7-13700K, відеокарта - NVidia Geforce RTX 3080, камера - Logitech BRIO 4K, пам'ять - Corsair Vengance 32 ГБ 5600MHz, навушники - SteelSeries Arctis Nova 7, мікрофон - HyperX Quadcast S, клавіатура - MSI Interceptor DS4100, миша - SteelSeries Rival 110")
+    await ctx.send(f"@{ctx.author.name}, процесор - Intel Core i7-13700K, відеокарта - NVidia Geforce RTX 3080, камера - Logitech BRIO 4K, пам'ять - Corsair Vengance 32 ГБ 5600MHz, навушники - SteelSeries Arctis Nova 7, мікрофон - HyperX Quadcast S, клавіатура - MSI Interceptor DS4100, миша - SteelSeries Rival 110, монітори - MSI 32' 144Hz та AOC 24' 144Hz")
 
 
 @ bot.command(name='мак', aliases=['слимак', 'слимачок'])
