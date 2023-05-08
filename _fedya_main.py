@@ -122,7 +122,7 @@ async def show_info(ctx):
 
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
-    await ctx.send(f"@{ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\", \"!шлик\", \"!дуп\"")
+    await ctx.send(f"@ {ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\", \"!шлик\", \"!дуп\", \"!ня\", \"!уа\"")
 
 
 @ bot.command(name='єнот')
@@ -486,6 +486,16 @@ async def easter_fight(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     await ctx.send(f"@{ctx.author.name} {random.choice(phrases)} {random.choice(wut)} {username} {random.choice(emotes_all_twitch)}")
+
+
+@ bot.command(name='ня')
+async def easter_fight(ctx):
+    await ctx.send(f"@{ctx.author.name} MercyWing1 {random.choice(emotes_all_twitch)} MercyWing2")
+
+
+@ bot.command(name='уа')
+async def easter_fight(ctx):
+    await ctx.send(f"@{ctx.author.name} PowerUpL {random.choice(emotes_all_twitch)} PowerUpR")
 
 if __name__ == "__main__":
     bot.run()
