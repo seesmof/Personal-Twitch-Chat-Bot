@@ -1,26 +1,28 @@
-import gpt4free
-from gpt4free import usesless
+from gpt4free import you
 
-message_id = ""
+# simple request with links and details
+response = you.Completion.create(
+    prompt="hello world", detailed=True, include_links=True)
+
+print(response)
+
+# {
+#     "response": "...",
+#     "links": [...],
+#     "extra": {...},
+#         "slots": {...}
+#     }
+# }
+
+# chatbot
+
+chat = []
+
 while True:
-    prompt = input("Question: ")
-    if prompt == "!stop":
-        break
+    prompt = input("You: ")
 
-    req = usesless.Completion.create(prompt=prompt, parentMessageId=message_id)
+    response = you.Completion.create(prompt=prompt, chat=chat)
 
-    print(f"Answer: {req['text']}")
-    message_id = req["id"]
+    print("Bot:", response.text)
 
-
-message_id = ""
-while True:
-    prompt = input("Question: ")
-    if prompt == "!stop":
-        break
-
-    req = gpt4free.Completion.create(
-        provider=gpt4free.Provider.UseLess, prompt=prompt, parentMessageId=message_id)
-
-    print(f"Answer: {req['text']}")
-    message_id = req["id"]
+    chat.append({"question": prompt, "answer": response.text})
