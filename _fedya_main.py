@@ -160,7 +160,7 @@ async def fall_guys_instruction(ctx):
     code = ctx.content[4:]
     if code == "":
         code = "Lobby Code"
-    await ctx.send(f"@{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона 5,42ГБ")
+    await ctx.send(f"@{ctx.author.name}, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter {code}. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона приблизно 5ГБ")
 
 
 @ bot.command(name='о', aliases=['so', 'шатаут'])
