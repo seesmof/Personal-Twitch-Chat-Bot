@@ -3,7 +3,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 from os.path import join, dirname
 from twitchio.ext import commands
-from playsound import playsound
 from datetime import datetime
 import pygetwindow as gw
 

@@ -9,7 +9,7 @@ import requests
 import re
 from vars import *
 import gpt4free
-from gpt4free import Provider, quora, forefront
+from gpt4free import Provider
 from deep_translator import GoogleTranslator
 from langdetect import detect
 
