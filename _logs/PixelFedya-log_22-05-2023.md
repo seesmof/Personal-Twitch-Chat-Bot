@@ -1876,3 +1876,1173 @@ kitaychik_: iq
 
 ---
 
+00:55:29
+
+alf0nss_: akyulia200IQ
+
+---
+
+00:56:03
+
+emfoniks: дякую за фолоу, сенк‘ю соу мач, вітаю в найадекватнішого стрімера на всьому твічі
+
+---
+
+00:56:10
+
+kitaychik_: Ну так ти б з гвинтівки вбив їх
+
+---
+
+00:56:13
+
+leyoung19: ахах, 300 айкю тоді
+
+---
+
+00:56:17
+
+kitaychik_: Нашо біг до них
+
+---
+
+00:56:26
+
+toper1337: ВАСИЛЬ СРОЧНО! НЕМА  ЧАСУ ПОЯСНЮВАТИ подивись будьласка в камеру
+
+---
+
+00:56:45
+
+alf0nss_: ))
+
+---
+
+00:56:47
+
+bat9_v1nzer: Шо на паспорт Kappa
+
+---
+
+00:56:50
+
+emfoniks: нарешті я можу зробити те що хотів
+
+---
+
+00:56:56
+
+alf0nss_: ахуєнно
+
+---
+
+00:56:58
+
+emfoniks: добраніч
+
+---
+
+00:57:04
+
+alf0nss_: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+00:57:10
+
+leyoung19: ахахах
+
+---
+
+00:57:14
+
+alf0nss_: @emfoniks ночі
+
+---
+
+00:57:16
+
+emfoniks: солодких снів усім
+
+---
+
+00:57:21
+
+fluffyscute: що за погляд око в око Kreygasm
+
+---
+
+00:57:25
+
+anya_musicbook: @emfoniks Добраніч)
+
+---
+
+00:57:25
+
+bat9_v1nzer: @emfoniks fluffy561Nya
+
+---
+
+00:57:26
+
+emfoniks: перед сном пісяйте
+
+---
+
+00:57:36
+
+bat9_v1nzer: @fluffyscute Христинка привіт HeyGuys fluffy561Nya fluffy561Nya
+
+---
+
+00:57:39
+
+alf0nss_: @emfoniks та ми обісрались
+
+---
+
+00:57:42
+
+leyoung19: ого
+
+---
+
+00:57:48
+
+fluffyscute: привітик, я тут ще з рейду від Рольки)
+
+---
+
+00:57:50
+
+leyoung19: воно вас з'їсть
+
+---
+
+00:57:57
+
+leyoung19: не йдиии
+
+---
+
+00:57:58
+
+bat9_v1nzer: @fluffyscute CarlSmile
+
+---
+
+00:58:03
+
+leyoung19: мабуть
+
+---
+
+00:58:06
+
+fluffyscute: @bat9_v1nzer Привітик Батічка <3 chevor1Heart
+
+---
+
+00:58:10
+
+anya_musicbook: @fluffyscute Привітик)
+
+---
+
+00:58:18
+
+fluffyscute: я роблю презентацію на дипломну тому люркаю)
+
+---
+
+00:58:24
+
+alf0nss_: мгм
+
+---
+
+00:58:24
+
+leyoung19: мабуть моментально
+
+---
+
+00:58:32
+
+fluffyscute: @anya_musicbook привітик chevor1Hello
+
+---
+
+00:58:48
+
+anya_musicbook: не знаєм що робити то танцюєм veronkDance veronkDance veronkDance
+
+---
+
+00:58:55
+
+bat9_v1nzer: @fluffyscute а я вже спатки добраніч fluffy561Dance fluffy561Nya fluffy561Nya
+
+---
+
+00:58:59
+
+leyoung19: trembaaRave trembaaRave trembaaRave
+
+---
+
+00:59:01
+
+fluffyscute: roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute roolexFluffyscute
+
+---
+
+00:59:09
+
+leyoung19: @bat9_v1nzer дробраніч!
+
+---
+
+00:59:17
+
+bat9_v1nzer: @leyoung19 fluffy561Nya
+
+---
+
+00:59:25
+
+fluffyscute: @bat9_v1nzer на добраніч, солодкеньких снів тобі fluffy561Nya
+
+---
+
+00:59:28
+
+anya_musicbook: @fluffyscute Удачі
+
+---
+
+00:59:36
+
+bat9_v1nzer: @fluffyscute kitilyKub1k
+
+---
+
+00:59:52
+
+bat9_v1nzer: Васильку то я вже 2 раз іду спати LUL fluffy561Nya
+
+---
+
+00:59:54
+
+anya_musicbook: @bat9_v1nzer Лобраніч)
+
+---
+
+01:00:07
+
+bat9_v1nzer: @anya_musicbook fluffy561Nya
+
+---
+
+01:00:13
+
+alex_lova: alexlo17Catlove alexlo17Catlove alexlo17Catlove
+
+---
+
+01:00:37
+
+leyoung19: АХАХАХАХХ
+
+---
+
+01:00:37
+
+toper1337: АХХАахахах
+
+---
+
+01:00:39
+
+fluffyscute: @fluffyscute дякую <3
+
+---
+
+01:00:40
+
+fluffyscute: хахахаххахахах
+
+---
+
+01:00:42
+
+reqwist: ахахаххаа
+
+---
+
+01:00:43
+
+kitaychik_: Бьюті Федя
+
+---
+
+01:00:48
+
+anya_musicbook: оу яка краса
+
+---
+
+01:00:51
+
+leyoung19: В АЛЕКС ЗОЛОТІ РУЧКИ
+
+---
+
+01:00:53
+
+alf0nss_: ніштяк
+
+---
+
+01:01:00
+
+leyoung19: АХАСХХАХ
+
+---
+
+01:01:19
+
+bat9_v1nzer: LUL
+
+---
+
+01:01:21
+
+alf0nss_: АВЗЗАВХЗВАХЗХЗВІА
+
+---
+
+01:01:24
+
+leyoung19: АЇААХХАХААХА
+
+---
+
+01:01:30
+
+svo0d1: Наступний стрім Оксана тебе так розмаллює @PixelFedya
+
+---
+
+01:01:42
+
+bat9_v1nzer: @svo0d1 привіт свуді HeyGuys fluffy561Nya
+
+---
+
+01:01:56
+
+svo0d1: @bat9_v1nzer trembaaHey
+
+---
+
+01:02:06
+
+alex_lova: Це бій з примарними кораблями?
+
+---
+
+01:02:17
+
+icetrollhs: Це крутий івент, потім зіграйте тут тисяч по 300 збирали
+
+---
+
+01:02:51
+
+anya_musicbook: та та.. хпхх
+
+---
+
+01:02:55
+
+alf0nss_: gachiGASM
+
+---
+
+01:03:13
+
+kitaychik_: Федя, можна буде десіт зіграти потім на стріміє
+
+---
+
+01:03:25
+
+anya_musicbook: Хоча я на трохи побула але було класно))
+
+---
+
+01:03:34
+
+leyoung19: 10 чи 9
+
+---
+
+01:03:38
+
+kitaychik_: ахахаххахаха
+
+---
+
+01:03:42
+
+fluffyscute: 11
+
+---
+
+01:03:46
+
+kitaychik_: Deceit
+
+---
+
+01:03:50
+
+kitaychik_: Гра блять
+
+---
+
+01:04:02
+
+kitaychik_: Так не зараз
+
+---
+
+01:04:21
+
+lywarnyk44: офаєте гру чи стрім?
+
+---
+
+01:04:25
+
+kitaychik_: Deceit гра блять на стрімі можна буде зіграти потім вона на 6 людей
+
+---
+
+01:04:33
+
+k3ned1: розбамбур
+
+---
+
+01:04:33
+
+mmeiolimm: привіт) зайшла зафоловитись) давно вже пора було
+
+---
+
+01:04:55
+
+k3ned1: мені дуже подобається гра
+
+---
+
+01:05:05
+
+kitaychik_: @k3ned1 А чи на довго
+
+---
+
+01:05:06
+
+k3ned1: в тремби бачив
+
+---
+
+01:05:07
+
+anya_musicbook: @mmeiolimm згодна)) Сьогодні теж зафоловилась)
+
+---
+
+01:05:14
+
+kitaychik_: Вона в чаті патронів Філа
+
+---
+
+01:05:18
+
+lavielay: akyuliaHamster
+
+---
+
+01:05:20
+
+k3ned1: @kitaychik_ ні, але поки багато нового в грі ще є
+
+---
+
+01:05:21
+
+mmeiolimm: не тільки в тремби)
+
+---
+
+01:05:27
+
+lavielay: єбєйше пограли akyuliaHamster
+
+---
+
+01:05:33
+
+icetrollhs: Сімейний бери
+
+---
+
+01:05:42
+
+icetrollhs: Жинці одразу
+
+---
+
+01:05:49
+
+babooreh_x: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+01:05:53
+
+vladdgoldin: коли Розбамбур?
+
+---
+
+01:05:56
+
+vladdgoldin: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+01:06:05
+
+mmeiolimm: @kitaychik_ я туди пишу раз у місяць)
+
+---
+
+01:06:07
+
+kitaychik_: @babooreh_x хаааааааааааааааааай
+
+---
+
+01:06:07
+
+k3ned1: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE
+
+---
+
+01:06:09
+
+icetrollhs: Як варіант, але там обмеження по регіону
+
+---
+
+01:06:09
+
+lavielay: tapaceLove tapaceLove tapaceLove
+
+---
+
+01:06:20
+
+alex_lova: @k3ned1 @lavielay  @babooreh_x дякую за розбамбур!
+
+---
+
+01:06:20
+
+toper1337: )
+
+---
+
+01:06:23
+
+icetrollhs: Я хочу майнкрафт
+
+---
+
+01:06:25
+
+kitaychik_: Deceit бляха
+
+---
+
+01:06:26
+
+lavielay: @alex_lova trembaaRave tapacePat tapacePat tapacePat
+
+---
+
+01:06:39
+
+k3ned1: alex_lova trembaaRave trembaaRave trembaaRave trembaaRave
+
+---
+
+01:06:47
+
+k3ned1: а в сейсіт коли?
+
+---
+
+01:06:50
+
+anya_musicbook: @alex_lova Приєднююсь до слів Алекс alexlo17Catlove alexlo17Catlove alexlo17Catlove
+
+---
+
+01:06:59
+
+kitaychik_: @k3ned1 пішов у дупу
+
+---
+
+01:07:04
+
+mmeiolimm: ні, не у тремби, там десь інакше миспілкуівлись)
+
+---
+
+01:07:07
+
+reqwist: папа федя pixelf8LOVE
+
+---
+
+01:07:13
+
+mmeiolimm: ок, всім бб))
+
+---
+
+01:07:18
+
+icetrollhs: trembaaHey trembaaHey trembaaHey
+
+---
+
+01:07:20
+
+icetrollhs: trembaaOkpok trembaaOkpok trembaaOkpok
+
+---
+
+01:07:20
+
+toper1337: ЧЕК тг)
+
+---
+
+01:07:22
+
+fluffyscute: дякуємо за стрімчик fluffy561Nya fluffy561Nya fluffy561Nya
+
+---
+
+01:07:27
+
+k3ned1: kitaychik_ ))))
+
+---
+
+01:07:31
+
+lavielay: хахаххахахахах
+
+---
+
+01:07:33
+
+leyoung19: ахахахах
+
+---
+
+01:07:33
+
+k3ned1: хахаахахахахах
+
+---
+
+01:07:37
+
+lavielay: хахахахахаха
+
+---
+
+01:07:39
+
+k3ned1: острів масхи
+
+---
+
+01:07:42
+
+k3ned1: пасхи
+
+---
+
+01:07:47
+
+kitaychik_: Острів Феді
+
+---
+
+01:07:47
+
+toper1337: аххаха
+
+---
+
+01:07:47
+
+anya_musicbook: прикол
+
+---
+
+01:07:47
+
+leyoung19: та шось чутно ніби
+
+---
+
+01:07:52
+
+lywarnyk44: ну ось, майже все пропустив) тільки но прийшов стрім додивистиь а ви вже все
+
+---
+
+01:07:56
+
+anya_musicbook: @kitaychik_ +
+
+---
+
+01:07:56
+
+babooreh_x: чутно коли грюкаєш
+
+---
+
+01:07:56
+
+leyoung19: але далеко дуже
+
+---
+
+01:08:07
+
+lavielay: ахахахха
+
+---
+
+01:08:08
+
+k3ned1: )))))
+
+---
+
+01:08:08
+
+babooreh_x: ео
+
+---
+
+01:08:09
+
+lavielay: лол
+
+---
+
+01:08:10
+
+toper1337: ахахах
+
+---
+
+01:08:11
+
+kitaychik_: О як співають хлопаки
+
+---
+
+01:08:12
+
+leyoung19: ахахх
+
+---
+
+01:08:12
+
+anya_musicbook: уу))
+
+---
+
+01:08:13
+
+k3ned1: це шо
+
+---
+
+01:08:14
+
+toper1337: Кліпи!
+
+---
+
+01:08:16
+
+kitaychik_: Давай з ними
+
+---
+
+01:08:24
+
+babooreh_x: Ееееооо pixelf8LooooooL
+
+---
+
+01:08:33
+
+lamark_sk8: pixelf8LooooooL SteerR Куди поїдемо??? pixelf8LooooooL SteerR
+
+---
+
+01:08:36
+
+kitaychik_: @k3ned1 А ти шо ніколи не грав deceit???
+
+---
+
+01:08:39
+
+lavielay: @PixelFedya tapacePat tapacePat tapacePat tapacePat tapacePat tapacePat
+
+---
+
+01:08:39
+
+pixelfedya: ТЕЛЕГРАМ: https://t.me/pixelfedya
+
+---
+
+01:08:39
+
+pixelfedya: ТЕЛЕГРАМ: https://t.me/pixelfedya
+
+---
+
+01:08:40
+
+pixelfedya: ТЕЛЕГРАМ: https://t.me/pixelfedya
+
+---
+
+01:08:41
+
+toper1337: кліпи
+
+---
+
+01:08:50
+
+k3ned1: kitaychik_ ні. наче лише в соло грав пару годин
+
+---
+
+01:09:04
+
+kitaychik_: Федя, я пальцями спамлю краще, ніж ти декою
+
+---
+
+01:09:08
+
+anya_musicbook: Дякую за стрім)
+
+---
+
+01:09:11
+
+toper1337: ВААСЯ!
+
+---
+
+01:09:12
+
+k3ned1: <3
+
+---
+
+01:09:14
+
+toper1337: кліпи!
+
+---
+
+01:09:14
+
+kitaychik_: @k3ned1 6 людей там розбамбур
+
+---
+
+01:09:17
+
+leyoung19: всім добраніч та гарних снів! дякую за стрім!!!!!
+
+---
+
+01:09:18
+
+lavielay: tapaceLove
+
+---
+
+01:09:18
+
+alex_lova: Дякую alexlo17Catlove
+
+---
+
+01:09:25
+
+toper1337: АЛО КЛІПИ
+
+---
+
+01:09:37
+
+toper1337: не роби вигляд типу ти не бачиш
+
+---
+
+01:09:44
+
+lywarnyk44: фазмофобія
+
+---
+
+01:09:45
+
+toper1337: пон..
+
+---
+
+01:09:46
+
+i_bananbi4_i: Йди спати
+
+---
+
+01:09:50
+
+lamark_sk8: Пішли до skalii_!
+
+---
+
+01:09:50
+
+panterivka: Цей той
+
+---
+
+01:09:52
+
+lavielay: всім добраніч tapacePat
+
+---
+
+01:10:07
+
+panterivka: Гоу до Мелкіна
+
+---
+
+01:10:12
+
+anya_musicbook: @Lavielay Добраніч)
+
+---
+
+01:10:36
+
+pixelfedya: Маєш гарну борідку
+
+---
+
+01:10:39
+
+pixelfedya: Маєш гарну борідку 󠀀
+
+---
+
+01:10:40
+
+pixelfedya: Маєш гарну борідку
+
+---
+
+01:10:40
+
+pixelfedya: Маєш гарну борідку 󠀀
+
+---
+
+01:10:41
+
+pixelfedya: Маєш гарну борідку
+
+---
+
+01:10:41
+
+panterivka: Маєш гарну борідку
+
+---
+
+01:10:46
+
+babooreh_x: Маєш гарну борідку
+
+---
+
+01:10:55
+
+toper1337: папа
+
+---
+
+01:11:00
+
+toper1337: бб
+
+---
+
+01:11:01
+
+lavielay: ACTION Маєш гарну борідку
+
+---
+
+01:11:03
+
+leyoung19: папа!
+
+---
+
+01:11:05
+
+fluffyscute: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+01:11:05
+
+toper1337: гудбай
+
+---
+
+01:11:07
+
+lavielay: ACTION Маєш гарну борідку tapaceDance
+
+---
+
+01:11:07
+
+fluffyscute: Маєш гарну борідку
+
+---
+
+01:11:08
+
+leyoung19: Маєш гарну борідку
+
+---
+
+01:11:12
+
+panterivka: PixelBob
+
+---
+
+01:11:13
+
+anya_musicbook: Маєш гарну борідку
+
+---
+
+01:11:15
+
+i_bananbi4_i: ACTION Маєш гарну борідку
+
+---
+
+01:11:15
+
+pixelfedya: Маєш гарну борідку 󠀀
+
+---
+
+01:11:16
+
+pixelfedya: Маєш гарну борідку
+
+---
+
+01:11:16
+
+pixelfedya: Маєш гарну борідку 󠀀
+
+---
+
+01:11:16
+
+icetrollhs: ACTION Маєш гарну борідку
+
+---
+
+01:11:17
+
+leyoung19: trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+01:11:21
+
+i_bananbi4_i: ACTION Маєш гарну борідку.
+
+---
+
+01:11:24
+
+lamark_sk8: trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+08:26:18
+
+pawrop: is online at PixelFedya!
+
+---
+
+08:26:25
+
+wuyodo: is online at PixelFedya!
+
+---
+
