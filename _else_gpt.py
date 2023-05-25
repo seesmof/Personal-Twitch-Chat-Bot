@@ -12,7 +12,7 @@ import pyautogui
 import random
 
 BOT_PREFIX = "!"
-CHANNEL = "Fuuraai"
+CHANNEL = "worstTyler"
 # CHANNEL = "seesmof"
 
 
