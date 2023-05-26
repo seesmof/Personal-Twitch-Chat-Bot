@@ -1,10 +1,15 @@
-from gpt4free import deepai
-
-def list_of_vacation_destinations():
-  results = []
-  for chunk in deepai.Completion.create("Write a list of possible vacation destinations:"):
-    results.append(chunk)
-  return results
+import tkinter
 
 
-destinations = list_of_vacation_destinations()
+def show_popup():
+    root = tkinter.Tk()
+    popup = tkinter.Toplevel(root)
+    tkinter.Label(popup, text="Hello World").pack()
+    root.after(5000, popup.destroy)
+    root.mainloop()
+
+
+show_popup()
+
+for i in range(100):
+    print(i)

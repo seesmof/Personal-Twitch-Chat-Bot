@@ -5,6 +5,7 @@ from os.path import join, dirname
 from twitchio.ext import commands
 from datetime import datetime
 import pygetwindow as gw
+from notifypy import Notify
 
 import openai
 import random
@@ -14,7 +15,8 @@ import pyautogui
 import mfs
 from vars import *
 
-sound_path = "D:/repos/python-twitchio-chat-bot/sound.mp3"
+sound_path = "D:/repos/python-twitchio-chat-bot/notifications/sound.wav"
+icon_path = "D:/repos/python-twitchio-chat-bot/notifications/icon.png"
 
 last_message_time = {}
 messages_tracker = {}
@@ -96,7 +98,11 @@ async def event_message(ctx):
 
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     if mfs.check_for_letters(ctx.content.lower(), letters):
-        print(ctx.content)
+        notification = Notify()
+        notification.title = "Хтось тегнув у Феді"
+        notification.message = f"{ctx.author.name}: {ctx.content}"
+        notification.audio = sound_path
+        notification.send()
 
     ''' Temporarily disabled
     # for handling greetings
