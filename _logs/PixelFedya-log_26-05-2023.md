@@ -34,3 +34,27 @@ wuyodo: is online at PixelFedya!
 
 ---
 
+10:08:10
+
+wuyodo: is online at PixelFedya!
+
+---
+
+10:08:11
+
+pawrop: is online at PixelFedya!
+
+---
+
+10:08:34
+
+wuyodo: is online at PixelFedya!
+
+---
+
+10:08:42
+
+pawrop: is online at PixelFedya!
+
+---
+
