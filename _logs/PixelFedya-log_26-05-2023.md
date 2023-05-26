@@ -13102,3 +13102,153 @@ the_floren: @DarkFire_UA солодана?
 
 ---
 
+23:43:56
+
+vladdgoldin: !єнот
+
+---
+
+23:43:56
+
+pawrop: @ddariiya, лови єнота 🦝
+
+---
+
+23:43:58
+
+lamark_sk8: !додай
+
+---
+
+23:43:58
+
+pawrop: @seesmof, , бігом додавати!
+
+---
+
+23:44:08
+
+vladdgoldin: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+23:44:09
+
+seesmof: коґо
+
+---
+
+23:44:09
+
+darkfire_ua: @the_floren ні chevor1Laugh
+
+---
+
+23:44:11
+
+icetrollhs: Це видалення волосся
+
+---
+
+23:44:14
+
+icetrollhs: на дупі
+
+---
+
+23:44:14
+
+toper1337: Rocket League чекни завтра будемо бамбурити з чатом
+
+---
+
+23:44:16
+
+icetrollhs: за гроши
+
+---
+
+23:44:16
+
+opudalo: я люркаю, нічо?
+
+---
+
+23:44:19
+
+vladdgoldin: fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop fluffy561Opop
+
+---
+
+23:44:19
+
+toper1337: ВАСЯ!
+
+---
+
+23:44:22
+
+slatezzzcs: LUL
+
+---
+
+23:44:26
+
+darkfire_ua: @DarkFire_UA вона ж не стрімить
+
+---
+
+23:44:26
+
+slatezzzcs: Ахахахаха
+
+---
+
+23:44:27
+
+k3ned1: )))
+
+---
+
+23:44:30
+
+slatezzzcs: То база
+
+---
+
+23:44:31
+
+vladdgoldin: !дуп а
+
+---
+
+23:44:31
+
+pawrop: @vladdgoldin показав волохату дупу @hauha333 MrDestructoid
+
+---
+
+23:44:31
+
+ddariiya: рифма до слова віпок
+
+---
+
+23:44:33
+
+maks_malitsk: Ало
+
+---
+
+23:44:34
+
+ddariiya: срочно
+
+---
+
+23:44:34
+
+the_floren: @DarkFire_UA alex_lova ,
+
+---
+
