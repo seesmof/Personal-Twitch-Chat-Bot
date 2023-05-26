@@ -13252,3 +13252,669 @@ the_floren: @DarkFire_UA alex_lova ,
 
 ---
 
+23:44:43
+
+icetrollhs: Алло
+
+---
+
+23:44:44
+
+toper1337: ВАСИЛЬ)) ти зі своїми бабуригами)
+
+---
+
+23:44:46
+
+k3ned1: куріпок
+
+---
+
+23:44:46
+
+toper1337: Rocket League
+
+---
+
+23:44:49
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:44:55
+
+toper1337: Rocket League чекни завтра будемо бамбурити з чатом
+
+---
+
+23:44:56
+
+lamark_sk8: !зріст
+
+---
+
+23:44:56
+
+pawrop: @lamark_sk8, зріст стрімера приблизно становить 182 см
+
+---
+
+23:44:56
+
+martyniuk_ua: @SlatezZzcs аза
+
+---
+
+23:44:56
+
+darkfire_ua: @the_floren ні chevor1Laugh
+
+---
+
+23:44:57
+
+slatezzzcs: Наліпок
+
+---
+
+23:44:58
+
+ak1okatsu: @pixelfedya глянь в пп твіча, я тобі норм трейлер скинув
+
+---
+
+23:45:09
+
+k3ned1: то шо, ідем в пірати зара?
+
+---
+
+23:45:13
+
+vladdgoldin: @ddariiya хтивок
+
+---
+
+23:45:18
+
+slatezzzcs: @martyniuk_ua fluffy561Rock
+
+---
+
+23:45:24
+
+the_floren: @DarkFire_UA а у когош ти ?
+
+---
+
+23:45:30
+
+lamark_sk8: !додай
+
+---
+
+23:45:30
+
+pawrop: @seesmof, , бігом додавати!
+
+---
+
+23:45:35
+
+maks_malitsk: Оґо
+
+---
+
+23:45:36
+
+darkfire_ua: @the_floren а от не скажу chevor1Laugh chevor1Laugh chevor1Laugh
+
+---
+
+23:45:37
+
+k3ned1: ок, зараз пишу китайчику
+
+---
+
+23:45:41
+
+icetrollhs: @k3ned1 Скіки вас?
+
+---
+
+23:45:42
+
+k3ned1: і лавілею
+
+---
+
+23:45:43
+
+toper1337: Я тебе зараз копну...
+
+---
+
+23:45:47
+
+darkfire_ua: @the_floren шукай chevor1Hello
+
+---
+
+23:45:52
+
+seesmof: :D
+
+---
+
+23:45:52
+
+k3ned1: IceTrollHS 4 якшо китайчик і лавілей буде
+
+---
+
+23:45:59
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:46:01
+
+seesmof: нє, якшо маєте файні ідеї, пишіть звичайно
+
+---
+
+23:46:02
+
+k3ned1: коли ти впав?
+
+---
+
+23:46:04
+
+vladdgoldin: @wuyodo Сісмуф це?
+
+---
+
+23:46:07
+
+wuyodo: @vladdgoldin, Вибачте, я не впевнений, що ви маєте на увазі під "Sismouf". Не могли б ви надати більше контексту або уточнити своє запитання? Я зроблю все можливе, щоб допомогти вам, коли я краще зрозумію.
+
+---
+
+23:46:15
+
+k3ned1: ото ти федя
+
+---
+
+23:46:17
+
+k3ned1: мдааа
+
+---
+
+23:46:18
+
+the_floren: @DarkFire_UA прікол буде якщо я через секунду знаходжу тебе chevor1Laugh
+
+---
+
+23:46:21
+
+maks_malitsk: Капець
+
+---
+
+23:46:23
+
+k3ned1: ааа я бачив
+
+---
+
+23:46:26
+
+toper1337: ля ігнорить)
+
+---
+
+23:46:26
+
+maks_malitsk: Сюдаааа
+
+---
+
+23:46:27
+
+armless_master0: реейд
+
+---
+
+23:46:33
+
+toper1337: the best inside я заню цю гру там також імба, але тільки зпочатку підкінець і з середини там вже просто у якесь мочилово перетворюється хорор і там взагалі вже нема не атмосфери нічого просто стріляєшся, і якийсь екшон відбувається
+
+---
+
+23:46:33
+
+maks_malitsk: Привіт РЕНДЕРИ
+
+---
+
+23:46:36
+
+maks_malitsk: trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+23:46:37
+
+icetrollhs: trembaaHey trembaaHey trembaaHey
+
+---
+
+23:46:39
+
+seesmof: TombRaid TombRaid TombRaid
+
+---
+
+23:46:41
+
+ak1okatsu: рейдери привіт ak1okaXd
+
+---
+
+23:46:46
+
+maks_malitsk: @armless_master0 хааааай
+
+---
+
+23:46:47
+
+toper1337: Всім ХАЙ!!
+
+---
+
+23:46:53
+
+armless_master0: вітання!
+
+---
+
+23:46:54
+
+lamark_sk8: qch1pUA qch1pUA qch1pUA qch1pUA qch1pUA
+
+---
+
+23:46:54
+
+vaskokiko: Рейд рейд
+
+---
+
+23:46:57
+
+seesmof: рейд найкращого стрімера у всесвіті
+
+---
+
+23:46:57
+
+vladdgoldin: !дуп
+
+---
+
+23:46:57
+
+pawrop: @vladdgoldin помацав волохату дупу @maks_malitsk StinkyGlitch
+
+---
+
+23:47:00
+
+kitoleg26: GlitchCat
+
+---
+
+23:47:07
+
+maks_malitsk: Кххахаха
+
+---
+
+23:47:16
+
+armless_master0: ахахах
+
+---
+
+23:47:16
+
+roolex9: рейдів баагто небуває)
+
+---
+
+23:47:16
+
+maks_malitsk: @kitoleg26 хааааай
+
+---
+
+23:47:29
+
+seesmof: саме так
+
+---
+
+23:47:29
+
+vaskokiko: Тисну руку
+
+---
+
+23:47:29
+
+vladdgoldin: @roolex9 привіт,як тебе звати?
+
+---
+
+23:47:33
+
+kitoleg26: @maks_malitsk HeyGuys GlitchCat
+
+---
+
+23:47:33
+
+ak1okatsu: ми походу відео не додивимся ak1okaXd
+
+---
+
+23:47:34
+
+maks_malitsk: @vaskokiko хааааай
+
+---
+
+23:47:46
+
+slatezzzcs: @roolex9 бачив монте дивився,а спати коли?
+
+---
+
+23:48:02
+
+roolex9: слейт живився
+
+---
+
+23:48:10
+
+vladdgoldin: !дуп а
+
+---
+
+23:48:10
+
+pawrop: @vladdgoldin помацав сраку @legolas_07_ GlitchLit
+
+---
+
+23:48:21
+
+armless_master0: armles5Heart armles5Heart armles5Heart
+
+---
+
+23:48:22
+
+legolas_07_: @pawrop Kappa
+
+---
+
+23:48:22
+
+pawrop: @legolas_07_, я не здатний генерувати повідомлення. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше
+
+---
+
+23:48:28
+
+k3ned1: ми заходимо в дискорди
+
+---
+
+23:48:29
+
+maks_malitsk: !дуп
+
+---
+
+23:48:29
+
+pawrop: @maks_malitsk помацав волохату дупу @footballworld213 CarlSmile
+
+---
+
+23:48:29
+
+ak1okatsu: екран перемкни
+
+---
+
+23:48:34
+
+icetrollhs: бачу трейлер TPFufun
+
+---
+
+23:48:45
+
+slatezzzcs: LUL
+
+---
+
+23:48:48
+
+vladdgoldin: !дуп
+
+---
+
+23:48:48
+
+pawrop: @vladdgoldin полапав дупу @toper1337 Lechonk
+
+---
+
+23:48:55
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+23:48:55
+
+toper1337: ВАСИЛЬ!!!
+
+---
+
+23:48:57
+
+vladdgoldin: @slatezzzcs на кого?
+
+---
+
+23:49:01
+
+seesmof: Слейт вітаємо
+
+---
+
+23:49:01
+
+legolas_07_: таа
+
+---
+
+23:49:01
+
+vladdgoldin: usachTimo
+
+---
+
+23:49:02
+
+lamark_sk8: !дуп
+
+---
+
+23:49:02
+
+pawrop: @lamark_sk8 полапав дупу @ak1okatsu KappaClaus
+
+---
+
+23:49:03
+
+slatezzzcs: Дивився* PogChamp
+
+---
+
+23:49:04
+
+maks_malitsk: NotLikeThis
+
+---
+
+23:49:06
+
+legolas_07_: на мені одружився
+
+---
+
+23:49:12
+
+maks_malitsk: Ахаххахпхп
+
+---
+
+23:49:14
+
+kitoleg26: ахахаха
+
+---
+
+23:49:16
+
+slatezzzcs: То роля не попаде по клаві
+
+---
+
+23:49:17
+
+vladdgoldin: @slatezzzcs вітаю fluffy561Opop
+
+---
+
+23:49:26
+
+toper1337: Rocket League чекни завтра будемо бамбурити з чатом
+
+---
+
+23:49:28
+
+maks_malitsk: Хаааааай
+
+---
+
+23:49:28
+
+legolas_07_: оо HypeLove1 HypeLove1 HypeLove1
+
+---
+
+23:49:35
+
+ak1okatsu: @lamark_sk8 руки забрав chevor1Shout
+
+---
+
+23:49:37
+
+ddariiya: саня саня, в тебе дуже класні штані! кліпмейкер ти ну просто вау, бустиш василю канал! також справжній король віпок, як сказав василь - хуїпок. до олда вже дослужився, та на славі не нажився! хлопець просто молодець, з'їж солодкий сосунець!
+
+---
+
+23:49:40
+
+vitendas: Хайййй ум ум ай
+
+---
+
+23:49:40
+
+ak1okatsu: Хааааай
+
+---
+
+23:49:45
+
+slatezzzcs: @seesmof дякую,але поки рано Kappa
+
+---
+
+23:49:50
+
+seesmof: :D
+
+---
+
+23:49:52
+
+seesmof: розумію
+
+---
+
+23:49:58
+
+ak1okatsu: !дупа
+
+---
+
+23:50:02
+
+ddariiya: @toper1337
+
+---
+
+23:50:04
+
+ak1okatsu: !дуп
+
+---
+
+23:50:04
+
+pawrop: @ak1okatsu помацав сраку @the_floren PogBones
+
+---
+
+23:50:04
+
+vladdgoldin: !дуп
+
+---
+
+23:50:04
+
+pawrop: @vladdgoldin помацав сраку @seesmof CrreamAwk
+
+---
+
