@@ -127,7 +127,7 @@ async def show_info(ctx):
 
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
-    await ctx.send(f"@ {ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!окса\", \"!щіщ\", \"!зріст\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!шлик\", \"!дуп\", \"!ня\", \"!уа\"")
+    await ctx.send(f"@ {ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!окса\", \"!щіщ\", \"!зріст\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!шлик\", \"!дуп\", \"!ня\", \"!уа\", \"!дс\"")
 
 
 @ bot.command(name='єнот')
@@ -501,6 +501,11 @@ async def easter_fight(ctx):
 @ bot.command(name='уа')
 async def easter_fight(ctx):
     await ctx.send(f"@{ctx.author.name} PowerUpL {random.choice(emotes_all_twitch)} PowerUpR")
+
+
+@ bot.command(name='дс', aliases=['ds', 'discord'])
+async def discord_show(ctx):
+    await ctx.send(f"@{ctx.author.name}, доєднуйтесь до нас в Discord - *discord.gg/KX6e8K96Cd* TehePelo")
 
 if __name__ == "__main__":
     bot.run()
