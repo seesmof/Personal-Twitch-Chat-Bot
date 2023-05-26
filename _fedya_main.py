@@ -96,7 +96,7 @@ async def event_message(ctx):
 
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
     if mfs.check_for_letters(ctx.content.lower(), letters):
-        playsound(sound_path)
+        print(ctx.content)
 
     ''' Temporarily disabled
     # for handling greetings
@@ -121,7 +121,7 @@ async def show_info(ctx):
 
 @ bot.command(name='коми', aliases=['help', 'команди'])
 async def show_commands(ctx):
-    await ctx.send(f"@ {ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!hi\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!gpt\", \"!окса\", \"!щіщ\", \"!зріст\", \"!she\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!коц\", \"!шлик\", \"!дуп\", \"!ня\", \"!уа\"")
+    await ctx.send(f"@ {ctx.author.name}, Наявні команди: \"!єнот\", \"!пр\", \"!фол\", \"!о\", \"!лиз\", \"!нюх\", \"!мац\", \"!пук\", \"!боб\", \"!гам\", \"!бан\", \"!бам\", \"!цьом\", \"!додай\", \"!тг\", \"!гпт\", \"!окса\", \"!щіщ\", \"!зріст\", \"!дн\", \"!шанс\", \"!ем\", \"!пк\", \"!мак\", \"!чого\", \"!де\", \"!блін\", \"!ой\", \"!батько\", \"!шлик\", \"!дуп\", \"!ня\", \"!уа\"")
 
 
 @ bot.command(name='єнот')
@@ -479,7 +479,7 @@ async def easter_fight(ctx):
 @ bot.command(name='дуп', aliases=['поп', 'ass'])
 async def easter_fight(ctx):
     phrases = ["показав", "помацав", "полапав", "пощупав"]
-    wut = ["дупу", "сраку"]
+    wut = ["дупу", "сраку", "волохату дупу"]
     username = ctx.content[4:]
     if '@' not in username:
         global last_message_time
