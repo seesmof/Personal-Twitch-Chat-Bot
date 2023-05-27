@@ -1870,3 +1870,513 @@ vitendas: кінець травня, тепличні вже є
 
 ---
 
+17:27:02
+
+svo0d1: То куплена, оно на ній код видно
+
+---
+
+17:27:02
+
+kitaychik_: Треба теплиці мати юначе trembaaLUL trembaaLUL
+
+---
+
+17:27:23
+
+champik_is_back: Василю, будемо грати дефолтні чи шукати коди на кастомні?
+
+---
+
+17:27:34
+
+c1dol3mm: та чекай
+
+---
+
+17:27:38
+
+c1dol3mm: я заходжу
+
+---
+
+17:27:42
+
+reqwist: сєк почекай
+
+---
+
+17:27:44
+
+svo0d1: я курєра маю зустріти, пізніше хіба
+
+---
+
+17:27:45
+
+pixelfedya: p74k8
+
+---
+
+17:27:49
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+17:27:49
+
+vitalik_play_: БУЄНОООО
+
+---
+
+17:27:51
+
+maks_malitsk: !фол P74K8 󠀀
+
+---
+
+17:27:51
+
+pawrop: @maks_malitsk, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter  P74K8 󠀀. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона приблизно 5ГБ
+
+---
+
+17:27:57
+
+kitaychik_: Ще чекай зараз доїм
+
+---
+
+17:27:59
+
+seesmof: @emfoniks KonCha <3
+
+---
+
+17:28:01
+
+maks_malitsk: Я Зара зайду
+
+---
+
+17:28:01
+
+emfoniks: здоров
+
+---
+
+17:28:02
+
+emfoniks: привіт
+
+---
+
+17:28:09
+
+logan_firmofan: РОЗЙОБНИЙ АНЕКДОТ: Заходить Фєдя в бар. Питає,"Можете налити води?", а йому відповідають "Так". Кінець анекдоту.
+
+---
+
+17:28:14
+
+maks_malitsk: @emfoniks хаааай
+
+---
+
+17:28:20
+
+emfoniks: так, я тверезий і тільтований
+
+---
+
+17:28:24
+
+k3ned1: логан)))
+
+---
+
+17:28:25
+
+champik_is_back: Василю, будемо грати дефолтні чи шукати коди на кастомні? 󠀀
+
+---
+
+17:28:29
+
+vitalik_play_: Вхвхвхвххвзвзвзіхвхаххахахаххахсхахахв
+
+---
+
+17:28:33
+
+wtow6: hello from california\
+
+---
+
+17:28:33
+
+seesmof: @wuyodo розкажи файний анекдот
+
+---
+
+17:28:35
+
+k3ned1: подаруйте логану хтось курси по жартам
+
+---
+
+17:28:38
+
+wtow6: hello from california
+
+---
+
+17:28:43
+
+lavielay: @k3ned1 )))
+
+---
+
+17:28:44
+
+seesmof: hello from new zeland
+
+---
+
+17:28:45
+
+husarovh: привіт
+
+---
+
+17:28:46
+
+wuyodo: @seesmof, звичайно! Ось короткий:  Чому вчені не довіряють атомам?  Бо вони все вигадують!  Сподіваюся, це змусило вас посміхнутися!
+
+---
+
+17:28:55
+
+logan_firmofan: @k3ned1 Хай
+
+---
+
+17:28:58
+
+logan_firmofan: @Lavielay ХАААЙ
+
+---
+
+17:29:03
+
+lavielay: @logan_firmofan tapacePat
+
+---
+
+17:29:06
+
+k3ned1: він або жартує і не смішно, або жарт з затримкою, коли вже всі насміялись
+
+---
+
+17:29:09
+
+maks_malitsk: @logan_firmofan хаааай
+
+---
+
+17:29:12
+
+vitalik_play_: Хелоу фром інгліш
+
+---
+
+17:29:18
+
+zxcakula: ХАХАХА
+
+---
+
+17:29:18
+
+vitalik_play_: Аїїаїаїаїаїаїаїїахахахахсххмхвмхамхахмаххсхаха
+
+---
+
+17:29:24
+
+wtow6: Недійшло
+
+---
+
+17:29:26
+
+seesmof: :)
+
+---
+
+17:29:26
+
+champik_is_back: @wuyodo це логан?
+
+---
+
+17:29:27
+
+logan_firmofan: @maks_malitsk Хай
+
+---
+
+17:29:28
+
+c1dol3mm: FeelsWeirdMan
+
+---
+
+17:29:28
+
+kitaychik_: @k3ned1 Буває
+
+---
+
+17:29:33
+
+wuyodo: @champik_is_back, I am not Logan. I am Bard, a large language model from Google AI. I am a machine learning model trained to be informative and comprehensive. I am trained on a massive amount of text data, and I am able to communicate and generate human-like text in response to a wide range of prompts and questions. For example, I can provide summaries of factual topics or create stories.   Logan is a fictional character from the X-Men comics and films. He is a mutant
+
+---
+
+17:29:35
+
+wuyodo: with the ability to heal quickly and project adamantium claws from his hands. He is a member of the X-Men and has fought alongside them against many enemies.   I hope this answers your question. Let me know if you have any other questions.
+
+---
+
+17:29:35
+
+k3ned1: logan_firmofan хаааааааай
+
+---
+
+17:29:42
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+17:29:44
+
+maks_malitsk: І шо
+
+---
+
+17:29:52
+
+seesmof: crazy mofo
+
+---
+
+17:29:53
+
+k3ned1: може то реквіст
+
+---
+
+17:29:58
+
+logan_firmofan: ЕЛЕНЕС
+
+---
+
+17:30:08
+
+vitalik_play_: Вітаємо в буфері обміну Gboard. Скопійований текст зберігатиметься тут.Торкніться скопійованого сегмента, щоб вставити його в текстове поле.
+
+---
+
+17:30:12
+
+p4shtetikus: @logan_firmofan хаааааай
+
+---
+
+17:30:17
+
+logan_firmofan: @p4shtetikus Хай
+
+---
+
+17:30:17
+
+seesmof: @vitalik_play_ <3
+
+---
+
+17:30:20
+
+emfoniks: чому Вася не довіряє вікну? бо він п'є воду. Посміхнулись?
+
+---
+
+17:30:26
+
+emfoniks: смішно?
+
+---
+
+17:30:27
+
+seesmof: @wuyodo хай
+
+---
+
+17:30:30
+
+maks_malitsk: @vitalik_play_ хааааай
+
+---
+
+17:30:31
+
+logan_firmofan: @k3ned1 Через тебе я тепер мрію переїхати в франик
+
+---
+
+17:30:34
+
+vitendas: @wuyodo , якщо ти бард, вигадай пісню про Федю
+
+---
+
+17:30:42
+
+vitalik_play_: Хай
+
+---
+
+17:30:43
+
+k3ned1: logan_firmofan і дати мені пизди в гта рп?)
+
+---
+
+17:30:46
+
+logan_firmofan: Бо там ахуєнно
+
+---
+
+17:30:48
+
+vitalik_play_: Я з фринику
+
+---
+
+17:30:54
+
+vitalik_play_: Франику
+
+---
+
+17:30:55
+
+k3ned1: аааа, +, франик топ
+
+---
+
+17:31:30
+
+husarovh: Кременчук топ
+
+---
+
+17:31:37
+
+c1dol3mm: і я в франіку, правда лише в області Kappa
+
+---
+
+17:31:38
+
+kitaychik_: Топ Тернопіль бо там дупа Лавілея
+
+---
+
+17:31:40
+
+young_schoo1: дурне
+
+---
+
+17:31:46
+
+them1kut: trembaaLUL trembaaLUL trembaaLUL trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+17:31:49
+
+alf0nss_: добрий ранок
+
+---
+
+17:31:50
+
+lexxxxey: Лул
+
+---
+
+17:31:51
+
+k3ned1: kitaychik_ +
+
+---
+
+17:31:55
+
+k3ned1: alf0nss_ хаааааааай
+
+---
+
+17:31:55
+
+logan_firmofan: @k3ned1 І це теж)))
+
+---
+
+17:31:56
+
+lavielay: @kitaychik_ akyuliaHamster
+
+---
+
+17:31:57
+
+p4shtetikus: @kitaychik_ +++
+
+---
+
+17:32:06
+
+k3ned1: ага
+
+---
+
+17:32:07
+
+lavielay: ага
+
+---
+
+17:32:08
+
+alf0nss_: так
+
+---
+
+17:32:13
+
+p4shtetikus: так
+
+---
+
