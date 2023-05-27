@@ -30,7 +30,7 @@ async def event_message(ctx):
     if check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
         output_text = generate_ai_message(ctx.content, ctx.author.name)
         await send_split_gpt(ctx, output_text)
-    await asyncio.sleep(1)
+    await asyncio.sleep(10)
 
 
 if __name__ == "__main__":

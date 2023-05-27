@@ -11,7 +11,6 @@ bot = commands.Bot(
     prefix=BOT_PREFIX,
     initial_channels=[CHANNEL]
 )
-chat = []
 
 
 @ bot.event
