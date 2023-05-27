@@ -15,8 +15,6 @@ import pyautogui
 import mfs
 from vars import *
 
-sound_path = "D:/repos/python-twitchio-chat-bot/notifications/sound.wav"
-icon_path = "D:/repos/python-twitchio-chat-bot/notifications/icon.png"
 
 last_message_time = {}
 messages_tracker = {}

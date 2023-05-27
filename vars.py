@@ -124,6 +124,9 @@ error_en = ["Oops, something went wrong. Please try again later.",
             "ERROR 404: Sense of humor not found. Our team is working to restore it ASAP."]
 
 log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
+sound_path = "D:/repos/python-twitchio-chat-bot/notifications/sound.wav"
+icon_path = "D:/repos/python-twitchio-chat-bot/notifications/icon.png"
+error_sound_path = "D:/repos/python-twitchio-chat-bot/notifications/error.wav"
 
 '''OUTDATED
 # for handling OpenAI API key

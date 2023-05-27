@@ -1,6 +1,5 @@
 from twitchio.ext import commands
 from datetime import datetime
-
 import openai
 import os
 import asyncio
@@ -14,6 +13,7 @@ from deep_translator import GoogleTranslator
 from langdetect import detect
 from Bard import Chatbot
 import random
+from notifypy import Notify
 
 
 def split_long_gpt(input_string):
@@ -133,3 +133,49 @@ def bard_ua(input_text):
     response = GoogleTranslator(
         source='en', target='uk').translate(response)
     return response['content']
+
+
+def generate_ai_message(message, author):
+    print("\nGenerating a message...\n")
+    start_time = time.time()
+
+    input_text = message.replace("@wuyodo", "")
+    input_text = " ".join(input_text.split())
+    output_text = "@" + author + ", "
+
+    if detect(input_text) == "uk":
+        print("Language is Ukrainian")
+        try:
+            print("Generating with GPT4Free")
+            output_text += gpt4free_ua(input_text)
+        except:
+            try:
+                print("Generating with Bard")
+                output_text += bard_ua(input_text)
+            except:
+                print(
+                    f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+                output_text += random.choice(error_ua)
+                notification = Notify()
+                notification.audio = error_sound_path
+                notification.send()
+    else:
+        print("Language is English")
+        try:
+            print("Generating with GPT4Free")
+            output_text += gpt4free_en(input_text)
+        except:
+            try:
+                print("Generating with Bard")
+                output_text += bard_en(input_text)
+            except:
+                print(
+                    f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+                output_text += random.choice(error_en)
+                notification = Notify()
+                notification.audio = error_sound_path
+                notification.send()
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f"\nGenerated in {elapsed_time:.2f} seconds")
+    return output_text
