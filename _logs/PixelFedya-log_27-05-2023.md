@@ -2380,3 +2380,591 @@ p4shtetikus: так
 
 ---
 
+17:32:19
+
+emfoniks: го сходку ало
+
+---
+
+17:32:23
+
+maks_malitsk: chevor1Sweat
+
+---
+
+17:32:29
+
+k3ned1: шо це було
+
+---
+
+17:32:30
+
+alf0nss_: гарно
+
+---
+
+17:32:30
+
+logan_firmofan: @Lavielay я МОЖЛИВО через місяць-два буду у Тернополі, до речі
+
+---
+
+17:32:31
+
+young_schoo1: хахпхахпхапа
+
+---
+
+17:32:36
+
+c1dol3mm: пхпххпхпхпххп
+
+---
+
+17:32:41
+
+c1dol3mm: один в один
+
+---
+
+17:32:44
+
+iskra_banderivska: @alf0nss_ хааааааааай мій хароший trembaaNails trembaaHeart
+
+---
+
+17:32:49
+
+lavielay: @logan_firmofan ого, шо тут робити будеш?
+
+---
+
+17:32:56
+
+logan_firmofan: @Lavielay До родичей
+
+---
+
+17:33:05
+
+young_schoo1: хапхахпхахпхапа
+
+---
+
+17:33:05
+
+lavielay: @logan_firmofan аааа trembaa3po3
+
+---
+
+17:33:25
+
+alf0nss_: світло вмиєш?
+
+---
+
+17:33:25
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+17:33:26
+
+alf0nss_: чьо
+
+---
+
+17:33:32
+
+zxcakula: https://clips.twitch.tv/FantasticCarefulDugongDendiFace-a4-WljonwUMWL_6n
+
+---
+
+17:33:42
+
+young_schoo1: ще й в'їбав, ееееее
+
+---
+
+17:33:48
+
+wuyodo: is online at PixelFedya!
+
+---
+
+17:34:06
+
+iskra_banderivska: ...
+
+---
+
+17:34:07
+
+vlagaliik: шо ти дупа chevor1Heart
+
+---
+
+17:34:29
+
+toxictrash64: В дупу ті патики
+
+---
+
+17:34:35
+
+alf0nss_: хай влагалік
+
+---
+
+17:34:38
+
+maks_malitsk: @toxictrash64 хаааай
+
+---
+
+17:34:40
+
+logan_firmofan: Та я ж кажу, до родичей поїду, але буду не в самому Тернополі, а скоріше жити буду в селі під Тернополем
+
+---
+
+17:34:49
+
+iskra_banderivska: хаааааааааааааааааай
+
+---
+
+17:34:51
+
+logan_firmofan: @vlagaliik ВЛАГАЛІК ПРИВІТ
+
+---
+
+17:34:55
+
+toxictrash64: @maks_malitsk aaavroUwu kokoso2Kokoswave
+
+---
+
+17:34:57
+
+vlagaliik: @alf0nss_ @logan_firmofan шо ви дупи chevor1Heart
+
+---
+
+17:35:01
+
+lavielay: @iskra_banderivska хаааааааааай
+
+---
+
+17:35:16
+
+alf0nss_: iskra_banderivska  хааааааааааай
+
+---
+
+17:35:18
+
+logan_firmofan: @vlagaliik Та нічо, ти шо?
+
+---
+
+17:35:29
+
+logan_firmofan: @alf0nss_ Бля, я тебе не побачив, ти з новим кольором блін, то пиздець
+
+---
+
+17:35:30
+
+alf0nss_: @vlagaliik нормуль, я от тільки прокинувся
+
+---
+
+17:35:31
+
+vlagaliik: @logan_firmofan та нічо, ти шо?
+
+---
+
+17:35:36
+
+alf0nss_: @logan_firmofan хіхіхі
+
+---
+
+17:35:39
+
+iskra_banderivska: я йому хахаха @vlagaliik
+
+---
+
+17:35:39
+
+logan_firmofan: @vlagaliik Та нічо, а ти шо)
+
+---
+
+17:35:42
+
+young_schoo1: боооот
+
+---
+
+17:35:45
+
+husarovh: лох
+
+---
+
+17:35:49
+
+vlagaliik: @alf0nss_ Kappa Kappa Kappa Kappa
+
+---
+
+17:35:49
+
+lexxxxey: Лул
+
+---
+
+17:35:49
+
+maks_malitsk: Сюдааа
+
+---
+
+17:35:53
+
+c1dol3mm: як він мене зачіпив
+
+---
+
+17:35:53
+
+young_schoo1: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LOVE
+
+---
+
+17:35:59
+
+alf0nss_: захотілось змін в житті
+
+---
+
+17:36:05
+
+seesmof: йойй в когось колір прапора
+
+---
+
+17:36:09
+
+seesmof: я теж хочу
+
+---
+
+17:36:10
+
+seesmof: 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦
+
+---
+
+17:36:12
+
+zxcakula: fl1per2Posmishka fl1per2Posmishka mrsill1LE mrsill1GE mrsill1DA gull1aMeow gull1aMeow
+
+---
+
+17:36:16
+
+vlagaliik: @logan_firmofan зефірку з'їв,піду зараз газончик поливати Kappa
+
+---
+
+17:36:21
+
+maks_malitsk: CarlSmile
+
+---
+
+17:36:30
+
+vlagaliik: @iskra_banderivska ? maaaaa18Sniffing
+
+---
+
+17:36:34
+
+logan_firmofan: @vlagaliik О смачного) І вдачі з поливанням газону gachiBASS
+
+---
+
+17:36:39
+
+c1dol3mm: в грі
+
+---
+
+17:36:43
+
+husarovh: пред тобою
+
+---
+
+17:36:46
+
+vlagaliik: @logan_firmofan chevor1Heart
+
+---
+
+17:36:53
+
+iskra_banderivska: я тепер логан
+
+---
+
+17:37:00
+
+seesmof: та :D
+
+---
+
+17:37:04
+
+seesmof: дуже гарно
+
+---
+
+17:37:10
+
+c1dol3mm: я тоже спочатку про колір в чаті подумав, і подумав на себе, але ні Kappa
+
+---
+
+17:37:16
+
+champik_is_back: я голубий
+
+---
+
+17:37:17
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+17:37:20
+
+toxictrash64: Діду важко
+
+---
+
+17:37:21
+
+maks_malitsk: trembaaMda
+
+---
+
+17:37:25
+
+lavielay: trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:37:26
+
+logan_firmofan: @iskra_banderivska Ти логан
+
+---
+
+17:37:27
+
+vlagaliik: шо ти сказав?
+
+---
+
+17:37:27
+
+maks_malitsk: trembaaLUL
+
+---
+
+17:37:28
+
+lavielay: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:37:29
+
+logan_firmofan: АХАХАХ
+
+---
+
+17:37:33
+
+c1dol3mm: то не я
+
+---
+
+17:37:34
+
+young_schoo1: пахпхап
+
+---
+
+17:37:34
+
+vlagaliik: Kappa
+
+---
+
+17:37:40
+
+logan_firmofan: МИ ГЛАМУРНІ trembaaNails
+
+---
+
+17:37:41
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:37:46
+
+c1dol3mm: в мене злетіло на 1 повідомлення, то баг твіча
+
+---
+
+17:37:51
+
+logan_firmofan: МІНЯЄМО НІК НА РОЖЕВИЙ trembaaNails
+
+---
+
+17:37:52
+
+iskra_banderivska: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:37:55
+
+lavielay: akyuliaHamster
+
+---
+
+17:37:55
+
+busy_bit: @PixelFedya я не міняю кольор, тільки нік Kappa
+
+---
+
+17:37:58
+
+logan_firmofan: БУДЕМО ГЛАМУУУУУУУР trembaaNails
+
+---
+
+17:38:01
+
+busy_bit: рожевий сосе
+
+---
+
+17:38:02
+
+vlagaliik: chevor1Laugh
+
+---
+
+17:38:03
+
+k3ned1: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:05
+
+maks_malitsk: Найс
+
+---
+
+17:38:07
+
+logan_firmofan: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:07
+
+vlagaliik: muff1n6Crazy
+
+---
+
+17:38:09
+
+k3ned1: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:14
+
+iskra_banderivska: А мені пасує
+
+---
+
+17:38:16
+
+husarovh: я теж не міняю
+
+---
+
+17:38:19
+
+toxictrash64: Не рожеві 👉🚪
+
+---
+
+17:38:20
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:21
+
+vlagaliik: x0lyanParty
+
+---
+
+17:38:24
+
+vlagaliik: chevor1Party
+
+---
+
+17:38:26
+
+alf0nss_: ppL RainTime
+
+---
+
+17:38:27
+
+c1dol3mm: в мене злетіло на 1 повідомлення, то баг твіча  󠀀
+
+---
+
+17:38:29
+
+logan_firmofan: @maks_malitsk ТИ НЕ ГЛАМУР trembaaNails
+
+---
+
