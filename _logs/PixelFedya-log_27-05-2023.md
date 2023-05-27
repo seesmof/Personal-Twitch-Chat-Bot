@@ -2968,3 +2968,705 @@ logan_firmofan: @maks_malitsk ТИ НЕ ГЛАМУР trembaaNails
 
 ---
 
+17:38:30
+
+maks_malitsk: Сюдаааа
+
+---
+
+17:38:33
+
+vlagaliik: туда
+
+---
+
+17:38:35
+
+champik_is_back: рожевий то який?
+
+---
+
+17:38:35
+
+logan_firmofan: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:36
+
+maks_malitsk: @logan_firmofan ой
+
+---
+
+17:38:41
+
+vlagaliik: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:42
+
+busy_bit: рожевий сосе, в мене краще B)
+
+---
+
+17:38:47
+
+logan_firmofan: Мур мур мур,ми любимо гламур trembaaNails
+
+---
+
+17:38:51
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:38:57
+
+champik_is_back: хех
+
+---
+
+17:39:01
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:39:01
+
+p4shtetikus: Може хтось підказати польський впн, безкоштовний або з пробним періодом?
+
+---
+
+17:39:01
+
+emfoniks: а який в мене колір
+
+---
+
+17:39:06
+
+c1dol3mm: взяли задрота
+
+---
+
+17:39:08
+
+busy_bit: @emfoniks зелений
+
+---
+
+17:39:17
+
+logan_firmofan: @p4shtetikus Прям польський?
+
+---
+
+17:39:20
+
+iskra_banderivska: йо
+
+---
+
+17:39:20
+
+reqwist: грусна
+
+---
+
+17:39:24
+
+champik_is_back: погані кольори
+
+---
+
+17:39:25
+
+p4shtetikus: @p4shtetikus угу
+
+---
+
+17:39:25
+
+husarovh: а я шо
+
+---
+
+17:39:26
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+17:39:28
+
+panterivka: федя ти офігів не прівяукатися
+
+---
+
+17:39:29
+
+seesmof: @wuyodo наведи список безкоштовних польских vpn
+
+---
+
+17:39:30
+
+emfoniks: дякую Васли мені дуже приємно
+
+---
+
+17:39:33
+
+vlagaliik: РОЖЕВИЙ ПОГАНИЙ КОЛІР?!?!?
+
+---
+
+17:39:34
+
+toxictrash64: Шо за раунди по одному на виліт ResidentSleeper
+
+---
+
+17:39:35
+
+vitendas: ak1okaSadge
+
+---
+
+17:39:37
+
+maks_malitsk: @panterivka хааааай
+
+---
+
+17:39:39
+
+logan_firmofan: @p4shtetikus В Opera GX є вбудований
+
+---
+
+17:39:40
+
+lavielay: @Panterivka хааааааааааай
+
+---
+
+17:39:42
+
+busy_bit: @Panterivka trembaaHey
+
+---
+
+17:39:43
+
+champik_is_back: а шо з кольором?
+
+---
+
+17:39:43
+
+logan_firmofan: @Panterivka ХАААААААААЙ trembaaNails
+
+---
+
+17:39:44
+
+k3ned1: Panterivka хаааааааай trembaaNails trembaaNails trembaaNails
+
+---
+
+17:39:44
+
+iskra_banderivska: я Кенеді всьо
+
+---
+
+17:39:45
+
+panterivka: я не знаю як ти не побачив!
+
+---
+
+17:39:46
+
+alf0nss_: @Panterivka  trembaaHey
+
+---
+
+17:39:50
+
+k3ned1: iskra_banderivska мдаа
+
+---
+
+17:39:53
+
+p4shtetikus: @Panterivka хааааааааааай
+
+---
+
+17:39:54
+
+c1dol3mm: зайшов задрот на крейзі фуллі, і зараз другий раз виграє PixelBob
+
+---
+
+17:39:55
+
+husarovh: та я не міняв ти шо зовсім я навіть не вмію міняти
+
+---
+
+17:39:56
+
+seesmof: йой, забанився бот
+
+---
+
+17:39:59
+
+panterivka: всім іншим прівяяяяо!
+
+---
+
+17:40:04
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+17:40:04
+
+k3ned1: найшов кому вірити
+
+---
+
+17:40:08
+
+iskra_banderivska: @k3ned1 а всьо
+
+---
+
+17:40:09
+
+logan_firmofan: trembaaNails trembaaNails trembaaNails
+
+---
+
+17:40:12
+
+k3ned1: чел ти повірив пантерівці
+
+---
+
+17:40:13
+
+logan_firmofan: АХАХАХАХ trembaaNails
+
+---
+
+17:40:13
+
+panterivka: ХВАХАВХАХАХВАХВАВХАХВ
+
+---
+
+17:40:15
+
+maks_malitsk: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+17:40:18
+
+lavielay: ахххаахахахах
+
+---
+
+17:40:20
+
+panterivka: ТАК Я РЕАЛ НАПИСАЛА
+
+---
+
+17:40:22
+
+reqwist: trembaaKek
+
+---
+
+17:40:23
+
+seesmof: :D
+
+---
+
+17:40:24
+
+p4shtetikus: @logan_firmofan  maaaaa18Crab maaaaa18Crab
+
+---
+
+17:40:25
+
+kitaychik_: !фол
+
+---
+
+17:40:25
+
+pawrop: @kitaychik_, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter Lobby Code. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона приблизно 5ГБ
+
+---
+
+17:40:27
+
+vlagaliik: Kappa Kappa Kappa
+
+---
+
+17:40:28
+
+panterivka: Я НЕ ЗНАЮ ЧОГО ВОНО ПЕРШЕ
+
+---
+
+17:40:31
+
+c1dol3mm: f[f[[f[f[
+
+---
+
+17:40:32
+
+zxcakula: АХАХАХАХ
+
+---
+
+17:40:32
+
+panterivka: Я ПИСАЛА ДО ТОГО
+
+---
+
+17:40:32
+
+emfoniks: тихо
+
+---
+
+17:40:33
+
+c1dol3mm: ахаххахах=
+
+---
+
+17:40:34
+
+young_schoo1: паххпхапха
+
+---
+
+17:40:34
+
+emfoniks: тссс
+
+---
+
+17:40:36
+
+toxictrash64: chevor1Shout
+
+---
+
+17:40:37
+
+emfoniks: тихенько
+
+---
+
+17:40:37
+
+k3ned1: чел ти повірив пантерівці))))
+
+---
+
+17:40:41
+
+young_schoo1: ф
+
+---
+
+17:40:52
+
+kitaychik_: який кодддддддд
+
+---
+
+17:40:52
+
+maks_malitsk: Ф
+
+---
+
+17:40:55
+
+lavielay: )))
+
+---
+
+17:40:56
+
+vlagaliik: x0lyanParty x0lyanParty x0lyanParty x0lyanParty x0lyanParty
+
+---
+
+17:40:56
+
+emfoniks: пан василь
+
+---
+
+17:40:59
+
+zxcakula: ШО БЛЯ
+
+---
+
+17:41:01
+
+zxcakula: АХАХАХАХА
+
+---
+
+17:41:03
+
+champik_is_back: федя го по кодам 2448-3751-3658
+
+---
+
+17:41:03
+
+panterivka: ви шо офігіли я скрін можу кинути
+
+---
+
+17:41:03
+
+toxictrash64: Кудаааа chevor1Cry
+
+---
+
+17:41:05
+
+maks_malitsk: Норм
+
+---
+
+17:41:15
+
+svo0d1: Ти мені кур'єра налякав @PixelFedya
+
+---
+
+17:41:18
+
+logan_firmofan: ПРІВЯО trembaaNails
+
+---
+
+17:41:24
+
+logan_firmofan: азхаххахаха
+
+---
+
+17:41:32
+
+panterivka: Я СКИНУ ДОКАЗИ
+
+---
+
+17:41:36
+
+maks_malitsk: chevor1Laugh
+
+---
+
+17:41:40
+
+maks_malitsk: Тудаааа
+
+---
+
+17:41:42
+
+iskra_banderivska: прівяо
+
+---
+
+17:41:47
+
+seesmof: я згоден
+
+---
+
+17:41:52
+
+svo0d1: Не було повідомлення
+
+---
+
+17:41:52
+
+panterivka: я кинула...
+
+---
+
+17:41:55
+
+champik_is_back: моє дослідження показало що Panterivka не перший раз писала
+
+---
+
+17:42:01
+
+logan_firmofan: trembaaNails
+
+---
+
+17:42:04
+
+logan_firmofan: trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+17:42:08
+
+panterivka: Я КИНУЛА
+
+---
+
+17:42:10
+
+panterivka: В ТГ
+
+---
+
+17:42:14
+
+panterivka: Я БЕРУ НА СЛАБО
+
+---
+
+17:42:18
+
+k3ned1: Panterivka там в нього автомодерація якась стоїть, часто шось не поститься
+
+---
+
+17:42:19
+
+panterivka: ЗАРАЗ ОБІСРИШСЯ
+
+---
+
+17:42:19
+
+c1dol3mm: в мене тоже перший раз
+
+---
+
+17:42:40
+
+panterivka: ахаххаахаха
+
+---
+
+17:42:42
+
+champik_is_back: бля така карта на двох то капєц
+
+---
+
+17:42:48
+
+lavielay: ))) 󠀀
+
+---
+
+17:42:48
+
+kitaychik_: Але в нас не було його
+
+---
+
+17:42:49
+
+svo0d1: То фотошоп
+
+---
+
+17:42:53
+
+svo0d1: в нас не було нічого
+
+---
+
+17:42:56
+
+panterivka: я помітила що ніхто....
+
+---
+
+17:43:01
+
+maks_malitsk: CarlSmile
+
+---
+
+17:43:02
+
+panterivka: було неприємно...
+
+---
+
+17:43:15
+
+svo0d1: @Panterivka Привіт! Як твої справи?
+
+---
+
+17:43:23
+
+panterivka: @Panterivka все дубрііі
+
+---
+
+17:43:28
+
+panterivka: ненаю чого так
+
+---
+
+17:43:41
+
+svo0d1: @Panterivka вас забулив твіч
+
+---
+
+17:43:44
+
+kitaychik_: дай код
+
+---
+
+17:43:46
+
+kitaychik_: свиня
+
+---
+
