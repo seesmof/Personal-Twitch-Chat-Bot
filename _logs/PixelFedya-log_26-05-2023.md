@@ -14506,3 +14506,141 @@ icetrollhs: КУПІТЬ КОРАБЕЛЬ
 
 ---
 
+23:56:37
+
+blake_grimes: Здоров колєґи
+
+---
+
+23:56:37
+
+maks_malitsk: Купи тварину
+
+---
+
+23:56:39
+
+slatezzzcs: Єба я пересрав usachKit
+
+---
+
+23:56:41
+
+vladdgoldin: та блять,я навухниках
+
+---
+
+23:56:42
+
+vladdgoldin: fluffy561Opop
+
+---
+
+23:56:43
+
+ak1okatsu: @pixelfedya а як же трейлер? BibleThump BibleThump BibleThump
+
+---
+
+23:56:45
+
+maks_malitsk: Василь Купи тварину
+
+---
+
+23:56:46
+
+blake_grimes: Ніхуя собі асмр
+
+---
+
+23:56:46
+
+le0lick: )))))
+
+---
+
+23:56:51
+
+vlagaliik: ДАРИНКААА ДУПАДУПААААА x0lyanParty
+
+---
+
+23:56:52
+
+slatezzzcs: Я не очікував так гучно LUL
+
+---
+
+23:56:56
+
+maks_malitsk: Васи купи собі тварину
+
+---
+
+23:56:57
+
+icetrollhs: @PixelFedya Скажи нехай корабель куплять
+
+---
+
+23:57:00
+
+ddariiya: @vlagaliik ти дупаааааааааааааааааа
+
+---
+
+23:57:04
+
+tsue4ka: @vladdgoldin розумію
+
+---
+
+23:57:07
+
+blake_grimes: Зассика
+
+---
+
+23:57:13
+
+maks_malitsk: @pixelfedya купи собі тварину в піратах
+
+---
+
+23:57:14
+
+blake_grimes: ХАХАХАХАХХА
+
+---
+
+23:57:16
+
+vlagaliik: @ddariiya chevor1Heart
+
+---
+
+23:57:36
+
+vlagaliik: в мене щось звук відстає від картинки NotLikeThis
+
+---
+
+23:57:43
+
+ak1okatsu: @pixelfedya поки оновлюється го трейлер дивимося BibleThump BibleThump BibleThump
+
+---
+
+23:57:46
+
+maks_malitsk: @pixelfedya купи собі тварину в піратах
+
+---
+
+23:57:53
+
+blake_grimes: Кенеді, Китайчик здоров
+
+---
+
