@@ -12,6 +12,8 @@ import gpt4free
 from gpt4free import Provider
 from deep_translator import GoogleTranslator
 from langdetect import detect
+from Bard import Chatbot
+import random
 
 
 def split_long_gpt(input_string):
@@ -93,7 +95,7 @@ def openai_generate(input_text, context):
     return output_text
 
 
-def generate_ua(input_text):
+def gpt4free_ua(input_text):
     input_prompt = GoogleTranslator(
         source='auto', target='en').translate(input_text)
     response = gpt4free.Completion.create(
@@ -103,9 +105,31 @@ def generate_ua(input_text):
     return response
 
 
-def generate_en(input_text):
+def gpt4free_en(input_text):
     input_prompt = GoogleTranslator(
         source='auto', target='en').translate(input_text)
     response = gpt4free.Completion.create(
         Provider.You, prompt=input_prompt)
     return response
+
+
+# Paste your Bard Token (check README.md for where to find yours)
+token = "WwgpefTIfFTiaBOCfKpsSAU2lKZr_b3C1ogVkqYQpMqv8LRBRdRPIIpmvO9FDkKr51UUbg."
+# Initialize Google Bard API
+chatbot = Chatbot(token)
+
+
+def bard_en(input_text):
+    input_prompt = GoogleTranslator(
+        source='auto', target='en').translate(input_text)
+    response = chatbot.ask(input_prompt)
+    return response['content']
+
+
+def bard_ua(input_text):
+    input_prompt = GoogleTranslator(
+        source='auto', target='en').translate(input_text)
+    response = chatbot.ask(input_prompt)
+    response = GoogleTranslator(
+        source='en', target='uk').translate(response)
+    return response['content']

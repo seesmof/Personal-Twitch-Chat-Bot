@@ -1,17 +1,6 @@
-from twitchio.ext import commands
-from datetime import datetime
-import openai
-import os
-import asyncio
-import time
-import requests
-import re
-import mfs
+from mfs import *
 from vars import *
-import pyautogui
-import random
-import gpt4free
-from gpt4free import Provider, quora, forefront
+
 
 BOT_PREFIX = "!"
 CHANNEL = "seesmof"
@@ -28,7 +17,7 @@ chat = []
 @ bot.event
 async def event_ready():
     print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
-    mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
+    write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
 @ bot.event
@@ -38,7 +27,7 @@ async def event_message(ctx):
         return
 
     letters = ["@wuyodo"]
-    if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
+    if check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
         all_good = True
         print("\nGenerating a message...")
         start_time = time.time()
@@ -47,21 +36,21 @@ async def event_message(ctx):
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
         try:
-            output_text += mfs.gpt4free_generate(input_text)
+            output_text += gpt4free_generate(input_text)
         except:
             output_text += "Повідомлення не було згенеровано. " + \
-                random.choice(mfs.error_ua)
+                random.choice(error_ua)
             all_good = False
 
         end_time = time.time()
         elapsed_time = end_time - start_time
-        await mfs.send_split_gpt(ctx, output_text)
+        await send_split_gpt(ctx, output_text)
         print(f"\nGenerated in {elapsed_time:.2f} seconds")
         if all_good:
-            mfs.write_to_log(
+            write_to_log(
                 f"Generated in {elapsed_time:.2f} seconds", GPT_BOT_NICK, CHANNEL)
         else:
-            mfs.write_to_log(
+            write_to_log(
                 f"Повідомлення не було згенеровано.", GPT_BOT_NICK, CHANNEL)
             pyautogui.alert(f"{CHANNEL}\n{ctx.author.name}: {ctx.content}. \n\nNo message was generated, check it out. Most likely a problem on service side",
                             "ERROR: No message generated", timeout=None)

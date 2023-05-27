@@ -1,15 +1,5 @@
-from twitchio.ext import commands
-from datetime import datetime
-import openai
-import os
-import asyncio
-import time
-import requests
-import re
-import mfs
+from mfs import *
 from vars import *
-import pyautogui
-import random
 
 BOT_PREFIX = "!"
 CHANNEL = "PixelFedya"
@@ -28,7 +18,7 @@ bot = commands.Bot(
 @ bot.event
 async def event_ready():
     print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
-    mfs.write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
+    write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
 
 
 @ bot.event
@@ -38,20 +28,36 @@ async def event_message(ctx):
         return
 
     letters = ["@wuyodo"]
-    if mfs.check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
+    if check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
         print("\nGenerating a message...")
         start_time = time.time()
 
         input_text = ctx.content.replace("@wuyodo", "")
         input_text = " ".join(input_text.split())
         output_text = "@" + ctx.author.name + ", "
-        output_text += mfs.generate_ua(input_text)
+
+        if detect(input_text) == "uk":
+            try:
+                output_text += gpt4free_ua(input_text)
+            except:
+                try:
+                    output_text += bard_ua(input_text)
+                except:
+                    output_text += random.choice(error_ua)
+        else:
+            try:
+                output_text += gpt4free_en(input_text)
+            except:
+                try:
+                    output_text += bard_en(input_text)
+                except:
+                    output_text += random.choice(error_en)
 
         end_time = time.time()
         elapsed_time = end_time - start_time
-        await mfs.send_split_gpt(ctx, output_text)
+        await send_split_gpt(ctx, output_text)
         print(f"\nGenerated in {elapsed_time:.2f} seconds")
-    await asyncio.sleep(20)
+    await asyncio.sleep(10)
 
 
 if __name__ == "__main__":
