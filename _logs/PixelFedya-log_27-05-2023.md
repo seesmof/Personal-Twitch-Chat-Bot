@@ -1600,3 +1600,273 @@ lavielay: tapaceSlav стою
 
 ---
 
+17:21:32
+
+maks_malitsk: NotLikeThis
+
+---
+
+17:21:35
+
+k3ned1: kitaychik_ та шось не дуже хочу, я краще подивлюсь
+
+---
+
+17:21:38
+
+atbpacet0_0: а чув SadSvit?
+
+---
+
+17:21:41
+
+k3ned1: Lavielay )))
+
+---
+
+17:21:55
+
+wtow6: Капеццц унас град з грозою
+
+---
+
+17:22:10
+
+maks_malitsk: Сюдаааа
+
+---
+
+17:22:11
+
+wtow6: Ураааааакааааа
+
+---
+
+17:22:14
+
+maks_malitsk: trembaaRave trembaaRave trembaaRave trembaaRave
+
+---
+
+17:22:16
+
+champik_is_back: trembaaBabah
+
+---
+
+17:22:17
+
+them1kut: trembaaClaps trembaaClaps trembaaClaps trembaaClaps
+
+---
+
+17:22:20
+
+k3ned1: trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaDoge
+
+---
+
+17:22:26
+
+atbpacet0_0: треба їхати на літо в Польщу а полуницю
+
+---
+
+17:22:31
+
+them1kut: trembaaRave trembaaRave trembaaRave
+
+---
+
+17:22:34
+
+champik_is_back: trembaaScary
+
+---
+
+17:22:36
+
+maks_malitsk: chevor1Clap chevor1Clap chevor1Clap chevor1Clap
+
+---
+
+17:22:40
+
+kitaychik_: Федя, до всього списку їжі, я додав ше полуницю
+
+---
+
+17:22:44
+
+young_schoo1: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+17:23:02
+
+maks_malitsk: NotLikeThis
+
+---
+
+17:23:12
+
+atbpacet0_0: Чув музаченьки Цей Сон?
+
+---
+
+17:23:17
+
+maks_malitsk: Бо ти не вмієш грати в Епік геймс
+
+---
+
+17:23:19
+
+wtow6: Співак номер один
+
+---
+
+17:23:22
+
+reqwist: хааааааааай
+
+---
+
+17:23:29
+
+toxictrash64: chevor1Shy chevor1Shy chevor1Shy chevor1Shy
+
+---
+
+17:23:40
+
+k3ned1: reqwist хааааааааааай
+
+---
+
+17:23:41
+
+lavielay: tapaceDance tapaceDance tapaceDance
+
+---
+
+17:23:47
+
+vitendas: ak1okaDance ak1okaDance ak1okaDance ak1okaDance
+
+---
+
+17:23:50
+
+reqwist: опа фолгайс
+
+---
+
+17:23:50
+
+champik_is_back: коди в фол гайс готувати?
+
+---
+
+17:23:51
+
+iskra_banderivska: @reqwist хаааай сонечко
+
+---
+
+17:23:51
+
+hauha333: Я в фолл гайс на перші катки не буду трошка потім зайду
+
+---
+
+17:24:40
+
+kitaychik_: Федя зайди в тг
+
+---
+
+17:25:14
+
+seesmof: !фол P74K8
+
+---
+
+17:25:14
+
+pawrop: @seesmof, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter  P74K8. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона приблизно 5ГБ
+
+---
+
+17:25:26
+
+reqwist: я зара залечу
+
+---
+
+17:25:43
+
+kitaychik_: Тг глянув?
+
+---
+
+17:25:49
+
+champik_is_back: коди в фол гайс готувати? 󠀀
+
+---
+
+17:25:56
+
+k3ned1: reqwist trembaaRave trembaaRave trembaaRave
+
+---
+
+17:26:13
+
+kitaychik_: Звісно
+
+---
+
+17:26:17
+
+kitaychik_: Домашня
+
+---
+
+17:26:18
+
+maks_malitsk: Дай код
+
+---
+
+17:26:30
+
+seesmof: !фол P74K8 󠀀
+
+---
+
+17:26:30
+
+pawrop: @seesmof, щоб доєднатись до нас в грі Fall Guys, виконайте наступні дії: Show Selector -> Custom Shows -> Join -> Enter  P74K8 󠀀. Майте на увазі, цю гру можна безкоштовно завантажити в лаунчері Epic Games і важить вона приблизно 5ГБ
+
+---
+
+17:26:35
+
+zxcakula: я на базарі купив
+
+---
+
+17:26:41
+
+zxcakula: солоденька капець
+
+---
+
+17:26:48
+
+vitendas: кінець травня, тепличні вже є
+
+---
+
