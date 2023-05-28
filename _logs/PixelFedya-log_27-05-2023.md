@@ -9484,3 +9484,3183 @@ martyniuk_ua: ak1okaDance ak1okaDance ak1okaDance ak1okaDance
 
 ---
 
+19:13:23
+
+young_schoo1: лох
+
+---
+
+19:13:25
+
+toxictrash64: LUL
+
+---
+
+19:13:27
+
+hauha333: Мікут і лавілей тімери якщо що
+
+---
+
+19:13:32
+
+maks_malitsk: Ахаххаха
+
+---
+
+19:13:50
+
+them1kut: @hauha333 НІ
+
+---
+
+19:14:11
+
+the_floren: та пожалій же ти стілець chevor1Shout chevor1Shout chevor1Shout chevor1Shout chevor1Shout chevor1Shout
+
+---
+
+19:14:15
+
+toper1337: Дай код позязя
+
+---
+
+19:14:26
+
+pixelfedya: 109775245126904544
+
+---
+
+19:14:44
+
+hauha333: @them1kut  то якого ти його не вбивав а мішав мені Kappa
+
+---
+
+19:14:45
+
+maks_malitsk: Бл
+
+---
+
+19:14:48
+
+maks_malitsk: Гімно
+
+---
+
+19:15:14
+
+zxcakula: ЇАХАХАХАХА ІЗІІІ
+
+---
+
+19:15:14
+
+unache: (((
+
+---
+
+19:15:15
+
+young_schoo1: пахпхахпхап
+
+---
+
+19:15:16
+
+hauha333: Мені щось троха краб гейм надоїв
+
+---
+
+19:15:16
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:15:17
+
+kitaychik_: ахїахахахаххахахаха
+
+---
+
+19:15:18
+
+lavielay: ЕЕЕЕЕЕЕЕЕХХХХХ
+
+---
+
+19:15:19
+
+kitaychik_: карма
+
+---
+
+19:15:35
+
+them1kut: @hauha333 я не бачив що там був лавілей і ти
+
+---
+
+19:15:41
+
+kitaychik_: За карту він мене пульнув
+
+---
+
+19:15:49
+
+kitaychik_: Не дав пожити
+
+---
+
+19:15:53
+
+lavielay: @kitaychik_ tapacePat tapacePat tapacePat
+
+---
+
+19:16:49
+
+toxictrash64: Бот
+
+---
+
+19:16:49
+
+maks_malitsk: Аххаха
+
+---
+
+19:16:52
+
+young_schoo1: апахпхапхап
+
+---
+
+19:16:52
+
+lavielay: ахахахахахаха
+
+---
+
+19:16:53
+
+maks_malitsk: Бот
+
+---
+
+19:16:57
+
+young_schoo1: надрочив
+
+---
+
+19:16:58
+
+unache: trembaaFilizaychik trembaaFilizaychik trembaaFilizaychik
+
+---
+
+19:17:00
+
+kitaychik_: Мені хауха заруїнив блять
+
+---
+
+19:17:19
+
+svo0d1: збс режим я мертвий
+
+---
+
+19:17:25
+
+svo0d1: дуже ікавий
+
+---
+
+19:17:33
+
+svo0d1: @zxcakula вмри
+
+---
+
+19:17:46
+
+svo0d1: забамбурьте какулюю
+
+---
+
+19:17:47
+
+kitaychik_: @hauha333 Шоб в тебе інтернет вилетів
+
+---
+
+19:17:47
+
+hauha333: Там коли робиш лобі можна вибрати карту
+
+---
+
+19:17:51
+
+svo0d1: ТА БЛЯТЬ В ГРІ
+
+---
+
+19:18:00
+
+hauha333: @kitaychik_  зроз
+
+---
+
+19:18:08
+
+c1dol3mm: да блять
+
+---
+
+19:18:19
+
+anya_musicbook: @pixelfedya встигла і їсти приготувати і поїсти. Та маю йти. Дякую за стрімчик та круто пограти alexlo17Catjam alexlo17Catjam alexlo17Catlove
+
+---
+
+19:18:19
+
+c1dol3mm: якийсь тіп іменно мене прийшов вбивати
+
+---
+
+19:18:24
+
+hauha333: @pixelfedya Там коли робиш лобі можна вибрати карту
+
+---
+
+19:18:30
+
+toxictrash64: Пацани не хочуть контент на стрім зробити
+
+---
+
+19:18:34
+
+lavielay: @anya_musicbook tapacePat tapacePat tapacePat
+
+---
+
+19:18:51
+
+anya_musicbook: alexlo17Catlove alexlo17Catlove alexlo17Catlove
+
+---
+
+19:18:55
+
+hauha333: @pixelfedya Там коли робиш лобі можна вибрати карту
+
+---
+
+19:19:03
+
+maks_malitsk: Хахаха
+
+---
+
+19:19:06
+
+young_schoo1: @anya_musicbook, тримай міцно свого горобчика PotFriend PotFriend PotFriend xoxomkDance
+
+---
+
+19:19:24
+
+maks_malitsk: Туда
+
+---
+
+19:19:33
+
+svo0d1: Туда сракоголового
+
+---
+
+19:19:33
+
+zxcakula: НАІВЩО Я ЙОМУ ПОВІРИВ
+
+---
+
+19:19:35
+
+fl1per4: ахахах
+
+---
+
+19:19:36
+
+zxcakula: РУЇНА ЙОБАНА\
+
+---
+
+19:19:38
+
+fl1per4: Акула анлука
+
+---
+
+19:19:41
+
+fl1per4: Всім привіт)
+
+---
+
+19:19:43
+
+svo0d1: @zxcakula хто б казав
+
+---
+
+19:19:47
+
+zxcakula: @fl1per4 о ку
+
+---
+
+19:19:47
+
+svo0d1: @fl1per4 ку
+
+---
+
+19:19:50
+
+fl1per4: Привіт)
+
+---
+
+19:19:51
+
+zxcakula: @Svo0d1 ехехехее
+
+---
+
+19:19:51
+
+fl1per4: Всім)
+
+---
+
+19:19:58
+
+maks_malitsk: @fl1per4 хааааай
+
+---
+
+19:19:58
+
+zxcakula: @fl1per4 фліпер да ймодера
+
+---
+
+19:19:59
+
+fl1per4: Фортнайт
+
+---
+
+19:20:01
+
+fl1per4: ахахахахх
+
+---
+
+19:20:16
+
+young_schoo1: @fl1per4, почалєкав за пісюнчика PotFriend TheIlluminati TheIlluminati
+
+---
+
+19:20:23
+
+maks_malitsk: Ая
+
+---
+
+19:20:25
+
+maks_malitsk: Ти шо
+
+---
+
+19:20:28
+
+fl1per4: @young_schoo1 навзаєм)))
+
+---
+
+19:20:28
+
+maks_malitsk: Фуууууу
+
+---
+
+19:20:39
+
+fl1per4: @maks_malitsk Привіт Макс :)
+
+---
+
+19:21:25
+
+zxcakula: АХАХАА
+
+---
+
+19:21:27
+
+young_schoo1: пхпхапхахпа
+
+---
+
+19:21:31
+
+fl1per4: аххаха
+
+---
+
+19:22:44
+
+bat9_v1nzer: Васильку привіт HeyGuys fluffy561Nya
+
+---
+
+19:23:05
+
+maks_malitsk: @bat9_v1nzer хаааай
+
+---
+
+19:23:11
+
+young_schoo1: пахпхапх
+
+---
+
+19:23:15
+
+fl1per4: Оце так ляснув по лицю
+
+---
+
+19:23:17
+
+fl1per4: хахахаха
+
+---
+
+19:23:19
+
+lexxxxey: LUL LUL LUL LUL
+
+---
+
+19:23:23
+
+c1dol3mm: я тупанув
+
+---
+
+19:23:40
+
+lavielay: ахахахахха
+
+---
+
+19:23:40
+
+c1dol3mm: я взав сніжку і рольнув слот, пробував ще взяти, і думав чого не береться
+
+---
+
+19:23:45
+
+hauha333: Мені краб гейм троха надоїв
+
+---
+
+19:24:10
+
+bat9_v1nzer: Василю як буде час чекнеш прикольну гру щоб пограти з чатом Prison Life
+
+---
+
+19:25:10
+
+bat9_v1nzer: Гра щей повністю на Українській
+
+---
+
+19:25:19
+
+bat9_v1nzer: І безплатна
+
+---
+
+19:25:21
+
+c1dol3mm: та ні, я тупив довго, що сніжка не береться, а я випадково слот змінив, і думав, чого нова не береться
+
+---
+
+19:25:25
+
+bat9_v1nzer: В стімі
+
+---
+
+19:25:26
+
+lavielay: всьо, дякую за ігри tapacePat
+
+---
+
+19:25:36
+
+unache: @Lavielay trembaaFilizaychik
+
+---
+
+19:25:40
+
+bat9_v1nzer: Васильку в стімі
+
+---
+
+19:25:58
+
+young_schoo1: полуницю
+
+---
+
+19:26:13
+
+toper1337: ЗА ШОО
+
+---
+
+19:26:16
+
+toper1337: дупа..
+
+---
+
+19:26:27
+
+toper1337: я перший хто прошов) мене втопили)
+
+---
+
+19:26:33
+
+maks_malitsk: @toper1337 хаааааай, я тебе навіть не замітив
+
+---
+
+19:26:40
+
+toper1337: @maks_malitsk хай)
+
+---
+
+19:26:54
+
+bat9_v1nzer: Мені здається та гра буде не поганим заміником Grab game Kappa
+
+---
+
+19:27:05
+
+bat9_v1nzer: Бо краби реально вже надоїли
+
+---
+
+19:27:19
+
+toper1337: хахахах
+
+---
+
+19:27:26
+
+toper1337: СЮДИ КЕЙС!
+
+---
+
+19:27:33
+
+bat9_v1nzer: Стім
+
+---
+
+19:27:37
+
+bat9_v1nzer: Так
+
+---
+
+19:27:48
+
+bat9_v1nzer: Prison Life
+
+---
+
+19:28:18
+
+kitaychik_: Остання і я йду прибирати
+
+---
+
+19:28:22
+
+bat9_v1nzer: Одна команда має втікти з тюрми а друга має цьому помішати
+
+---
+
+19:28:23
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:29:40
+
+svo0d1: хахаха
+
+---
+
+19:29:53
+
+bat9_v1nzer: @svo0d1 Свуді привіт HeyGuys fluffy561Nya
+
+---
+
+19:30:06
+
+svo0d1: @bat9_v1nzer  dobradIvkaUA
+
+---
+
+19:30:07
+
+toper1337: а Rocket League  і кнокаут сіті скачав?
+
+---
+
+19:30:09
+
+maks_malitsk: CarlSmile
+
+---
+
+19:31:13
+
+logan_firmofan: CYDAAAAAAAAAAAAA
+
+---
+
+19:31:17
+
+logan_firmofan: СУДАААААААА
+
+---
+
+19:31:18
+
+maks_malitsk: ACTION Пісь Пісь Пісь Пісь
+
+---
+
+19:31:18
+
+logan_firmofan: СУДА
+
+---
+
+19:31:34
+
+toper1337: а Rocket League і кнокаут сіті скачав??
+
+---
+
+19:31:50
+
+bat9_v1nzer: Дякую fluffy561Nya
+
+---
+
+19:31:55
+
+unache: trembaaFilizaychik trembaaFilizaychik trembaaFilizaychik
+
+---
+
+19:31:56
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:32:02
+
+toper1337: так качай
+
+---
+
+19:32:08
+
+toper1337: та вони ізі
+
+---
+
+19:32:15
+
+maks_malitsk: Категорія
+
+---
+
+19:32:17
+
+maks_malitsk: Анє
+
+---
+
+19:32:29
+
+toper1337: на них годину максимум, потім вони наскучать мб
+
+---
+
+19:32:32
+
+toper1337: качай
+
+---
+
+19:32:34
+
+svo0d1: чого 550?
+
+---
+
+19:32:35
+
+hauha333: В що підемо ? Може підемо в Unturned  найдемо сервер і пудемо всі з чатом там займає не багато місця
+
+---
+
+19:32:53
+
+svo0d1: 55
+
+---
+
+19:33:12
+
+maks_malitsk: !me 5, 55
+
+---
+
+19:33:15
+
+toper1337: А куди тоді зараз?
+
+---
+
+19:33:16
+
+maks_malitsk: Ой
+
+---
+
+19:33:20
+
+maks_malitsk: chevor1Laugh
+
+---
+
+19:33:28
+
+svo0d1: музон качає
+
+---
+
+19:33:37
+
+hauha333: Воно похоже на раст
+
+---
+
+19:33:49
+
+maks_malitsk: Пп
+
+---
+
+19:33:51
+
+toper1337: ОО так))
+
+---
+
+19:33:53
+
+toper1337: зараз)0
+
+---
+
+19:33:58
+
+bat9_v1nzer: Го форсаж 10 Kappa
+
+---
+
+19:34:03
+
+lavielay: не маю akyuliaHamster
+
+---
+
+19:34:14
+
+toper1337: Я маю
+
+---
+
+19:34:16
+
+toper1337: зараз
+
+---
+
+19:34:20
+
+lavielay: шо?????
+
+---
+
+19:34:24
+
+unache: ((
+
+---
+
+19:34:30
+
+lavielay: tapaceFlushed tapaceFlushed tapaceFlushed
+
+---
+
+19:34:37
+
+lavielay: нема tapaceSad
+
+---
+
+19:34:48
+
+alf0nss_: ехехех
+
+---
+
+19:34:53
+
+lavielay: tapaceSad tapaceSad tapaceSad tapaceSad
+
+---
+
+19:35:25
+
+lavielay: папіки в чаті? trembaaFilizaychik
+
+---
+
+19:35:28
+
+toper1337: ЗАРАЗ
+
+---
+
+19:35:30
+
+unache: а у мене з'явиться ?
+
+---
+
+19:35:32
+
+toper1337: чекнеш тг
+
+---
+
+19:35:43
+
+svo0d1: krsoulJam
+
+---
+
+19:35:55
+
+hauha333: usachPivo1 usachAsha usachAsha usachAsha usachAsha usachAsha usachAsha розбирайте по кружочці 10 гривень друга в подарунок usachAsha usachAsha usachAsha usachAsha
+
+---
+
+19:36:05
+
+unache: @hauha333 trembaaFilizaychik
+
+---
+
+19:36:47
+
+c1dol3mm: то ми що, в той прісон лайф йдемо? чи відоси?
+
+---
+
+19:36:55
+
+hauha333: Смачне я самостійно робив Kappa
+
+---
+
+19:37:04
+
+bat9_v1nzer: @hauha333 дякую usachAsha
+
+---
+
+19:37:12
+
+svo0d1: 18 хвилин ще
+
+---
+
+19:37:15
+
+pixelfedya: ТЕЛЕГРАМ: https://t.me/pixelfedya
+
+---
+
+19:37:18
+
+pixelfedya: ІНСТА: https://www.instagram.com/pixelfedya/
+
+---
+
+19:37:19
+
+toper1337: ЗАРАЗ!!!
+
+---
+
+19:37:20
+
+k3ned1: покакати
+
+---
+
+19:37:21
+
+toper1337: чекай
+
+---
+
+19:37:21
+
+pixelfedya: ЮТУБ: https://www.youtube.com/@PixelFedya
+
+---
+
+19:37:23
+
+bat9_v1nzer: ТЕЛЕГРАМ: https://t.me/pixelfedya
+
+---
+
+19:37:27
+
+k3ned1: я какаю якраз
+
+---
+
+19:37:27
+
+unache: k3ned1 хаааааааааааааааай
+
+---
+
+19:37:29
+
+bat9_v1nzer: ІНСТА: https://www.instagram.com/pixelfedya/
+
+---
+
+19:37:33
+
+bat9_v1nzer: ЮТУБ: https://www.youtube.com/@PixelFedya
+
+---
+
+19:37:34
+
+hauha333: @bat9_v1nzer  usachAsha ця в подарунок з вас 10 гривень Kappa
+
+---
+
+19:37:35
+
+k3ned1: @unache хаааааааааай
+
+---
+
+19:37:38
+
+unache: k3ned1 приємного какання
+
+---
+
+19:37:46
+
+k3ned1: дякую
+
+---
+
+19:37:46
+
+svo0d1: Олдбоя можеш глянути
+
+---
+
+19:37:49
+
+bat9_v1nzer: @hauha333 usachAsha
+
+---
+
+19:37:59
+
+k3ned1: в сапера
+
+---
+
+19:38:08
+
+svo0d1: який Майнкрафт
+
+---
+
+19:38:13
+
+bat9_v1nzer: На юа піксель ?
+
+---
+
+19:38:26
+
+k3ned1: у феді краще сервер
+
+---
+
+19:38:37
+
+svo0d1: В кого Дідо заводить трактор?
+
+---
+
+19:38:39
+
+hauha333: Можеш рфнути вайт лістя в майн піду
+
+---
+
+19:38:53
+
+toper1337: ВАСЯ!"!!
+
+---
+
+19:38:54
+
+maks_malitsk: Змійка
+
+---
+
+19:38:55
+
+unache: змійка
+
+---
+
+19:38:59
+
+toper1337: контент відоси в тг
+
+---
+
+19:39:02
+
+vladdgoldin: Василь привіт,я доївав додому aaavroDance2
+
+---
+
+19:39:04
+
+toper1337: .......
+
+---
+
+19:39:05
+
+c1dol3mm: https://littlebigsnake.com/
+
+---
+
+19:39:13
+
+svo0d1: @vladdgoldin  dobradBiculka
+
+---
+
+19:39:19
+
+maks_malitsk: Шо
+
+---
+
+19:39:28
+
+toper1337: чек музику
+
+---
+
+19:39:29
+
+c1dol3mm: а я вже змійку кинув
+
+---
+
+19:39:45
+
+toper1337: пж
+
+---
+
+19:39:49
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:39:57
+
+hauha333: Можеш офнути вайт ліст я хочу в майн піти
+
+---
+
+19:40:00
+
+vladdgoldin: @svo0d1 xoxomkLoveee
+
+---
+
+19:40:01
+
+hauha333: ?
+
+---
+
+19:40:08
+
+c1dol3mm: швидко
+
+---
+
+19:40:09
+
+k3ned1: ну це рандом
+
+---
+
+19:40:13
+
+c1dol3mm: пішли змійку Kappa
+
+---
+
+19:40:15
+
+hauha333: @vladdgoldin fluffy561Opop
+
+---
+
+19:40:17
+
+toper1337: ой все пон
+
+---
+
+19:40:20
+
+c1dol3mm: там ж легко було порахувати
+
+---
+
+19:40:31
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:40:49
+
+hauha333: Можеш офнути вайт ліст я хочу в майн піти???????
+
+---
+
+19:40:50
+
+svo0d1: ааааааа
+
+---
+
+19:40:55
+
+svo0d1: Люди
+
+---
+
+19:41:23
+
+k3ned1: akyuliaHamster akyuliaHamster akyuliaHamster akyuliaHamster akyuliaHamster
+
+---
+
+19:41:27
+
+gguralll: Здоров
+
+---
+
+19:41:31
+
+k3ned1: akyuliaCatDance akyuliaCatDance akyuliaCatDance akyuliaCatDance
+
+---
+
+19:41:37
+
+gguralll: А можна силку на сапера хочу тоже поіграти
+
+---
+
+19:41:41
+
+maks_malitsk: Здоров
+
+---
+
+19:41:42
+
+vladdgoldin: @hauha333 xoxomkLoveee
+
+---
+
+19:41:51
+
+pixelfedya: https://minesweeper.online
+
+---
+
+19:41:53
+
+hauha333: Можеш офнути вайт ліст я хочу в майн піти?
+
+---
+
+19:41:55
+
+gguralll: Дякую
+
+---
+
+19:42:11
+
+hauha333: usachDance
+
+---
+
+19:42:29
+
+c1dol3mm: в тебе до речі зверху ще видно друге захоплення екрану, тобто зараз два браузери
+
+---
+
+19:42:47
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:43:12
+
+toper1337: чекни йомайо))
+
+---
+
+19:43:16
+
+legolas_07_: Федяяяяяяяяяяя
+
+---
+
+19:43:19
+
+maks_malitsk: О це день ігор з фоловерами
+
+---
+
+19:43:19
+
+legolas_07_: Піксельььььььььь
+
+---
+
+19:43:24
+
+legolas_07_: привіт вуйку
+
+---
+
+19:43:27
+
+legolas_07_: maryas1Mrr maryas1Mrr maryas1Mrr
+
+---
+
+19:43:33
+
+maks_malitsk: @legolas_07_ хааай
+
+---
+
+19:43:47
+
+legolas_07_: ти такий бусінка сьогодні maryas1Mrr
+
+---
+
+19:43:52
+
+k3ned1: akyuliaHamster akyuliaHamster akyuliaHamster akyuliaHamster akyuliaHamster
+
+---
+
+19:43:56
+
+legolas_07_: @maks_malitsk maryas1Yra
+
+---
+
+19:44:06
+
+unache: мгм
+
+---
+
+19:44:16
+
+legolas_07_: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+19:44:19
+
+k3ned1: забороняю всіх банити
+
+---
+
+19:44:22
+
+maks_malitsk: Нормально
+
+---
+
+19:44:27
+
+maks_malitsk: Нашо казати
+
+---
+
+19:44:31
+
+c1dol3mm: дозволяю всіх банити Kappa
+
+---
+
+19:44:33
+
+unache: @k3ned1 trembaaSalute
+
+---
+
+19:44:40
+
+maks_malitsk: Гооо
+
+---
+
+19:45:01
+
+opudalo: ти ніразу не вигравав ще цей рівень?
+
+---
+
+19:45:17
+
+yurabunchak: ти шо сапер maryas1Bam
+
+---
+
+19:45:20
+
+c1dol3mm: є 100% двійка
+
+---
+
+19:45:49
+
+opudalo: там вгадувати багато треба?
+
+---
+
+19:46:09
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:46:15
+
+unache: трієчку зліва клацни
+
+---
+
+19:46:17
+
+c1dol3mm: а де 100% є міни завжди?
+
+---
+
+19:46:30
+
+unache: мгм
+
+---
+
+19:46:34
+
+k3ned1: CoolStoryBob
+
+---
+
+19:46:50
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+19:46:57
+
+martyniuk_ua: ak1okaDance ak1okaDance ak1okaDance ak1okaDance ak1okaDance
+
+---
+
+19:47:08
+
+maks_malitsk: Васи коли смайлики
+
+---
+
+19:47:14
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+19:47:33
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:47:43
+
+maks_malitsk: Ну таке
+
+---
+
+19:47:50
+
+bat9_v1nzer: @yurabunchak Юрчик привіт HeyGuys fluffy561Nya
+
+---
+
+19:47:56
+
+maks_malitsk: Бо смайлик не буде історією каналу
+
+---
+
+19:47:57
+
+yurabunchak: не повіхай дупа maryas1Ook
+
+---
+
+19:48:03
+
+yurabunchak: позіхай*
+
+---
+
+19:48:13
+
+yurabunchak: @bat9_v1nzer привіт дупа maryas1Love maryas1Kaba4ok
+
+---
+
+19:48:17
+
+bat9_v1nzer: @legolas_07_ Юрчик fluffy561Nya fluffy561Nya fluffy561Nya
+
+---
+
+19:48:22
+
+maks_malitsk: trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails trembaaNails
+
+---
+
+19:48:34
+
+maks_malitsk: Здоров мужики
+
+---
+
+19:48:34
+
+legolas_07_: @bat9_v1nzer Дениско HypeLove1
+
+---
+
+19:49:27
+
+roolex9: молодчина
+
+---
+
+19:49:42
+
+maks_malitsk: Сапер всім так заходе
+
+---
+
+19:49:42
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:49:42
+
+maks_malitsk: І Василю вон як інтеренсоо
+
+---
+
+19:49:54
+
+yurabunchak: @roolex9 привіт найкращий кабачок на планеті Земля maryas1Kaba4ok
+
+---
+
+19:49:55
+
+maks_malitsk: @roolex9 хааааай
+
+---
+
+19:50:00
+
+k3ned1: а скільки в тебе коштує преміум?
+
+---
+
+19:50:07
+
+bat9_v1nzer: @roolex9 Вітальчик fluffy561Nya
+
+---
+
+19:50:12
+
+k3ned1: ютуб
+
+---
+
+19:50:13
+
+unache: а скільки в тебе коштує адблок?
+
+---
+
+19:50:15
+
+panterivka: сапер топ гра
+
+---
+
+19:50:27
+
+maks_malitsk: а скільки в тебе коштує модерка ?
+
+---
+
+19:50:50
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:50:57
+
+i_bananbi4_i: Не треба
+
+---
+
+19:51:12
+
+i_bananbi4_i: trembaaHey trembaaHey trembaaHey
+
+---
+
+19:51:15
+
+alf0nss_: спробуй технотейбл
+
+---
+
+19:51:18
+
+unache: ))
+
+---
+
+19:51:21
+
+alf0nss_: вони літають
+
+---
+
+19:51:26
+
+roolex9: не хочеш зари на стріму пограти в сапера типу хто швидше пройде
+
+---
+
+19:51:27
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:51:31
+
+kitaychik_: ахахкахахахахаххахахахахахахаааххаах
+
+---
+
+19:51:33
+
+alf0nss_: пиздець
+
+---
+
+19:51:33
+
+unache: хавхааха
+
+---
+
+19:51:35
+
+i_bananbi4_i: trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+19:51:36
+
+lavielay: tapaceSad tapaceSad tapaceSad
+
+---
+
+19:51:44
+
+k3ned1: блять
+
+---
+
+19:51:44
+
+alf0nss_: уууу
+
+---
+
+19:51:48
+
+unache: trembaaWUT trembaaWUT trembaaWUT
+
+---
+
+19:51:48
+
+alf0nss_: пиздаа
+
+---
+
+19:51:49
+
+zxcakula: бляяя
+
+---
+
+19:51:53
+
+kitaychik_: Пожарна сигналізація
+
+---
+
+19:51:54
+
+maks_malitsk: Горить їжа походу
+
+---
+
+19:51:54
+
+unache: віувіувіувіувіу
+
+---
+
+19:51:58
+
+k3ned1: кліпніть
+
+---
+
+19:52:03
+
+iskra_banderivska: бляяяяяяяяяяяя
+
+---
+
+19:52:05
+
+panterivka: вівувівувівувівувіуввіуі
+
+---
+
+19:52:10
+
+alf0nss_: NotLikeThis NotLikeThis NotLikeThis
+
+---
+
+19:52:24
+
+maks_malitsk: Зара Василь получе по шапці
+
+---
+
+19:52:26
+
+k3ned1: sweetn52CatNope sweetn52CatNope sweetn52CatNope sweetn52CatNope sweetn52CatNope sweetn52CatNope
+
+---
+
+19:52:26
+
+iskra_banderivska: мої вуха відпали
+
+---
+
+19:52:45
+
+lavielay: tapaceSlav
+
+---
+
+19:52:50
+
+alf0nss_: @iskra_banderivska +
+
+---
+
+19:52:53
+
+maks_malitsk: Ф5
+
+---
+
+19:53:00
+
+panterivka: явахуї
+
+---
+
+19:53:04
+
+alf0nss_: болить голова пиздець
+
+---
+
+19:53:14
+
+maks_malitsk: Зара пожарна прийде будеш сміївся
+
+---
+
+19:53:15
+
+k3ned1: в нас теж
+
+---
+
+19:53:23
+
+maks_malitsk: Тобі що сміхуйочки
+
+---
+
+19:53:23
+
+unache: https://clips.twitch.tv/ResolutePlausibleAniseNotLikeThis-h_uHKoZvfPHLqpAr
+
+---
+
+19:53:35
+
+hauha333: А від чого то
+
+---
+
+19:53:54
+
+panterivka: ашівзщаші
+
+---
+
+19:54:01
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+19:54:06
+
+k3ned1: датчик диму
+
+---
+
+19:54:20
+
+hauha333: А я думав ти рофлив що згоріло BloodTrail
+
+---
+
+19:54:25
+
+maks_malitsk: Добре шо Окси не було вона би тебе вже забила
+
+---
+
+19:55:03
+
+maks_malitsk: LUL
+
+---
+
+19:55:34
+
+maks_malitsk: Алооооо
+
+---
+
+19:55:35
+
+maks_malitsk: Праве вухооооо
+
+---
+
+19:57:04
+
+martyniuk_ua: ak1okaDance ak1okaDance ak1okaDance ak1okaDance ak1okaDance ak1okaDance ak1okaDance ak1okaDance
+
+---
+
+19:57:38
+
+maks_malitsk: Васи а ти зелений фон вже заказав чи ти тіки думаєш?
+
+---
+
+19:57:53
+
+ksiwssa: привітання)
+
+---
+
+19:58:22
+
+abso1ut3xd: О, моя улюблена гра
+
+---
+
+19:58:27
+
+young_schoo1: го у меми пограємо
+
+---
+
+19:58:34
+
+abso1ut3xd: Здоров
+
+---
+
+19:59:51
+
+vladdgoldin: fluffy561Nya
+
+---
+
+20:00:06
+
+vladdgoldin: @yurabunchak xoxomkValentineday
+
+---
+
+20:01:00
+
+vladdgoldin: смачного
+
+---
+
+20:01:01
+
+vladdgoldin: fluffy561Dance
+
+---
+
+20:01:10
+
+vladdgoldin: я теж зараз буду
+
+---
+
+20:01:15
+
+vladdgoldin: fluffy561Opop
+
+---
+
+20:01:46
+
+slatezzzcs: Смачного
+
+---
+
+20:01:57
+
+vladdgoldin: @slatezzzcs Слатечка xoxomkValentineday xoxomkLoveee fluffy561Serdechko fluffy561Nya fluffy561Dance
+
+---
+
+20:02:13
+
+slatezzzcs: @vladdgoldin владику fluffy561Nya
+
+---
+
+20:02:23
+
+vladdgoldin: @slatezzzcs я вже доїхав)
+
+---
+
+20:02:36
+
+slatezzzcs: @vladdgoldin ооо fluffy561Dance
+
+---
+
+20:02:36
+
+vladdgoldin: fluffy561Dance
+
+---
+
+20:03:27
+
+slatezzzcs: BloodTrail
+
+---
+
+20:04:35
+
+panterivka: хммм
+
+---
+
+20:04:41
+
+martyniuk_ua: А яяяя їм польську шоколадку ak1okaDance ak1okaDance ak1okaDance
+
+---
+
+20:04:54
+
+slatezzzcs: @martyniuk_ua смачного
+
+---
+
+20:05:00
+
+martyniuk_ua: Дякую
+
+---
+
+20:05:17
+
+vladdgoldin: смачного
+
+---
+
+20:05:21
+
+emfoniks: смачноооо
+
+---
+
+20:05:23
+
+emfoniks: го
+
+---
+
+20:05:28
+
+emfoniks: я їм полуничку
+
+---
+
+20:05:30
+
+vladdgoldin: @emfoniks fluffy561Serdechko
+
+---
+
+20:05:59
+
+slatezzzcs: А я споживаю контент василя Kappa
+
+---
+
+20:06:04
+
+yurabunchak: Штольня - спочатку було дуже весело, прикольно, | А потім стало темно, страшно й больно,          | Багато таємниць ховає штольня, штольня.. maryas1Str maryas1Str maryas1Str
+
+---
+
+20:06:17
+
+roolex9: Штольня - спочатку було дуже весело, прикольно, | А потім стало темно, страшно й больно, | Багато таємниць ховає штольня, штольня.. maryas1Str maryas1Str maryas1Str
+
+---
+
+20:06:18
+
+slatezzzcs: @yurabunchak usachDed
+
+---
+
+20:06:18
+
+vladdgoldin: @yurabunchak Юрчик привіт братанчик fluffy561Nya
+
+---
+
+20:06:29
+
+yurabunchak: @vladdgoldin привіт дупа maryas1Str
+
+---
+
+20:06:30
+
+slatezzzcs: Та
+
+---
+
+20:06:33
+
+yurabunchak: @SlatezZzcs maryas1Kaba4ok maryas1Kaba4ok
+
+---
+
+20:06:37
+
+slatezzzcs: Ще не зрозумів?
+
+---
+
+20:06:58
+
+champik_is_back: ні, реклама парку юркського періоду
+
+---
+
+20:07:12
+
+yurabunchak: @roolex9 maryas1Smih maryas1Smih maryas1Smih
+
+---
+
+20:07:33
+
+unache: @iskra_banderivska ти тут?
+
+---
+
+20:07:59
+
+iskra_banderivska: @unache люркаю
+
+---
+
+20:08:04
+
+unache: ідем
+
+---
+
+20:08:46
+
+champik_is_back: Вася чи Федя?
+
+---
+
+20:08:49
+
+maks_malitsk: В мене шось інет офнувся
+
+---
+
+20:09:22
+
+maks_malitsk: То ти вже заказав Грін скірн чи думаєш?
+
+---
+
+20:09:45
+
+panterivka: хахахах
+
+---
+
+20:11:29
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:11:46
+
+maks_malitsk: Смачного
+
+---
+
+20:12:28
+
+maks_malitsk: <message deleted>
+
+---
+
+20:12:42
+
+champik_is_back: я б штовхнув Василья щоб його зїв динозавр, а сам би втік)
+
+---
+
+20:12:55
+
+kateryn_ka: Привіт)
+
+---
+
+20:13:02
+
+kateryn_ka: mrsill1LE mrsill1GE mrsill1DA
+
+---
+
+20:13:05
+
+i_bananbi4_i: Та блять
+
+---
+
+20:13:06
+
+svo0d1: @Kateryn_ka  KPOPheart привіт
+
+---
+
+20:13:09
+
+maks_malitsk: @kateryn_ka хааааай
+
+---
+
+20:13:15
+
+svo0d1: Що в тебе там за какаха?
+
+---
+
+20:13:28
+
+kateryn_ka: Всім халоу katery1HI
+
+---
+
+20:13:51
+
+svo0d1: !watchingtime
+
+---
+
+20:13:58
+
+svo0d1: Ану покажи
+
+---
+
+20:14:00
+
+panterivka: шукай дружину ало
+
+---
+
+20:14:14
+
+emfoniks: всьо
+
+---
+
+20:14:22
+
+emfoniks: сьогодні коротко
+
+---
+
+20:14:24
+
+svo0d1: !watchtime
+
+---
+
+20:14:29
+
+svo0d1: АЛО
+
+---
+
+20:15:19
+
+svo0d1: !watchtime
+
+---
+
+20:15:25
+
+svo0d1: БОТ проснись
+
+---
+
+20:16:43
+
+svo0d1: А Пепсі?
+
+---
+
+20:16:54
+
+shvingle: akyuliaHamster
+
+---
+
+20:17:00
+
+shvingle: Привіт любий
+
+---
+
+20:17:07
+
+kateryn_ka: Так гарно в тебе
+
+---
+
+20:17:30
+
+emfoniks: гозмійку
+
+---
+
+20:17:30
+
+panterivka: швангуль прівяо
+
+---
+
+20:17:31
+
+hauha333: Офни вайт лист
+
+---
+
+20:17:31
+
+svo0d1: Стаміна на нулі
+
+---
+
+20:17:42
+
+shvingle: Ну тоді йди відпочивай
+
+---
+
+20:17:54
+
+panterivka: а чого настрою нема?
+
+---
+
+20:18:07
+
+panterivka: давай халепу рейдить
+
+---
+
+20:18:26
+
+svo0d1: порозказуй
+
+---
+
+20:18:32
+
+panterivka: ага ГАЛАВА
+
+---
+
+20:18:32
+
+i_bananbi4_i: Нарешті
+
+---
+
+20:18:39
+
+i_bananbi4_i: Слава богу
+
+---
+
+20:18:49
+
+i_bananbi4_i: Схахах
+
+---
+
+20:18:49
+
+panterivka: то ти реально перегорів?
+
+---
+
+20:18:58
+
+svo0d1: я взяв лікарняний, а він стрімити не буде. Охуїв*?
+
+---
+
+20:19:08
+
+hauha333: Го в червяків
+
+---
+
+20:19:11
+
+i_bananbi4_i: Бля(
+
+---
+
+20:19:33
+
+svo0d1: Щоб ти розумів вперше за 2 роки лікарняний. Так шо давай срім кожен день
+
+---
+
+20:19:42
+
+panterivka: внизу зліва закрий бомбу
+
+---
+
+20:19:58
+
+panterivka: є
+
+---
+
+20:20:01
+
+svo0d1: Я просто не ходив, не хворів.
+
+---
+
+20:20:16
+
+panterivka: я бачу все
+
+---
+
+20:20:36
+
+svo0d1: ДИВИСЬ одиничка тільки один варіант
+
+---
+
+20:20:58
+
+i_bananbi4_i: Кому бан?
+
+---
+
+20:21:13
+
+i_bananbi4_i: trembaaCry
+
+---
+
+20:21:23
+
+i_bananbi4_i: За шо?
+
+---
+
+20:21:32
+
+porozhnecha: Привіт красива дівчинко. У тебе така гарна борода, як справи?
+
+---
+
+20:21:42
+
+panterivka: опа
+
+---
+
+20:22:21
+
+porozhnecha: Я вже готовий)
+
+---
+
+20:22:56
+
+panterivka: так
+
+---
+
+20:22:59
+
+svo0d1: я паралельно сам граю
+
+---
+
+20:23:14
+
+porozhnecha: Та нічого. Мені хоч би на секунду глянути на це сонне обличча з привідкрити ротом і гарний настрій на весь день)))
+
+---
+
+20:23:41
+
+panterivka: біля трійки ну
+
+---
+
+20:23:45
+
+panterivka: справа
+
+---
+
+20:23:52
+
+panterivka: вище
+
+---
+
+20:24:04
+
+panterivka: не бачу
+
+---
+
+20:24:08
+
+panterivka: ще
+
+---
+
+20:24:19
+
+panterivka: так
+
+---
+
+20:24:21
+
+svo0d1: зліва
+
+---
+
+20:24:21
+
+panterivka: !
+
+---
+
+20:24:29
+
+svo0d1: зліва трійка сумує сама
+
+---
+
+20:24:30
+
+panterivka: бомби вертикально
+
+---
+
+20:24:57
+
+svo0d1: так бомба між трійкками
+
+---
+
+20:24:59
+
+svo0d1: Є
+
+---
+
+20:25:13
+
+svo0d1: та
+
+---
+
+20:25:16
+
+panterivka: ага
+
+---
+
+20:25:26
+
+panterivka: а може ні
+
+---
+
+20:25:34
+
+svo0d1: СЮДА
+
+---
+
+20:25:39
+
+svo0d1: на характері
+
+---
+
+20:25:45
+
+svo0d1: протиснули
+
+---
+
+20:26:11
+
+kateryn_ka: Гарного вечора тобі mrsill1Vitayu1
+
+---
+
+20:26:40
+
+porozhnecha: Тобі треба рамочка для сапера. Щоб реклама знизу не муляла
+
+---
+
+20:27:04
+
+kitaychik_: @Porozhnecha адблок треба поставити і нічо не буде муляти
+
+---
+
+20:27:30
+
+maks_malitsk: Курва
+
+---
+
+20:27:41
+
+porozhnecha: Я тільки зайшов
+
+---
+
+20:27:47
+
+maks_malitsk: Інтернет офається сам по собі
+
+---
+
+20:27:52
+
+maks_malitsk: Щей реклама
+
+---
+
+20:27:54
+
+panterivka: @Porozhnecha воно блокує адблок
+
+---
+
+20:28:03
+
+maks_malitsk: @porozhnecha хааааай
+
+---
+
+20:28:12
+
+porozhnecha: Я люблю все оформлять тому мені рамочка більше подобається )
+
+---
+
+20:28:16
+
+kitaychik_: @Panterivka Нема ніякої реклами в мене з адблоком
+
+---
+
+20:28:23
+
+porozhnecha: Вітаннячка @maks_malitsk
+
+---
+
+20:28:31
+
+panterivka: @kitaychik_ а мене просить вимкнути адблок
+
+---
+
+20:28:40
+
+maks_malitsk: А шо таке
+
+---
+
+20:29:26
+
+maks_malitsk: trembaaRave chevor1Clap
+
+---
+
+20:29:31
+
+porozhnecha: Ти так і не купив без реклами ютуб
+
+---
+
+20:29:40
+
+maks_malitsk: trembaaCool
+
+---
+
+20:30:07
+
+maks_malitsk: НЕ СТІЙ ПІД ВІКНОМ trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave trembaaRave
+
+---
+
+20:30:12
+
+maks_malitsk: chevor1Clap chevor1Clap chevor1Clap chevor1Clap chevor1Clap
+
+---
+
+20:30:33
+
+maks_malitsk: chevor1Clap chevor1Clap chevor1Clap
+
+---
+
+20:30:35
+
+maks_malitsk: Ляяяя
+
+---
+
+20:30:38
+
+svo0d1: розбмабмур
+
+---
+
+20:30:38
+
+maks_malitsk: Але пісня
+
+---
+
+20:30:45
+
+porozhnecha: Зліва навколо 4 там вже є чотири міни відмічені
+
+---
+
+20:30:46
+
+svo0d1: dobradYesyesyes
+
+---
+
+20:30:52
+
+maks_malitsk: Але колись в піснях розбиралися
+
+---
+
+20:30:57
+
+porozhnecha: О вже зробив
+
+---
+
+20:31:00
+
+maks_malitsk: trembaaRave
+
+---
+
+20:32:55
+
+maks_malitsk: Колись в піснях такий вайб був
+
+---
+
+20:34:55
+
+maks_malitsk: О ворон стріме
+
+---
+
+20:34:57
+
+svo0d1: бан
+
+---
+
+20:35:01
+
+svo0d1: я обісрався
+
+---
+
+20:35:01
+
+maks_malitsk: LUL
+
+---
+
+20:35:26
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:36:16
+
+maks_malitsk: До Даринки болотяні частіше ходять чим до тебе
+
+---
+
+20:36:18
+
+svo0d1: dobradAAAAAA
+
+---
+
+20:36:19
+
+le0lick: нагадування від ролі
+
+---
+
+20:36:21
+
+panterivka: міу міу
+
+---
+
+20:36:21
+
+hauha333: BibleThump BibleThump BibleThump
+
+---
+
+20:36:21
+
+le0lick: ТУРНІР ПО ІГРІ https://littlebigsnake.com/ З ПРИЗОВИМ ФОНДОМ В 1200 грн! Реєстрація в тг https://t.me/roolex9
+
+---
+
+20:36:29
+
+maks_malitsk: trembaaHey trembaaHey trembaaHey trembaaHey trembaaHey
+
+---
+
+20:36:29
+
+svo0d1: Гарного вечора
+
+---
+
+20:36:30
+
+panterivka: добряо
+
+---
+
+20:36:31
+
+svo0d1: всім
+
+---
+
+20:36:41
+
+maks_malitsk: Давай до Ворона
+
+---
+
+20:36:54
+
+maks_malitsk: І пасту
+
+---
+
+20:37:01
+
+emfoniks: папа
+
+---
+
+20:37:02
+
+hauha333: Бб RaccAttack
+
+---
+
+20:37:11
+
+le0lick: ворону
+
+---
+
+20:37:13
+
+panterivka: халепі
+
+---
+
+20:37:13
+
+porozhnecha: Гарноо вечора
+
+---
+
+20:37:14
+
+le0lick: рейд
+
+---
+
+20:37:18
+
+zxcakula: бб
+
+---
+
+20:37:20
+
+maks_malitsk: Пака
+
+---
+
+20:37:33
+
+maks_malitsk: Ворона даваййй
+
+---
+
+20:37:42
+
+panterivka: пішли
+
+---
+
+20:37:56
+
+svo0d1: о там гулі
+
+---
+
+20:38:11
+
+svo0d1: Томукогодивитисябудеш
+
+---
+
+20:38:29
+
+maks_malitsk: Ворончик chevor1Smart
+
+---
+
+20:38:39
+
+maks_malitsk: Тааа
+
+---
+
+20:38:41
+
+pixelfedya: Кар КАР КАР КАР
+
+---
+
+20:38:45
+
+maks_malitsk: А пасту
+
+---
+
+20:38:46
+
+pixelfedya: Кар КАР КАР КАР 󠀀
+
+---
+
+20:38:46
+
+pixelfedya: Кар КАР КАР КАР
+
+---
+
+20:38:54
+
+pixelfedya: Кар КАР КАР КАР 󠀀
+
+---
+
+20:38:54
+
+pixelfedya: Кар КАР КАР КАР
+
+---
+
+20:38:55
+
+panterivka: КАР КАР КАР КАР
+
+---
+
+20:38:55
+
+le0lick: Кар КАР КАР КАР
+
+---
+
+20:38:57
+
+maks_malitsk: ACTION Кар КАР КАР КАР 󠀀
+
+---
+
+20:39:05
+
+panterivka: Кар КАР КАР КАР 󠀀
+
+---
+
+20:39:05
+
+maks_malitsk: Може через ме
+
+---
+
+20:39:18
+
+panterivka: БУВЯЯЯЯОО
+
+---
+
+20:39:20
+
+maks_malitsk: Пака Василько
+
+---
+
+20:39:27
+
+maks_malitsk: trembaaHey trembaaHey trembaaHey trembaaHeart
+
+---
+
+20:39:29
+
+svo0d1: Бувяяяо
+
+---
+
+20:39:32
+
+maks_malitsk: Кар КАР КАР КАР
+
+---
+
+20:39:34
+
+hauha333: BibleThump
+
+---
+
+20:39:35
+
+zxcakula: БУВЯЯЯЯОО
+
+---
+
+20:39:37
+
+zxcakula: БУВЯЯЯЯООО
+
+---
+
+20:39:38
+
+le0lick: fluffy561Opop sheisf3Dancee
+
+---
+
+20:39:39
+
+zxcakula: БУВЯЯЯЯОООО
+
+---
+
+20:39:40
+
+zxcakula: БУВЯЯЯЯООООО
+
+---
+
+20:39:42
+
+maks_malitsk: chevor1Clap trembaaHey chevor1Clap trembaaHey
+
+---
+
+20:39:43
+
+le0lick: ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana ak1okaNanana
+
+---
+
+20:39:44
+
+emfoniks: папа
+
+---
+
+20:39:46
+
+zxcakula: БУВЯЯЯЯО
+
+---
+
+20:39:47
+
+maks_malitsk: trembaaHeart trembaaHeart trembaaHeart
+
+---
+
+20:39:48
+
+hauha333: Бувяо
+
+---
+
+20:39:49
+
+panterivka: pixelf8LooooooL
+
+---
+
