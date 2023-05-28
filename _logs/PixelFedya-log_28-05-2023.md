@@ -21754,3 +21754,33 @@ seesmof: FeelsStrongMan
 
 ---
 
+19:35:03
+
+nelubluu: pixelf8LOVE pixelf8LOVE pixelf8LOVE pixelf8LOVE тримай гарний xуй за гарну гру
+
+---
+
+19:35:09
+
+maks_malitsk: Я її на початку чув
+
+---
+
+19:35:17
+
+lavielay: @nelubluu )))
+
+---
+
+19:35:40
+
+maks_malitsk: Васи нас запусте на сервер як хом'яків у клітку
+
+---
+
+19:35:43
+
+toper1337: Ага.. ну файна музика)) скинеш плейліст)) я люблю під тишу спати)
+
+---
+
