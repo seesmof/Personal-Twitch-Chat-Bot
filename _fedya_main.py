@@ -1,20 +1,5 @@
-# include necessary libraries/files
-from pathlib import Path
-from dotenv import load_dotenv
-from os.path import join, dirname
-from twitchio.ext import commands
-from datetime import datetime
-import pygetwindow as gw
-from notifypy import Notify
-
-import openai
-import random
-import os
-import asyncio
-import pyautogui
-import mfs
+from mfs import *
 from vars import *
-
 
 last_message_time = {}
 messages_tracker = {}
@@ -35,14 +20,14 @@ async def event_ready():
     # print bot and channel name when it activates
     print(f"{STD_BOT_NICK} is online at {CHANNEL}!")
     # log it
-    mfs.write_to_log(f"is online at {CHANNEL}!", STD_BOT_NICK, CHANNEL)
+    write_to_log(f"is online at {CHANNEL}!", STD_BOT_NICK, CHANNEL)
 
 
 @ bot.event
 async def event_message(ctx):
     if ctx.author.name.lower() == STD_BOT_NICK.lower():
         print(f"\nBOT: {ctx.content}")
-        mfs.write_to_log(ctx.content, STD_BOT_NICK, CHANNEL)
+        write_to_log(ctx.content, STD_BOT_NICK, CHANNEL)
         return
     elif ctx.author.name.lower() == "streamelements":
         print(f"\nBOT: {ctx.content}")
@@ -69,25 +54,25 @@ async def event_message(ctx):
     messages_tracker[ctx.author.name].append(ctx.content)
 
     letters = ["@pawrop"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         phrases = ["нажаль, я не можу відповісти на ваше повідомлення",
                    "я не знаю відповіді на це", "я не здатний генерувати повідомлення"]
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(phrases)}. Краще спитайте wuyodo :) Введіть !гпт у чат, щоб дізнатися більше")
 
     letters = ["э", "ы", "ё", "ъ"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         await ctx.channel.send(f"@{ctx.author.name}, повідомлення заблоковано за недотримання правил чату SMOrc російська заборонена в чаті")
 
     letters = ["слава україні"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         await ctx.channel.send(f"@{ctx.author.name}, Героям слава!")
 
     letters = ["слава нації"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         await ctx.channel.send(f"@{ctx.author.name}, Смерть ворогам!")
 
     letters = ["путін"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         letterX = ["x", "х", "ẋ"]
         letterY = ["y", "у", "ẙ"]
         letterO = ["о", "o", "ø", "ǿ", "ö", "ȫ", "ó", "ò", "ô",
@@ -95,7 +80,7 @@ async def event_message(ctx):
         await ctx.channel.send(f"@{ctx.author.name}, {random.choice(letterX)}{random.choice(letterY)}йл{random.choice(letterO)}!")
 
     letters = ["seesmof", "seesmoff", "сісмуф", "сісмоф"]
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         notification = Notify()
         notification.title = "Хтось тегнув у Феді"
         notification.message = f"{ctx.author.name}: {ctx.content}"
@@ -107,15 +92,15 @@ async def event_message(ctx):
     letters = ["дороу", "привіт", "здороу", "здоров", "доров", "хай", "буено", "вітаю", "доброго вечора",
                "добрий вечір", "вітамба", "доброго дня", "добрий день", "доброго ранку", "добрий ранок", "вітання", "як ся маєш", "як воно", "бажаю здоров'я", "радий вітати", "радий бачити", "як справи", "як здоров'я", "hey", "hello", "hiya"]
     # check if message contains the greeting
-    if mfs.check_for_letters(ctx.content.lower(), letters):
+    if check_for_letters(ctx.content.lower(), letters):
         # greet the user
         await ctx.channel.send(f"@{user}, {random.choice(greetings_ua)} Ласкаво просимо")
     '''
 
     await bot.handle_commands(ctx)
     print(f"\n{ctx.author.name}: {ctx.content}")
-    mfs.write_to_log(ctx.content, ctx.author.name, CHANNEL)
-    await asyncio.sleep(2)
+    write_to_log(ctx.content, ctx.author.name, CHANNEL)
+    await asyncio.sleep(5)
 
 
 @ bot.command(name='інфа', aliases=['info', 'інформація'])
@@ -204,6 +189,7 @@ async def touch_someone(ctx):
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_shy)}")
 
 
+'''OUTDATED
 @ bot.command(name='пук')
 async def fart_someone(ctx):
     username = ctx.content[4:]
@@ -212,7 +198,7 @@ async def fart_someone(ctx):
         global last_message_time
         username = '@' + random.choice(list(last_message_time))
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
-
+'''
 
 '''DEPRECATED
 @ bot.command(name='боб', aliases=['бобик'])
@@ -429,7 +415,7 @@ async def no_ignore_please(ctx):
     await ctx.send(f"@PixelFedya")
     await asyncio.sleep(2)
     input_txt = ctx.content[5:]
-    await mfs.send_split_gpt(ctx, input_txt)
+    await send_split_gpt(ctx, input_txt)
     await asyncio.sleep(2)
     await ctx.send(f"@PixelFedya")
 
@@ -444,11 +430,13 @@ def replace_characters(string, char_dict):
     return new_string
 
 
+'''OUTDATED
 @ bot.command(name='ой', aliases=['дідько', 'бля'])
 async def oh_no_my_keyboard(ctx):
     message = messages_tracker[ctx.author.name][-2]
     output_text = replace_characters(message, letters_dict)
     await ctx.send(f"@{ctx.author.name}, {output_text}")
+'''
 
 
 @ bot.command(name='батько', aliases=['бат', 'батя'])
