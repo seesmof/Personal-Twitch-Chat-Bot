@@ -214,6 +214,7 @@ async def fart_someone(ctx):
     await ctx.send(f"{random.choice(phrases)} {username} {random.choice(emotes_laugh)}")
 
 
+'''DEPRECATED
 @ bot.command(name='боб', aliases=['бобик'])
 async def give_bob(ctx):
     username = ctx.content[4:]
@@ -224,6 +225,7 @@ async def give_bob(ctx):
     bob = ["бобика", "анаконду", "балумбу", "зміюку", "апарата",
            "шиликало", "списа", "кабачка", "банана", "патика", "шампура"]
     await ctx.send(f"{username}, {random.choice(phrases)}, маєш {random.choice(bob)} у {chance} см! {random.choice(emotes_laugh)}")
+'''
 
 
 @ bot.command(name='гам')
