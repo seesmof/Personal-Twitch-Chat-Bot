@@ -1,30 +1,24 @@
-09:37:51
+08:18:27
 
 pawrop: is online at PixelFedya!
 
 ---
 
-09:37:59
+08:18:29
 
 wuyodo: is online at PixelFedya!
 
 ---
 
-09:42:15
+08:25:44
 
 pawrop: is online at PixelFedya!
 
 ---
 
-09:42:26
+08:25:46
 
 wuyodo: is online at PixelFedya!
-
----
-
-18:31:49
-
-botbandera: Пора почєликати цюцюрку pixelf8LOVE justYANOCHKA pixelf8LOVE
 
 ---
 
