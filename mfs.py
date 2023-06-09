@@ -147,12 +147,12 @@ def generate_ai_message(message, author):
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
         try:
-            print("Generating with Bard")
-            output_text += bard_ua(input_text)
+            print("Generating with GPT4Free")
+            output_text += gpt4free_ua(input_text)
         except:
             try:
-                print("Generating with GPT4Free")
-                output_text += gpt4free_ua(input_text)
+                print("Generating with Bard")
+                output_text += bard_ua(input_text)
             except:
                 print(
                     f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
@@ -163,12 +163,12 @@ def generate_ai_message(message, author):
     else:
         print("Language is English")
         try:
-            print("Generating with Bard")
-            output_text += bard_en(input_text)
+            print("Generating with GPT4Free")
+            output_text += gpt4free_en(input_text)
         except:
             try:
-                print("Generating with GPT4Free")
-                output_text += gpt4free_en(input_text)
+                print("Generating with Bard")
+                output_text += bard_en(input_text)
             except:
                 print(
                     f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")

@@ -1,6 +1,7 @@
 from twitchio.ext import commands
 from vars import *
 from mfs import *
+import asyncio
 
 
 class Bot(commands.Bot):
@@ -18,7 +19,10 @@ class Bot(commands.Bot):
         if check_for_letters(message.content.lower(), letters) and message.author.name != "piprly":
             output_text = generate_ai_message(
                 message.content, message.author.name)
-            await message.channel.send(output_text)
+            output_text = split_long_gpt(output_text)
+            for substr in output_text:
+                await message.channel.send(substr)
+                await asyncio.sleep(6)
 
 
 bot = Bot()
