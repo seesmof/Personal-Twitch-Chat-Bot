@@ -18,7 +18,7 @@ class Bot(commands.Bot):
         if check_for_letters(message.content.lower(), letters) and message.author.name != "piprly":
             output_text = generate_ai_message(
                 message.content, message.author.name)
-            await send_split_gpt(message, output_text)
+            await message.channel.send(output_text)
 
 
 bot = Bot()
