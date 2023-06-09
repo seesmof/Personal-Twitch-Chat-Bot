@@ -144,6 +144,8 @@ def generate_ai_message(message, author):
     input_text = message.replace("@wuyodo", "")
     input_text = " ".join(input_text.split())
 
+    output_text = ""  # declare the variable here
+
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
         try:

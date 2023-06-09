@@ -1,7 +1,6 @@
 from twitchio.ext import commands
 from vars import *
 from mfs import *
-import asyncio
 
 
 class Bot(commands.Bot):
@@ -21,8 +20,9 @@ class Bot(commands.Bot):
                 message.content, message.author.name)
             output_text = split_long_gpt(output_text)
             for substr in output_text:
-                await message.channel.send(f"{substr}, @{message.author.name}")
                 await asyncio.sleep(30)
+                await message.channel.send(f"{substr}, @{message.author.name}")
+        await asyncio.sleep(30)
 
 
 bot = Bot()
