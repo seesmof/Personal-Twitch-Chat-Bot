@@ -3,6 +3,7 @@ from datetime import datetime
 import openai
 import os
 import asyncio
+import queue
 import time
 import requests
 import re
@@ -46,7 +47,7 @@ async def send_split_message(ctx, message):
     for substring in substrings_list:
         await ctx.channel.send(substring)
         # add delay between each message
-        await asyncio.sleep(2)
+        await asyncio.sleep(6)
 
 
 def check_for_letters(text, letters):
@@ -139,7 +140,7 @@ def generate_ai_message(message, author):
     print("\nGenerating a message...\n")
     start_time = time.time()
 
-    input_text = message.replace("@wuyodo", "")
+    input_text = message.replace("@piprly", "")
     input_text = " ".join(input_text.split())
     output_text = "@" + author + ", "
 

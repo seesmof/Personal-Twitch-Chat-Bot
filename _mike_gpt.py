@@ -1,38 +1,25 @@
-from mfs import *
+from twitchio.ext import commands
 from vars import *
+from mfs import *
 
 
-BOT_PREFIX = "!"
-CHANNEL = "mike09steelers"
-bot = commands.Bot(
-    irc_token=GPT_TMI_TOKEN,
-    client_id=GPT_CLIENT_ID,
-    nick=GPT_BOT_NICK,
-    prefix=BOT_PREFIX,
-    initial_channels=[CHANNEL]
-)
+class Bot(commands.Bot):
+
+    def __init__(self):
+        super().__init__(token=GPT_TOKEN,
+                         prefix='!', initial_channels=['mike09steelers'])
+
+    async def event_ready(self):
+        print(f'Logged in as | {self.nick}')
+        print(f'User id is | {self.user_id}')
+
+    async def event_message(self, message):
+        letters = ["@piprly"]
+        if check_for_letters(message.content.lower(), letters) and message.author.name != "piprly":
+            output_text = generate_ai_message(
+                message.content, message.author.name)
+            await send_split_gpt(message, output_text)
 
 
-@ bot.event
-async def event_ready():
-    print(f"{GPT_BOT_NICK} is online at {CHANNEL}!")
-    write_to_log(f"is online at {CHANNEL}!", GPT_BOT_NICK, CHANNEL)
-
-
-@ bot.event
-async def event_message(ctx):
-    if ctx.author.name.lower() == GPT_BOT_NICK.lower():
-        print(f"\nBOT: {ctx.content}")
-        write_to_log(ctx.content, GPT_BOT_NICK, CHANNEL)
-        return
-
-    letters = ["@wuyodo"]
-    if check_for_letters(ctx.content.lower(), letters) and ctx.author.name.lower() != "pawrop":
-        output_text = generate_ai_message(ctx.content, ctx.author.name)
-        await send_split_gpt(ctx, output_text)
-    await asyncio.sleep(20)
-
-
-if __name__ == "__main__":
-    # launch bot
-    bot.run()
+bot = Bot()
+bot.run()
