@@ -141,8 +141,8 @@ def generate_ai_message(message, author):
     start_time = time.time()
 
     input_text = message.replace("@piprly", "")
+    input_text = message.replace("@wuyodo", "")
     input_text = " ".join(input_text.split())
-    output_text = "@" + author + ", "
 
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
