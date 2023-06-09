@@ -1,9 +1,9 @@
 GPT_TMI_TOKEN = "oauth:ks7o8hg39l0qe4rdft8uvm3qgox66m"
 GPT_CLIENT_ID = "jdpik06wovybvidhcwd1wplwlgf8cv"
 GPT_BOT_NICK = "wuyodo"
-STD_TMI_TOKEN = "oauth:9267z36swbnmh2apun2fnz7d0ly939"
+STD_TMI_TOKEN = "oauth:utsiw9b57i0cq6c5huf76a0q5oick0"
 STD_CLIENT_ID = "y6rcb4jxi1usz9x0zhhx1q4yta5hxl"
-STD_BOT_NICK = "pawrop"
+STD_BOT_NICK = "piprly"
 BOT_PREFIX = "!"
 
 letters_dict = {
