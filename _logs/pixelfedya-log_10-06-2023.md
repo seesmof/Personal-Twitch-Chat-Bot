@@ -2242,3 +2242,225 @@ maks_malitsk: @hauha333 хааааааааааааааваааааааааааа
 
 ---
 
+18:38:42
+
+rebrance: @hauha333 хауха roolexDypa roolexRedcard
+
+---
+
+18:38:43
+
+seesmof: тестимо
+
+---
+
+18:39:31
+
+seesmof: @piprly розкажи шось про слимаків
+
+---
+
+18:39:31
+
+hauha333: Ad блок може?
+
+---
+
+18:39:31
+
+maks_malitsk: @hauha333 хАуха ти бачеш?
+
+---
+
+18:39:31
+
+seesmof: @hauha333 мабуть ні, запускав на різних браузерах і без розширень
+
+---
+
+18:39:31
+
+hauha333: @maks_malitsk ?
+
+---
+
+18:39:31
+
+seesmof: зара має нормально працювати
+
+---
+
+18:39:32
+
+maks_malitsk: @hauha333 в тебе нема проблеми 2000?
+
+---
+
+18:39:55
+
+hauha333: @maks_malitsk яка проблема обясни нормально
+
+---
+
+18:40:06
+
+seesmof: @hauha333 не вантажиться трансляція з кодом помилки 2000
+
+---
+
+18:40:16
+
+maks_malitsk: @hauha333 що не видно стріма trembaaFilizaychik
+
+---
+
+18:40:43
+
+seesmof: @piprly що таке Twitch помилка 2000
+
+---
+
+18:40:43
+
+rebrance: У хаухи і тут пінг 600 Kappa
+
+---
+
+18:40:43
+
+hauha333: @maks_malitsk  у мене все добре
+
+---
+
+18:40:43
+
+maks_malitsk: ak1okaXd
+
+---
+
+18:40:57
+
+hauha333: @rebrance  у мене максимум 700к пінг був Kappa
+
+---
+
+18:41:34
+
+rebrance: @hauha333 я думаю то треба в книгу рекордів гінеса
+
+---
+
+18:41:45
+
+maks_malitsk: Jebaited
+
+---
+
+18:42:03
+
+maks_malitsk: 700к пігну
+
+---
+
+18:42:21
+
+rebrance: @hauha333 у тебе укртелеком?
+
+---
+
+18:42:25
+
+hauha333: @rebrance  а мого друга бувало і 1,5кк Kappa Kappa Kappa
+
+---
+
+18:42:35
+
+hauha333: @rebrance  лайф сел Kappa
+
+---
+
+18:42:44
+
+legolas_07_: привіт Васильку
+
+---
+
+18:42:52
+
+maks_malitsk: @legolas_07_ хаааааааааааааавааааааааааааааааааааааааааааааааааааай
+
+---
+
+18:42:55
+
+rebrance: @hauha333 тю так це ти через моб інет роздаєш?
+
+---
+
+18:43:05
+
+rebrance: @legolas_07_ Юрко roolexDypa roolexRedcard
+
+---
+
+18:43:09
+
+legolas_07_: я бачу, ти такий красавчик
+
+---
+
+18:43:10
+
+hauha333: @rebrance  та Kappa
+
+---
+
+18:43:15
+
+legolas_07_: @maks_malitsk maryas1Mrr
+
+---
+
+18:43:22
+
+rebrance: @hauha333 ааа так теперь понятно
+
+---
+
+18:43:24
+
+legolas_07_: @REBRANCE Ромчик roolexDypa roolexUkraine
+
+---
+
+18:43:33
+
+rebrance: roolexUkraine roolexDypa roolexSvvistuk roolexRedcard
+
+---
+
+18:43:38
+
+rebrance: Нові
+
+---
+
+18:43:40
+
+leyoung19: Ахвхпхха, прикол
+
+---
+
+18:44:02
+
+legolas_07_: лол
+
+---
+
+18:44:06
+
+maks_malitsk: ak1okaXd
+
+---
+

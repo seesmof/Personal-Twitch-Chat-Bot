@@ -142,7 +142,6 @@ def generate_ai_message(message, author):
 
     input_text = message.replace("piprly", "").replace(
         "wuyodo", "").replace("@", "")
-    print(input_text)
 
     output_text = ""  # declare the variable here
 
