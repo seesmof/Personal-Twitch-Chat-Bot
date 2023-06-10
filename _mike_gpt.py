@@ -5,7 +5,6 @@ import asyncio
 
 
 class Bot(commands.Bot):
-
     def __init__(self):
         super().__init__(token=GPT_TOKEN,
                          prefix='!', initial_channels=['mike09steelers', 'seesmof', 'PixelFedya'])
@@ -25,7 +24,6 @@ class Bot(commands.Bot):
                 for substr in output_text:
                     await message.channel.send(f"{substr}, @{message.author.name}")
                     await asyncio.sleep(20)
-            await asyncio.sleep(20)
 
 
 bot = Bot()
