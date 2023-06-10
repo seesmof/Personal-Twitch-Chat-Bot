@@ -32,8 +32,8 @@ class Bot(commands.Bot):
                 for substr in output_text:
                     await message.channel.send(f"{substr}, @{message.author.name}")
                     await asyncio.sleep(20)
-        write_to_log(message.content, message.author.name,
-                     message.channel.name)
+            write_to_log(message.content, message.author.name,
+                         message.channel.name)
 
 
 bot = Bot()
