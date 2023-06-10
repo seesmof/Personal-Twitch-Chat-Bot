@@ -24,7 +24,7 @@ class Bot(commands.Bot):
                         output_text = generate_ai_message(
                             message.content, message.author.name)
                     else:
-                        output_text = random.choice(error_ua)
+                        return
                 else:
                     output_text = generate_ai_message(
                         message.content, message.author.name)
