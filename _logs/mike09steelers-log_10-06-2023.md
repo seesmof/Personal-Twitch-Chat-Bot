@@ -40,3 +40,15 @@ seesmof: @piprly козаче, спілкуйся державною
 
 ---
 
+10:52:41
+
+katrinasees: @wuyodu
+
+---
+
+10:53:28
+
+katrinasees: @wuyodo як справи?
+
+---
+
