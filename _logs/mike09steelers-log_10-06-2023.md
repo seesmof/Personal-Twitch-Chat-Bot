@@ -442,3 +442,9 @@ nightbot: @BubbaJigglez set up this night bot so if it sucks blame him
 
 ---
 
+18:34:12
+
+wizebot: ACTION ❌ LIVE OFFLINE, uptime of the session is 1 hour(s) 35 minute(s) 54 second(s).
+
+---
+

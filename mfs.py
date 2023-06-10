@@ -140,10 +140,9 @@ def generate_ai_message(message, author):
     print("\nGenerating a message...\n")
     start_time = time.time()
 
-    input_text = message.replace("piprly", "")
-    input_text = message.replace("wuyodo", "")
-    input_text = message.replace("@", "")
-    input_text = " ".join(input_text.split())
+    input_text = message.replace("piprly", "").replace(
+        "wuyodo", "").replace("@", "")
+    print(input_text)
 
     output_text = ""  # declare the variable here
 

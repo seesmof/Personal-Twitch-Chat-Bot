@@ -4,15 +4,8 @@ from mfs import *
 import random
 
 
-async def main():
-    random_numbers = []
-    for i in range(0, 10):
-        random_numbers.append(random.randint(0, 9))
+input_text = "@piprly розкажи шось про слимаків"
+input_text = input_text.replace("piprly", "").replace(
+    "wuyodo", "").replace("@", "")
 
-    for number in random_numbers:
-        print(number)
-        await asyncio.sleep(2)
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
+print(input_text)
