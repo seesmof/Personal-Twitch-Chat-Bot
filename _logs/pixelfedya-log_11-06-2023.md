@@ -3226,3 +3226,645 @@ maks_malitsk: Та тут Петрович є
 
 ---
 
+16:47:13
+
+maks_malitsk: Угу
+
+---
+
+16:47:17
+
+maks_malitsk: ak1okaXd
+
+---
+
+16:47:19
+
+slatezzzcs: LUL LUL
+
+---
+
+16:47:22
+
+bylhakov: опааааа, дякую!
+
+---
+
+16:47:28
+
+nikoo0oooo: ти йомайо baboorKool
+
+---
+
+16:47:33
+
+bylhakov: @boiko_v_d цьомаю у вуса!
+
+---
+
+16:47:39
+
+hauha333: @slatezzzcs ґо? SHV27-Y7TG
+
+---
+
+16:47:51
+
+legolas_07_: камеру
+
+---
+
+16:47:53
+
+maks_malitsk: ТЕЛЕФОН
+
+---
+
+16:47:53
+
+botbandera: Пора почєликати цюцюрку pixelf8LOVE den896609 pixelf8LOVE
+
+---
+
+16:47:55
+
+svo0d1: ми ніц не видим
+
+---
+
+16:47:57
+
+bylhakov: ахахаххахаха
+
+---
+
+16:47:59
+
+maks_malitsk: Камера
+
+---
+
+16:47:59
+
+svo0d1: ОКСАНІ ПРИВІТ
+
+---
+
+16:48:13
+
+champik_is_back: камеру не включив
+
+---
+
+16:48:14
+
+svo0d1: Скажи що останній мейк супер.
+
+---
+
+16:48:27
+
+maks_malitsk: КАМЕРА
+
+---
+
+16:48:27
+
+maks_malitsk: Ніч не було видно
+
+---
+
+16:48:27
+
+maks_malitsk: Ніц*не
+
+---
+
+16:48:36
+
+nikoo0oooo: мда
+
+---
+
+16:48:41
+
+p4shtetikus: мда
+
+---
+
+16:48:47
+
+nikoo0oooo: о
+
+---
+
+16:48:49
+
+maks_malitsk: ak1okaXd
+
+---
+
+16:48:50
+
+champik_is_back: ооо
+
+---
+
+16:48:53
+
+onoffffffff32: @den896609 Чий Крим?
+
+---
+
+16:48:58
+
+maks_malitsk: Jebaited
+
+---
+
+16:49:03
+
+emfoniks: поняв
+
+---
+
+16:49:06
+
+nikoo0oooo: не пукай на нас
+
+---
+
+16:49:09
+
+svo0d1: не кажіть йому чат
+
+---
+
+16:49:15
+
+botbandera: Пора почєликати цюцюрку pixelf8LOVE denis_vrode_by12 pixelf8LOVE
+
+---
+
+16:49:16
+
+emfoniks: та він і не дізнається
+
+---
+
+16:49:27
+
+seesmof: @emfoniks Хаай KonCha bleedPurple
+
+---
+
+16:49:33
+
+emfoniks: @seesmof привіііт
+
+---
+
+16:49:37
+
+maks_malitsk: Шо то
+
+---
+
+16:49:40
+
+hauha333: ТИ ЯК РОБОТ
+
+---
+
+16:49:47
+
+seesmof: @emfoniks бота оживив
+
+---
+
+16:50:33
+
+seesmof: @wuyodo привітайся з Емфоніксом
+
+---
+
+16:50:33
+
+onoffffffff32: твінки баним @PixelFedya
+
+---
+
+16:50:33
+
+champik_is_back: в Феді мікрофон як в пілота
+
+---
+
+16:50:33
+
+maks_malitsk: То сосіянці мб вони писати не можуть бо акт нові
+
+---
+
+16:50:33
+
+seesmof: зроз
+
+---
+
+16:50:56
+
+seesmof: @wuyodo Скажи "Привіт, Emfoniks"
+
+---
+
+16:50:56
+
+streamelements: Вся інфа про стріми тут - https://t.me/pixelfedya
+
+---
+
+16:50:56
+
+seesmof: о
+
+---
+
+16:50:56
+
+nikoo0oooo: Федя не пукай блін
+
+---
+
+16:50:56
+
+emfoniks: @seesmof оо кайф!!!
+
+---
+
+16:51:00
+
+nikoo0oooo: пізда звуку
+
+---
+
+16:51:05
+
+nikoo0oooo: о
+
+---
+
+16:51:24
+
+idero_hidetaki: Смачного)
+
+---
+
+16:51:29
+
+idero_hidetaki: шо за асмр контент?)
+
+---
+
+16:51:32
+
+maks_malitsk: Смачноґо
+
+---
+
+16:51:35
+
+vitendas: чавк умм чавк умм чавк умм
+
+---
+
+16:51:56
+
+onoffffffff32: слухав би цілий день
+
+---
+
+16:51:59
+
+maks_malitsk: ak1okaXd
+
+---
+
+16:52:01
+
+svo0d1: зараз буду ригати
+
+---
+
+16:52:12
+
+maks_malitsk: Jebaited
+
+---
+
+16:52:26
+
+maks_malitsk: Побрий
+
+---
+
+16:52:55
+
+svo0d1: Завалився на кухню насрати
+
+---
+
+16:53:22
+
+maks_malitsk: NotLikeThis
+
+---
+
+16:53:33
+
+krapka__: Блять він ще ходить по хаті trembaaLUL
+
+---
+
+16:53:51
+
+nikoo0oooo: @krapka__ ти багато чого не бачив)
+
+---
+
+16:53:57
+
+svo0d1: що там плаває
+
+---
+
+16:53:59
+
+svo0d1: хахахаха
+
+---
+
+16:54:03
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+16:54:13
+
+krapka__: @nikoo0oooo віброкулі були? trembaaBabooreh trembaaBabooreh trembaaBabooreh
+
+---
+
+16:54:30
+
+nikoo0oooo: @krapka__  lavielHihihi
+
+---
+
+16:54:39
+
+krapka__: lavielHihihi
+
+---
+
+16:54:48
+
+krapka__: Розумію
+
+---
+
+16:54:52
+
+lamark_sk8: lavielHihihi lavielHihihi lavielHihihi
+
+---
+
+16:54:56
+
+nikoo0oooo: мгм
+
+---
+
+16:54:57
+
+krapka__: АХАХААХАА це я
+
+---
+
+16:55:03
+
+svo0d1: То їй треба не чіпай
+
+---
+
+16:55:03
+
+onoffffffff32: я так само роблю
+
+---
+
+16:55:15
+
+slatezzzcs: @hauha333 ну шо ідем?поки я маю час
+
+---
+
+16:55:21
+
+nikoo0oooo: хворі люди
+
+---
+
+16:55:27
+
+nikoo0oooo: )))
+
+---
+
+16:55:30
+
+nikoo0oooo: смачного
+
+---
+
+16:55:32
+
+slatezzzcs: LUL
+
+---
+
+16:55:32
+
+krapka__: Ти шо не чистиш ківі блять
+
+---
+
+16:55:32
+
+imkarleyy: здоров слимак, коли в Франківськ??
+
+---
+
+16:55:32
+
+emfoniks: здоров слимак, коли в Франківськ??
+
+---
+
+16:55:34
+
+maks_malitsk: trembaaFilizaychik
+
+---
+
+16:55:35
+
+krapka__: Смачного
+
+---
+
+16:55:35
+
+svo0d1: а яка смачна шкірка
+
+---
+
+16:55:36
+
+svo0d1: мммммммм
+
+---
+
+16:55:44
+
+champik_is_back: побачив що ти їсиш ківі з шкіркою і вирішив теж спробувати. хуйня повна
+
+---
+
+16:55:48
+
+hauha333: @slatezzzcs го
+
+---
+
+16:55:54
+
+krapka__: Ой фу нахуй
+
+---
+
+16:56:01
+
+emfoniks: я зараз його з'їм
+
+---
+
+16:56:02
+
+maks_malitsk: NotLikeThis
+
+---
+
+16:56:03
+
+krapka__: tapaceKEK tapaceKEK tapaceKEK tapaceKEK tapaceKEK tapaceKEK tapaceKEK tapaceKEK
+
+---
+
+16:56:04
+
+hauha333: @slatezzzcs SHV27-Y7TG
+
+---
+
+16:56:11
+
+onoffffffff32: @PixelFedya давати шотаут?
+
+---
+
+16:56:14
+
+slatezzzcs: @hauha333 кидаю код і погнали,бо в тебе і так пінг йобнутий
+
+---
+
+16:56:15
+
+krapka__: Стей хєр
+
+---
+
+16:56:24
+
+nikoo0oooo: Корінний англієць
+
+---
+
+16:56:30
+
+imkarleyy: тільки не цілуй тими грязними губами
+
+---
+
+16:56:35
+
+slatezzzcs: @hauha333 AMWNF-9DPA
+
+---
+
+16:56:46
+
+svo0d1: фу, воно грязне
+
+---
+
+16:56:47
+
+slatezzzcs: @hauha333 чи мені тебе добавити?
+
+---
+
+16:56:55
+
+hauha333: @slatezzzcs давай ти зроби
+
+---
+
+16:57:02
+
+slatezzzcs: @hauha333 ок
+
+---
+
+16:57:11
+
+nikoo0oooo: бляяя
+
+---
+
+16:57:12
+
+imkarleyy: нііі блят
+
+---
+
+16:57:13
+
+nikoo0oooo: ахахахахаа
+
+---
+
+16:57:15
+
+emfoniks: ІАВПІАВХПХВАХПВАХПВАХП
+
+---
+
+16:57:16
+
+svo0d1: @PixelFedya Скажи ОКсані останнє відео супер!
+
+---
+
