@@ -598,3 +598,33 @@ sonicthelambor: good
 
 ---
 
+16:54:22
+
+sonicthelambor: what
+
+---
+
+16:54:30
+
+sonicthelambor: im not on
+
+---
+
+16:55:08
+
+sonicthelambor: i can get on
+
+---
+
+17:02:51
+
+wizebot: ACTION 【 2 viewers (+2) ⏰ 20m 40s 】
+
+---
+
+17:07:19
+
+wizebot: ACTION ⭐️ New category: Call of Duty: Modern Warfare II
+
+---
+

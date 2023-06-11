@@ -1,9 +1,11 @@
 from vars import *
 from mfs import *
-import aiassist
+from gpt4free import usesless
 
-question = input(": ")
-req = aiassist.Completion.create(prompt=question)
-answer = req["text"]
-print(answer)
-print()
+
+input_text = input(": ")
+output_text = generate_ai_message(
+    input_text, "seesmof")
+output_text = split_long_gpt(output_text)
+for substr in output_text:
+    print(f"{substr} @seesmof")

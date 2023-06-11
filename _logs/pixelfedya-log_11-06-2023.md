@@ -3868,3 +3868,621 @@ svo0d1: @PixelFedya Скажи ОКсані останнє відео супер
 
 ---
 
+16:57:19
+
+svo0d1: ГНИЛЯКА ТИ СТАРА
+
+---
+
+16:57:20
+
+emfoniks: івзапвазпзавпзвазпзвап
+
+---
+
+16:57:22
+
+legolas_07_: лол
+
+---
+
+16:57:24
+
+nikoo0oooo: ахахахахаххааха
+
+---
+
+16:57:28
+
+legolas_07_: ахахаххахх
+
+---
+
+16:57:30
+
+p4shtetikus: ахахахахахахахахха
+
+---
+
+16:57:30
+
+imkarleyy: ахахаххахахахахахаххахахаа
+
+---
+
+16:57:56
+
+emfoniks: вмдлваізплзвамлзавмлзвамл
+
+---
+
+16:57:57
+
+icetroli: trembaaLUL trembaaLUL trembaaLUL trembaaLUL
+
+---
+
+16:58:04
+
+slatezzzcs: @hauha333 всьо тепер просто чекай
+
+---
+
+16:58:08
+
+champik_is_back: побачив що ти їсиш ківі з шкіркою і вирішив теж спробувати. хуйня повна 󠀀
+
+---
+
+16:58:09
+
+imkarleyy: ахахахахаахахааахахахахахаахаххахаххха
+
+---
+
+16:58:10
+
+onoffffffff32: смачно засосав
+
+---
+
+16:58:15
+
+icetroli: ШО БЛЯ
+
+---
+
+16:58:22
+
+icetroli: А чого ківі не почистив?
+
+---
+
+16:58:33
+
+svo0d1: бо він Федя
+
+---
+
+16:58:41
+
+icetroli: NotLikeThis NotLikeThis NotLikeThis NotLikeThis
+
+---
+
+16:58:45
+
+svo0d1: @rumkado дяку за підписку
+
+---
+
+16:58:49
+
+onoffffffff32: ностальгія
+
+---
+
+16:59:41
+
+maks_malitsk: lavielCool
+
+---
+
+16:59:47
+
+slatezzzcs: BloodTrail
+
+---
+
+16:59:50
+
+p4shtetikus: Йди помаду закрий і на місце постав, козьол
+
+---
+
+17:00:08
+
+hauha333: @slatezzzcs ти стартанув?
+
+---
+
+17:00:18
+
+slatezzzcs: @hauha333 чекай в мене просто довго грузить
+
+---
+
+17:00:20
+
+nikoo0oooo: @IceTrolI це теж багато кого бентежить
+
+---
+
+17:00:21
+
+maks_malitsk: ak1okaXd
+
+---
+
+17:00:23
+
+maks_malitsk: Хахахахазха
+
+---
+
+17:00:25
+
+p4shtetikus: maaaaa18Crab maaaaa18Crab maaaaa18Crab
+
+---
+
+17:00:28
+
+svo0d1: Оксані привіт! Шкапа стара @PixelFedya
+
+---
+
+17:00:35
+
+hauha333: @slatezzzcs ок
+
+---
+
+17:00:40
+
+slatezzzcs: @hauha333 я запустив зара зайдеш
+
+---
+
+17:00:55
+
+yalubluu: Василько глянь тг) Там цікавинка) Можеш показати чату навіть
+
+---
+
+17:01:03
+
+svo0d1: MrDestructoid MrDestructoid MrDestructoid MrDestructoid MrDestructoid
+
+---
+
+17:01:10
+
+svo0d1: MrDestructoid MrDestructoid MrDestructoid MrDestructoid
+
+---
+
+17:01:15
+
+svo0d1: MrDestructoid MrDestructoid MrDestructoid
+
+---
+
+17:01:17
+
+svo0d1: MrDestructoid MrDestructoid
+
+---
+
+17:01:18
+
+svo0d1: MrDestructoid
+
+---
+
+17:01:19
+
+slatezzzcs: BloodTrail
+
+---
+
+17:01:28
+
+svo0d1: За шо
+
+---
+
+17:01:29
+
+svo0d1: MrDestructoid MrDestructoid
+
+---
+
+17:01:30
+
+slatezzzcs: LUL LUL LUL
+
+---
+
+17:01:31
+
+maks_malitsk: -свуді
+
+---
+
+17:01:42
+
+svo0d1: MrDestructoid я федя MrDestructoid
+
+---
+
+17:01:43
+
+nikoo0oooo: пукає тут блеан
+
+---
+
+17:01:43
+
+maks_malitsk: ak1okaXd
+
+---
+
+17:02:01
+
+yalubluu: Василько глянь тг, там цікавинка для тебе і чатікк покажи)
+
+---
+
+17:02:17
+
+maks_malitsk: LUL
+
+---
+
+17:02:21
+
+yalubluu: хахпхпхп
+
+---
+
+17:02:42
+
+svo0d1: бо я тебе зараз
+
+---
+
+17:03:17
+
+maks_malitsk: trembaaLUL
+
+---
+
+17:03:24
+
+legolas_07_: за сільспитати забув
+
+---
+
+17:03:33
+
+my_pivnich: о нога
+
+---
+
+17:03:36
+
+maks_malitsk: Хахахахха
+
+---
+
+17:03:42
+
+k3ned1: здоров бамбурфедя
+
+---
+
+17:03:43
+
+legolas_07_: за сіль спитати забув
+
+---
+
+17:03:46
+
+champik_is_back: Доброго дня з вами капітан повітряного судна Піксельний Федько. За бортом температура 22 градуси за цельсієм, погода сонячна. Вилітаємо з аеропорту Залупки та прилітаємо в аеропорт Вагінки через 3 години 16 хвилин. Щасливого польоту. Бережіть себе та Україну.
+
+---
+
+17:03:50
+
+maks_malitsk: @k3ned1 хааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааай
+
+---
+
+17:03:57
+
+nikoo0oooo: пішов за сіль питати так і не спитав
+
+---
+
+17:04:01
+
+k3ned1: хаа_аааааааай всім
+
+---
+
+17:04:03
+
+nikoo0oooo: @legolas_07_ хаааааааааай
+
+---
+
+17:04:18
+
+nikoo0oooo: @k3ned1 хаааааааааай 󠀀
+
+---
+
+17:04:20
+
+p4shtetikus: @k3ned1 хааааааааааааааааааааааааааай
+
+---
+
+17:04:21
+
+my_pivnich: то оксанчин поцілунок для мене! для мене
+
+---
+
+17:04:25
+
+them1kut: @k3ned1 хааааааааааай
+
+---
+
+17:04:37
+
+svo0d1: Дяку Федя. pixelf8LOVE Ти найкращий стрімер, подивився твою кімнату і зрозумів що я не свиня. pixelf8Dance
+
+---
+
+17:04:41
+
+champik_is_back: Доброго дня з вами капітан повітряного судна Піксельний Федько. За бортом температура 22 градуси за цельсієм, погода сонячна. Вилітаємо з аеропорту Залупки та прилітаємо в аеропорт Вагінки через 3 години 16 хвилин. Щасливого польоту. Бережіть себе та Україну.  󠀀
+
+---
+
+17:04:46
+
+maks_malitsk: trembaaFilizaychik
+
+---
+
+17:04:56
+
+nikoo0oooo: бля аж мозку легше стало
+
+---
+
+17:05:00
+
+legolas_07_: лол, губи намальовані
+
+---
+
+17:05:03
+
+yalubluu: глянь тг, покажи чатіку)
+
+---
+
+17:05:06
+
+iskorka_diebudlo: @k3ned1 хай шлимаку
+
+---
+
+17:05:11
+
+maks_malitsk: Луууул
+
+---
+
+17:05:13
+
+yalubluu: привіт
+
+---
+
+17:05:20
+
+my_pivnich: pixelf8Dance1 pixelf8Dance1 pixelf8Dance1
+
+---
+
+17:05:21
+
+yalubluu: ПХАХАХХАА
+
+---
+
+17:05:24
+
+svo0d1: Кенеді!Кенеді!КЕНЕДІ
+
+---
+
+17:05:24
+
+yalubluu: trembaaScary trembaaScary trembaaScary trembaaScary
+
+---
+
+17:05:29
+
+yalubluu: pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance pixelf8Dance1 pixelf8Dance
+
+---
+
+17:05:33
+
+them1kut: trembaaSalute trembaaSalute trembaaSalute trembaaSalute trembaaSalute trembaaSalute trembaaSalute
+
+---
+
+17:05:33
+
+k3ned1: pixelf8Dance1 baboorK3ned1
+
+---
+
+17:05:35
+
+onoffffffff32: pixelf8Dance pixelf8Dance1 pixelf8Dance1 pixelf8Dance1 pixelf8Dance pixelf8Dance pixelf8Dance1
+
+---
+
+17:05:35
+
+nikoo0oooo: casssiDanceKIT casssiDanceKIT casssiDanceKIT casssiDanceKIT casssiDanceKIT
+
+---
+
+17:05:40
+
+streamelements: Вся інфа про стріми тут - https://t.me/pixelfedya
+
+---
+
+17:05:43
+
+maks_malitsk: Добре я прийду за годинку до вас папа lavielCool
+
+---
+
+17:05:44
+
+rumkado: trembaaSalute
+
+---
+
+17:05:50
+
+yalubluu: глянь тгггггг
+
+---
+
+17:06:00
+
+onoffffffff32: @maks_malitsk Папа!
+
+---
+
+17:06:13
+
+icetroli: @k3ned1 trembaaHey
+
+---
+
+17:06:33
+
+yalubluu: можу відео зняти
+
+---
+
+17:06:36
+
+nikoo0oooo: CTRL + Scroll up
+
+---
+
+17:06:42
+
+my_pivnich: а як ти їси ківі зі шкуркоу?
+
+---
+
+17:06:59
+
+k3ned1: ахуєнно))))
+
+---
+
+17:07:00
+
+iskorka_diebudlo: ТА
+
+---
+
+17:07:03
+
+champik_is_back: беремо рюкзачок
+
+---
+
+17:07:13
+
+nikoo0oooo: nb ; p`]d qjuj
+
+---
+
+17:07:16
+
+koviniev: В животі
+
+---
+
+17:07:17
+
+k3ned1: ти зжер ківі
+
+---
+
+17:07:18
+
+nikoo0oooo: ти жж зёїв його
+
+---
+
+17:07:19
+
+botbandera: @nikoo0oooo ти шо, пиши на СОЛОВ'ЇНІЙ!
+
+---
+
+17:07:30
+
+lamark_sk8: на кухні?
+
+---
+
+17:07:41
+
+p4shtetikus: @k3ned1 Воно було не почищене
+
+---
+
+17:07:53
+
+zxcakula: я схопив мут айпі
+
+---
+
+17:08:15
+
+yalubluu: Vitalii Віталій
+
+---
+

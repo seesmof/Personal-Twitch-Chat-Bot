@@ -1,12 +1,10 @@
-import aiassist
-from gpt4free import aicolors
+from gpt4free import usesless
+from library import *
 
-question = input(": ")
-req = aiassist.Completion.create(prompt=question)
-answer = req["text"]
-print(answer)
-print()
-
-req = aicolors.Completion.create(prompt=question)
-print(req)
-print()
+output_text = ""
+output_text = generate_ai_message(
+        message.content, message.author.name)
+output_text = split_long_gpt(output_text)
+for substr in output_text:
+    await message.channel.send(f"{substr} @{message.author.name}")
+    await asyncio.sleep(20)

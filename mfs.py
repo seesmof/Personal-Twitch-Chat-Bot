@@ -14,7 +14,7 @@ from deep_translator import GoogleTranslator
 from langdetect import detect
 from Bard import Chatbot
 import random
-import aiassist
+from gpt4free import usesless
 from notifypy import Notify
 
 
@@ -115,17 +115,23 @@ def gpt4free_en(input_text):
     return response
 
 
-def ai_assistant_ua(input_text):
+def useless_ua(input_text):
+    message_id = ''
     input_prompt = GoogleTranslator(
         source='auto', target='uk').translate(input_text)
-    req = aiassist.Completion.create(prompt=input_prompt)
-    response = req["text"]
+    req = usesless.Completion.create(
+        prompt=input_prompt, parentMessageId=message_id)
+    response = req['text']
     return response
 
 
-def ai_assistant_en(input_text):
-    req = aiassist.Completion.create(prompt=input_text)
-    response = req["text"]
+def useless_en(input_text):
+    message_id = ''
+    input_prompt = GoogleTranslator(
+        source='auto', target='en').translate(input_text)
+    req = usesless.Completion.create(
+        prompt=input_prompt, parentMessageId=message_id)
+    response = req['text']
     return response
 
 
@@ -157,41 +163,48 @@ def generate_ai_message(message, author):
 
     input_text = message.replace("piprly", "").replace(
         "wuyodo", "").replace("@", "")
-
-    output_text = ""  # declare the variable here
+    output_text = ""
 
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
         try:
-            print("Generating with GPT4Free")
-            output_text += gpt4free_ua(input_text)
+            print("Generating with Useless")
+            output_text += useless_ua(input_text)
         except:
             try:
-                print("Generating with Bard")
-                output_text += bard_ua(input_text)
+                print("Generating with GPT4Free")
+                output_text += gpt4free_ua(input_text)
             except:
-                print(
-                    f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-                output_text += random.choice(error_ua)
-                notification = Notify()
-                notification.audio = error_sound_path
-                notification.send()
+                try:
+                    print("Generating with Bard")
+                    output_text += bard_ua(input_text)
+                except:
+                    print(
+                        f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+                    output_text += random.choice(error_ua)
+                    notification = Notify()
+                    notification.audio = error_sound_path
+                    notification.send()
     else:
         print("Language is English")
         try:
-            print("Generating with GPT4Free")
-            output_text += gpt4free_en(input_text)
+            print("Generating with Useless")
+            output_text += useless_en(input_text)
         except:
             try:
-                print("Generating with Bard")
-                output_text += bard_en(input_text)
+                print("Generating with GPT4Free")
+                output_text += gpt4free_en(input_text)
             except:
-                print(
-                    f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-                output_text += random.choice(error_en)
-                notification = Notify()
-                notification.audio = error_sound_path
-                notification.send()
+                try:
+                    print("Generating with Bard")
+                    output_text += bard_en(input_text)
+                except:
+                    print(
+                        f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+                    output_text += random.choice(error_ua)
+                    notification = Notify()
+                    notification.audio = error_sound_path
+                    notification.send()
     end_time = time.time()
     elapsed_time = end_time - start_time
     print(f"\nGenerated in {elapsed_time:.2f} seconds")
