@@ -14,6 +14,7 @@ from deep_translator import GoogleTranslator
 from langdetect import detect
 from Bard import Chatbot
 import random
+import aiassist
 from notifypy import Notify
 
 
@@ -111,6 +112,20 @@ def gpt4free_en(input_text):
         source='auto', target='en').translate(input_text)
     response = gpt4free.Completion.create(
         Provider.You, prompt=input_prompt)
+    return response
+
+
+def ai_assistant_ua(input_text):
+    input_prompt = GoogleTranslator(
+        source='auto', target='uk').translate(input_text)
+    req = aiassist.Completion.create(prompt=input_prompt)
+    response = req["text"]
+    return response
+
+
+def ai_assistant_en(input_text):
+    req = aiassist.Completion.create(prompt=input_text)
+    response = req["text"]
     return response
 
 
