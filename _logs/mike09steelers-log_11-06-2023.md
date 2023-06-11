@@ -244,3 +244,195 @@ seesmof: i can record it for you if you want
 
 ---
 
+12:53:59
+
+seesmof: cheers
+
+---
+
+12:54:00
+
+nightbot: seesmof has initiated a shot dual with @mike09steelers
+
+---
+
+12:54:19
+
+szojn: If u see GamerGuy that is me
+
+---
+
+13:01:33
+
+wizebot: ACTION 【 3 viewers (+1) ⏰ 41m 12s 】
+
+---
+
+13:01:42
+
+seesmof: maybe, which one?
+
+---
+
+13:02:08
+
+seesmof: no, i dont think so
+
+---
+
+13:02:12
+
+seesmof: or i dont remember, one of the two
+
+---
+
+13:02:30
+
+seesmof: LUL
+
+---
+
+13:05:26
+
+seesmof: wowsers, thats insane
+
+---
+
+13:05:30
+
+seesmof: and the dog is good now?
+
+---
+
+13:08:24
+
+seesmof: yeah :D
+
+---
+
+13:14:12
+
+seesmof: today and its gonna be online
+
+---
+
+13:14:23
+
+seesmof: yee
+
+---
+
+13:14:30
+
+seesmof: thats how we do it nowadays
+
+---
+
+13:14:39
+
+seesmof: yeah, definitely easier
+
+---
+
+13:15:18
+
+seesmof: not sure at what time though
+
+---
+
+13:15:33
+
+seesmof: we didnt arrange that. probably somewhere in the evening though
+
+---
+
+13:16:30
+
+seesmof: might be :D
+
+---
+
+13:16:47
+
+seesmof: hahah
+
+---
+
+13:19:50
+
+szojn: When was doing duel I made a plat tournament winner mad
+
+---
+
+13:19:56
+
+szojn: i
+
+---
+
+13:20:09
+
+szojn: Ya
+
+---
+
+13:20:17
+
+nightbot: @BubbaJigglez set up this night bot so if it sucks blame him
+
+---
+
+13:20:45
+
+szojn: I 1s I am gold 3
+
+---
+
+13:21:22
+
+szojn: I am trying to get c1 in 2s
+
+---
+
+13:22:04
+
+wizebot: ACTION 【 4 viewers (+1) ⏰ 1h 1m 43s 】
+
+---
+
+13:25:46
+
+seesmof: hahah this guy just dropped me the ready code that he wrote lmaooo i told you hes smart
+
+---
+
+13:25:54
+
+seesmof: imma now drop him mine lool
+
+---
+
+13:26:14
+
+szojn: 2s
+
+---
+
+13:26:31
+
+seesmof: he also wrote the whole game himself and just sent it to me
+
+---
+
+13:26:54
+
+szojn: Diamond 2
+
+---
+
+13:29:27
+
+seesmof: hahah yeah, i know, thanks
+
+---
+
