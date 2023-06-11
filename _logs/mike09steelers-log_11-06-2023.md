@@ -436,3 +436,147 @@ seesmof: hahah yeah, i know, thanks
 
 ---
 
+13:31:20
+
+seesmof: just got assigned one. i texted one other guy, but he's quite a long way from moving on to this task, cause we have to pass all the prior tasks to even get this one
+
+---
+
+13:31:31
+
+seesmof: thats the only task left in this semester for me though
+
+---
+
+13:31:55
+
+seesmof: haha yeah, thats pretty crazy how fast the time flies
+
+---
+
+13:42:52
+
+seesmof: okay, were just gonna take the best out of two programs, kind of merge them together and present as the final product :D
+
+---
+
+13:45:08
+
+seesmof: hahah definitely. i aint into game development though, im on web
+
+---
+
+13:45:09
+
+seesmof: warsone
+
+---
+
+13:45:26
+
+seesmof: sure thing
+
+---
+
+13:48:24
+
+seesmof: daang
+
+---
+
+13:51:25
+
+szojn: That game is in rocket league sideswipe
+
+---
+
+13:51:34
+
+szojn: Song
+
+---
+
+13:51:47
+
+mike09steelers: #freaky
+
+---
+
+13:52:07
+
+mike09steelers: About to jump into so DMZ
+
+---
+
+13:57:30
+
+seesmof: ye, just doing some stuff
+
+---
+
+13:58:01
+
+seesmof: lool still here, never went away
+
+---
+
+13:58:54
+
+wizebot: ACTION ⭐️ New category: Call of Duty: Modern Warfare II
+
+---
+
+13:59:31
+
+seesmof: ahahah
+
+---
+
+14:00:14
+
+seesmof: thanks bro, i truly appreciate it
+
+---
+
+14:00:18
+
+nightbot: @BubbaJigglez set up this night bot so if it sucks blame him
+
+---
+
+14:00:20
+
+seesmof: you definitely make me feel better all the time
+
+---
+
+14:02:46
+
+seesmof: hell yeah
+
+---
+
+14:02:59
+
+wizebot: ACTION 【 3 viewers (-1) ⏰ 1h 42m 39s 】
+
+---
+
+14:38:43
+
+seesmof: wow man i feel so miserable lol. this guy most likely wrote it all himself and also now is modifying my version of the task to get a complete product and all i did was to ask the fucking AI to do it, thats it. i almost didnt do any adjustments to the code. i didnt get quite what i want from the first try, obviously, but this guy is taking his time and doing it all on his own proly, wow. he defo knows what he's doing and i have no clue
+
+---
+
+14:51:13
+
+mike09steelers: That's awesome sees. Be friends with him. He may be a good resource in the future
+
+---
+
+14:54:08
+
+wizebot: ACTION ❌ LIVE OFFLINE, uptime of the session is 2 hour(s) 30 minute(s) 34 second(s).
+
+---
+
