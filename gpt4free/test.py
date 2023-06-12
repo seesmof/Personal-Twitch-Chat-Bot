@@ -1,13 +1,14 @@
-import aiassist
+from gpt4free import forefront
 
-question1 = "Who won the world series in 2020?"
-req = aiassist.Completion.create(prompt=question1)
-answer = req["text"]
-message_id = req["parentMessageId"]
 
-question2 = "Where was it played?"
-req2 = aiassist.Completion.create(prompt=question2, parentMessageId=message_id)
-answer2 = req2["text"]
+# create an account
+account_data = forefront.Account.create(logging=False)
 
-print(answer)
-print(answer2)
+# get a response
+for response in forefront.StreamingCompletion.create(
+    account_data=account_data,
+    prompt='hello world',
+    model='gpt-4'
+):
+    print(response.choices[0].text, end='')
+print("")

@@ -418,3 +418,81 @@ imabeinthearmyorfootball: Alr
 
 ---
 
+12:35:56
+
+imabeinthearmyorfootball: What about brownie recipes?
+
+---
+
+12:36:17
+
+seesmof: alright try again @imabeinthearmyorfootball
+
+---
+
+12:36:19
+
+imabeinthearmyorfootball: Yoooo you read my mind
+
+---
+
+12:37:40
+
+imabeinthearmyorfootball: @piprly what is the best peanut butter cookie recipe
+
+---
+
+12:37:40
+
+seesmof: there we go
+
+---
+
+12:37:40
+
+seesmof: what can i do about it?
+
+---
+
+12:37:40
+
+imabeinthearmyorfootball: Lemme ss
+
+---
+
+12:39:45
+
+imabeinthearmyorfootball: @piprly what is the best peanut butter brownie recipe
+
+---
+
+12:39:52
+
+imabeinthearmyorfootball: No its my fault
+
+---
+
+12:40:08
+
+nightbot: @BubbaJigglez set up this night bot so if it sucks blame him
+
+---
+
+12:40:10
+
+imabeinthearmyorfootball: I was getting recipes
+
+---
+
+12:40:24
+
+imabeinthearmyorfootball: Its my fault
+
+---
+
+12:40:42
+
+seesmof: alright, no worries. its based on ChatGPT, you can just use that or if you want access to the internet, use Bing chat or Perplexity, thats what i use @imabeinthearmyorfootball
+
+---
+
