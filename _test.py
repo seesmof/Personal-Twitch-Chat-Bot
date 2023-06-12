@@ -1,18 +1,40 @@
-from vars import *
-from mfs import *
-from gpt4free import usesless
+import requests
+import json
+from time import time
 
 
-def useless_ua(input_text):
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDczMzEsImlhdCI6MTY4NjQ5Mjc3MiwiZXhwIjoxNzE4MDUwMzcyfQ.dZdg4CdyS4HuJUD2NSnYQYJCr2o9b5cdIhEo6W5KXGA"
-    message_id = ''
-    input_prompt = GoogleTranslator(
-        source='auto', target='uk').translate(input_text)
-    req = usesless.Completion.create(
-        prompt=input_text, parentMessageId=message_id, token=token)
-    response = req['text']
-    return response
+def open_file(filepath):
+    with open(filepath, 'r', encoding='utf-8') as infile:
+        return infile.read()
 
 
-inputtext = input(": ")
-print(useless_ua(inputtext))
+headers = {
+    "Authorization": "Bearer %s" % open_file('token.txt'),
+    "Content-Type": "application/json"
+}
+
+body = {
+    "text": "Once upon a time",
+    "top_p": 1,
+    "top_k": 40,
+    "temperature": 0.8,
+    "repetition_penalty":  1,
+    "length": 64
+}
+
+start = time()
+res = requests.post(
+    "https://shared-api.forefront.link/organization/FV6AbZNxxBmB/gpt-j-6b-vanilla/completions/2JrDQ5BhJAm6",
+    json=body,
+    headers=headers
+)
+
+data = res.json()
+
+completion = data['result'][0]['completion']
+
+print(completion)
+
+end = time()
+
+print('total time:', end - start)

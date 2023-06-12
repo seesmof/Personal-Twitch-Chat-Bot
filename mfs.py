@@ -19,9 +19,9 @@ from notifypy import Notify
 
 
 def split_long_gpt(input_string):
-    num_substrings = len(input_string) // 475 + \
-        (1 if len(input_string) % 475 > 0 else 0)
-    substrings = [input_string[i * 475:(i + 1) * 475]
+    num_substrings = len(input_string) // 440 + \
+        (1 if len(input_string) % 440 > 0 else 0)
+    substrings = [input_string[i * 440:(i + 1) * 440]
                   for i in range(num_substrings)]
     return substrings
 

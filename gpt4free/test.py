@@ -1,10 +1,13 @@
-from gpt4free import usesless
-from library import *
+import aiassist
 
-output_text = ""
-output_text = generate_ai_message(
-        message.content, message.author.name)
-output_text = split_long_gpt(output_text)
-for substr in output_text:
-    await message.channel.send(f"{substr} @{message.author.name}")
-    await asyncio.sleep(20)
+question1 = "Who won the world series in 2020?"
+req = aiassist.Completion.create(prompt=question1)
+answer = req["text"]
+message_id = req["parentMessageId"]
+
+question2 = "Where was it played?"
+req2 = aiassist.Completion.create(prompt=question2, parentMessageId=message_id)
+answer2 = req2["text"]
+
+print(answer)
+print(answer2)

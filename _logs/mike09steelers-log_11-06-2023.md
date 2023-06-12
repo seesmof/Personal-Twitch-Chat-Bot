@@ -628,3 +628,9 @@ wizebot: ACTION ⭐️ New category: Call of Duty: Modern Warfare II
 
 ---
 
+17:41:15
+
+wizebot: ACTION ❌ LIVE OFFLINE, uptime of the session is 55 minute(s) 42 second(s).
+
+---
+
