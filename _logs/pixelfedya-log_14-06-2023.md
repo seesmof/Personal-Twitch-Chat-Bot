@@ -2428,3 +2428,537 @@ dartdima02: О мультікі
 
 ---
 
+20:33:53
+
+maks_malitsk: Але офни вебкк
+
+---
+
+20:33:54
+
+streamelements: Вся інфа про стріми тут - https://t.me/pixelfedya
+
+---
+
+20:34:11
+
+champik_is_back: але без кліпу бо там сраки і цицьки
+
+---
+
+20:34:21
+
+maks_malitsk: Оґо
+
+---
+
+20:34:36
+
+maks_malitsk: Філіп включав і нори
+
+---
+
+20:34:39
+
+maks_malitsk: З клвпом
+
+---
+
+20:34:39
+
+champik_is_back: тоді це буде останнє на цьому каналі
+
+---
+
+20:34:43
+
+maks_malitsk: Кліпом*
+
+---
+
+20:34:54
+
+porozhnecha: 36 хвилин?
+
+---
+
+20:35:05
+
+champik_is_back: так
+
+---
+
+20:35:07
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:35:07
+
+champik_is_back: вайбово було
+
+---
+
+20:35:15
+
+maks_malitsk: Норм
+
+---
+
+20:35:18
+
+onnyjohnny: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+20:35:21
+
+champik_is_back: я собі в плейлист додав
+
+---
+
+20:35:30
+
+porozhnecha: Хаххахаххахахаха
+
+---
+
+20:35:32
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:35:38
+
+maks_malitsk: О сюдаа лут
+
+---
+
+20:35:49
+
+maks_malitsk: Мгм
+
+---
+
+20:35:49
+
+them1kut: всім хааааааааааай
+
+---
+
+20:35:57
+
+maks_malitsk: @them1kut хааааааай
+
+---
+
+20:35:59
+
+lamark_sk8: @them1kut Хааааааааааааааааааай
+
+---
+
+20:36:01
+
+porozhnecha: Картоплі запечеш з куркою?
+
+---
+
+20:36:01
+
+dartdima02: Давай почуття
+
+---
+
+20:36:05
+
+porozhnecha: По класиці
+
+---
+
+20:36:14
+
+katrinasees: мікут хай
+
+---
+
+20:36:15
+
+maks_malitsk: О клас
+
+---
+
+20:36:35
+
+them1kut: @maks_malitsk @lamark_sk8 @katrinasees хааааааааай
+
+---
+
+20:36:37
+
+porozhnecha: Батат запечеш? )))
+
+---
+
+20:36:40
+
+maks_malitsk: Гг
+
+---
+
+20:36:54
+
+champik_is_back: Федя, сфоткаєш для мене двохповерховий автобус?
+
+---
+
+20:36:55
+
+maks_malitsk: Камера
+
+---
+
+20:36:56
+
+porozhnecha: Так батат солодкий
+
+---
+
+20:37:01
+
+opudalo: 248
+
+---
+
+20:37:05
+
+porozhnecha: Бля він желе зробить оце складне блюдо
+
+---
+
+20:37:29
+
+champik_is_back: Василю, сфоткаєш для мене двохповерховий автобус?
+
+---
+
+20:37:55
+
+maks_malitsk: Василь ти в Феді модератор?
+
+---
+
+20:37:56
+
+champik_is_back: Оксана бє?
+
+---
+
+20:38:01
+
+opudalo: !боб
+
+---
+
+20:38:02
+
+botbandera: opudalo твоя балумба 21 см.
+
+---
+
+20:38:04
+
+porozhnecha: Яйцеееееееее
+
+---
+
+20:38:10
+
+maks_malitsk: Ого
+
+---
+
+20:38:10
+
+porozhnecha: Хахахахахахахахахахаха
+
+---
+
+20:38:23
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:38:27
+
+dartdima02: Хахахахахах
+
+---
+
+20:38:27
+
+champik_is_back: труси не труси остання капля всеодно в труси
+
+---
+
+20:38:32
+
+dartdima02: Смішно
+
+---
+
+20:38:33
+
+rumkado: Насильство в сім'ї
+
+---
+
+20:38:46
+
+maks_malitsk: Василь ти в Феді модератор?
+
+---
+
+20:38:51
+
+porozhnecha: Бо треба промакувати залупку
+
+---
+
+20:39:13
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:39:20
+
+opudalo: оксани гаджети бери
+
+---
+
+20:39:20
+
+maks_malitsk: Будеш бігати
+
+---
+
+20:39:36
+
+maks_malitsk: Василь ти в Феді модератор?
+
+---
+
+20:39:42
+
+lamark_sk8: @PixelFedya на кухні є розетки!
+
+---
+
+20:39:45
+
+porozhnecha: Там желе буде
+
+---
+
+20:39:50
+
+maks_malitsk: ak1okaXd
+
+---
+
+20:40:00
+
+maks_malitsk: Яйце
+
+---
+
+20:40:02
+
+opudalo: ахаххапх
+
+---
+
+20:40:03
+
+champik_is_back: бачу яйце
+
+---
+
+20:40:04
+
+dartdima02: Шукай зарядне
+
+---
+
+20:40:04
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:40:10
+
+porozhnecha: Яйцеееееееееее
+
+---
+
+20:40:11
+
+dartdima02: Шукай зарядне.
+
+---
+
+20:40:12
+
+opudalo: дирка
+
+---
+
+20:40:15
+
+porozhnecha: І ковбаскаааааааааааааа
+
+---
+
+20:40:18
+
+maks_malitsk: Хахахахах
+
+---
+
+20:40:22
+
+champik_is_back: ахахах
+
+---
+
+20:40:22
+
+porozhnecha: pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL pixelf8LooooooL
+
+---
+
+20:40:25
+
+maks_malitsk: trembaaBabooreh
+
+---
+
+20:40:34
+
+maks_malitsk: Гоууу
+
+---
+
+20:40:38
+
+maks_malitsk: Хкхахахаххахах
+
+---
+
+20:40:41
+
+opudalo: BibleThump BibleThump BibleThump BibleThump BibleThump
+
+---
+
+20:40:42
+
+maks_malitsk: ak1okaXd
+
+---
+
+20:40:52
+
+dartdima02: @pixelfedya молодець
+
+---
+
+20:40:54
+
+porozhnecha: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼щоб знав як без жінки веселитись
+
+---
+
+20:40:56
+
+rumkado: Карма
+
+---
+
+20:40:56
+
+maks_malitsk: Аххахахаха
+
+---
+
+20:41:15
+
+maks_malitsk: Василь ти в Феді модератор?
+
+---
+
+20:41:26
+
+porozhnecha: Хахахах
+
+---
+
+20:41:34
+
+maks_malitsk: Оґо
+
+---
+
+20:42:04
+
+dartdima02: Оґо
+
+---
+
+20:42:06
+
+maks_malitsk: Мгм
+
+---
+
+20:42:24
+
+maks_malitsk: Дава1
+
+---
+
+20:42:30
+
+dartdima02: Да
+
+---
+
+20:42:39
+
+maks_malitsk: Лул
+
+---
+
+20:42:46
+
+maks_malitsk: Ахаххаха
+
+---
+
+20:43:03
+
+maks_malitsk: Мгм
+
+---
+
+20:43:12
+
+dartdima02: @pixelfedya молодець
+
+---
+
