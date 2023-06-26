@@ -8,11 +8,9 @@ import time
 import requests
 import re
 from vars import *
-import gpt4free
-from gpt4free import Provider
+import g4f
 from deep_translator import GoogleTranslator
 from langdetect import detect
-from Bard import Chatbot
 import random
 from gpt4free import usesless
 from notifypy import Notify
@@ -99,64 +97,28 @@ def openai_generate(input_text, context):
 
 def gpt4free_ua(input_text):
     input_prompt = GoogleTranslator(
-        source='auto', target='en').translate(input_text)
-    response = gpt4free.Completion.create(
-        Provider.You, prompt=input_prompt)
-    response = GoogleTranslator(
-        source='en', target='uk').translate(response)
+        source='auto', target='uk').translate(input_text)
+    response = g4f.ChatCompletion.create(
+        model=g4f.Model.gpt_35_turbo,
+        messages=[{
+            "role": "user",
+            "content": input_prompt
+        }],
+    )
     return response
 
 
 def gpt4free_en(input_text):
     input_prompt = GoogleTranslator(
         source='auto', target='en').translate(input_text)
-    response = gpt4free.Completion.create(
-        Provider.You, prompt=input_prompt)
+    response = g4f.ChatCompletion.create(
+        model=g4f.Model.gpt_35_turbo,
+        messages=[{
+            "role": "user",
+            "content": input_prompt
+        }],
+    )
     return response
-
-
-def useless_ua(input_text):
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDczMzEsImlhdCI6MTY4NjQ5Mjc3MiwiZXhwIjoxNzE4MDUwMzcyfQ.dZdg4CdyS4HuJUD2NSnYQYJCr2o9b5cdIhEo6W5KXGA"
-    message_id = ''
-    input_prompt = GoogleTranslator(
-        source='auto', target='uk').translate(input_text)
-    req = usesless.Completion.create(
-        prompt=input_prompt, parentMessageId=message_id, token=token)
-    response = req['text']
-    return response
-
-
-def useless_en(input_text):
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDczMzEsImlhdCI6MTY4NjQ5Mjc3MiwiZXhwIjoxNzE4MDUwMzcyfQ.dZdg4CdyS4HuJUD2NSnYQYJCr2o9b5cdIhEo6W5KXGA"
-    message_id = ''
-    input_prompt = GoogleTranslator(
-        source='auto', target='en').translate(input_text)
-    req = usesless.Completion.create(
-        prompt=input_prompt, parentMessageId=message_id, token=token)
-    response = req['text']
-    return response
-
-
-# Paste your Bard Token (check README.md for where to find yours)
-token = "WwgpefTIfFTiaBOCfKpsSAU2lKZr_b3C1ogVkqYQpMqv8LRBRdRPIIpmvO9FDkKr51UUbg."
-# Initialize Google Bard API
-chatbot = Chatbot(token)
-
-
-def bard_en(input_text):
-    input_prompt = GoogleTranslator(
-        source='auto', target='en').translate(input_text)
-    response = chatbot.ask(input_prompt)
-    return response['content']
-
-
-def bard_ua(input_text):
-    input_prompt = GoogleTranslator(
-        source='auto', target='en').translate(input_text)
-    response = chatbot.ask(input_prompt)
-    response = GoogleTranslator(
-        source='en', target='uk').translate(response)
-    return response['content']
 
 
 def generate_ai_message(message, author):
@@ -170,43 +132,26 @@ def generate_ai_message(message, author):
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
         try:
-            print("Generating with Useless")
-            output_text += useless_ua(input_text)
+            print("Generating with Bard")
+            output_text += gpt4free_ua(input_text)
         except:
-            try:
-                print("Generating with GPT4Free")
-                output_text += gpt4free_ua(input_text)
-            except:
-                try:
-                    print("Generating with Bard")
-                    output_text += bard_ua(input_text)
-                except:
-                    print(
-                        f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-                    output_text += random.choice(error_ua)
-                    notification = Notify()
-                    notification.audio = error_sound_path
-                    notification.send()
+            print(
+                f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+            output_text += random.choice(error_ua)
+            notification = Notify()
+            notification.audio = error_sound_path
+            notification.send()
     else:
-        print("Language is English")
         try:
-            print("Generating with Useless")
-            output_text += useless_en(input_text)
+            print("Generating with Bard")
+            output_text += gpt4free_en(input_text)
         except:
-            try:
-                print("Generating with GPT4Free")
-                output_text += gpt4free_en(input_text)
-            except:
-                try:
-                    print("Generating with Bard")
-                    output_text += bard_en(input_text)
-                except:
-                    print(
-                        f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-                    output_text += random.choice(error_ua)
-                    notification = Notify()
-                    notification.audio = error_sound_path
-                    notification.send()
+            print(
+                f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+            output_text += random.choice(error_ua)
+            notification = Notify()
+            notification.audio = error_sound_path
+            notification.send()
     end_time = time.time()
     elapsed_time = end_time - start_time
     print(f"\nGenerated in {elapsed_time:.2f} seconds")
