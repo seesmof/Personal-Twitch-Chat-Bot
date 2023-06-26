@@ -121,6 +121,17 @@ def gpt4free_en(input_text):
     return response
 
 
+def gpt4free(input_text):
+    response = g4f.ChatCompletion.create(
+        model=g4f.Model.gpt_35_turbo,
+        messages=[{
+            "role": "user",
+            "content": input_text
+        }],
+    )
+    return response
+
+
 def generate_ai_message(message, author):
     print("\nGenerating a message...\n")
     start_time = time.time()
@@ -129,27 +140,16 @@ def generate_ai_message(message, author):
         "wuyodo", "").replace("@", "")
     output_text = ""
 
-    if detect(input_text) == "uk" or detect(input_text) == "ru":
-        print("Language is Ukrainian")
-        try:
-            output_text += gpt4free_ua(input_text)
-        except:
-            print(
-                f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-            output_text += random.choice(error_ua)
-            notification = Notify()
-            notification.audio = error_sound_path
-            notification.send()
-    else:
-        try:
-            output_text += gpt4free_en(input_text)
-        except:
-            print(
-                f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-            output_text += random.choice(error_ua)
-            notification = Notify()
-            notification.audio = error_sound_path
-            notification.send()
+    try:
+        output_text += gpt4free(input_text)
+    except:
+        print(
+            f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
+        output_text += random.choice(error_ua)
+        notification = Notify()
+        notification.audio = error_sound_path
+        notification.send()
+
     end_time = time.time()
     elapsed_time = end_time - start_time
     print(f"\nGenerated in {elapsed_time:.2f} seconds")
