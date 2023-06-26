@@ -1,19 +1,4 @@
-import g4f
+from mfs import *
 
-
-def main():
-    prompt = input(": ")
-
-    response = g4f.ChatCompletion.create(
-        model=g4f.Model.gpt_35_turbo,
-        messages=[{
-            "role": "user",
-            "content": prompt
-        }],
-    )
-
-    print(response)
-
-
-while True:
-    main()
+prompt = input(": ")
+output = generate_ai_message(prompt, "user")

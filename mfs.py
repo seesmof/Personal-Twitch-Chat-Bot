@@ -105,7 +105,7 @@ def gpt4free_ua(input_text):
             "content": input_prompt
         }],
     )
-    return response
+    return clean_text(response)
 
 
 def gpt4free_en(input_text):
@@ -118,18 +118,41 @@ def gpt4free_en(input_text):
             "content": input_prompt
         }],
     )
-    return response
+    return clean_text(response)
+
+
+global_messages = []
 
 
 def gpt4free(input_text):
-    response = g4f.ChatCompletion.create(
-        model=g4f.Model.gpt_35_turbo,
-        messages=[{
+    global_messages.append(
+        {
             "role": "user",
             "content": input_text
-        }],
+        }
+    )
+    response = g4f.ChatCompletion.create(
+        model=g4f.Model.gpt_4,
+        messages=global_messages,
+        provider=g4f.Provider.Bing
+    )
+    global_messages.append(
+        {
+            "role": "model",
+            "content": response
+        }
     )
     return response
+
+
+def clean_text(text):
+    text = re.sub(r'http\S+', '', text)
+    text = re.sub(r'www\S+', '', text)
+    text = re.sub(r'\[.*?\]', '', text)
+    text = re.sub(r'\*', '', text)
+    text = re.sub(r'\n', ' ', text)
+
+    return text
 
 
 def generate_ai_message(message, author):
@@ -139,16 +162,7 @@ def generate_ai_message(message, author):
     input_text = message.replace("piprly", "").replace(
         "wuyodo", "").replace("@", "")
     output_text = ""
-
-    try:
-        output_text += gpt4free(input_text)
-    except:
-        print(
-            f"\n{author} got an error while trying to generate message!\nPrompt: {message}\n")
-        output_text += random.choice(error_ua)
-        notification = Notify()
-        notification.audio = error_sound_path
-        notification.send()
+    output_text += gpt4free(input_text)
 
     end_time = time.time()
     elapsed_time = end_time - start_time
