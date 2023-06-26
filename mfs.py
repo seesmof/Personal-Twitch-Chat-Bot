@@ -121,25 +121,13 @@ def gpt4free_en(input_text):
     return clean_text(response)
 
 
-global_messages = []
-
-
 def gpt4free(input_text):
-    global_messages.append(
-        {
+    response = g4f.ChatCompletion.create(
+        model=g4f.Model.gpt_35_turbo,
+        messages=[{
             "role": "user",
             "content": input_text
-        }
-    )
-    response = g4f.ChatCompletion.create(
-        model=g4f.Model.gpt_4,
-        messages=global_messages,
-    )
-    global_messages.append(
-        {
-            "role": "model",
-            "content": response
-        }
+        }],
     )
     return clean_text(response)
 

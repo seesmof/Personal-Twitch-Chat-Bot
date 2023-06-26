@@ -2,7 +2,6 @@ from twitchio.ext import commands
 from vars import *
 from mfs import *
 import asyncio
-global_messages = []
 
 
 class Bot(commands.Bot):
@@ -19,32 +18,13 @@ class Bot(commands.Bot):
         async with self.lock:
             letters = ["@piprly", "@wuyodo"]
             if check_for_letters(message.content.lower(), letters) and message.author.name != "piprly":
-                input_text = message.content
-                global_messages.append(
-                    {
-                        "role": "user",
-                        "content": input_text
-                    }
-                )
-                response = g4f.ChatCompletion.create(
-                    model=g4f.Model.gpt_4,
-                    messages=global_messages,
-                )
-                global_messages.append(
-                    {
-                        "role": "model",
-                        "content": response
-                    }
-                )
-                output_text = clean_text(response)
-
                 if message.channel.name == "k3ned1":
                     if message.author.name == "k3ned1":
-                        output_text = output_text
+                        output_text = generate_ai_message(message.content)
                     else:
                         return
                 else:
-                    output_text = output_text
+                    output_text = generate_ai_message(message.content)
                 output_text = split_long_gpt(output_text)
                 for substr in output_text:
                     await message.channel.send(f"{substr} @{message.author.name}")
