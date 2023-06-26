@@ -21,13 +21,11 @@ class Bot(commands.Bot):
                 output_text = ""
                 if message.channel.name == "k3ned1":
                     if message.author.name == "k3ned1":
-                        output_text = generate_ai_message(
-                            message.content)
+                        output_text = generate_ai_message(message.content)
                     else:
                         return
                 else:
-                    output_text = generate_ai_message(
-                        message.content)
+                    output_text = generate_ai_message(message.content)
                 output_text = split_long_gpt(output_text)
                 for substr in output_text:
                     await message.channel.send(f"{substr} @{message.author.name}")
