@@ -132,7 +132,6 @@ def generate_ai_message(message, author):
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
         try:
-            print("Generating with Bard")
             output_text += gpt4free_ua(input_text)
         except:
             print(
@@ -143,7 +142,6 @@ def generate_ai_message(message, author):
             notification.send()
     else:
         try:
-            print("Generating with Bard")
             output_text += gpt4free_en(input_text)
         except:
             print(
