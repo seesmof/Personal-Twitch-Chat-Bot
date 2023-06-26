@@ -134,7 +134,6 @@ def gpt4free(input_text):
     response = g4f.ChatCompletion.create(
         model=g4f.Model.gpt_4,
         messages=global_messages,
-        provider=g4f.Provider.Bing
     )
     global_messages.append(
         {
@@ -142,7 +141,7 @@ def gpt4free(input_text):
             "content": response
         }
     )
-    return response
+    return clean_text(response)
 
 
 def clean_text(text):
@@ -155,14 +154,13 @@ def clean_text(text):
     return text
 
 
-def generate_ai_message(message, author):
+def generate_ai_message(message):
     print("\nGenerating a message...\n")
     start_time = time.time()
 
     input_text = message.replace("piprly", "").replace(
         "wuyodo", "").replace("@", "")
-    output_text = ""
-    output_text += gpt4free(input_text)
+    output_text = gpt4free(input_text)
 
     end_time = time.time()
     elapsed_time = end_time - start_time
