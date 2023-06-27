@@ -96,31 +96,17 @@ def openai_generate(input_text, context):
 
 
 def gpt4free_ua(input_text):
-    input_prompt = GoogleTranslator(
-        source='auto', target='en').translate(input_text)
-    response = g4f.ChatCompletion.create(
-        model=g4f.Model.gpt_35_turbo,
-        messages=[{
-            "role": "user",
-            "content": input_prompt
-        }],
-    )
+    response = gpt4free(input_text)
     response = GoogleTranslator(
-        source='en', target='uk').translate(response)
-    return clean_text(response)
+        source='auto', target='uk').translate(response)
+    return response
 
 
 def gpt4free_en(input_text):
     input_prompt = GoogleTranslator(
         source='auto', target='en').translate(input_text)
-    response = g4f.ChatCompletion.create(
-        model=g4f.Model.gpt_35_turbo,
-        messages=[{
-            "role": "user",
-            "content": input_prompt
-        }],
-    )
-    return clean_text(response)
+    response = gpt4free(input_prompt)
+    return response
 
 
 def gpt4free(input_text):
@@ -150,9 +136,11 @@ def generate_ai_message(message):
     print("\nGenerating a message...\n")
     start_time = time.time()
 
-    input_text = message.replace("piprly", "").replace(
-        "wuyodo", "").replace("@", "")
+    input_text = message.replace("piprly", "")
+    input_text = input_text.replace("wuyodo", "")
+    input_text = input_text.replace("@", "")
     output_text = ""
+
     if detect(input_text) == "uk" or detect(input_text) == "ru":
         print("Language is Ukrainian")
         output_text += gpt4free_ua(input_text)
