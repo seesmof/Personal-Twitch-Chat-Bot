@@ -52,3 +52,15 @@ seesmof: @piprly Слава Україні!
 
 ---
 
+14:27:44
+
+streamelements: Thank you for following xBATESZx :)
+
+---
+
+14:27:45
+
+soundalerts: xBATESZx is a Top G!
+
+---
+
