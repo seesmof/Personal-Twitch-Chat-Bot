@@ -22,3 +22,33 @@ seesmof: @piprly what is the capital of France?
 
 ---
 
+13:16:05
+
+seesmof: @piprly what is the capital of Luxembourg?
+
+---
+
+13:16:26
+
+seesmof: @wuyodo what is the capital of Luxembourg?
+
+---
+
+13:17:36
+
+seesmof: @wuyodo what is the capital of Belgium?
+
+---
+
+13:17:36
+
+seesmof: okay now works fine
+
+---
+
+13:18:00
+
+seesmof: @piprly Слава Україні!
+
+---
+
