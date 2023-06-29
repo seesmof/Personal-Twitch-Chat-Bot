@@ -7,7 +7,8 @@ import asyncio
 class Bot(commands.Bot):
     def __init__(self):
         super().__init__(token=GPT_TOKEN,
-                         prefix='!', initial_channels=['seesmof', 'PixelFedya', 'k3ned1', 'unjustfridgesmod'])
+                         prefix='!', initial_channels=['seesmof', 'PixelFedya', 'k3ned1', 'unjustfridgesmod', 'volodar_it'
+                                                       ])
         self.lock = asyncio.Lock()
 
     async def event_ready(self):
