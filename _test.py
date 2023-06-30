@@ -1,6 +1,5 @@
 from mfs import *
 
-while True:
-    prompt = input(": ")
-    output = generate_ai_message(prompt)
-    print(output)
+prompt = input(": ")
+output = generate_ai_message(prompt)
+print(output)
