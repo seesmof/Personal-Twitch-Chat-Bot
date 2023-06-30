@@ -1,6 +1,4 @@
-from twitchio.ext import commands
 from datetime import datetime
-import openai
 import os
 import asyncio
 import time
@@ -9,6 +7,70 @@ from vars import *
 import g4f
 from deep_translator import GoogleTranslator
 from langdetect import detect
+
+
+#   <GENERATING MESSAGES>   #
+
+def gpt4free_ua(input_text):
+    response = gpt4free(input_text)
+    response = GoogleTranslator(
+        source='auto', target='uk').translate(response)
+    return response
+
+
+def gpt4free_en(input_text):
+    input_prompt = GoogleTranslator(
+        source='auto', target='en').translate(input_text)
+    response = gpt4free(input_prompt)
+    return response
+
+
+def gpt4free(input_text):
+    response = g4f.ChatCompletion.create(
+        model=g4f.Model.gpt_35_turbo,
+        messages=[{
+            "role": "user",
+            "content": input_text
+        }],
+        provider=g4f.Provider.Yqcloud
+    )
+    return clean_text(response)
+
+
+def clean_text(text):
+    text = re.sub(r'http\S+', '', text)
+    text = re.sub(r'www\S+', '', text)
+    text = re.sub(r'\[.*?\]', '', text)
+    text = re.sub(r'\".*?\"', '', text)
+    text = re.sub(r'\*', '', text)
+    text = re.sub(r'\n', ' ', text)
+    text = text.replace(" : ", "")
+
+    return text
+
+
+def generate_ai_message(message):
+    print("\nGenerating a message...\n")
+    start_time = time.time()
+
+    input_text = message.replace(f"{GPT_BOT_NICK}", "")
+    input_text = input_text.replace("@", "")
+    output_text = ""
+
+    if detect(input_text) == "uk" or detect(input_text) == "ru":
+        print("Language is Ukrainian")
+        output_text += gpt4free_ua(input_text)
+    else:
+        print("Language is NOT Ukrainian")
+        output_text += gpt4free_en(input_text)
+
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f"\nGenerated in {elapsed_time:.2f} seconds")
+    return output_text
+
+
+# Below are supplementary functions, just leave them as they are, unless you know what you're doing
 
 
 def split_long_gpt(input_string):
@@ -69,82 +131,3 @@ def write_to_log(message, author, CHANNEL):
         # output message with author name to log
         log_file.write(f"\n\n{author}: {message}\n")
         log_file.write(f"\n---\n\n")
-
-
-#   <GENERATING MESSAGES>   #
-openai.api_key = "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"
-model_engine = "gpt-3.5-turbo"
-
-
-def openai_generate(input_text, context):
-    response = openai.ChatCompletion.create(
-        model=model_engine,
-        messages=[
-            {"role": "system", "content": context},
-            {"role": "user", "content": input_text}
-        ],
-        max_tokens=280,
-        temperature=0.7,
-    )
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-
-
-def gpt4free_ua(input_text):
-    response = gpt4free(input_text)
-    response = GoogleTranslator(
-        source='auto', target='uk').translate(response)
-    return response
-
-
-def gpt4free_en(input_text):
-    input_prompt = GoogleTranslator(
-        source='auto', target='en').translate(input_text)
-    response = gpt4free(input_prompt)
-    return response
-
-
-def gpt4free(input_text):
-    response = g4f.ChatCompletion.create(
-        model=g4f.Model.gpt_35_turbo,
-        messages=[{
-            "role": "user",
-            "content": input_text
-        }],
-        provider=g4f.Provider.Yqcloud
-    )
-    return clean_text(response)
-
-
-def clean_text(text):
-    text = re.sub(r'http\S+', '', text)
-    text = re.sub(r'www\S+', '', text)
-    text = re.sub(r'\[.*?\]', '', text)
-    text = re.sub(r'\".*?\"', '', text)
-    text = re.sub(r'\*', '', text)
-    text = re.sub(r'\n', ' ', text)
-    text = text.replace(" : ", "")
-
-    return text
-
-
-def generate_ai_message(message):
-    print("\nGenerating a message...\n")
-    start_time = time.time()
-
-    input_text = message.replace("piprly", "")
-    input_text = input_text.replace("wuyodo", "")
-    input_text = input_text.replace("@", "")
-    output_text = ""
-
-    if detect(input_text) == "uk" or detect(input_text) == "ru":
-        print("Language is Ukrainian")
-        output_text += gpt4free_ua(input_text)
-    else:
-        print("Language is NOT Ukrainian")
-        output_text += gpt4free_en(input_text)
-
-    end_time = time.time()
-    elapsed_time = end_time - start_time
-    print(f"\nGenerated in {elapsed_time:.2f} seconds")
-    return output_text
