@@ -8,36 +8,18 @@ import g4f
 from deep_translator import GoogleTranslator
 from langdetect import detect
 from g4f.Provider import (
-    Ails,
-    You,
-    Bing,
     Yqcloud,
-    Theb,
     Aichat,
-    Bard,
-    Vercel,
-    Forefront,
     Lockchat,
-    Liaobots,
-    H2o,
     ChatgptLogin,
     DeepAi,
     GetGpt
 )
 
 providers_list = [
-    Ails,
-    You,
-    Bing,
     Yqcloud,
-    Theb,
     Aichat,
-    Bard,
-    Vercel,
-    Forefront,
     Lockchat,
-    Liaobots,
-    H2o,
     ChatgptLogin,
     DeepAi,
     GetGpt
