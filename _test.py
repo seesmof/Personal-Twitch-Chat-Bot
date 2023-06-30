@@ -1,5 +1,5 @@
 from mfs import *
 
 prompt = input(": ")
-output = generate_ai_message(prompt)
+output = gpt4free_ua(prompt, GetGpt)
 print(output)
