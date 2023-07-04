@@ -28,3 +28,9 @@ streamelements: Вся інфа про стріми тут - https://t.me/pixelf
 
 ---
 
+10:14:41
+
+streamelements: Вся інфа про стріми тут - https://t.me/pixelfedya
+
+---
+
