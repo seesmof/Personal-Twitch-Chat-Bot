@@ -1,11 +1,5 @@
-GPT_TOKEN = "2hak1ryy0hj4a2jpg4jjxwfazhppxx"
-GPT_REFRESH_TOKEN = "iitw5eaopj15rnq1c9w080y2cx3mgkxv7qw7glrswfsbig4ki8"
-GPT_CLIENT_ID = "gp762nuuoqcoxypju8c569th9wz7q5"
-GPT_BOT_NICK = "piprly"
-STD_TMI_TOKEN = "oauth:9267z36swbnmh2apun2fnz7d0ly939"
-STD_CLIENT_ID = "y6rcb4jxi1usz9x0zhhx1q4yta5hxl"
-STD_BOT_NICK = "pawrop"
-BOT_PREFIX = "!"
+TOKEN = "2hak1ryy0hj4a2jpg4jjxwfazhppxx"
+BOT_NICK = "piprly"
 
 letters_dict = {
     'q': 'й',
