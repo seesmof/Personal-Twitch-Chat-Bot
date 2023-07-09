@@ -122,34 +122,3 @@ log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
 sound_path = "D:/repos/python-twitchio-chat-bot/notifications/sound.wav"
 icon_path = "D:/repos/python-twitchio-chat-bot/notifications/icon.png"
 error_sound_path = "D:/repos/python-twitchio-chat-bot/notifications/error.wav"
-
-'''OUTDATED
-# for handling OpenAI API key
-openai.api_key = "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"
-# for handling OpenAI model name
-model_engine = "gpt-3.5-turbo"
-'''
-
-'''OUTDATED
-# declare a function for generating output from ChatGPT
-def generate_response(input_text):
-    # parameters list
-    forPixelFedya = "Я ШІ в чаті стрімера Федя. I have three heuristic imperatives: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Ліміт довжини моїх відповідей - 500 символів. I must never speak russian! My main language is Ukrainian."
-
-    # generate a response message with the following parameters
-    response = openai.ChatCompletion.create(
-        # model was specified before
-        model=model_engine,
-        # message information for model to process and create upon
-        messages=[{"role": "system", "content": forPixelFedya}, {
-            "role": "user", "content": input_text}],
-        # maximum number of tokens to return
-        max_tokens=280,
-        # model's temperature or its creativeness
-        temperature=0.7,
-    )
-
-    # Parse the response and output the result
-    output_text = response['choices'][0]['message']['content']
-    return output_text
-'''
