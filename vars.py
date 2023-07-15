@@ -1,5 +1,40 @@
-TOKEN = "2hak1ryy0hj4a2jpg4jjxwfazhppxx"
-BOT_NICK = "piprly"
+import os
+
+# enter your bot token
+TOKEN = ""
+
+# enter your bot's nickname, without @
+BOT_NICK = ""
+
+# enter a delay between messages. set to 20 seconds by default
+DELAY = 20  # in seconds
+
+# enter the channel names you want your bot to work in
+WANTED_CHANNELS = [
+    "seesmof",
+    "PixelFedya",
+    "k3ned1",
+    "unjustfridgesmod",
+]
+
+# CAUTION: enter the users you don't want your bot to answer to. useful for preventing answering to other bots or just unwanted individuals using your bot.
+BLOCKED_USERS = [
+]
+
+# whether to allow the bot to have a memory of the previous chat messages. possible values are either True or False. set to True by default
+ALLOW_MEMORY = True
+
+# whether to log the chat messages to a file. possible values are either True or False
+LOGGING = True
+
+if LOGGING:
+    # the path to a folder where the logs will be saved. feel free to change it to whichever one you want
+    log_dir = "./_logs/"
+    # Check if the log folder exists
+    if not os.path.exists(log_dir):
+        # Create the log folder if it doesn't exist
+        os.makedirs(log_dir)
+
 
 letters_dict = {
     'q': 'й',
@@ -118,7 +153,6 @@ error_en = ["Oops, something went wrong. Please try again later.",
             "We're experiencing some turbulence on our end. Please sit tight while we work to resolve the issue.",
             "ERROR 404: Sense of humor not found. Our team is working to restore it ASAP."]
 
-log_dir = "D:/repos/python-twitchio-chat-bot/_logs"
 sound_path = "D:/repos/python-twitchio-chat-bot/notifications/sound.wav"
 icon_path = "D:/repos/python-twitchio-chat-bot/notifications/icon.png"
 error_sound_path = "D:/repos/python-twitchio-chat-bot/notifications/error.wav"
