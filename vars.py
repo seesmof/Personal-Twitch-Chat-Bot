@@ -11,7 +11,7 @@ DELAY = 20  # in seconds
 
 # enter the channel names you want your bot to work in
 WANTED_CHANNELS = [
-    "seesmof",
+    # "seesmof",
     "PixelFedya",
     "k3ned1",
     "unjustfridgesmod",
