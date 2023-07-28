@@ -6,8 +6,8 @@ import asyncio
 import time
 import requests
 import re
-from mfs import *
-from vars import *
+from archive.mfs import *
+from archive.vars import *
 import pyautogui
 import random
 from langdetect import detect

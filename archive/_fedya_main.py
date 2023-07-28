@@ -1,5 +1,5 @@
-from mfs import *
-from vars import *
+from archive.mfs import *
+from archive.vars import *
 
 last_message_time = {}
 messages_tracker = {}
