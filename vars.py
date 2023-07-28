@@ -3,7 +3,7 @@ import os
 
 TOKEN = "2hak1ryy0hj4a2jpg4jjxwfazhppxx"
 BOT_NICK = "piprly"
-DELAY = 10.0
+DELAY = 10
 WANTED_CHANNELS = ["seesmof", "PixelFedya"]
 BLOCKED_USERS = [""]
 ALLOW_MEMORY = True
