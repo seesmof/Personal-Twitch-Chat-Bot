@@ -1,4 +1,3 @@
-import shutil
 from personas import PERSONAS
 from colorama import Fore, Style
 import subprocess
@@ -104,49 +103,33 @@ choice = input("> ")
 if choice.lower() == "yes" or choice.lower() == "y" or choice.lower() == "1":
     if platform.system() == 'Windows':
         # Windows - creates a shortcut in the Startup directory
-        startup_directory = os.path.join(os.getenv(
-            'APPDATA'), 'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
-        shutil.copy('main.py', startup_directory)
+        os.system(
+            f'copy main.py "%USERPROFILE%/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"')
     elif platform.system() == 'Darwin':
         # MacOS - creates a .plist file in ~/Library/LaunchAgents
-        plist_content = f'''<?xml version="1.0" encoding="UTF-8"?>
+        os.system(f"""echo '<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
         <plist version="1.0">
             <dict>
                 <key>Label</key>
                 <string>com.main.py.autostart</string>
                 <key>Program</key>
-                <string>{os.path.abspath('main.py')}</string>
+                <string>/usr/local/bin/python3 {os.getcwd()}/main.py</string>
                 <key>RunAtLoad</key>
                 <true/>
             </dict>
-        </plist>'''
-
-        launch_agents_dir = os.path.expanduser('~/Library/LaunchAgents')
-        if not os.path.exists(launch_agents_dir):
-            os.makedirs(launch_agents_dir)
-
-        with open(os.path.join(launch_agents_dir, 'com.main.py.autostart.plist'), 'w') as f:
-            f.write(plist_content)
+        </plist>' > ~/Library/LaunchAgents/com.main.py.autostart.plist""")
     elif platform.system() == 'Linux':
-        # Linux - creates a systemd service
-        service_content = f'''[Unit]
-        Description=Main.py Autorun Service
-        After=network.target
+        # Linux - creates an init.d script
+        initd_script = '''#!/bin/bash
+        /usr/bin/python3 {os.getcwd()}/main.py
+        '''
 
-        [Service]
-        Type=simple
-        ExecStart={os.path.abspath('main.py')}
+        with open('/etc/init.d/main.py', 'w') as f:
+            f.write(initd_script)
+        os.system(
+            f'chmod +x /etc/init.d/main.py && sudo update-rc.d main.py defaults')
 
-        [Install]
-        WantedBy=multi-user.target'''
-
-        systemd_dir = '/etc/systemd/system/'
-        with open(os.path.join(systemd_dir, 'main.py-autorun.service'), 'w') as f:
-            f.write(service_content)
-
-        os.system('systemctl enable main.py-autorun.service')
-        os.system('systemctl start main.py-autorun.service')
 
 # prepare contents
 consts = {

@@ -36,4 +36,12 @@ class Bot(commands.Bot):
 
 
 bot = Bot()
-bot.run()
+
+
+@bot.command(name="майн")
+async def command_mine_info(ctx):
+    await ctx.send(f"Якщо ви раптом померли на нашому гардкор сервері в Minecraft, ви можете використати нагороду за бали під назвою \"Майнкрафт\", поточна ціна - 10,000 балів, аби повернутися на сервер і продовжувати грати з нами. @{ctx.author.name}")
+
+
+if __name__ == "__main__":
+    bot.run()
