@@ -16,10 +16,9 @@ class Bot(commands.Bot):
         print(f'User id is | {self.user_id}')
 
     async def event_message(self, message):
-        if message.echo or message.author.name in BLOCKED_USERS:
-            return
-
         try:
+            if message.author.name.lower() == BOT_NICK.lower() or message.author.name in BLOCKED_USERS:
+                return
             async with self.lock:
                 letters = [f"@{BOT_NICK}"]
                 output_text = ""
@@ -38,7 +37,6 @@ class Bot(commands.Bot):
                         await message.channel.send(f"{substr} @{message.author.name}")
                         await asyncio.sleep(DELAY)
 
-                # MINECRAFT
                 letters = [f"!майн", f"!майнкрафт"]
                 if check_for_letters(message.content.lower(), letters):
                     await self.command_mine_info(message)
