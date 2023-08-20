@@ -11,6 +11,9 @@ class Bot(commands.Bot):
     async def command_mine_info(self, message):
         await message.channel.send(f"Якщо ви раптом померли на нашому гардкор сервері в Minecraft, ви можете використати нагороду за бали під назвою \"Майнкрафт\", поточна ціна - 10,000 балів, аби повернутися на сервер і продовжувати грати з нами. @{message.author.name}")
 
+    async def testing_command(self, message):
+        await message.channel.send(f"Hello, {message.author.name}")
+
     async def event_ready(self):
         print(f'Logged in as | {self.nick}')
         print(f'User id is | {self.user_id}')
@@ -24,7 +27,7 @@ class Bot(commands.Bot):
                 output_text = ""
 
                 if check_for_letters(message.content.lower(), letters):
-                    output_text = generate_ai_message(message.content)
+                    output_text = simpleGPT(message.content)
 
                     print(
                         f"\nPROMPT: {message.content} by {message.author.name} at {message.channel.name}\n\nRESPONSE: {output_text}\n")
@@ -40,6 +43,10 @@ class Bot(commands.Bot):
                 letters = [f"!майн", f"!майнкрафт"]
                 if check_for_letters(message.content.lower(), letters):
                     await self.command_mine_info(message)
+
+                letters = [f"!test"]
+                if check_for_letters(message.content.lower(), letters):
+                    await self.testing_command(message)
         except Exception as e:
             pass
 
