@@ -18,8 +18,8 @@ if __name__ == "__main__":
     with open("vars.py", "r", encoding="utf-8") as varsFile:
         contents = varsFile.read()
 
-    pattern = r"PERSONA = \(.*?\)"
-    replacement = f"PERSONA = {persona}"
+    pattern = r'PERSONA\s*=\s*".*"'
+    replacement = 'PERSONA = {}'.format(persona)
     contents = re.sub(pattern, replacement, contents)
 
     with open("vars.py", "w", encoding="utf-8") as varsFile:
