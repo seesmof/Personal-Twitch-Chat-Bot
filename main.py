@@ -8,25 +8,19 @@ class Bot(commands.Bot):
                          prefix='!', initial_channels=WANTED_CHANNELS)
         self.lock = asyncio.Lock()
 
-    async def command_mine_info(self, message):
-        await message.channel.send(f"Якщо ви раптом померли на нашому гардкор сервері в Minecraft, ви можете використати нагороду за бали під назвою \"Майнкрафт\", поточна ціна - 10,000 балів, аби повернутися на сервер і продовжувати грати з нами. @{message.author.name}")
-
-    async def testing_command(self, message):
-        await message.channel.send(f"Hello, {message.author.name}")
-
     async def event_ready(self):
         print(f'Logged in as | {self.nick}')
         print(f'User id is | {self.user_id}')
 
     async def event_message(self, message):
         try:
-            if message.author.name.lower() == BOT_NICK.lower() or message.author.name in BLOCKED_USERS:
-                return
             async with self.lock:
                 letters = [f"@{BOT_NICK}"]
                 output_text = ""
 
                 if check_for_letters(message.content.lower(), letters):
+                    if message.author.name == BOT_NICK or message.author.name in BLOCKED_USERS:
+                        return
                     output_text = AI(message.content)
 
                     print(
@@ -39,14 +33,6 @@ class Bot(commands.Bot):
                     for substr in split_text:
                         await message.channel.send(f"{substr} @{message.author.name}")
                         await asyncio.sleep(DELAY)
-
-                letters = [f"!майн", f"!майнкрафт"]
-                if check_for_letters(message.content.lower(), letters):
-                    await self.command_mine_info(message)
-
-                letters = [f"!test"]
-                if check_for_letters(message.content.lower(), letters):
-                    await self.testing_command(message)
         except Exception as e:
             pass
 
