@@ -1,2 +1,57 @@
-.env
-.txt
+# Dependencies
+/node_modules
+
+# Production
+/build
+/dist
+
+# Logs
+*.log
+
+# Environment variables
+.env*
+.env*.local
+
+# Editor files and directories
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw
+
+# Next.js
+/.next/
+/out/
+
+# Testing
+/coverage
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Misc
+.DS_Store
+.vercel
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Documentation
+/docs
+*.pdf
+
+# Production logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.pnp
+.pnp.js
+
+# Markdown
+*.md
+!README.md

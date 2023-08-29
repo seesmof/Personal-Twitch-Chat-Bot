@@ -1,17 +1,11 @@
-from mfs import *
+import g4f
 
 
-def generateClaude(input_text):
-    output_text = g4f.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {
-                "role": "user",
-                "content": input_text
-            }
-        ]
-    )
-    return clean_text(output_text)
+# Set with provider
+response = g4f.ChatCompletion.create(
+    model="gpt-3.5-turbo",
+    provider=g4f.Provider.DeepAi,
+    messages=[{"role": "user", "content": "Hello world"}],
+)
 
-
-print(generate_simple_ai("greetings, good sir"))
+print(response)
