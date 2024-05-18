@@ -38,10 +38,10 @@ The bot can also respond to various types of input, from simple questions to mor
 The bot can also respond with a variety of emotes. Here are some examples of the emotes the bot can use:
 
 - Hand gestures: ✋, ✌️, 👐, 👋, 🤚, 🤙
-- Nose: 👃, 🐽, 👃🏻, 👃🏿, 👃🏽, 👃🏼, 👃🏾, 👺
-- Tongue: 👅, 😛, 😜, 😝, 👻, 🥵, 🤪, 😋
+- Nose: 👃, 🐽, 👃🏻, 👃🏿, 👃🏽, 👃🏼, 👃🏾
+- Tongue: 😛, 😜, 😝, 😋
 - Shy: 🤗, 👐, 🤭, 😄, 🥰, 😼, 😙, 😍, 😻, 😅
-- Laugh: 🍑, 🤣, 😂, 💀, ☠️, 😹, 😆, 🙈, 😈, 👽
+- Laugh: 🍑, 🤣, 😂, 😹, 😆, 🙈
 - Kiss: 👄, 💋, 😘, 😚, 😙, 😽
 
 ## Contributing
